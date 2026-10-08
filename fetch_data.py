@@ -148,9 +148,18 @@ def fetch_bgg_details(games, cache):
     for g in games:
         key = str(g["bgg_id"])
         entry = bucket.get(key)
-        if not fresh(entry, 24 * 30):
+        if not fresh(entry, 24 * 30) or "themes" not in entry:
             item = http_json(f"{GEEKDO}/geekitems?objectid={key}&objecttype=thing")["item"]
+            links = item.get("links") or {}
+            families = [f.get("name", "") for f in links.get("boardgamefamily", [])]
             entry = {
+                # BGG categories are mostly themes (Fantasy, Economic, World War II, ...)
+                "themes": sorted(c["name"] for c in links.get("boardgamecategory", []) if c.get("name")),
+                # BGG's own record of digital versions: "Digital Implementations: Steam" etc.
+                "digital": sorted(f.split(":", 1)[1].strip() for f in families
+                                  if f.startswith("Digital Implementations:")),
+                # Linked VideoGameGeek entries: names of the digital versions
+                "videogames": [v.get("name") for v in links.get("videogamebg", []) if v.get("name")][:10],
                 "_fetched": time.time(),
                 "minplayers": int(item.get("minplayers") or 0),
                 "maxplayers": int(item.get("maxplayers") or 0),
@@ -162,8 +171,9 @@ def fetch_bgg_details(games, cache):
             }
             bucket[key] = entry
             time.sleep(0.4)
-        g.update({k: v for k, v in entry.items() if not k.startswith("_") and k != "alternatenames"})
+        g.update({k: v for k, v in entry.items() if not k.startswith("_") and k not in ("alternatenames", "videogames")})
         g["_alternatenames"] = entry.get("alternatenames", [])
+        g["_videogames"] = entry.get("videogames", [])
 
 
 # ---------------------------------------------------------------- BGA
@@ -222,7 +232,8 @@ def core(name):
     return re.sub(r"\s+", " ", s).strip()
 
 
-VTT_PREFIX = re.compile(r"^(tabletop simulator|tabletopia)\s*[-:–]\s*", re.I)
+BOARDISH = re.compile(r"board|card game|tabletop|deck-?build|award-winning|adaptation|digital (version|edition)", re.I)
+VTT_PREFIX =re.compile(r"^(tabletop simulator|tabletopia)\s*[-:–]\s*", re.I)
 EXPANSION_HINT = re.compile(r"\s[-:]\s|\bexpansion\b|\bdlc\b|\bsoundtrack\b|\bpack\b", re.I)
 
 
@@ -257,12 +268,16 @@ def steam_search(term, cc):
 
 def find_steam(game, cache, cc):
     bucket = cache.setdefault("steam_search", {})
-    key = norm(game["name"])
-    entry = bucket.get(key)
+    terms = [game["name"]]
+    if ":" in game["name"]:
+        terms.append(game["name"].split(":")[0])
+    # When BGG says there's a Steam version, also search the names of its linked
+    # video game entries - that's how renamed ports get found.
+    vgg = game.get("_videogames", []) if "Steam" in game.get("digital", []) else []
+    terms += [v for v in vgg if norm(v) not in {norm(t) for t in terms}][:3]
+    key = " | ".join(norm(t) for t in terms)
+    entry = bucket.get(key) or (bucket.get(norm(game["name"])) if len(terms) == 1 + (":" in game["name"]) else None)
     if not fresh(entry, 24 * 7):
-        terms = [game["name"]]
-        if ":" in game["name"]:
-            terms.append(game["name"].split(":")[0])
         results = {}
         for t in terms:
             for it in steam_search(t, cc):
@@ -272,8 +287,9 @@ def find_steam(game, cache, cc):
         bucket[key] = entry
     results = {int(k): v for k, v in entry["results"].items()}
 
+    aliases = game.get("_alternatenames", []) + vgg
     scored = sorted(
-        ((score_candidate(game["name"], game.get("_alternatenames", []), n), appid, n)
+        ((score_candidate(game["name"], aliases, n), appid, n)
          for appid, n in results.items()),
         reverse=True,
     )
@@ -356,6 +372,7 @@ def steam_record(appid, d, confidence, cc):
 # ---------------------------------------------------------------- main
 
 def main():
+    sys.stdout.reconfigure(encoding="utf-8")  # Windows consoles default to cp1252
     config = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
     top_n, cc = config.get("top_n", 100), config.get("country", "au")
     overrides = {str(k): v for k, v in config.get("steam_overrides", {}).items()}
@@ -394,14 +411,21 @@ def main():
             if d.get("missing") or d.get("type") not in ("game", None) and not (key in overrides and d.get("type") == "dlc"):
                 continue
             g["steam"].append(steam_record(appid, d, conf, cc))
-            if conf < 0.85:
-                review.append(f"  ? #{g['rank']} {g['name']}  ->  {d.get('name')} ({appid}) conf {conf}")
+            # Same-name collisions ('Endeavor' the space shooter) are the usual false
+            # positive; a real port almost always says it's a board/card/tabletop game.
+            if key not in overrides and not BOARDISH.search(d.get("about", "")):
+                review.append(f"  ? #{g['rank']} {g['name']}  ->  {d.get('name')} ({appid}) "
+                              f"by {', '.join(d.get('developers', [])[:2])}: {d.get('about', '')[:90]}")
+        if key not in overrides and "Steam" in g.get("digital", []) and not g["steam"]:
+            review.append(f"  ! #{g['rank']} {g['name']} ({key}): BGG lists a Steam version, none matched "
+                          f"(BGG video game links: {g.get('_videogames')})")
         for appid, name in (extra_vtt.get(key) or vtt[:2]):
             platform = "Tabletopia" if name.lower().startswith("tabletopia") else "Tabletop Simulator"
             g["vtt"].append({"appid": int(appid), "platform": platform,
                              "url": f"https://store.steampowered.com/app/{appid}/"})
 
         g.pop("_alternatenames", None)
+        g.pop("_videogames", None)
         if i % 20 == 0:
             save_cache(cache)
             print(f"  {i}/{len(games)} games matched")
@@ -421,7 +445,7 @@ def main():
     print(f"\nDone: {len(games)} games | Steam {n_steam} ({n_sale} on sale) | BGA {n_bga} | "
           f"Virtual tabletop {sum(1 for g in games if g['vtt'])}")
     if review:
-        print("Low-confidence Steam matches (add to steam_overrides to confirm or reject):")
+        print("Steam matches to check by hand (add to steam_overrides to confirm or reject):")
         print("\n".join(review))
 
 

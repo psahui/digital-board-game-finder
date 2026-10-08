@@ -1,6 +1,6 @@
 # Digital Board Game Finder
 
-The BoardGameGeek top 100, cross-referenced against Steam, Board Game Arena
+The BoardGameGeek top 500, cross-referenced against Steam, Board Game Arena
 and virtual tabletops (Tabletop Simulator / Tabletopia DLC): which top board
 games you can play digitally, what's on sale right now, and what a group can
 play together online tonight.
@@ -19,7 +19,10 @@ section below for reuse terms.
     uses. There's no single "overall rank" list there, so the script pulls each
     subdomain (Strategy, Thematic, Family, …) sorted by overall rank and merges
     them. Player counts, play time and blurbs come from each game's geekitem
-    record (cached for 30 days).
+    record (cached for 30 days), along with BGG's themes (its "categories")
+    and its own "Digital Implementations" tags — used to show iOS/Android and
+    other platforms, and to flag games BGG says are on Steam that the name
+    search missed.
   - **Board Game Arena:** BGA's game list page embeds every game with its BGG
     id, so that match is exact. Also gives Premium vs free, supported player
     counts, average game length, and real-time / turn-based support. If BGA
@@ -28,6 +31,12 @@ section below for reuse terms.
     name, keeps exact or edition-only matches ("Scythe" → "Scythe: Digital
     Edition"), and fetches price, discount, multiplayer modes and review
     summary for each. Prices are cached for 6 hours, reviews for a week.
+    When BGG says a game is on Steam, the names of its linked VideoGameGeek
+    entries are searched too, which catches renamed ports.
+  - At the end the fetch prints matches to check by hand: any Steam match
+    whose store blurb never mentions board/card/tabletop games (same-name
+    collisions — "Hive", "Arcs", "Calico" — are the usual false positives),
+    and any game BGG lists on Steam where nothing matched.
 - `index.html` is a single static page (vanilla JS). Every filter is mirrored
   into the URL, so **Copy link to this view** shares an exact filtered list.
   "Own it?" marks are kept in the viewer's own browser (localStorage).
@@ -40,11 +49,11 @@ section below for reuse terms.
 Everything editable lives in `config.json`:
 
 - `top_n` — how deep into the BGG ranking to go (Steam lookups scale with
-  this; 500 takes roughly ten minutes on a cold cache).
+  this; 500 takes about 25 minutes on a cold cache, a couple with a warm one).
 - `country` — Steam store region for prices (`au`, `us`, `gb`, …).
 - `steam_overrides` — BGG id → list of Steam appids. Use it to fix a wrong
-  match, add a renamed or DLC version, or (with `[]`) say a game has no Steam
-  version. The BGG id is the number in the BGG URL
+  match, add a renamed or DLC version, confirm a match that keeps getting
+  flagged, or (with `[]`) say a game has no Steam version. The BGG id is the number in the BGG URL
   (`boardgamegeek.com/boardgame/167791/...` → `"167791"`).
 - `steam_notes` — BGG id → a one-line caveat shown on the card ("DLC — needs
   the base game", "adaptation of the sequel", …).

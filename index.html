@@ -68,6 +68,11 @@
   .fgroup .row { display: flex; justify-content: space-between; align-items: center; gap: 8px; font-size: 14px; padding: 4px 0; }
   .fgroup .hint { font-size: 12px; color: var(--ink-3); line-height: 1.4; padding-top: 2px; }
   .fgroup input[type=range] { width: 100%; }
+  .themebox { max-height: 260px; overflow-y: auto; margin: 4px 0; }
+  .tfind, .search { font: inherit; font-size: 14px; width: 100%; padding: 5px 8px; border: 1px solid var(--line); border-radius: 4px; background: #fff; }
+  .search { max-width: 340px; margin-bottom: 10px; display: block; }
+  .themes { font-size: 12px; color: var(--ink-3); margin-top: 3px; }
+  .also { font-size: 12.5px; color: var(--ink-2); }
 
   main { min-width: 0; }
   .presets { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
@@ -155,6 +160,7 @@
         <label><input type="checkbox" data-f="steam" checked> Steam <span class="count" data-c="steam"></span></label>
         <label><input type="checkbox" data-f="bga" checked> Board Game Arena <span class="count" data-c="bga"></span></label>
         <label><input type="checkbox" data-f="vtt" checked> Tabletop Simulator / Tabletopia <span class="count" data-c="vtt"></span></label>
+        <label><input type="checkbox" data-f="mobile" checked> iOS / Android app <span class="count" data-c="mobile"></span></label>
         <label><input type="checkbox" data-f="none"> Not available digitally <span class="count" data-c="none"></span></label>
       </div>
     </details>
@@ -190,6 +196,15 @@
       </div>
     </details>
 
+    <details class="fgroup" open>
+      <summary>Theme</summary>
+      <div class="fbody">
+        <input type="search" id="themeFind" placeholder="Filter themes…" class="tfind">
+        <div id="themeBox" class="themebox"></div>
+        <div class="hint">Tick themes to show only games with any of them. From BGG's categories.</div>
+      </div>
+    </details>
+
     <details class="fgroup">
       <summary>Weight</summary>
       <div class="fbody">
@@ -210,6 +225,7 @@
   </aside>
 
   <main>
+    <input type="search" id="q" class="search" placeholder="Search games by name…">
     <div class="presets">
       <button data-preset="sale">🛒 Steam sale shopping</button>
       <button data-preset="tonight">🎲 Play with friends tonight</button>
@@ -258,13 +274,13 @@ const $$ = (s, el = document) => [...el.querySelectorAll(s)];
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
 const DEFAULTS = { steam: true, bga: true, vtt: true, none: false, sale: false, released: false,
-  hideOwned: false, online: false, bgafree: false, remote: false, async: false,
+  hideOwned: false, mobile: true, q: "", themes: null, online: false, bgafree: false, remote: false, async: false,
   light: true, medium: true, heavy: true, players: "", maxPrice: null, sort: "rank", cats: null };
 let S = { ...DEFAULTS };
 let DATA, GAMES = [], CATS = [], PRICE_CAP = 50, CUR = "A$";
 
 const PRESETS = {
-  sale: { ...DEFAULTS, bga: false, vtt: false, sale: true, sort: "discount" },
+  sale: { ...DEFAULTS, bga: false, vtt: false, mobile: false, sale: true, sort: "discount" },
   tonight: { ...DEFAULTS, online: true, released: true, sort: "rank" },
   all: { ...DEFAULTS },
 };
@@ -277,6 +293,11 @@ const ownsAll = g => g.steam.length > 0 && g.steam.filter(s => !s.dlc).every(s =
 const ownsAny = g => g.steam.some(s => OWNED.has(s.appid));
 
 // ---------- derived fields
+const norm = t => t.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const MOBILE = ["Apple App Store", "Google Play"];
+const SHOWN_ELSEWHERE = ["Steam", "Board Game Arena", "Tabletop Simulator", "Tabletopia"];
+const isMobile = g => (g.digital || []).some(d => MOBILE.includes(d));
+const otherDigital = g => (g.digital || []).filter(d => !SHOWN_ELSEWHERE.includes(d));
 function weightClass(g) { return g.weight == null ? "medium" : g.weight < 2.25 ? "light" : g.weight <= 3.5 ? "medium" : "heavy"; }
 const liveSteam = g => g.steam.filter(s => !s.coming_soon);
 function bestSteam(g) {  // cheapest released Steam version, else first listed
@@ -293,9 +314,11 @@ function playsOnline(g) { return !!g.bga || g.vtt.length > 0 || g.steam.some(ste
 
 // ---------- filtering
 function visible(g) {
-  const hasSteam = g.steam.length > 0, hasBga = !!g.bga, hasVtt = g.vtt.length > 0;
-  const any = hasSteam || hasBga || hasVtt;
-  if (!((S.steam && hasSteam) || (S.bga && hasBga) || (S.vtt && hasVtt) || (S.none && !any))) return false;
+  const hasSteam = g.steam.length > 0, hasBga = !!g.bga, hasVtt = g.vtt.length > 0, hasMobile = isMobile(g);
+  const any = hasSteam || hasBga || hasVtt || hasMobile || otherDigital(g).length > 0;
+  if (!((S.steam && hasSteam) || (S.bga && hasBga) || (S.vtt && hasVtt) || (S.mobile && hasMobile) || (S.none && !any))) return false;
+  if (S.q && !norm(g.name).includes(norm(S.q))) return false;
+  if (S.themes && !(g.themes || []).some(t => S.themes.includes(t))) return false;
   if (!S[weightClass(g)]) return false;
   if (S.cats && !g.categories.some(c => S.cats.includes(c))) return false;
   const steamPool = S.released ? liveSteam(g) : g.steam;
@@ -370,7 +393,9 @@ function card(g) {
       <h3><span class="rank">#${g.rank}</span><a href="https://boardgamegeek.com/boardgame/${g.bgg_id}" target="_blank" rel="noopener">${esc(g.name)}</a></h3>
       <div class="meta">${meta}</div>
       ${g.blurb ? `<div class="blurb">${esc(g.blurb)}</div>` : ""}
-      ${where ? `<div class="where">${where}</div>` : `<div class="nodigital">No digital version found.</div>`}
+      ${where ? `<div class="where">${where}</div>` : otherDigital(g).length ? "" : `<div class="nodigital">No digital version found.</div>`}
+      ${otherDigital(g).length ? `<div class="also">Also on: ${otherDigital(g).map(d => esc(d.replace("Apple App Store", "iOS").replace("Google Play", "Android"))).join(" · ")}</div>` : ""}
+      ${g.themes && g.themes.length ? `<div class="themes">${g.themes.map(esc).join(" · ")}</div>` : ""}
       ${g.note ? `<div class="note">${esc(g.note)}</div>` : ""}
     </div>
   </div>`;
@@ -390,6 +415,8 @@ function syncControls() {
   $$("[data-w]").forEach(el => el.checked = !!S[el.dataset.w]);
   $$("[data-cat]").forEach(el => el.checked = !S.cats || S.cats.includes(el.dataset.cat));
   $("#players").value = S.players;
+  if (document.activeElement !== $("#q")) $("#q").value = S.q;
+  $$("[data-theme]").forEach(el => el.checked = !!S.themes && S.themes.includes(el.dataset.theme));
   $("#sort").value = S.sort;
   $("#maxPrice").value = S.maxPrice ?? PRICE_CAP;
   $("#maxPriceOut").textContent = S.maxPrice == null ? "Any" : `${CUR}${S.maxPrice}`;
@@ -410,7 +437,7 @@ function readUrl() {
   const q = new URLSearchParams(location.search);
   for (const [k, v] of q) {
     if (!(k in DEFAULTS)) continue;
-    if (k === "cats") S.cats = v.split("|");
+    if (k === "cats" || k === "themes") S[k] = v.split("|");
     else if (k === "maxPrice") S.maxPrice = +v;
     else if (typeof DEFAULTS[k] === "boolean") S[k] = v === "1";
     else S[k] = v;
@@ -419,12 +446,13 @@ function readUrl() {
 
 function counts() {
   $("[data-c=owned]") && ($("[data-c=owned]").textContent = OWNED.size || "");
-  const c = { steam: 0, bga: 0, vtt: 0, none: 0, sale: 0, light: 0, medium: 0, heavy: 0 };
+  const c = { steam: 0, bga: 0, vtt: 0, mobile: 0, none: 0, sale: 0, light: 0, medium: 0, heavy: 0 };
   for (const g of GAMES) {
     if (g.steam.length) c.steam++;
     if (g.bga) c.bga++;
     if (g.vtt.length) c.vtt++;
-    if (!g.steam.length && !g.bga && !g.vtt.length) c.none++;
+    if (isMobile(g)) c.mobile++;
+    if (!g.steam.length && !g.bga && !g.vtt.length && !isMobile(g) && !otherDigital(g).length) c.none++;
     if (g.steam.some(s => s.discount > 0)) c.sale++;
     c[weightClass(g)]++;
   }
@@ -435,6 +463,11 @@ function counts() {
 function bind() {
   $$("[data-f]").forEach(el => el.addEventListener("change", () => { S[el.dataset.f] = el.checked; render(); }));
   $$("[data-w]").forEach(el => el.addEventListener("change", () => { S[el.dataset.w] = el.checked; render(); }));
+  $("#q").addEventListener("input", e => { S.q = e.target.value.trim(); render(); });
+  $("#themeFind").addEventListener("input", e => {
+    const f = norm(e.target.value);
+    $$("#themeBox label").forEach(l => l.style.display = norm(l.textContent).includes(f) ? "" : "none");
+  });
   $("#players").addEventListener("change", e => { S.players = e.target.value; render(); });
   $("#sort").addEventListener("change", e => { S.sort = e.target.value; render(); });
   $("#maxPrice").addEventListener("input", e => { const v = +e.target.value; S.maxPrice = v >= PRICE_CAP ? null : v; render(); });
@@ -469,6 +502,16 @@ async function init() {
   $$("[data-cat]").forEach(el => el.addEventListener("change", () => {
     const on = $$("[data-cat]").filter(x => x.checked).map(x => x.dataset.cat);
     S.cats = on.length === CATS.length ? null : on; render();
+  }));
+
+  const tcount = {};
+  GAMES.forEach(g => (g.themes || []).forEach(t => tcount[t] = (tcount[t] || 0) + 1));
+  const themes = Object.keys(tcount).sort((x, y) => tcount[y] - tcount[x] || x.localeCompare(y));
+  $("#themeBox").innerHTML = themes.map(t => `<label><input type="checkbox" data-theme="${esc(t)}"> ${esc(t)} <span class="count">${tcount[t]}</span></label>`).join("")
+    || `<div class="hint">Themes appear after the next data refresh.</div>`;
+  $$("[data-theme]").forEach(el => el.addEventListener("change", () => {
+    const on = $$("[data-theme]").filter(x => x.checked).map(x => x.dataset.theme);
+    S.themes = on.length ? on : null; render();
   }));
 
   $("#tagline").textContent = `The BoardGameGeek top ${DATA.top_n}, cross-referenced against Steam, Board Game Arena and virtual tabletops — what's on sale, and what you can play with friends tonight. Click a title for its BGG page, or a platform to go play.`;

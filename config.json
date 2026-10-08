@@ -1,18 +1,203 @@
 {
-  "top_n": 100,
+  "top_n": 500,
   "country": "au",
   "steam_overrides": {
-    "397598": [4598200],
-    "291457": [780290],
-    "182028": [758370],
-    "124361": [1450330],
-    "251247": [2879570],
-    "167355": [1915550],
-    "205059": [840210],
-    "521": [4628460],
+    "397598": [
+      4598200
+    ],
+    "291457": [
+      780290
+    ],
+    "182028": [
+      758370
+    ],
+    "124361": [
+      1450330
+    ],
+    "251247": [
+      2879570
+    ],
+    "167355": [
+      1915550
+    ],
+    "205059": [
+      840210
+    ],
+    "521": [
+      4628460
+    ],
     "231733": [],
     "367966": [],
-    "337627": []
+    "337627": [],
+    "359871": [],
+    "205896": [],
+    "254640": [],
+    "375459": [],
+    "233398": [],
+    "242302": [],
+    "299659": [],
+    "123260": [],
+    "295486": [],
+    "446497": [],
+    "286096": [],
+    "246784": [],
+    "305096": [],
+    "172": [],
+    "319966": [],
+    "295374": [],
+    "302723": [],
+    "345972": [],
+    "22545": [],
+    "334986": [],
+    "304420": [],
+    "172818": [],
+    "552": [],
+    "245934": [],
+    "371330": [],
+    "37046": [],
+    "352515": [],
+    "290484": [],
+    "244711": [],
+    "150376": [],
+    "193037": [],
+    "328871": [],
+    "2655": [],
+    "40692": [],
+    "285192": [],
+    "269385": [],
+    "322708": [],
+    "283155": [
+      1993180
+    ],
+    "277085": [
+      926520
+    ],
+    "129622": [
+      926520
+    ],
+    "110327": [
+      644390
+    ],
+    "181304": [
+      556180
+    ],
+    "77423": [
+      509580
+    ],
+    "25613": [
+      758370
+    ],
+    "224517": [],
+    "174430": [
+      780290
+    ],
+    "167791": [
+      800270
+    ],
+    "162886": [
+      1236720
+    ],
+    "12333": [
+      406290
+    ],
+    "28720": [],
+    "246900": [
+      3290350
+    ],
+    "169786": [
+      718560
+    ],
+    "120677": [
+      628900
+    ],
+    "28143": [
+      579940
+    ],
+    "72125": [],
+    "191189": [
+      1063580
+    ],
+    "410201": [
+      3339080
+    ],
+    "310100": [
+      1915550
+    ],
+    "310873": [
+      3297500
+    ],
+    "264220": [
+      1466060
+    ],
+    "203993": [
+      1034540
+    ],
+    "218417": [
+      1063580
+    ],
+    "172287": [
+      2820780
+    ],
+    "30549": [],
+    "132531": [
+      893840
+    ],
+    "263918": [
+      2977360
+    ],
+    "268864": [],
+    "244522": [
+      1065410
+    ],
+    "188920": [
+      282070
+    ],
+    "227224": [
+      3239710
+    ],
+    "199561": [
+      965590
+    ],
+    "241451": [
+      1063580
+    ],
+    "176494": [
+      873980
+    ],
+    "311193": [
+      916440
+    ],
+    "270633": [
+      1063580
+    ],
+    "370591": [
+      1455840
+    ],
+    "204583": [
+      3029180
+    ],
+    "50": [
+      520680
+    ],
+    "333255": [
+      2592340
+    ],
+    "311988": [
+      323190
+    ],
+    "245655": [
+      2069180
+    ],
+    "336986": [
+      3201730
+    ],
+    "345584": [
+      2351660
+    ],
+    "172081": [
+      705550
+    ],
+    "70919": []
   },
   "steam_notes": {
     "397598": "Steam DLC for Dune: Imperium - you need the base game too.",
@@ -21,7 +206,25 @@
     "365717": "Digital version of the original Clank!, not Catacombs.",
     "167355": "Digital adaptation of the standalone Nemesis: Lockdown.",
     "205059": "Standalone digital game set in the Mansions of Madness world (the official Steam app is only a companion for the physical box).",
-    "521": "Physics-based digital crokinole board."
+    "521": "Physics-based digital crokinole board.",
+    "285192": "Steam has only a free companion app that runs alongside the physical game.",
+    "269385": "Steam has only a free companion app that runs alongside the physical game.",
+    "322708": "Steam has only a free companion app that runs alongside the physical game.",
+    "283155": "Digital version is called Quilts and Cats of Calico.",
+    "77423": "Digital version is a reworked single-player take (Adventure Card Game), not a straight port.",
+    "25613": "Digital version is of the newer edition, A New Story of Civilization.",
+    "264220": "An open-world RPG set in the same world - not a port of the board game.",
+    "188920": "This is the original video game the board game is based on.",
+    "311988": "This is the original video game the board game is based on.",
+    "311193": "This is the original video game the board game is based on.",
+    "370591": "This is the original video game the board game is based on.",
+    "218417": "Digital version of the original Aeon's End, not this box.",
+    "241451": "Digital version of the original Aeon's End, not this box.",
+    "270633": "Digital version of the original Aeon's End, not this box.",
+    "12493": "The digital version is of the Fourth Edition.",
+    "224037": "Digital version is the original Codenames.",
+    "182631": "Digital Star Realms, with Colony Wars as an add-on.",
+    "230253": "Digital Star Realms, with Frontiers as an add-on."
   },
   "vtt_overrides": {}
 }

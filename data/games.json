@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T06:32+00:00",
+ "generated": "2026-10-08T06:40+00:00",
  "country": "au",
  "top_n": 100,
  "games": [
@@ -1992,8 +1992,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628460/c2c89b28dd0d6cd2a37a9e2d35d6aa99203149e0/header.jpg?t=1788042089",
      "reviews": {
       "desc": "4 user reviews",
-      "total": 4,
-      "pct": 100
+      "pct": 100,
+      "total": 4
      }
     }
    ],

@@ -187,12 +187,19 @@
             <option value="4">4</option><option value="5">5</option><option value="6">6+</option>
           </select>
         </div>
-        <div class="hint" style="margin-bottom:4px">players</div>
+        <div class="row"><span>players, and it's</span>
+          <select id="fit">
+            <option value="">playable</option>
+            <option value="rec">recommended</option>
+            <option value="best">best</option>
+          </select>
+        </div>
+        <div class="hint" style="margin-bottom:4px">at that count — "recommended" and "best" use BGG's community player-count votes.</div>
         <label><input type="checkbox" data-f="online"> Online multiplayer</label>
         <label><input type="checkbox" data-f="bgafree"> Free on BGA (no Premium needed)</label>
         <label><input type="checkbox" data-f="remote"> Steam Remote Play Together</label>
         <label><input type="checkbox" data-f="async"> Turn-based / async play</label>
-        <div class="hint">Player counts use BGA's supported counts where the game is on BGA, otherwise the box's range from BGG.</div>
+        <div class="hint">"Playable" uses BGA's supported counts where the game is on BGA, otherwise the box's range from BGG.</div>
       </div>
     </details>
 
@@ -275,7 +282,7 @@ const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": 
 
 const DEFAULTS = { steam: true, bga: true, vtt: true, none: false, sale: false, released: false,
   hideOwned: false, mobile: true, q: "", themes: null, online: false, bgafree: false, remote: false, async: false,
-  light: true, medium: true, heavy: true, players: "", maxPrice: null, sort: "rank", cats: null };
+  light: true, medium: true, heavy: true, players: "", fit: "", maxPrice: null, sort: "rank", cats: null };
 let S = { ...DEFAULTS };
 let DATA, GAMES = [], CATS = [], PRICE_CAP = 50, CUR = "A$";
 
@@ -306,6 +313,10 @@ function bestSteam(g) {  // cheapest released Steam version, else first listed
 }
 function supportsPlayers(g, n) {
   if (!n) return true;
+  if (S.fit) {
+    const list = (S.fit === "best" ? g.best_players : g.rec_players) || [];
+    return n >= 6 ? list.some(p => p >= 6) : list.includes(n);
+  }
   if (g.bga && g.bga.players.length) return n >= 6 ? Math.max(...g.bga.players) >= 6 : g.bga.players.includes(n);
   return n >= 6 ? g.maxplayers >= 6 : g.minplayers <= n && n <= g.maxplayers;
 }
@@ -380,8 +391,20 @@ function bgaLine(b) {
   </div>`;
 }
 
+// [1,2,3,4,6] -> "1–4, 6"
+function spans(list) {
+  const out = [];
+  for (const n of list) {
+    const last = out[out.length - 1];
+    if (last && n === last[1] + 1) last[1] = n; else out.push([n, n]);
+  }
+  return out.map(([a, b]) => a === b ? `${a}` : `${a}–${b}`).join(", ");
+}
+
 function card(g) {
-  const players = g.minplayers === g.maxplayers ? `${g.minplayers} players` : `${g.minplayers}–${g.maxplayers} players`;
+  let players = g.minplayers === g.maxplayers ? `${g.minplayers} players` : `${g.minplayers}–${g.maxplayers} players`;
+  if (g.best_players && g.best_players.length)
+    players += ` (best ${spans(g.best_players)}${g.rec_players && g.rec_players.length ? `, rec. ${spans(g.rec_players)}` : ""})`;
   const time = g.minplaytime && g.maxplaytime && g.minplaytime !== g.maxplaytime ? `${g.minplaytime}–${g.maxplaytime} min` : g.maxplaytime ? `${g.maxplaytime} min` : "";
   const meta = [g.year, players, time, g.weight != null ? `weight ${g.weight.toFixed(1)}/5` : "", g.rating ? `★ ${g.rating.toFixed(1)}` : "", g.categories.join(", ")]
     .filter(Boolean).map(esc).join('<span class="sep">·</span>');
@@ -415,6 +438,7 @@ function syncControls() {
   $$("[data-w]").forEach(el => el.checked = !!S[el.dataset.w]);
   $$("[data-cat]").forEach(el => el.checked = !S.cats || S.cats.includes(el.dataset.cat));
   $("#players").value = S.players;
+  $("#fit").value = S.fit;
   if (document.activeElement !== $("#q")) $("#q").value = S.q;
   $$("[data-theme]").forEach(el => el.checked = !!S.themes && S.themes.includes(el.dataset.theme));
   $("#sort").value = S.sort;
@@ -468,6 +492,7 @@ function bind() {
     const f = norm(e.target.value);
     $$("#themeBox label").forEach(l => l.style.display = norm(l.textContent).includes(f) ? "" : "none");
   });
+  $("#fit").addEventListener("change", e => { S.fit = e.target.value; render(); });
   $("#players").addEventListener("change", e => { S.players = e.target.value; render(); });
   $("#sort").addEventListener("change", e => { S.sort = e.target.value; render(); });
   $("#maxPrice").addEventListener("input", e => { const v = +e.target.value; S.maxPrice = v >= PRICE_CAP ? null : v; render(); });

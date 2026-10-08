@@ -171,6 +171,16 @@ def fetch_bgg_details(games, cache):
             }
             bucket[key] = entry
             time.sleep(0.4)
+        # Community poll: which player counts the game is best / recommended at
+        polls = cache.setdefault("bgg_polls", {}).get(key)
+        if not fresh(polls, 24 * 30):
+            up = (http_json(f"{GEEKDO}/dynamicinfo?objectid={key}&objecttype=thing")["item"].get("polls") or {}).get("userplayers") or {}
+            expand = lambda ranges: sorted({n for r in ranges or [] for n in range(int(r["min"]), min(int(r["max"] or r["min"]), 12) + 1)})  # max None = "N+"
+            polls = {"_fetched": time.time(), "best_players": expand(up.get("best")),
+                     "rec_players": expand(up.get("recommended")), "player_votes": int(up.get("totalvotes") or 0)}
+            cache["bgg_polls"][key] = polls
+            time.sleep(0.4)
+        g.update({k: v for k, v in polls.items() if not k.startswith("_")})
         g.update({k: v for k, v in entry.items() if not k.startswith("_") and k not in ("alternatenames", "videogames")})
         g["_alternatenames"] = entry.get("alternatenames", [])
         g["_videogames"] = entry.get("videogames", [])

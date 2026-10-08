@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T07:07+00:00",
+ "generated": "2026-10-08T09:10+00:00",
  "country": "au",
  "top_n": 500,
  "games": [
@@ -14,6 +14,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1446,
    "blurb": "Build networks, grow industries, and navigate the world of the Industrial Revolution.",
    "digital": [
     "Steam",
@@ -49,6 +59,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 2413,
    "blurb": "Plan and build a modern, scientifically managed zoo to support conservation projects.",
    "digital": [
     "Apple App Store",
@@ -132,6 +151,15 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 923,
    "blurb": "Mutating diseases are spreading around the world - can your team save humanity?",
    "digital": [],
    "image": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__square200/img/rYEBKMB4WYkH4O-m5l4ZAErtvxE=/200x200/filters:strip_icc()/pic2452831.png",
@@ -160,6 +188,16 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1649,
    "blurb": "Vanquish monsters with strategic cardplay. Fulfill your quest to leave your legacy!",
    "digital": [
     "Steam",
@@ -224,6 +262,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    6
+   ],
+   "player_votes": 531,
    "blurb": "Deploy agents, build your deck, and engage in strategic battles to control Arrakis.",
    "digital": [
     "Apple App Store",
@@ -284,6 +333,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1641,
    "blurb": "Influence, intrigue, and combat in the universe of Dune.",
    "digital": [
     "Apple App Store",
@@ -350,6 +410,16 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    6
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 694,
    "blurb": "Build an intergalactic empire through trade, research, conquest and grand politics.",
    "digital": [
     "Board Game Arena"
@@ -430,11 +500,18 @@
    "rank": 8,
    "rating": 8.55,
    "weight": 4.23,
-   "usersrated": 25632,
+   "usersrated": 25637,
    "categories": [
     "Thematic",
     "Wargames"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 607,
    "blurb": "The Fellowship and the Free Peoples clash with Sauron over the fate of Middle-earth.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/ImPgGag98W6gpV1KV812aA__square200/img/6baKJvb9Rf8PpOXARlmBJtaMGuU=/200x200/filters:strip_icc()/pic1215633.jpg",
@@ -464,6 +541,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 2924,
    "blurb": "Compete with rival CEOs to make Mars habitable and build your corporate empire.",
    "digital": [
     "Apple App Store",
@@ -548,10 +635,17 @@
    "rank": 10,
    "rating": 8.42,
    "weight": 3.75,
-   "usersrated": 36937,
+   "usersrated": 36941,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 758,
    "blurb": "Strike from your hidden base as the Rebels—or find and destroy it as the Empire.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/7SrPNGBKg9IIsP4UQpOi8g__square200/img/0-1L0Gg5myRHigxWodOvvI_8UT4=/200x200/filters:strip_icc()/pic4325841.jpg",
@@ -582,6 +676,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 2215,
    "blurb": "Island Spirits join forces using elemental powers to defend their home from invaders.",
    "digital": [
     "Apple App Store",
@@ -649,6 +753,16 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 880,
    "blurb": "Vanquish monsters with strategic cardplay in a 25-scenario Gloomhaven campaign.",
    "digital": [
     "Steam",
@@ -713,6 +827,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 840,
    "blurb": "Expand, research, upgrade, and settle the galaxy with one of 14 alien species.",
    "digital": [
     "Apple App Store",
@@ -800,6 +925,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 735,
    "blurb": "Search for signs of alien life by launching probes and analyzing distant signals.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/_BUXOVRDU9g_eRwgpR5ZZw__square200/img/-WbLZgUA8uT9LlkICjhM75xS0BU=/200x200/filters:strip_icc()/pic8160466.jpg",
@@ -827,6 +962,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 383,
    "blurb": "Craft a unique deck, discover powerful relics, and Slay the Spire together!",
    "digital": [
     "Steam",
@@ -889,6 +1034,13 @@
     "Strategy",
     "Wargames"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 945,
    "blurb": "Relive the Cold War and rewrite history in an epic clash between the USA and USSR.",
    "digital": [
     "Apple App Store",
@@ -954,6 +1106,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1692,
    "blurb": "Plan, trade, and build your Burgundian estate to prosperity and prominence.",
    "digital": [
     "Apple App Store",
@@ -1039,6 +1200,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 240,
    "blurb": "Play as the Fellowship or Sauron and attempt to determine the fate of Middle-earth.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__square200/img/M2uZQ7htP8r19LLDOiPs3699mho=/200x200/filters:strip_icc()/pic8378939.jpg",
@@ -1067,6 +1235,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 799,
    "blurb": "Forge your own path through history as you draft a civilization for the ages.",
    "digital": [
     "Apple App Store",
@@ -1132,6 +1309,16 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 277,
    "blurb": "Adventure in the frozen north and build up your outpost throughout an epic campaign.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -1194,6 +1381,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 911,
    "blurb": "Use strategic outposts and navigate danger as you herd your cattle to Kansas City.",
    "digital": [
     "Board Game Arena"
@@ -1223,6 +1419,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 699,
    "blurb": "Test your economic mettle as you build and network in the Industrial Revolution.",
    "digital": [
     "Apple App Store",
@@ -1257,6 +1462,18 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4,
+    6
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 393,
    "blurb": "Build an interstellar civilization by exploration, research, conquest, and diplomacy.",
    "digital": [
     "Steam"
@@ -1322,6 +1539,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 1546,
    "blurb": "Science? Military? What will you draft to win this head-to-head version of 7 Wonders?",
    "digital": [
     "Apple App Store",
@@ -1366,10 +1590,22 @@
    "rank": 25,
    "rating": 8.24,
    "weight": 3.49,
-   "usersrated": 38394,
+   "usersrated": 38399,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 869,
    "blurb": "Survive an alien-infested spaceship, but beware of other players and their agendas!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/4KSmlm59w0GwLIlgDnJDAQ__square200/img/1kuCTzh-sagNMhCP3ja2BNWjAn4=/200x200/filters:strip_icc()/pic8211747.png",
@@ -1430,6 +1666,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 686,
    "blurb": "\"Puzzle\" the life of a Viking Age place as you hunt, farm, craft, raid and explore.",
    "digital": [
     "Board Game Arena"
@@ -1479,6 +1725,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 1691,
    "blurb": "Five factions vie for dominance in a war-torn, mech-filled, dieselpunk 1920s Europe.",
    "digital": [
     "Apple App Store",
@@ -1566,10 +1823,19 @@
    "rank": 28,
    "rating": 8.49,
    "weight": 2.74,
-   "usersrated": 11598,
+   "usersrated": 11602,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 157,
    "blurb": "\"Go forth, be bold, and ACQUIRE!\" in this campaign version of \"Clank!\"",
    "digital": [],
    "image": "https://cf.geekdo-images.com/hc2NDafu5c24iLJh_IZmyg__square200/img/q7xfs--rsnJKyhlDomAw2BB3-pQ=/200x200/filters:strip_icc()/pic4885780.png",
@@ -1597,6 +1863,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 791,
    "blurb": "Merchants build and trade throughout the Roman Empire to please the Gods.",
    "digital": [
     "Apple App Store",
@@ -1682,6 +1958,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1157,
    "blurb": "Explore an island to find resources and discover the lost ruins of Arnak.",
    "digital": [
     "Board Game Arena",
@@ -1762,6 +2048,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 346,
    "blurb": "Wrangle your herd of cows across the Midwest prairie and deliver it to Kansas City.",
    "digital": [
     "Board Game Arena"
@@ -1804,11 +2100,18 @@
    "rank": 32,
    "rating": 8.11,
    "weight": 2.04,
-   "usersrated": 34991,
+   "usersrated": 35010,
    "categories": [
     "Thematic",
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 450,
    "blurb": "Work together silently to land a plane under increasingly challenging circumstances.",
    "digital": [
     "Board Game Arena",
@@ -1849,11 +2152,20 @@
    "rank": 33,
    "rating": 8.12,
    "weight": 3.57,
-   "usersrated": 48300,
+   "usersrated": 48307,
    "categories": [
     "Thematic",
     "Customizable"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 1125,
    "blurb": "Investigate the horrors of Arkham while courting cosmic doom.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__square200/img/rCOvTBoMid0V821bCAJuY_gLLfc=/200x200/filters:strip_icc()/pic3122349.jpg",
@@ -1886,6 +2198,14 @@
     "Strategy",
     "Wargames"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4
+   ],
+   "player_votes": 1444,
    "blurb": "Decide the fate of the woodland as asymmetric factions fight for contrasting goals.",
    "digital": [
     "Apple App Store",
@@ -1954,6 +2274,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 508,
    "blurb": "Craftsmen, scholars & monks can help you reign supreme—but who will turn up to help?",
    "digital": [
     "Board Game Arena",
@@ -2008,6 +2337,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 1099,
    "blurb": "Play fantastical factions.  Expand your influence by terraforming and joining cults.",
    "digital": [
     "Apple App Store",
@@ -2096,6 +2435,16 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 477,
    "blurb": "Toss gobs of unique dice in an epic adventure en route to a final boss showdown.",
    "digital": [
     "Tabletopia"
@@ -2128,6 +2477,16 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 2174,
    "blurb": "Attract a beautiful and diverse collection of birds to your wildlife preserve.",
    "digital": [
     "Apple App Store",
@@ -2227,6 +2586,16 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    1,
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 1362,
    "blurb": "Build your hero’s spells, abilities, and artifacts as you explore & conquer cities.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__square200/img/oLolIr6hF9rF7H-KhouE-cjNA7o=/200x200/filters:strip_icc()/pic1083380.jpg",
@@ -2256,6 +2625,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 566,
    "blurb": "Nations vie for hydroelectric dominance in a dystopia where water is power.",
    "digital": [
     "Board Game Arena"
@@ -2334,6 +2712,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 494,
    "blurb": "Simulate a whole contemporary nation in this asymmetric, politico-economic euro-game.",
    "digital": [
     "Board Game Arena",
@@ -2383,6 +2770,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 245,
    "blurb": "EV-factory workers optimize and innovate to stand out at the big board meeting.",
    "digital": [
     "Tabletopia"
@@ -2412,6 +2809,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2,
+    4
+   ],
+   "rec_players": [
+    2,
+    4
+   ],
+   "player_votes": 299,
    "blurb": "Flick discs and make trick shots in this traditional Canadian dexterity game!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/DOwZ7_Q1w68iBhARcDAxig__square200/img/G_W2MKRGB4sA2J7JMZYqZAHMI6E=/200x200/filters:strip_icc()/pic8549797.jpg",
@@ -2471,6 +2877,18 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 945,
    "blurb": "Create the most prosperous winery in Italy from the Tuscan vineyard you've inherited.",
    "digital": [
     "Apple App Store",
@@ -2545,6 +2963,15 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 375,
    "blurb": "Explore the deep sea, outwit fate, and discover the mythic land of Mu!",
    "digital": [
     "Board Game Arena",
@@ -2595,6 +3022,16 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1141,
    "blurb": "Gather resources to develop a harmonious village of woodland critters and structures.",
    "digital": [
     "Apple App Store",
@@ -2664,6 +3101,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 284,
    "blurb": "Deck-building adventure meets tile-laying in the newest incarnation of Clank!",
    "digital": [
     "Dire Wolf Game Room"
@@ -2727,6 +3173,19 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    5,
+    6
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 917,
    "blurb": "Push your car to the limit in the pursuit of victory, but don’t overheat!",
    "digital": [
     "Board Game Arena"
@@ -2811,6 +3270,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 179,
    "blurb": "Build train lines across the United States in a twelve-game campaign.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/2H0pJddVJA3r6btqRNLG1g__square200/img/qWByOsW3m4eQsBUubz7Jd-nHqJU=/200x200/filters:strip_icc()/pic7541330.png",
@@ -2838,6 +3307,16 @@
    "categories": [
     "Customizable"
    ],
+   "best_players": [
+    1,
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 907,
    "blurb": "Battle Marvel villains with unique teams of iconic heroes in this LCG.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__square200/img/dELqF3Nu63hBEDyV_WbyvsIVAr0=/200x200/filters:strip_icc()/pic4900321.jpg",
@@ -2868,6 +3347,17 @@
     "Family",
     "Abstract"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 621,
    "blurb": "Create your own landscape and habitats to welcome animals.",
    "digital": [
     "Board Game Arena",
@@ -2916,6 +3406,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 666,
    "blurb": "Develop future cities on the seafloor through politics, production, and science.",
    "digital": [
     "TableTop Simulator Mod (TTS)",
@@ -2980,6 +3479,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 427,
    "blurb": "Strategically hire and manage your workforce to outcompete rival fast food chains.",
    "digital": [
     "Boardgamecore",
@@ -3006,10 +3516,20 @@
    "rank": 54,
    "rating": 8.34,
    "weight": 3.11,
-   "usersrated": 12074,
+   "usersrated": 12088,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 399,
    "blurb": "As members of The Fellowship, embark on a journey to save—or doom—Middle-earth.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/scw36iBIad7l-rGzxPGcGg__square200/img/N9e1iADIa5fTAYSjatXDvtk9-Po=/200x200/filters:strip_icc()/pic8662670.png",
@@ -3051,10 +3571,20 @@
    "rank": 55,
    "rating": 8.18,
    "weight": 2.49,
-   "usersrated": 17495,
+   "usersrated": 17501,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 391,
    "blurb": "Disrupt the ritual and slay the Elder Gods in this co-op dice chucker.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -3087,6 +3617,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 632,
    "blurb": "Swing the tides of \"The Great Game\" as countries vie for control of Afghanistan.",
    "digital": [
     "Board Game Arena",
@@ -3138,6 +3679,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 249,
    "blurb": "Terraform the world to expand your faction and create innovations on the way.",
    "digital": [
     "Board Game Arena"
@@ -3187,6 +3739,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 1631,
    "blurb": "Ship goods, construct buildings, and choose roles that benefit you more than others.",
    "digital": [
     "Board Game Arena",
@@ -3235,6 +3797,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 447,
    "blurb": "Be a part of the first Martian colony, striving to be the best contributor.",
    "digital": [
     "Tabletopia"
@@ -3269,6 +3841,15 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 153,
    "blurb": "Work together during the Cold War to prevent a Soviet bio-threat.",
    "digital": [
     "Tabletopia"
@@ -3299,6 +3880,17 @@
     "Family",
     "Abstract"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1031,
    "blurb": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife.",
    "digital": [
     "Apple App Store",
@@ -3364,6 +3956,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 629,
    "blurb": "From a simple cave, expand your dwarven home through mining, agriculture, and more.",
    "digital": [
     "Apple App Store",
@@ -3452,6 +4055,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 439,
    "blurb": "Use Exosuits & time travel to ensure your vision for the future after the cataclysm.",
    "digital": [
     "Board Game Arena",
@@ -3496,10 +4109,21 @@
    "rank": 64,
    "rating": 8.74,
    "weight": 3.69,
-   "usersrated": 7081,
+   "usersrated": 7083,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    2,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 203,
    "blurb": "Fight for humanity's survival against unnatural horrors and the Deepwood itself.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/dezQ4YjF03lZVxTdI-UJYw__square200/img/vm0ohqUOn26Q4YvBcdaoN2xGi2w=/200x200/filters:strip_icc()/pic6863204.jpg",
@@ -3535,6 +4159,21 @@
     "Strategy",
     "Party"
    ],
+   "best_players": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "rec_players": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "player_votes": 308,
    "blurb": "Deduce who the Demon is through logic and bluffing. Dead players still play.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__square200/img/FdLq8zXvSnNWo6jw9FusW2s-JJw=/200x200/filters:strip_icc()/pic7009391.jpg",
@@ -3564,6 +4203,18 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 2073,
    "blurb": "Build your farmstead by sowing fields and raising livestock. But don't forget to eat!",
    "digital": [
     "Board Game Arena",
@@ -3596,6 +4247,16 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 463,
    "blurb": "Renovate an estate, manage servants, and pursue romance in Victorian England.",
    "digital": [
     "Board Game Arena"
@@ -3640,6 +4301,14 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3
+   ],
+   "player_votes": 869,
    "blurb": "Serve guests and prepare rooms to be the best hotelier in the Viennese modern age.",
    "digital": [
     "Yucata"
@@ -3668,6 +4337,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 1081,
    "blurb": "Ragnarök has come! Secure your place in Valhalla in epic Viking battles.",
    "digital": [
     "Board Game Arena",
@@ -3755,6 +4433,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 360,
    "blurb": "Lead your research institute to explore ocean depths and publish your findings!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/wIbevITv9W79ELP8rEZoKA__square200/img/7BDx8KnThYSPoWphy0Mz06zDeyk=/200x200/filters:strip_icc()/pic6996584.jpg",
@@ -3783,6 +4471,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 345,
    "blurb": "Compete to reconstruct the city of Lisboa after the great earthquake of 1755.",
    "digital": [
     "Tabletopia"
@@ -3815,6 +4513,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 574,
    "blurb": "Become the most influential clan in Japan's Himeji stronghold.",
    "digital": [
     "Board Game Arena",
@@ -3864,6 +4572,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 179,
    "blurb": "Tend to your sheep on the South Island of New Zealand.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/X4KaD6ADLW1ohOznNay7xg__square200/img/qerCUlPg6OyAUqysI0dJToSjYEs=/200x200/filters:strip_icc()/pic7350809.png",
@@ -3892,6 +4610,15 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 253,
    "blurb": "The world is a mystery after a devastating pandemic—where will your team go?",
    "digital": [],
    "image": "https://cf.geekdo-images.com/Qtkb-UTvHa0-kxt_MK1nKw__square200/img/blyxL6y6CirAoi7HTcJHEmkcpyg=/200x200/filters:strip_icc()/pic3763549.jpg",
@@ -3921,6 +4648,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 1375,
    "blurb": "Bid, network, and manage resources in a race to supply the most cities with power.",
    "digital": [
     "Apple App Store",
@@ -3980,10 +4718,20 @@
    "rank": 76,
    "rating": 8.08,
    "weight": 3.26,
-   "usersrated": 16403,
+   "usersrated": 16408,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    1,
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 431,
    "blurb": "Voyages of the steamship \"Manticore\" and her crew on the Wandering Sea.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/Zdt8l4oTBpFICsMyNof7Jg__square200/img/b6WoYa7PqsW2uvN2_hia1pqzE64=/200x200/filters:strip_icc()/pic5975244.png",
@@ -4014,6 +4762,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 671,
    "blurb": "Lead your people, build monuments and make offerings to earn the favour of the gods.",
    "digital": [
     "Board Game Arena",
@@ -4063,6 +4820,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 462,
    "blurb": "Lead your unique Scottish clan to economic might via production, trade, and export.",
    "digital": [
     "Board Game Arena",
@@ -4112,6 +4879,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    1
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 403,
    "blurb": "Repel the Voidborn and restore Domineum in this space themed, heavy Euro.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -4139,10 +4916,22 @@
    "rank": 80,
    "rating": 7.91,
    "weight": 2.69,
-   "usersrated": 40868,
+   "usersrated": 40871,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 545,
    "blurb": "Cling to your sanity as you investigate Lovecraftian horrors.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__square200/img/I60Uk2oPsbiV0u_onRxI6HNgUxc=/200x200/filters:strip_icc()/pic3118622.jpg",
@@ -4206,6 +4995,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 821,
    "blurb": "Pull ingredients from your stock to make your pot bubble, but hopefully not explode!",
    "digital": [
     "TableTop Simulator Mod (TTS)",
@@ -4236,6 +5034,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 437,
    "blurb": "Players defuse bombs by deducing and cutting unseen wires of different values.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -4264,6 +5071,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 592,
    "blurb": "Invaders are coming from everywhere.  Keep the faith and defend your homeland.",
    "digital": [
     "Board Game Arena",
@@ -4310,6 +5126,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 932,
    "blurb": "Establish a supply chain by collecting resources, building industries, and shipping.",
    "digital": [
     "Apple App Store"
@@ -4341,6 +5167,13 @@
    "categories": [
     "Customizable"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 425,
    "blurb": "Megacorporation versus Netrunner in this futuristic cyberpunk game of cat and mouse.",
    "digital": [
     "VASSAL"
@@ -4372,6 +5205,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 372,
    "blurb": "Amass a fortune, and stake your reputation by operating a lucrative art gallery.",
    "digital": [
     "Tabletopia"
@@ -4400,6 +5244,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 390,
    "blurb": "Help your farm to prosper in this updated, streamlined edition of the acclaimed game.",
    "digital": [
     "Board Game Arena"
@@ -4443,10 +5298,21 @@
    "rank": 88,
    "rating": 7.95,
    "weight": 3.3,
-   "usersrated": 26171,
+   "usersrated": 26170,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    2,
+    5
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 440,
    "blurb": "Play as Rebel or Imperial forces to fulfill mission objectives.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/pIQ_MXvaoARRp1loCHJuHg__square200/img/aRf64WJF7Cein-kStu4i2yrObV8=/200x200/filters:strip_icc()/pic2247647.jpg",
@@ -4479,6 +5345,14 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2
+   ],
+   "player_votes": 111,
    "blurb": "Travel to Asia to discover new birds for your wildlife preserve.",
    "digital": [
     "Tabletopia"
@@ -4509,6 +5383,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 355,
    "blurb": "Retrace Darwin’s journey to the Galapagos in a worker-placement adventure.",
    "digital": [
     "Board Game Arena",
@@ -4556,6 +5440,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 431,
    "blurb": "Seafarers journey to obtain wealth and fame in the 17th century Caribbean.",
    "digital": [
     "Board Game Arena",
@@ -4605,6 +5499,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 348,
    "blurb": "Revive civilization, 5000 years after the fall of humankind.",
    "digital": [
     "Board Game Arena"
@@ -4653,6 +5557,15 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 273,
    "blurb": "Cooperatively program and pilot your mechs to defeat an army of marauding minions.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/n4J5LebMj0DQD016qW7ABw__square200/img/D1SNTEKmDb6zeTgXzQSIohsQFuE=/200x200/filters:strip_icc()/pic3184103.jpg",
@@ -4678,10 +5591,17 @@
    "rank": 94,
    "rating": 8.21,
    "weight": 2.75,
-   "usersrated": 12026,
+   "usersrated": 12034,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    1
+   ],
+   "rec_players": [
+    1
+   ],
+   "player_votes": 163,
    "blurb": "You alone must survive and defeat the horror movie killer.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/TUtzY-F7gKTIKm9y8e1AQw__square200/img/ElsynU1BFxm4xjLFXLp-KtJnQXw=/200x200/filters:strip_icc()/pic6520382.jpg",
@@ -4710,6 +5630,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1285,
    "blurb": "Worlds await! Colonize, develop and conquer, taking advantage of others' choices.",
    "digital": [
     "Apple App Store",
@@ -4794,6 +5723,16 @@
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 381,
    "blurb": "Try to survive in a nightmarish world that lies under eternal darkness.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/LenzJBOHboAGU0cUIqAZPQ__square200/img/Bi3sbnpagLAukGxqmO8lc0BeW-U=/200x200/filters:strip_icc()/pic2931007.jpg",
@@ -4826,6 +5765,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 830,
    "blurb": "Cooperate with your fellow astronauts as you explore the outer solar system.",
    "digital": [
     "Board Game Arena",
@@ -4875,6 +5823,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1000,
    "blurb": "Move assassins, elders & builders through Naqala to claim oases & control djinns.",
    "digital": [
     "Board Game Arena"
@@ -4922,6 +5879,15 @@
     "Family",
     "Abstract"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1904,
    "blurb": "Artfully embellish the walls of your palace by drafting the most beautiful tiles.",
    "digital": [
     "Apple App Store",
@@ -4968,6 +5934,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 795,
    "blurb": "Use your caballeros to control regions of medieval Spain, keeping clear of the King!",
    "digital": [
     "Board Game Arena",
@@ -5014,6 +5989,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 605,
    "blurb": "Rule the galaxy with your court, fleet, and cities.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -5043,6 +6028,14 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2
+   ],
+   "player_votes": 268,
    "blurb": "Construct dikes, drain bogs, harvest flax and tend to newborn animals in East Frisia.",
    "digital": [
     "Yucata"
@@ -5074,6 +6067,15 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 748,
    "blurb": "Claim your treasures but don't attract the dragon in this deck-building dungeon race.",
    "digital": [
     "Dire Wolf Game Room",
@@ -5134,11 +6136,21 @@
    "rank": 103,
    "rating": 8.56,
    "weight": 3.74,
-   "usersrated": 6057,
+   "usersrated": 6062,
    "categories": [
     "Thematic",
     "Customizable"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 174,
    "blurb": "Revised core set repackages the original with support for 1-4p.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/RdCWCXPnBGSxoOhk5Hkq_g__square200/img/lsI0qDjkqZj6nijPqp4tZY3fH7U=/200x200/filters:strip_icc()/pic6530423.jpg",
@@ -5171,6 +6183,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 147,
    "blurb": "Merchants build and trade throughout the Roman Empire to please the Gods.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/36WIe0ZHkp5OvHOlB-8vog__square200/img/6dJy9b-lIwtVoN9DIVkE47tzU8Q=/200x200/filters:strip_icc()/pic4356580.jpg",
@@ -5198,6 +6221,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 260,
    "blurb": "Build and launch ships to send guests on luxurious space vacations.",
    "digital": [
     "Board Game Arena",
@@ -5248,6 +6281,18 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4,
+    6
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 639,
    "blurb": "Build an interstellar civilization by exploration, research, conquest, and diplomacy.",
    "digital": [
     "Steam"
@@ -5281,6 +6326,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 816,
    "blurb": "Deploy agents and hire adventurers to expand your control over the city of Waterdeep.",
    "digital": [
     "Apple App Store",
@@ -5344,6 +6400,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 709,
    "blurb": "Mages must reach their full potential to defend humanity from terrible monstrosities.",
    "digital": [
     "Apple App Store",
@@ -5407,6 +6473,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 721,
    "blurb": "Poach your opponents' artists and outdo each other's circus shows.",
    "digital": [
     "Apple App Store",
@@ -5473,6 +6548,13 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 174,
    "blurb": "Renaissance merchants go head to head to please nobility by collecting jewels.",
    "digital": [
     "Board Game Arena",
@@ -5518,6 +6600,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 713,
    "blurb": "Fancy an auction to acquire ancient monuments, pharaohs, and relics?  Invoke Ra!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/k7lG683LBZdvFyS-FH-MpA__square200/img/tIfiOuVHLkyhc_ADbOEbErv5xds=/200x200/filters:strip_icc()/pic6746812.png",
@@ -5545,6 +6637,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 420,
    "blurb": "Use your worker dice to raise the legendary and breathtaking Pyramid of the Sun.",
    "digital": [
     "Board Game Arena",
@@ -5619,6 +6721,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 332,
    "blurb": "Collectively develop a tech tree to fuel new discoveries and colonize space.",
    "digital": [
     "Board Game Arena",
@@ -5666,6 +6777,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 606,
    "blurb": "With an ice age approaching, which animals will best propagate, migrate, and adapt?",
    "digital": [
     "TableTop Simulator Mod (TTS)",
@@ -5698,6 +6819,18 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    4,
+    6
+   ],
+   "rec_players": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "player_votes": 428,
    "blurb": "Decipher your opponents' code before they decipher yours. Don't get caught.",
    "digital": [
     "Board Game Arena"
@@ -5748,6 +6881,18 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "player_votes": 2587,
    "blurb": "Draft cards to develop your ancient civilization and build its Wonder of the World.",
    "digital": [
     "Board Game Arena",
@@ -5800,6 +6945,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 291,
    "blurb": "Plan, scan, and theorize to find a new planet at the edge of our solar system.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/NItjtztEUAKOpaTWZddu9A__square200/img/o7TS3qzk8smR83nhFrhSX80lYa0=/200x200/filters:strip_icc()/pic5744928.jpg",
@@ -5828,6 +6984,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 691,
    "blurb": "Lead your civilization through strategic drafting of leaders, technologies, and more.",
    "digital": [
     "Board Game Arena"
@@ -5905,6 +7070,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 570,
    "blurb": "Race through a dense South American jungle in pursuit of the legendary city of gold.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/b5VyYjNfAxJ4Z-Dx2UWlqg__square200/img/cecD9_WYLK8q3ZX1o2YQsLGc6p0=/200x200/filters:strip_icc()/pic7945692.jpg",
@@ -5929,10 +7104,21 @@
    "rank": 121,
    "rating": 7.72,
    "weight": 3.83,
-   "usersrated": 47196,
+   "usersrated": 47199,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    1,
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1149,
    "blurb": "Work together — with friends or with Friday — to survive on a deserted island.",
    "digital": [
     "Tabletopia"
@@ -5965,6 +7151,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 520,
    "blurb": "Using unique abilities, fulfill contracts and reach your goals along the Silk Road.",
    "digital": [
     "Board Game Arena",
@@ -6014,6 +7209,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 275,
    "blurb": "Build a cavernous sanctuary for dragons of all shapes and sizes!",
    "digital": [
     "Tabletopia"
@@ -6079,6 +7284,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 217,
    "blurb": "Magicians perform dazzling tricks for money and fame in a Victorian steampunk world.",
    "digital": [
     "Tabletopia"
@@ -6107,6 +7321,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 562,
    "blurb": "Claim the crown through merit and wisdom in this Celtic island struggle.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/6QE8mnPFmauoj2THsyUYPA__square200/img/2ALp_8882peIDCPTqNowenNyvmA=/200x200/filters:strip_icc()/pic4739757.jpg",
@@ -6137,6 +7360,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 295,
    "blurb": "Travel from the Shire and overcome every obstacle as a team.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/uC4N_3kQdoHefNPesAHCzQ__square200/img/cnaVUnY1UIgde_Zm2CAUojQpK_g=/200x200/filters:strip_icc()/pic8437787.png",
@@ -6162,10 +7395,19 @@
    "rank": 127,
    "rating": 7.73,
    "weight": 3.25,
-   "usersrated": 37812,
+   "usersrated": 37814,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    5
+   ],
+   "rec_players": [
+    4,
+    5,
+    6
+   ],
+   "player_votes": 1098,
    "blurb": "How can the human race survive when you don't know who is actually human?",
    "digital": [
     "VASSAL"
@@ -6199,6 +7441,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 301,
    "blurb": "Become the leader of the industrial revolution in an alternate timeline.",
    "digital": [
     "Board Game Arena",
@@ -6237,69 +7489,6 @@
    "note": null
   },
   {
-   "bgg_id": 310100,
-   "name": "Nemesis: Lockdown",
-   "year": 2022,
-   "rank": 129,
-   "rating": 8.23,
-   "weight": 3.92,
-   "usersrated": 8725,
-   "categories": [
-    "Thematic"
-   ],
-   "blurb": "Outsmart alien terrors and devious rivals in a treacherous Martian lab.",
-   "digital": [
-    "Steam"
-   ],
-   "image": "https://cf.geekdo-images.com/NEbmFFGhKwegIryUArgw6w__square200/img/sDgmcx4Z9jTPHT59PUjMSJPC7Cw=/200x200/filters:strip_icc()/pic7110034.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 180,
-   "minplayers": 1,
-   "minplaytime": 90,
-   "themes": [
-    "Adventure",
-    "Exploration",
-    "Horror",
-    "Miniatures",
-    "Science Fiction"
-   ],
-   "bga": null,
-   "steam": [
-    {
-     "appid": 1915550,
-     "name": "Nemesis: Lockdown",
-     "dlc": false,
-     "url": "https://store.steampowered.com/app/1915550/",
-     "confidence": 1.0,
-     "is_free": false,
-     "price": 10.95,
-     "price_initial": 36.5,
-     "discount": 70,
-     "currency": "AUD",
-     "mp": [
-      "online_coop",
-      "online_pvp"
-     ],
-     "developers": [
-      "InterStudio"
-     ],
-     "publishers": [
-      "Awaken Realms"
-     ],
-     "release": "31 May, 2022",
-     "coming_soon": false,
-     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915550/header.jpg?t=1724323885",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 67,
-      "total": 822
-     }
-    }
-   ],
-   "vtt": [],
-   "note": null
-  },
-  {
    "bgg_id": 310873,
    "name": "Carnegie",
    "year": 2022,
@@ -6310,6 +7499,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 399,
    "blurb": "Become the most influential entrepreneur and benefactor of your era!",
    "digital": [
     "Board Game Arena",
@@ -6376,6 +7575,80 @@
    "note": null
   },
   {
+   "bgg_id": 310100,
+   "name": "Nemesis: Lockdown",
+   "year": 2022,
+   "rank": 130,
+   "rating": 8.23,
+   "weight": 3.92,
+   "usersrated": 8727,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 170,
+   "blurb": "Outsmart alien terrors and devious rivals in a treacherous Martian lab.",
+   "digital": [
+    "Steam"
+   ],
+   "image": "https://cf.geekdo-images.com/NEbmFFGhKwegIryUArgw6w__square200/img/sDgmcx4Z9jTPHT59PUjMSJPC7Cw=/200x200/filters:strip_icc()/pic7110034.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "themes": [
+    "Adventure",
+    "Exploration",
+    "Horror",
+    "Miniatures",
+    "Science Fiction"
+   ],
+   "bga": null,
+   "steam": [
+    {
+     "appid": 1915550,
+     "name": "Nemesis: Lockdown",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/1915550/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 10.95,
+     "price_initial": 36.5,
+     "discount": 70,
+     "currency": "AUD",
+     "mp": [
+      "online_coop",
+      "online_pvp"
+     ],
+     "developers": [
+      "InterStudio"
+     ],
+     "publishers": [
+      "Awaken Realms"
+     ],
+     "release": "31 May, 2022",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915550/header.jpg?t=1724323885",
+     "reviews": {
+      "desc": "Mixed",
+      "pct": 67,
+      "total": 822
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
    "bgg_id": 271055,
    "name": "Dwellings of Eldervale",
    "year": 2020,
@@ -6386,6 +7659,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 260,
    "blurb": "Battle for control of a new fantasy realm in this worker placement game.",
    "digital": [
     "Tabletopia"
@@ -6412,10 +7696,19 @@
    "rank": 132,
    "rating": 8.94,
    "weight": 4.09,
-   "usersrated": 4452,
+   "usersrated": 4454,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 204,
    "blurb": "Upgrade your character and gear up to explore the many regions of Tamriel.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/1boSR6Gvi_melhbRhxdAUw__square200/img/yMXkgl7ZiClbRR2Gox5PGpNnBVI=/200x200/filters:strip_icc()/pic8332880.jpg",
@@ -6446,6 +7739,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 664,
    "blurb": "Will you be a virtuous or nefarious servant of the king? Build your way to glory.",
    "digital": [
     "Board Game Arena",
@@ -6495,6 +7799,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 291,
    "blurb": "The looking glass has shattered and war has come to Wonderland!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/bUbrvlY6Dw1cdb-sNrnkew__square200/img/T5jIWQXifRUCzHnygJZfWPMUQjk=/200x200/filters:strip_icc()/pic5188761.jpg",
@@ -6522,6 +7835,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 687,
    "blurb": "Keep your Mesopotamian civilization in perfect balance through revolutions and wars.",
    "digital": [
     "Board Game Arena"
@@ -6569,6 +7891,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 348,
    "blurb": "Enlist torturers, swindlers, and saboteurs to gain wealth and dominate the kingdom.",
    "digital": [
     "VASSAL"
@@ -6631,6 +7962,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 469,
    "blurb": "Compete in a unique auction system to build the most prosperous village.",
    "digital": [
     "Board Game Arena",
@@ -6683,6 +8025,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 414,
    "blurb": "Gather your Viking crew in order to plunder seas and lands for glory!",
    "digital": [
     "Dire Wolf Game Room",
@@ -6753,6 +8104,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 210,
    "blurb": "Outperform your railroad rivals with shares, auctions, track-building, and deliveries",
    "digital": [
     "VASSAL"
@@ -6780,10 +8142,21 @@
    "rank": 140,
    "rating": 7.74,
    "weight": 3.32,
-   "usersrated": 39435,
+   "usersrated": 39442,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 1000,
    "blurb": "Investigators trek across the globe to stop the Ancient One apocalypse.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__square200/img/iwRREgnk8a_xxtFLrvEbTNgy_0k=/200x200/filters:strip_icc()/pic1872452.jpg",
@@ -6840,10 +8213,20 @@
    "rank": 141,
    "rating": 8.02,
    "weight": 3.37,
-   "usersrated": 14286,
+   "usersrated": 14288,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    1,
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 552,
    "blurb": "Embark on a fantastic adventure set in dark Arthurian lore and legends.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/aAwBzPzta4joKfFZt05hCw__square200/img/spnCSOahHEKr8RGJK8TqNemoR-s=/200x200/filters:strip_icc()/pic4385726.jpg",
@@ -6905,6 +8288,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 794,
    "blurb": "Entrepreneurs pay workers & bribe an official to build a Château & gain royal favor.",
    "digital": [
     "Board Game Arena",
@@ -6953,6 +8346,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 611,
    "blurb": "Defend the city and rise to power by influencing the clergy, nobility and peasants.",
    "digital": [
     "Board Game Arena"
@@ -6999,6 +8401,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 272,
    "blurb": "Avoid excommunication and lead your family to power during the Italian Renaissance.",
    "digital": [
     "Board Game Arena",
@@ -7072,10 +8484,20 @@
    "rank": 145,
    "rating": 7.89,
    "weight": 2.7,
-   "usersrated": 18745,
+   "usersrated": 18747,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 459,
    "blurb": "Heroes explore Middle-earth, working together to combat evil in an epic campaign.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/1XA2-niwTBa0HEB7hOz3Dw__square200/img/tR3buuNIE3VqpVdFBG-_QolxD1Y=/200x200/filters:strip_icc()/pic4530974.jpg",
@@ -7106,6 +8528,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1955,
    "blurb": "Acquire the most valuable lands by building your deck with treasure and power cards.",
    "digital": [
     "Apple App Store",
@@ -7171,6 +8602,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 385,
    "blurb": "Build networks of merchants along the roads and market towns of the Hanseatic League.",
    "digital": [
     "Tabletopia"
@@ -7199,6 +8639,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 283,
    "blurb": "Acquire shares of unique companies and propagate their trading posts to rake in cash.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/VceWk5QVkgIp6rWDl5qHKQ__square200/img/XwIAZcQ_hOpkoWZhbVDEBU9evRo=/200x200/filters:strip_icc()/pic2611318.jpg",
@@ -7227,6 +8676,13 @@
     "Family",
     "Abstract"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 659,
    "blurb": "Piece together a quilt and leave no holes to become the button master.",
    "digital": [
     "Apple App Store",
@@ -7309,6 +8765,15 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 495,
    "blurb": "Curate a diverse ecology with strategic flora and fauna, winter is coming!",
    "digital": [
     "Board Game Arena",
@@ -7358,6 +8823,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 330,
    "blurb": "Manage and rule all aspects of Ancient Rome with a clever action selection mancala.",
    "digital": [
     "Boiteajeux"
@@ -7386,6 +8860,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 154,
    "blurb": "War Eternal is a standalone game compatible with the deck building game Aeon's End.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/H2st1bZH4O0FM46NhKMqyQ__square200/img/yWxRb1kJmA_gVtXSUJ0GPCJIUmg=/200x200/filters:strip_icc()/pic3430893.jpg",
@@ -7446,6 +8930,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 278,
    "blurb": "Acquire locomotives & industry, build track, and hire the best engineers in Russia.",
    "digital": [
     "Board Game Arena",
@@ -7493,6 +8986,15 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    6
+   ],
+   "rec_players": [
+    4,
+    5,
+    6
+   ],
+   "player_votes": 490,
    "blurb": "Epic empire-building game of interstellar conflict, trade, and struggle for power.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/MHeQQrbauUVsvh2QF6PMog__square200/img/s5FuK0XIWFMUzpGWiKF628TeQkg=/200x200/filters:strip_icc()/pic4128153.jpg",
@@ -7555,6 +9057,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 506,
    "blurb": "Lead your clan to victory through negotiation, combat, monsters and favors from Kami.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__square200/img/KSRc-J7PWueUassdUdv9acIq6tk=/200x200/filters:strip_icc()/pic3880340.jpg",
@@ -7585,6 +9098,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 159,
    "blurb": "The strategic craft of fine winemaking.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/JuyN9UOenAG_BlO-APPpdw__square200/img/t2geBlOGPgfXjhiQC4zsNrD8lOg=/200x200/filters:strip_icc()/pic2649446.jpg",
@@ -7612,6 +9135,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 361,
    "blurb": "Assemble your armies, devise your strategy, and wage war across the Herakon Cluster.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/WlvyznYhlYNXMtMbKKu1oA__square200/img/bLq4VIPxR6xCwoZ38y8_Y1fqxqc=/200x200/filters:strip_icc()/pic2471359.jpg",
@@ -7641,6 +9173,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 296,
    "blurb": "Manage the countless possibilities of evolving your civilization.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/DahMIPzUpexvhUPAG3dGbA__square200/img/aw0_Y9v36ja2_mqQSUvrImYaV-I=/200x200/filters:strip_icc()/pic8303209.jpg",
@@ -7671,6 +9213,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 264,
    "blurb": "Claim your fame as the dominant merchant in Yokohama during the Meiji period.",
    "digital": [
     "Board Game Arena"
@@ -7715,6 +9266,18 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    6,
+    7
+   ],
+   "rec_players": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "player_votes": 507,
    "blurb": "Give unique one-word clues so someone can guess one word!",
    "digital": [
     "Board Game Arena"
@@ -7763,6 +9326,17 @@
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    1,
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 272,
    "blurb": "Crew the first interstellar ship in space, exploring and discovering new worlds.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/1ySeZNVkVwTvqykMGtHFFQ__square200/img/NtJI0NTumblKD_6JimwUtN0vuRw=/200x200/filters:strip_icc()/pic7245199.jpg",
@@ -7793,6 +9367,19 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    6,
+    8
+   ],
+   "rec_players": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "player_votes": 1461,
    "blurb": "Give your team clever one-word clues to help them spot their agents in the field.",
    "digital": [
     "Apple App Store",
@@ -7862,6 +9449,18 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 180,
    "blurb": "Travel from Barcelona to Lisboa to cure malaria, typhus, yellow fever, and cholera.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/yAhmRtAw66-IOg4C22m9bA__square200/img/9xbboGf-lz3smOCz1VgKYV7Mdec=/200x200/filters:strip_icc()/pic6834208.jpg",
@@ -7890,6 +9489,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 203,
    "blurb": "Factions clash on the edge of the galaxy!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/n3gYugbvd_LHVynDhfoVbw__square200/img/8c-JaoZBfDXioLhVvvPNiU-DWow=/200x200/filters:strip_icc()/pic7334483.jpg",
@@ -7919,6 +9528,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 216,
    "blurb": "Tiptoe your way through Lord Eradikus' spaceship to nab artifacts and an escape pod.",
    "digital": [
     "Dire Wolf Game Room"
@@ -7948,6 +9566,15 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 70,
    "blurb": "Songstress Stanza & stealthy Duster board a raft & chuck gobs of dice on the Sibron.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/AGN1PRSFmhdUyoTjd-qw8A__square200/img/8YoP3sL-TANpUkSNc4PM9rr0ilk=/200x200/filters:strip_icc()/pic3752850.jpg",
@@ -7977,6 +9604,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 211,
    "blurb": "Lead a Drow house and build the best deck to establish supremacy over the Underdark.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/F58jczp5xk9CYFimrytXaw__square200/img/VweZUgVivRdVw6mLHJj3bxNkHPw=/200x200/filters:strip_icc()/pic2801874.jpg",
@@ -8004,6 +9640,18 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 286,
    "blurb": "Develop and colonize your planet with oddly shaped tiles served on a rotating tray.",
    "digital": [
     "Board Game Arena",
@@ -8058,6 +9706,15 @@
    "categories": [
     "Customizable"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 684,
    "blurb": "Cast spells and summon fantasy monsters in the original collectible card game.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/CxJmNl4wR4InjqyNrMdBTw__square200/img/SVkqEM6k7QywzOB-iLMkf48jSfA=/200x200/filters:strip_icc()/pic163749.jpg",
@@ -8087,6 +9744,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 249,
    "blurb": "Manage your dice to build profitable markets and grand monuments in historic India.",
    "digital": [
     "Tabletopia",
@@ -8119,6 +9785,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 276,
    "blurb": "Gain glory by defending a Viking harbor town against trolls, draugr and other beasts.",
    "digital": [
     "Tabletopia"
@@ -8185,10 +9860,19 @@
    "rank": 172,
    "rating": 7.72,
    "weight": 2.9,
-   "usersrated": 23283,
+   "usersrated": 23285,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    1,
+    2
+   ],
+   "rec_players": [
+    1,
+    2
+   ],
+   "player_votes": 685,
    "blurb": "Journey through a vibrant but deadly land to uncover the key to lifting your curse.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/OYne8uBCHv5oEgRfpOrV0A__square200/img/mDS19F0tzd_ljt_3vp15SaW7RjM=/200x200/filters:strip_icc()/pic2648303.jpg",
@@ -8218,6 +9902,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    1
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 384,
    "blurb": "Compete as one of six Roman Generals in charge of a milecastle along Hadrian's Wall.",
    "digital": [
     "Board Game Arena"
@@ -8266,6 +9959,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 197,
    "blurb": "Acquire cards to grow your kingdom's influence in this classic deck-building game.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/4dmyKfqQm_uxA1-chh4JeQ__square200/img/2QGOtklS6Idv9ZbEQOBtKZuHfio=/200x200/filters:strip_icc()/pic3187001.jpg",
@@ -8327,6 +10030,16 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 2200,
    "blurb": "Your team of experts must prevent the world from succumbing to a viral pandemic.",
    "digital": [
     "Apple App Store",
@@ -8376,6 +10089,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 432,
    "blurb": "Utilize your dice populace to develop technologies, settle worlds, and ship goods.",
    "digital": [
     "Apple App Store",
@@ -8461,6 +10185,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 259,
    "blurb": "Outwit your rival by selecting where to place nomad workers on a dynamic desert grid.",
    "digital": [
     "Board Game Arena",
@@ -8505,6 +10236,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 505,
    "blurb": "Compete head-to-head to create the most powerful deck of spaceships and bases.",
    "digital": [
     "Apple App Store",
@@ -8564,10 +10302,20 @@
    "rank": 179,
    "rating": 8.15,
    "weight": 2.34,
-   "usersrated": 7960,
+   "usersrated": 7965,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    1,
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 450,
    "blurb": "Explore an entire planet's open world from a first-person perspective.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/M0e9l-SHH2H4RMSAcnsDgg__square200/img/AFfSFufAeHUbnKONFYGAZO7VIMs=/200x200/filters:strip_icc()/pic8658546.jpg",
@@ -8597,6 +10345,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 1205,
    "blurb": "Build train routes across Europe in this sequel to the hit family board game.",
    "digital": [
     "Board Game Arena"
@@ -8674,6 +10432,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 455,
    "blurb": "Showcase your alchemical know-how by publishing theories in this app-driven game.",
    "digital": [
     "Board Game Arena",
@@ -8722,6 +10489,14 @@
    "categories": [
     "Abstract"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    4
+   ],
+   "player_votes": 212,
    "blurb": "Recruit, bolster and maneuver your way to controlling the hex-grid battlefield.",
    "digital": [
     "Board Game Arena",
@@ -8769,6 +10544,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 544,
    "blurb": "Hike through National Parks tiles, collecting memories and admiring gorgeous scenery.",
    "digital": [
     "Board Game Arena"
@@ -8818,6 +10603,21 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "player_votes": 495,
    "blurb": "Explore lands on behalf of the queen and draw the most proficient maps to earn favor.",
    "digital": [
     "Apple App Store",
@@ -8906,6 +10706,13 @@
    "categories": [
     "Wargames"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 190,
    "blurb": "Command your rifle platoon to victory in this WWII multi-scenario deck builder.",
    "digital": [
     "Steam"
@@ -8935,6 +10742,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 475,
    "blurb": "Rival mages create artifacts, vying for places of power and ancient monuments.",
    "digital": [
     "Board Game Arena"
@@ -8981,6 +10797,15 @@
    "categories": [
     "Customizable"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 777,
    "blurb": "Guide your fellowship as it embarks on unique adventures in Tolkien's Middle-earth!",
    "digital": [
     "Steam"
@@ -9042,6 +10867,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 454,
    "blurb": "Draft yourself the ‘perfect’ dystopia, complete projects and churn out resources.",
    "digital": [
     "Board Game Arena",
@@ -9093,6 +10929,15 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1054,
    "blurb": "Prehistoric tribes struggle to survive and adapt. Which one will rise to the top?",
    "digital": [
     "Board Game Arena",
@@ -9178,6 +11023,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 206,
    "blurb": "Build the best reserve in the world for 100+ fantastic creatures!",
    "digital": [
     "Board Game Arena",
@@ -9226,6 +11081,18 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "player_votes": 247,
    "blurb": "Draft cards to develop your ancient civilization and build its Wonder of the World.",
    "digital": [
     "Board Game Arena"
@@ -9254,10 +11121,20 @@
    "rank": 192,
    "rating": 7.75,
    "weight": 2.6,
-   "usersrated": 15599,
+   "usersrated": 15601,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 357,
    "blurb": "Star Wars characters race across the galaxy trying to achieve the most fame!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/RjwAj6hw5aEMGvosEA12gw__square200/img/ylL3MioaqHtvQB_F_WzGoqBGL5s=/200x200/filters:strip_icc()/pic5879810.jpg",
@@ -9288,6 +11165,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 160,
    "blurb": "Will Nixon triumph in his tug of war with the Press or will the truth be exposed?",
    "digital": [
     "Apple App Store",
@@ -9334,6 +11218,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 410,
    "blurb": "Return to Mars and terraform it once again, this time using only cards.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/eT_Atcy_vRJvuUMgYakNrQ__square200/img/gshLljyujr02hwulHyYht5rw074=/200x200/filters:strip_icc()/pic6260098.jpg",
@@ -9362,6 +11256,14 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    4
+   ],
+   "player_votes": 109,
    "blurb": "Heroes from Victorian-era literature join a skirmish to the death.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/iyIO6udRfIn0xM1rIxyO2g__square200/img/QOEOV9f_DpnMKDsHSSTebpKSda4=/200x200/filters:strip_icc()/pic5056685.jpg",
@@ -9422,6 +11324,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 432,
    "blurb": "Send your assistants through the shops of Istanbul as you race to acquire rubies.",
    "digital": [
     "Apple App Store",
@@ -9487,6 +11399,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 250,
    "blurb": "Wealthy citizens of medieval Prague organize building projects to gain king's favor.",
    "digital": [
     "Board Game Arena",
@@ -9534,6 +11456,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 132,
    "blurb": "Travel the beautiful plains of the Pampas with your cattle.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/qPNWng17gy-ghltZfNcBwA__square200/img/s622yDeC9kprYRqzZnddZFfKIc4=/200x200/filters:strip_icc()/pic6893215.png",
@@ -9561,6 +11493,15 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 275,
    "blurb": "Pilot your ship to stardom in a massive sci-fi sandbox.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -9602,6 +11543,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 276,
    "blurb": "Travel the Kingdom seeking upgrades in an attempt to bring poverty or prosperity.",
    "digital": [
     "TableTop Simulator Mod (TTS)",
@@ -9631,6 +11582,16 @@
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 278,
    "blurb": "In space, no one can hear you build a deck of marine & weapon cards to fight aliens.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/jSz_KRUxsjGYitoqx9YH1Q__square200/img/GpJuTA048EcfOw8K6JV_XAUcpLU=/200x200/filters:strip_icc()/pic2225180.jpg",
@@ -9661,6 +11622,13 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 534,
    "blurb": "Trade and sell goods to become the most wealthy merchant in this short game for two.",
    "digital": [
     "Apple App Store",
@@ -9707,6 +11675,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 350,
    "blurb": "Combine medieval villagers and castle dwellers to score points.",
    "digital": [
     "Board Game Arena",
@@ -9756,6 +11733,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 459,
    "blurb": "Draft dice to mark numbers on your scoresheet, comboing bonuses to power your points.",
    "digital": [
     "Apple App Store",
@@ -9817,6 +11804,14 @@
     "Wargames",
     "Customizable"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3
+   ],
+   "player_votes": 361,
    "blurb": "Pilot your ships in tight arcs to take out the enemy! The universe can be yours.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/yNqgVxaqoZepir7Hzkfe-Q__square200/img/Z7EbQLkjoQns1dt9XMdUeRbyx8g=/200x200/filters:strip_icc()/pic1603292.jpg",
@@ -9849,6 +11844,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 316,
    "blurb": "Play as warring Egyptian Gods and build the most powerful army to dominate Egypt.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/RmZjhy7_6REp8IaXh9Zqwg__square200/img/0USgPWRmHdqDv0CnAOv0jfN3Ms0=/200x200/filters:strip_icc()/pic3979527.jpg",
@@ -9878,6 +11883,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 199,
    "blurb": "Expand your Scottish clan by trading livestock, making whisky and gaining landmarks.",
    "digital": [
     "Tabletopia"
@@ -9909,6 +11923,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 158,
    "blurb": "Travel to cities along the silk road, trading silk, spice, gold & jade along the way.",
    "digital": [
     "Board Game Arena"
@@ -9956,6 +11979,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 193,
    "blurb": "Earn money running a Manhattan speakeasy business during Prohibition.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/Y7vIlh-m_Ugnv0jrUuOW3g__square200/img/RRz7Gd-be8LjFrJnvUZt_vgixNU=/200x200/filters:strip_icc()/pic8165052.jpg",
@@ -9981,10 +12014,20 @@
    "rank": 210,
    "rating": 7.6,
    "weight": 2.66,
-   "usersrated": 22995,
+   "usersrated": 22996,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 378,
    "blurb": "The game is afoot as you and your irregular friends search Victorian London for clues",
    "digital": [],
    "image": "https://cf.geekdo-images.com/ptDZ2tJ6dSNiONAx3HH8Tw__square200/img/eLJQguq1uq5mdq-jqGaZLXrRkpg=/200x200/filters:strip_icc()/pic3514298.jpg",
@@ -10015,6 +12058,16 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 382,
    "blurb": "Rescue as many cats as you can before Lord Vesh comes to destroy their home.",
    "digital": [
     "Board Game Arena",
@@ -10105,6 +12158,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 155,
    "blurb": "The Rebels and Empire go head-to-head to eliminate one another's bases.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/U6scsOGrPtVym4nCLaYjyw__square200/img/lxi7pULm5z2N5J79a_CJSzN4PXU=/200x200/filters:strip_icc()/pic7387735.png",
@@ -10134,6 +12194,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 445,
    "blurb": "Strategically grow your ecosystem card engine with unique flora, fauna, and terrains.",
    "digital": [
     "Board Game Arena",
@@ -10185,6 +12256,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 183,
    "blurb": "Spread your glory over the vast, as of yet unexplored world in this updated classic.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -10205,17 +12286,75 @@
    "note": null
   },
   {
+   "bgg_id": 332686,
+   "name": "John Company: Second Edition",
+   "year": 2022,
+   "rank": 216,
+   "rating": 8.22,
+   "weight": 4.45,
+   "usersrated": 5739,
+   "categories": [
+    "Strategy",
+    "Thematic"
+   ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    1,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 216,
+   "blurb": "Promise and cajole your way to the top whilst running the East India Company.",
+   "digital": [
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/TAdE4z_bwAAjJlmPrkmKhA__square200/img/q2zVz22aC9rJHjaVao5oI574O-8=/200x200/filters:strip_icc()/pic6601629.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 240,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "themes": [
+    "Economic",
+    "Educational",
+    "Negotiation",
+    "Political"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
    "bgg_id": 339789,
    "name": "Welcome to the Moon",
    "year": 2021,
-   "rank": 215,
+   "rank": 216,
    "rating": 7.84,
    "weight": 2.46,
-   "usersrated": 9853,
+   "usersrated": 9855,
    "categories": [
     "Thematic",
     "Family"
    ],
+   "best_players": [
+    2,
+    3,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 151,
    "blurb": "Escape from Earth and plan the humankind journey to the moon to save humanity.",
    "digital": [
     "Board Game Arena",
@@ -10256,38 +12395,6 @@
    "note": null
   },
   {
-   "bgg_id": 332686,
-   "name": "John Company: Second Edition",
-   "year": 2022,
-   "rank": 216,
-   "rating": 8.22,
-   "weight": 4.45,
-   "usersrated": 5739,
-   "categories": [
-    "Strategy",
-    "Thematic"
-   ],
-   "blurb": "Promise and cajole your way to the top whilst running the East India Company.",
-   "digital": [
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/TAdE4z_bwAAjJlmPrkmKhA__square200/img/q2zVz22aC9rJHjaVao5oI574O-8=/200x200/filters:strip_icc()/pic6601629.jpg",
-   "maxplayers": 6,
-   "maxplaytime": 240,
-   "minplayers": 1,
-   "minplaytime": 90,
-   "themes": [
-    "Economic",
-    "Educational",
-    "Negotiation",
-    "Political"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null
-  },
-  {
    "bgg_id": 283355,
    "name": "Dune",
    "year": 2019,
@@ -10299,6 +12406,14 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    6
+   ],
+   "rec_players": [
+    5,
+    6
+   ],
+   "player_votes": 291,
    "blurb": "Wildly different factions vie for control of Arrakis through alliance and treachery.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/2fgPg6Be--w97zoycObUgg__square200/img/NWqx5GlJXleAeaHR3PJWTwdzWcU=/200x200/filters:strip_icc()/pic4815198.jpg",
@@ -10331,6 +12446,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 168,
    "blurb": "Post-apocalyptic bands of punks fight to destroy the rival tribe's camps.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/YpQUtpxNtDHBF5eVcwzBtQ__square200/img/ou4S4AAS_SEr7jGAdPvDgoTO8Sw=/200x200/filters:strip_icc()/pic6478338.png",
@@ -10359,6 +12481,23 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "player_votes": 363,
    "blurb": "Design the most appealing 1950s neighborhood, with fences, parks, and swimming pools.",
    "digital": [
     "Board Game Arena"
@@ -10413,6 +12552,16 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 377,
    "blurb": "Start your journey into nature and collect cards to become a true nature observer.",
    "digital": [
     "Tabletopia"
@@ -10445,6 +12594,14 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4
+   ],
+   "player_votes": 455,
    "blurb": "Rival chaos gods send forth their minions to spread corruption and destruction.",
    "digital": [
     "VASSAL"
@@ -10473,10 +12630,18 @@
    "rank": 222,
    "rating": 7.88,
    "weight": 1.95,
-   "usersrated": 8843,
+   "usersrated": 8849,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4
+   ],
+   "player_votes": 169,
    "blurb": "Crews race and shoot to win the race... or be the last car standing.",
    "digital": [
     "TableTop Simulator Mod (TTS)",
@@ -10509,6 +12674,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 417,
    "blurb": "Four types of auctions challenge players in this classic game of art speculation.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/wLto-xaabHwKQe_Bc4iD1Q__square200/img/MUF5kLLMdVDyEWeTj0v1A2rdFUE=/200x200/filters:strip_icc()/pic3458036.png",
@@ -10532,10 +12707,19 @@
    "rank": 224,
    "rating": 7.75,
    "weight": 3.33,
-   "usersrated": 14725,
+   "usersrated": 14727,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    1
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 551,
    "blurb": "Civilians trapped in a war-torn city must make difficult decisions to survive.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/gQOQW7p1RWHzY54Lrs-_pA__square200/img/4sKy1u6QQlD_Zh3jhf2n0hZRuCk=/200x200/filters:strip_icc()/pic3315915.jpg",
@@ -10594,6 +12778,13 @@
    "categories": [
     "Wargames"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 374,
    "blurb": "Revisit the battles of D-Day and control the forces of the Allies and the Axis!",
    "digital": [
     "Board Game Arena"
@@ -10638,6 +12829,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 353,
    "blurb": "Lead a construction team to build Saint Basil's Cathedral under the Tsar's reign.",
    "digital": [
     "Tabletopia",
@@ -10702,6 +12903,16 @@
     "Family",
     "Abstract"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 629,
    "blurb": "Craft the best stained-glass windows by carefully placing colorful translucent dice.",
    "digital": [
     "Apple App Store",
@@ -10765,6 +12976,17 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 349,
    "blurb": "Amass spaceships for your fleet as you roll your way to domination.",
    "digital": [
     "Board Game Arena",
@@ -10814,6 +13036,14 @@
     "Thematic",
     "Wargames"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    4
+   ],
+   "player_votes": 339,
    "blurb": "Rings, Fellowship, diplomacy and war in the Third Age of Middle Earth.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/JmdqlBJBynZMOciZzkVIkw__square200/img/sFUdt2k6L3oT4IVQDB2-9gM03wY=/200x200/filters:strip_icc()/pic725882.jpg",
@@ -10841,10 +13071,20 @@
    "rank": 230,
    "rating": 8.19,
    "weight": 2.66,
-   "usersrated": 6104,
+   "usersrated": 6105,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 116,
    "blurb": "Cooperative or competitive strategy game pitting heroes against an ominous Tower.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/sd0acHeHj9RE-daXPC7pEg__square200/img/cR97UDcXdnExxbY4CuBqEytqTgc=/200x200/filters:strip_icc()/pic5153383.jpg",
@@ -10870,11 +13110,19 @@
    "rank": 231,
    "rating": 8.47,
    "weight": 3.65,
-   "usersrated": 4485,
+   "usersrated": 4486,
    "categories": [
     "Thematic",
     "Wargames"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    4
+   ],
+   "player_votes": 126,
    "blurb": "Fight for control of Arrakis and its precious Spice.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -10907,6 +13155,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 159,
    "blurb": "Advance your ancient civilization from tiny settlement to mighty empire.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/NMUqU-PXbEbdLUmzWUlKSw__square200/img/4J4VaVnjhvCZePSr_aBvSfaLZLg=/200x200/filters:strip_icc()/pic5594286.jpg",
@@ -10931,12 +13189,24 @@
    "name": "Nemesis: Retaliation",
    "year": 2025,
    "rank": 232,
-   "rating": 8.65,
+   "rating": 8.64,
    "weight": 3.77,
-   "usersrated": 4421,
+   "usersrated": 4433,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 109,
    "blurb": "Highly trained marines enter an alien nest with strict orders and advanced tools.",
    "digital": [
     "Board Game Arena"
@@ -10983,10 +13253,20 @@
    "rank": 234,
    "rating": 7.6,
    "weight": 3.22,
-   "usersrated": 26128,
+   "usersrated": 26132,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    5
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 475,
    "blurb": "Fight the Overlord and level up your heroes in this fantasy dungeon campaign.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/ZN2rpiJ19lg5DZk_iYMMkQ__square200/img/15oGVWuqMNEnBudhgbm3-0paERs=/200x200/filters:strip_icc()/pic1180640.jpg",
@@ -11018,6 +13298,15 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    5
+   ],
+   "rec_players": [
+    4,
+    5,
+    6
+   ],
+   "player_votes": 740,
    "blurb": "Conquer the galaxy with shifting alliances and the unique powers of your alien race.",
    "digital": [
     "TableTop Simulator Mod (TTS)",
@@ -11050,6 +13339,13 @@
    "categories": [
     "Wargames"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 86,
    "blurb": "Defend or depose the Toyotomi heir by commanding the loyalty of the feudal lords.",
    "digital": [
     "VASSAL",
@@ -11082,6 +13378,17 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 441,
    "blurb": "Your Stone Age tribe must work together to eat, survive, and develop new tech.",
    "digital": [
     "Tabletopia"
@@ -11112,6 +13419,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 394,
    "blurb": "Choose and play tiles to satisfy the king's whims and build the best fantasy castle.",
    "digital": [
     "Board Game Arena",
@@ -11159,6 +13475,13 @@
    "categories": [
     "Abstract"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 273,
    "blurb": "Use stones to control space in this ancient game with simple rules.",
    "digital": [
     "Abstract Play",
@@ -11214,6 +13537,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 2808,
    "blurb": "Shape the medieval French landscape, claiming cities, monasteries, roads, and farms.",
    "digital": [
     "Apple App Store",
@@ -11299,6 +13632,19 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    7,
+    8
+   ],
+   "rec_players": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "player_votes": 545,
    "blurb": "Who can you trust? A game of social deduction set in King Arthur’s legendary realm.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__square200/img/E6EKPkVz2KrmRZVgwCHFYeZXzJU=/200x200/filters:strip_icc()/pic1398895.jpg",
@@ -11332,6 +13678,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    6
+   ],
+   "rec_players": [
+    4,
+    5,
+    6
+   ],
+   "player_votes": 1072,
    "blurb": "Make alliances—and break them!—as you strive to both unite and conquer Westeros.",
    "digital": [
     "Google Play",
@@ -11397,6 +13752,14 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3
+   ],
+   "player_votes": 249,
    "blurb": "Build railways to connect destinations across Scandinavia and neighboring countries.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/bCdjNIu-O_SzVCfMLZY_KQ__square200/img/zszO0Rfuq627-IE8MovgV1nlgmE=/200x200/filters:strip_icc()/pic7634498.png",
@@ -11455,6 +13818,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 1271,
    "blurb": "Renaissance merchants race to grab gems, acquire property, and please nobility.",
    "digital": [
     "Board Game Arena",
@@ -11537,6 +13909,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 238,
    "blurb": "Build rails, race to deliver scarce goods, and fulfill your Rail Baron's secret goal.",
    "digital": [
     "Board Game Arena",
@@ -11587,6 +13969,16 @@
     "Family",
     "Abstract"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 234,
    "blurb": "You're an artisan working on creating striking patterns within a king's palace.",
    "digital": [
     "Board Game Arena"
@@ -11628,11 +14020,22 @@
    "rank": 247,
    "rating": 7.58,
    "weight": 2.02,
-   "usersrated": 20408,
+   "usersrated": 20410,
    "categories": [
     "Thematic",
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 304,
    "blurb": "Classic movie monsters terrorize a town! Can your team stop them in time?",
    "digital": [],
    "image": "https://cf.geekdo-images.com/SoClIcwjDo_iZs0idVikDw__square200/img/aR4gPzJvodkaJzh3iFCJhjWw25w=/200x200/filters:strip_icc()/pic4848330.jpg",
@@ -11660,6 +14063,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 239,
    "blurb": "Manage workers and resources to build up the land around your medieval monastery.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/MLvyN4VJ3QNXBKxli8XLiA__square200/img/l68YyKYC2kXGXgiV40ezK1F23jk=/200x200/filters:strip_icc()/pic5089618.jpg",
@@ -11687,11 +14100,20 @@
    "rank": 249,
    "rating": 7.5,
    "weight": 2.21,
-   "usersrated": 24179,
+   "usersrated": 24185,
    "categories": [
     "Thematic",
     "Party"
    ],
+   "best_players": [
+    8
+   ],
+   "rec_players": [
+    6,
+    7,
+    8
+   ],
+   "player_votes": 477,
    "blurb": "Torpedoes away! Hunt for your opponent's sub in this exciting, real-time team game.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/Dpu5nFJu4UUJ4Y50WyKueg__square200/img/lka1PliAR7CLrxgKd7LfqOR5qCI=/200x200/filters:strip_icc()/pic7069368.jpg",
@@ -11722,6 +14144,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 367,
    "blurb": "Send your villagers to work, travel, pray, and in death become a part of history!",
    "digital": [
     "Tabletopia"
@@ -11752,6 +14183,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 282,
    "blurb": "\"Build your way to the best Tavern in town with this deckbuilding dice drafting game\"",
    "digital": [
     "Tabletopia",
@@ -11783,6 +14224,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 530,
    "blurb": "A few delicate Origami-style illustrations and a whole marine universe comes to life!",
    "digital": [
     "Board Game Arena"
@@ -11828,6 +14278,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 349,
    "blurb": "Explore a mysterious land and fulfill quests on your way back.",
    "digital": [
     "Board Game Arena",
@@ -11880,6 +14340,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    4
+   ],
+   "player_votes": 320,
    "blurb": "Be the first team to empty your hands in this popular partnership climbing card game.",
    "digital": [
     "Board Game Arena",
@@ -11988,6 +14455,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 405,
    "blurb": "Expand your meager neighborhood into a sprawling suburb to attract the most citizens.",
    "digital": [
     "Apple App Store",
@@ -12014,10 +14491,19 @@
    "rank": 256,
    "rating": 7.44,
    "weight": 3.01,
-   "usersrated": 49173,
+   "usersrated": 49176,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 764,
    "blurb": "As you struggle to keep survivors alive, how will you value group vs. personal needs?",
    "digital": [
     "VASSAL"
@@ -12050,6 +14536,13 @@
    "categories": [
     "Wargames"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 172,
    "blurb": "Accessible tactical wargame from the dawn of history to the opening of the Dark Age.",
    "digital": [
     "VASSAL"
@@ -12079,6 +14572,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 424,
    "blurb": "Take the role of Egyptian gods fighting to survive and be remembered.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/_al0scMG_pQfGVM31Scf1Q__square200/img/JGsQAEyp6BttzuwlvoIXf80c6Y0=/200x200/filters:strip_icc()/pic6107853.jpg",
@@ -12110,6 +14614,16 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 336,
    "blurb": "Assemble and prepare a formidable crew of dwarves to fight the mighty Fafnir!",
    "digital": [
     "Board Game Arena",
@@ -12158,6 +14672,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 127,
    "blurb": "Defend your increasingly desperate home from The Nameless in an evolving campaign.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/quoCefZvHWeaf31_8HvFSA__square200/img/NjmsVf2EPqypajWKrCG2uTRUN6w=/200x200/filters:strip_icc()/pic3979852.jpg",
@@ -12218,6 +14742,13 @@
     "Family",
     "Party"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 98,
    "blurb": "Use magnets to push a ball into the goal, but beware of falling in yourself!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/oPNuEm_dR987BKoYEF9zGQ__square200/img/MR9OjZSou7LASrNvyUvKhZ-vHgo=/200x200/filters:strip_icc()/pic7414566.png",
@@ -12245,6 +14776,13 @@
    "categories": [
     "Abstract"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 88,
    "blurb": "Move rings over pieces to flip them, creating rows of five in your color.",
    "digital": [
     "Board Game Arena",
@@ -12290,6 +14828,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 1219,
    "blurb": "All aboard!  Collect trains, choo-choo-choose your routes, fulfill your destination!",
    "digital": [
     "Apple App Store",
@@ -12370,6 +14918,13 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 81,
    "blurb": "Send forth an army of toys to conquer territories.",
    "digital": [
     "Board Game Arena"
@@ -12412,6 +14967,18 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 219,
    "blurb": "Work together using one-word clues to disentangle word pairs.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/8oipK9-ivkn53h7L5U2Yfg__square200/img/bj0U018AhMzNqGYzz-wwgahWMXE=/200x200/filters:strip_icc()/pic6588069.png",
@@ -12439,6 +15006,13 @@
    "categories": [
     "Wargames"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 105,
    "blurb": "Step into the shoes of rulers and generals who triumphed or failed in the Great War.",
    "digital": [
     "Rally the Troops",
@@ -12469,6 +15043,18 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    8,
+    10
+   ],
+   "rec_players": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "player_votes": 515,
    "blurb": "In pre-WW2 Germany, Liberals and Fascists square off in an intrigue-filled parliament",
    "digital": [
     "Tabletopia"
@@ -12504,6 +15090,14 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3
+   ],
+   "player_votes": 60,
    "blurb": "Expand your fleet, defend your bases, and prevail in the battle for the colonies.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/FKEjArvFzBTpPJRvU34t8A__square200/img/eEUTbLIC_zgzDNEikFqpDmUFlYA=/200x200/filters:strip_icc()/pic4324043.jpg",
@@ -12563,6 +15157,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    1
+   ],
+   "rec_players": [
+    1
+   ],
+   "player_votes": 250,
    "blurb": "You alone command the forces of a city holding off invading aliens.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/ecO5eAd3RkctQ0-Tbqv37Q__square200/img/Q2P7EX_vAAfWzZncABovx6JIYvQ=/200x200/filters:strip_icc()/pic5428723.jpg",
@@ -12590,6 +15191,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 239,
    "blurb": "Spread your influence across monasteries of Portugal and beyond!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/JJFHx0RiUBYdy9bHAgVSuA__square200/img/bq_zSHyV6r291jeg1QXV0RBiYME=/200x200/filters:strip_icc()/pic3956079.jpg",
@@ -12618,6 +15228,19 @@
     "Family",
     "Party"
    ],
+   "best_players": [
+    5,
+    6
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "player_votes": 252,
    "blurb": "Place your bets and bend the odds in this crazy camel-stacking race!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/qnR2V3YsW963_JaVznBjsw__square200/img/ZVprjLeqEVe3XCSV1qItMnvp1Ls=/200x200/filters:strip_icc()/pic8584959.jpg",
@@ -12647,6 +15270,17 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 394,
    "blurb": "Build the greatest fantasy kingdom by constructing the best hand.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__square200/img/hMh4hAblhjYpmpVsYRxf_eJsObM=/200x200/filters:strip_icc()/pic6177962.jpg",
@@ -12674,6 +15308,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 489,
    "blurb": "Win the favor of the Gods in this competitive auction, area control game.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/6QbaJOS8acWkJ6gSYI0KaQ__square200/img/2DTwIEJF8wVKY9LuMLcBSv_FonM=/200x200/filters:strip_icc()/pic584779.jpg",
@@ -12706,6 +15350,15 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 221,
    "blurb": "Develop your city through the ages in this family-friendly legacy experience.",
    "digital": [
     "Board Game Arena"
@@ -12750,6 +15403,18 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 300,
    "blurb": "Steer the fate of your nation, from the ancient world until the outbreak of WW1.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/-hn7gA50ci0n7j9u_-jHhA__square200/img/jboza_pTgl21uOZBD0ljXDPxFBQ=/200x200/filters:strip_icc()/pic1591406.png",
@@ -12778,6 +15443,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 193,
    "blurb": "Purchase goods, upgrade your distillery, and craft the world's finest spirits.",
    "digital": [
     "Board Game Arena",
@@ -12829,6 +15504,16 @@
     "Family",
     "Abstract"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 393,
    "blurb": "Sew a quilt, collect buttons, attract cats!",
    "digital": [
     "Apple App Store",
@@ -12896,6 +15581,13 @@
     "Family",
     "Party"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 347,
    "blurb": "Swap one-word coded clues with your partner, trying to identify specific word cards.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/VG31TvBpKngZ8ztV-N4Dcg__square200/img/HZN0m_KwpzR049JFSi--1PTVQcE=/200x200/filters:strip_icc()/pic8911183.png",
@@ -12961,6 +15653,17 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 176,
    "blurb": "Snatch up costly crystals and synthesize them to create wondrous golems.",
    "digital": [
     "Board Game Arena"
@@ -12991,6 +15694,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 276,
    "blurb": "Use dice for resources and actions to gain riches in the Renaissance.",
    "digital": [
     "Yucata"
@@ -13020,6 +15733,17 @@
     "Family",
     "Party"
    ],
+   "best_players": [
+    5,
+    6
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 206,
    "blurb": "Pit a cast of crazy characters against each other in a madcap race to the finish.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/1uW8t9AkuqOF0xjv_sXKgw__square200/img/OJ7OWTUqJnxvpyHLvwDsIDoDg38=/200x200/filters:strip_icc()/pic9106864.png",
@@ -13050,6 +15774,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 220,
    "blurb": "Develop your farm and compete to deliver goods to the market at the right time.",
    "digital": [
     "Board Game Arena",
@@ -13097,6 +15831,13 @@
    "categories": [
     "Wargames"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 169,
    "blurb": "Recreate the European theater of World War II in this acclaimed card-driven wargame.",
    "digital": [
     "VASSAL"
@@ -13126,6 +15867,18 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4,
+    5,
+    6
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 278,
    "blurb": "Trick-taking on the high seas. Meet your bid to please the Skull King.",
    "digital": [
     "Board Game Arena",
@@ -13177,6 +15930,15 @@
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 149,
    "blurb": "Explore the lands to discover the Last Ruin and become the most storied traveller.",
    "digital": [
     "Tabletopia"
@@ -13208,6 +15970,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 372,
    "blurb": "Dispute the favor of three different castes in order to unite Japan under your rule.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/o9-sNXmFS_TLAb7ZlZ4dRA__square200/img/U0KJDECpRbXpEdkhFaGAcv5d1ko=/200x200/filters:strip_icc()/pic3211873.jpg",
@@ -13231,10 +16002,20 @@
    "rank": 287,
    "rating": 7.52,
    "weight": 2.43,
-   "usersrated": 23485,
+   "usersrated": 23487,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 493,
    "blurb": "Assemble Marvel's finest Heroes to combat Masterminds and thwart their Schemes!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/ZrRidumkzu62HuwKdgQpHA__square200/img/L9P0iNsimqIoOqG2oyrKb_g3P-c=/200x200/filters:strip_icc()/pic1430769.jpg",
@@ -13262,6 +16043,13 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 220,
    "blurb": "Win the favor of the geishas through careful speculation and bold moves.",
    "digital": [
     "Board Game Arena"
@@ -13305,6 +16093,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 196,
    "blurb": "Clone dinosaurs and build attractions to gain the most excitement.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/hLJv1A1TwrMrLLIJhVpKVA__square200/img/oeOYFIpg2wIWvMbVgZpLYPvEQZE=/200x200/filters:strip_icc()/pic3429338.png",
@@ -13333,6 +16131,19 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    5,
+    6
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "player_votes": 118,
    "blurb": "Which mascot will cross the finish line first? Who will be DQ'd?",
    "digital": [],
    "image": "https://cf.geekdo-images.com/co36SqyPYlM1QwVW6XSwyQ__square200/img/kSF8iE1KZFu_mHpCmyGReNAaYb0=/200x200/filters:strip_icc()/pic8933083.jpg",
@@ -13361,6 +16172,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 317,
    "blurb": "As one of Freud's followers, delve into clients’ unconscious minds to bring healing.",
    "digital": [
     "TableTop Simulator Mod (TTS)",
@@ -13391,6 +16212,19 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "player_votes": 398,
    "blurb": "Pass sushi around a bigger table and take the best dishes. Save room for dessert!",
    "digital": [
     "Board Game Arena",
@@ -13437,10 +16271,19 @@
    "rank": 293,
    "rating": 7.59,
    "weight": 2.85,
-   "usersrated": 13288,
+   "usersrated": 13289,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 295,
    "blurb": "Become a gun-toting outlaw, or a law-abiding marshal in this Wild West sandbox.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/lZwgk3_MqyAmROjkz4v8Wg__square200/img/MXGh4YxnAS_Oz_NlXbBnWRSDKog=/200x200/filters:strip_icc()/pic6974323.png",
@@ -13468,6 +16311,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 386,
    "blurb": "Give orders to your peloton and avoid exhaustion in this card-pedaled Tour de Force.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/sUrK5CCscls-tTc2hJWDPg__square200/img/JbFb8b4P2LRAF2K0NmaHJvkW3yY=/200x200/filters:strip_icc()/pic3482521.jpg",
@@ -13485,44 +16337,6 @@
    "note": null
   },
   {
-   "bgg_id": 176189,
-   "name": "Zombicide: Black Plague",
-   "year": 2015,
-   "rank": 295,
-   "rating": 7.6,
-   "weight": 2.47,
-   "usersrated": 17556,
-   "categories": [
-    "Thematic"
-   ],
-   "blurb": "Work together to kill zombies in the Middle Ages! Then kill more zombies!",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/kVHuMBxmathfnq42XINBQg__square200/img/ee3wtillIA0XWA4uvvGnON5Abt0=/200x200/filters:strip_icc()/pic2482309.jpg",
-   "maxplayers": 6,
-   "maxplaytime": 180,
-   "minplayers": 1,
-   "minplaytime": 60,
-   "themes": [
-    "Adventure",
-    "Fantasy",
-    "Fighting",
-    "Horror",
-    "Medieval",
-    "Miniatures",
-    "Zombies"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [
-    {
-     "appid": 468726,
-     "platform": "Tabletop Simulator",
-     "url": "https://store.steampowered.com/app/468726/"
-    }
-   ],
-   "note": null
-  },
-  {
    "bgg_id": 19777,
    "name": "Indonesia",
    "year": 2005,
@@ -13533,6 +16347,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 180,
    "blurb": "Produce and ship goods in a dynamic economic ecosystem in the Indonesian archipelago.",
    "digital": [
     "Online Board Gamers",
@@ -13561,6 +16384,56 @@
    "note": null
   },
   {
+   "bgg_id": 176189,
+   "name": "Zombicide: Black Plague",
+   "year": 2015,
+   "rank": 296,
+   "rating": 7.6,
+   "weight": 2.47,
+   "usersrated": 17556,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 253,
+   "blurb": "Work together to kill zombies in the Middle Ages! Then kill more zombies!",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/kVHuMBxmathfnq42XINBQg__square200/img/ee3wtillIA0XWA4uvvGnON5Abt0=/200x200/filters:strip_icc()/pic2482309.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "themes": [
+    "Adventure",
+    "Fantasy",
+    "Fighting",
+    "Horror",
+    "Medieval",
+    "Miniatures",
+    "Zombies"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [
+    {
+     "appid": 468726,
+     "platform": "Tabletop Simulator",
+     "url": "https://store.steampowered.com/app/468726/"
+    }
+   ],
+   "note": null
+  },
+  {
    "bgg_id": 274637,
    "name": "Unmatched: Battle of Legends, Volume One",
    "year": 2019,
@@ -13571,6 +16444,14 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    4
+   ],
+   "player_votes": 153,
    "blurb": "Heroes and villains of legend (and their sidekicks) fight to the death.",
    "digital": [
     "Google Play"
@@ -13633,6 +16514,22 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    6,
+    7,
+    8
+   ],
+   "rec_players": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "player_votes": 322,
    "blurb": "Interpret forensic evidence to solve a murder. Beware, the murderer may be among you!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/1COY3oeK9aN2_XNimKaNww__square200/img/SCK4YkeazQhC-_B2k7xFCZ0stPw=/200x200/filters:strip_icc()/pic3033330.jpg",
@@ -13663,6 +16560,17 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 479,
    "blurb": "Build your kingdom as Chieftain one tile at a time and rule all of Scotland!",
    "digital": [
     "Google Play",
@@ -13725,6 +16633,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 297,
    "blurb": "Build card combos and race to rebuild Rome to become the most influential Patrician.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/S_-n-WRvpzgH-d8xuzJgmg__square200/img/eUfkKY8E_CkWvWYVvfdDD2VFs6s=/200x200/filters:strip_icc()/pic1079512.png",
@@ -13754,6 +16673,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 96,
    "blurb": "Construct buildings, vie for city lots, and compete to shape the city of Rome.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -13784,6 +16714,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 198,
    "blurb": "Fulfill the wishes of your population by producing ever more luxurious goods.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/B21RQfIBnt2A_CYq8iZvrg__square200/img/K6yFVYN0d10QZoFGoLalI8ScZ-E=/200x200/filters:strip_icc()/pic6220821.jpg",
@@ -13847,6 +16786,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 85,
    "blurb": "Take a crew of mages on Expeditions to face monstrosities from beyond the Breach.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/ZoIYlIzfph5yGuwQGKYneA__square200/img/H4w2PrawsWcNiLVsyJaH-2EPtTc=/200x200/filters:strip_icc()/pic4628176.jpg",
@@ -13906,6 +16855,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 390,
    "blurb": "Find the small traces to solve the big cases.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/bLL3P-G25nIUkFjHxfJfnw__square200/img/XbiHkn6QosolboEehNvJRvW0UTQ=/200x200/filters:strip_icc()/pic7632081.jpg",
@@ -13933,6 +16891,23 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    6,
+    8,
+    10
+   ],
+   "rec_players": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "player_votes": 52,
    "blurb": "Get your friends to guess the name on the card with different rule each round.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/XvWGuvDebUB5Vht9x00ZMg__square200/img/_20lBzjCsv5Zd6HfvU4tfqqtpow=/200x200/filters:strip_icc()/pic9147640.png",
@@ -13963,6 +16938,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 468,
    "blurb": "Lead a unique civilization to greatness through cultural and technological advances.",
    "digital": [
     "Board Game Arena",
@@ -14017,6 +17002,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 313,
    "blurb": "Draft dice and purchase skills, traits and equipment to create the perfect RPG hero.",
    "digital": [
     "Apple App Store",
@@ -14083,6 +17078,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 172,
    "blurb": "Rebuild old lands in a lush, hopeful future.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/tyv6lPMlyU7YIUztlILQYQ__square200/img/bpCif3K4iTLK4r90STx9Ykea6FI=/200x200/filters:strip_icc()/pic8587890.png",
@@ -14112,6 +17116,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 235,
    "blurb": "Become the next great spirit of the forest, exploring it and helping lost souls.",
    "digital": [
     "Tabletopia"
@@ -14141,6 +17155,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 228,
    "blurb": "Lead a small town: grow hops, improve workshops, and raise wealth to develop further.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/AdJBpY_o7PQEcoJPU1QdTg__square200/img/zAqj3eAe3iMkKyKQ7Dw-9zLD7V8=/200x200/filters:strip_icc()/pic5869977.jpg",
@@ -14171,6 +17195,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 150,
    "blurb": "Reclaim your honor by defeating monsters and gaining heroic attributes.",
    "digital": [
     "Tabletopia"
@@ -14200,6 +17234,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 302,
    "blurb": "Attract artisans and scholars to your palazzo by building and landscaping.",
    "digital": [
     "BrettspielWelt"
@@ -14229,6 +17272,16 @@
    "categories": [
     "Customizable"
    ],
+   "best_players": [
+    1,
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 118,
    "blurb": "Revised core set repackages the original with support for 1-4p and a new campaign.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/2zRlYhLyzKmOLZ-ULOX9_Q__square200/img/4lMRf7Bm-W1J9chLw2TyY-XwbPA=/200x200/filters:strip_icc()/pic7132021.jpg",
@@ -14259,6 +17312,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 138,
    "blurb": "Play as warring Egyptian Gods and build the most powerful army to dominate Egypt.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/IU-az-0jlIpoUxDHCCclNw__square200/img/mpJQr_LxPS-5gBnANm4_DbAEPiE=/200x200/filters:strip_icc()/pic6230640.jpg",
@@ -14288,6 +17350,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 245,
    "blurb": "Wisely choose your allies, minions, and spells to craft the path to prosperity!",
    "digital": [
     "Steam",
@@ -14351,6 +17422,16 @@
     "Family",
     "Party"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 274,
    "blurb": "Help sneakily maneuver your love letter to the Princess—or to those closest to her.",
    "digital": [
     "Board Game Arena",
@@ -14430,6 +17511,14 @@
    "categories": [
     "Abstract"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3
+   ],
+   "player_votes": 617,
    "blurb": "Use different divine powers to build and climb the towers!",
    "digital": [
     "Ai Ai",
@@ -14479,6 +17568,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 215,
    "blurb": "Draft dice to harness the power of pulsars in the gold rush of a new millennium!",
    "digital": [
     "TableTop Simulator Mod (TTS)",
@@ -14510,6 +17608,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 110,
    "blurb": "Expand your fleet, explore new frontiers, and impose your authority over your rivals.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/-CogwvQ7V19RQH0tE6msFw__square200/img/sn8lvhsVqi3_-Q_IWwwT6cs9VmQ=/200x200/filters:strip_icc()/pic4171533.png",
@@ -14569,6 +17677,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 150,
    "blurb": "A classic game of managing railroads and investing wisely.",
    "digital": [
     "18xx.games"
@@ -14599,6 +17718,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 223,
    "blurb": "Hyper-intelligent bees take to outer space to build, explore, and grow.",
    "digital": [
     "Board Game Arena",
@@ -14648,6 +17778,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 308,
    "blurb": "Run a spice trade business in colonial-era India in this closed-loop economy game.",
    "digital": [
     "Board Game Arena",
@@ -14697,6 +17836,15 @@
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 469,
    "blurb": "Prepare for unknown dangers by building the best spaceship possible.",
    "digital": [
     "Google Play"
@@ -14728,6 +17876,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 273,
    "blurb": "Gain control of medieval Japan by amassing troops and sending them out to battles.",
    "digital": [
     "Board Game Arena"
@@ -14774,6 +17932,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    1
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 283,
    "blurb": "Crack codes using a real analog computer.",
    "digital": [
     "Board Game Arena"
@@ -14829,6 +17997,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    1,
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 223,
    "blurb": "Use towers, minions, and heroes to help your faction claim an island in the sky.",
    "digital": [
     "VASSAL"
@@ -14860,6 +18039,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 158,
    "blurb": "Seasons pass as you develop your vineyard, harvest grapes, make wine and fill orders.",
    "digital": [
     "Google Play",
@@ -14909,6 +18099,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 145,
    "blurb": "Car-factory workers optimise and innovate to stand out at the big board meeting.",
    "digital": [
     "Boiteajeux",
@@ -14939,6 +18139,18 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 210,
    "blurb": "Psychic rogue agents team up to track down the Recruiter in Zanzibar.",
    "digital": [
     "Board Game Arena",
@@ -14987,6 +18199,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 56,
    "blurb": "A Player Vs Player dice dueling game.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/L6VXhLkvaZmf_3qUB5poIg__square200/img/ATIwFFwkaigboI2nS3TrJUyR3Qs=/200x200/filters:strip_icc()/pic9790616.jpg",
@@ -15043,10 +18264,20 @@
    "rank": 331,
    "rating": 7.88,
    "weight": 2.88,
-   "usersrated": 9338,
+   "usersrated": 9342,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 472,
    "blurb": "Explore the Continent, upgrade your skills, and fight monsters/witchers for trophies.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/tQVVSXcmYLvAoI28cp-2Tg__square200/img/-x51X_wpW7TT5FlqnxPtG0EMhY4=/200x200/filters:strip_icc()/pic5974859.jpg",
@@ -15078,6 +18309,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    1,
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 371,
    "blurb": "Experience the peaceful and relaxed atmosphere of the video game on your table.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/Nqw3SzV4JDd64lcDgytPEg__square200/img/XyAWkJi-2Ybua7fjQw4uJDqDaL8=/200x200/filters:strip_icc()/pic7227691.jpg",
@@ -15135,6 +18376,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 123,
    "blurb": "Control conglomerates of companies driving Japan’s economy.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/bOs_Um4cUUOpKnypCMykJA__square200/img/KeA5fm9luwQ0EyMJPh1IXaaEU4Y=/200x200/filters:strip_icc()/pic8844519.png",
@@ -15162,6 +18413,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 805,
    "blurb": "Build a kingdom with varied terrains on domino-shaped tiles in this fast family game.",
    "digital": [
     "Apple App Store",
@@ -15244,6 +18505,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 205,
    "blurb": "Mobilize stronger formations to counter the enemy along an ever-changing battle-line.",
    "digital": [
     "VASSAL"
@@ -15274,6 +18542,15 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 284,
    "blurb": "Change the course of history as empires rise and fall and your tale becomes legend.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -15307,6 +18584,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    1,
+    2
+   ],
+   "rec_players": [
+    1,
+    2
+   ],
+   "player_votes": 445,
    "blurb": "Compete to become the most dominant empire the world has ever seen!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/MN0OvKejfrfwD6bupQHp4g__square200/img/0Nh58B0-AtVBgnejOt4HxLneKVM=/200x200/filters:strip_icc()/pic5623566.jpg",
@@ -15335,6 +18621,13 @@
    "categories": [
     "Abstract"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 347,
    "blurb": "Use your insects to trap your opponent's Queen Bee in this board-less abstract game.",
    "digital": [
     "Board Game Arena",
@@ -15381,6 +18674,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 394,
    "blurb": "Explorers race from Missouri to Oregon, asking local Native American tribes for help.",
    "digital": [
     "Board Game Arena",
@@ -15431,6 +18734,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 246,
    "blurb": "Lead the men and women of your tribe to expand and thrive in an island paradise.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/9YEjZIVdWVcUVWC7o8aKsQ__square200/img/z2SBOyHaoDCCO3mzpyOneTB1P0I=/200x200/filters:strip_icc()/pic1542342.jpg",
@@ -15457,6 +18769,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 124,
    "blurb": "Influential families react to the whims of the cube tower to gain power in the city. ",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -15485,6 +18806,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 226,
    "blurb": "Cooperate as Marvel Superheroes to stop the Villains' master plans!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/-19XPXmTn9QyyvqwpcFkBw__square200/img/ualVsfYmRkDY2EVYp2sVnr1wrz0=/200x200/filters:strip_icc()/pic5231006.jpg",
@@ -15513,6 +18844,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 248,
    "blurb": "Call upon unique fantasy tribes to gain control of the land and earn glory.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/UIKUXkcnH3Bd4fjcPGINcA__square200/img/Q_3adzg7U7HCOEU9CH78Nw2Mqzk=/200x200/filters:strip_icc()/pic3304124.png",
@@ -15540,6 +18882,15 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 249,
    "blurb": "Be the first to locate the cryptid through pure deduction and subtle deception.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/qrPLpAnhFgc470ZRuXlvbg__square200/img/PZjkWdpImX7qAmDuqiUYpSWj6EE=/200x200/filters:strip_icc()/pic4037705.jpg",
@@ -15567,6 +18918,15 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 225,
    "blurb": "Tame many mythical creatures, harnessing their powers in order to summon dragons.",
    "digital": [
     "Board Game Arena",
@@ -15615,6 +18975,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 252,
    "blurb": "Conquer America in 1960: debate, campaign, and rewrite history.",
    "digital": [
     "VASSAL"
@@ -15644,6 +19011,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 243,
    "blurb": "Explore the waterways, map the land, and chart the stars in medieval Baghdad.",
    "digital": [
     "Board Game Arena",
@@ -15692,6 +19068,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 186,
    "blurb": "Make dresses for a prestigious ball while managing your deck of employees!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/Go8mEe3K1VjYFJxLXEUPqQ__square200/img/WQzLcC1NmavXOUdjGqygo_22c9g=/200x200/filters:strip_icc()/pic1795272.jpg",
@@ -15719,6 +19105,13 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 482,
    "blurb": "Set out on expeditions, but will your findings outweigh the cost of each adventure?",
    "digital": [
     "Board Game Arena",
@@ -15798,6 +19191,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 280,
    "blurb": "Settle new lands, grow your population, and build megaliths - in an endless winter.",
    "digital": [
     "TableTop Simulator Mod (TTS)",
@@ -15825,10 +19228,19 @@
    "rank": 351,
    "rating": 7.88,
    "weight": 2.49,
-   "usersrated": 6606,
+   "usersrated": 6613,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 267,
    "blurb": "As monsters, work together to defend your dungeon against so-called heroes.",
    "digital": [
     "Steam",
@@ -15894,6 +19306,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 136,
    "blurb": "Rival railways compete to build networks and maximise profits by transporting goods.",
    "digital": [
     "Google Play",
@@ -15948,35 +19369,6 @@
    "note": null
   },
   {
-   "bgg_id": 223321,
-   "name": "Detective: A Modern Crime Board Game",
-   "year": 2018,
-   "rank": 353,
-   "rating": 7.59,
-   "weight": 2.74,
-   "usersrated": 11579,
-   "categories": [
-    "Thematic"
-   ],
-   "blurb": "Collaborate in an FBI unit to solve cases using high-tech & traditional techniques.",
-   "digital": [
-    "Tabletopia"
-   ],
-   "image": "https://cf.geekdo-images.com/wJphcoCCYScWCNkE32D_hw__square200/img/HQ3V34i-TUNEybuHr57P7lgg4Vk=/200x200/filters:strip_icc()/pic5756205.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 180,
-   "minplayers": 1,
-   "minplaytime": 120,
-   "themes": [
-    "Deduction",
-    "Murder / Mystery"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null
-  },
-  {
    "bgg_id": 411567,
    "name": "The Gang",
    "year": 2024,
@@ -15987,6 +19379,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    5
+   ],
+   "rec_players": [
+    4,
+    5,
+    6
+   ],
+   "player_votes": 226,
    "blurb": "Bet together the order of your hands in Texas Hold'em Poker to win together.",
    "digital": [
     "Board Game Arena"
@@ -16023,6 +19424,45 @@
    "note": null
   },
   {
+   "bgg_id": 223321,
+   "name": "Detective: A Modern Crime Board Game",
+   "year": 2018,
+   "rank": 354,
+   "rating": 7.59,
+   "weight": 2.74,
+   "usersrated": 11583,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 241,
+   "blurb": "Collaborate in an FBI unit to solve cases using high-tech & traditional techniques.",
+   "digital": [
+    "Tabletopia"
+   ],
+   "image": "https://cf.geekdo-images.com/wJphcoCCYScWCNkE32D_hw__square200/img/HQ3V34i-TUNEybuHr57P7lgg4Vk=/200x200/filters:strip_icc()/pic5756205.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 120,
+   "themes": [
+    "Deduction",
+    "Murder / Mystery"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
    "bgg_id": 46213,
    "name": "Telestrations",
    "year": 2009,
@@ -16033,6 +19473,17 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    8
+   ],
+   "rec_players": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "player_votes": 244,
    "blurb": "Guess what they drew, then draw what they guessed, and see how funny the changes get.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/Dd94J37Oi1tgL7HAAaOfAQ__square200/img/z6PWzfyL5OwuzlNYuJpcDLJVfkU=/200x200/filters:strip_icc()/pic8855812.jpg",
@@ -16057,10 +19508,20 @@
    "rank": 356,
    "rating": 7.68,
    "weight": 3.38,
-   "usersrated": 11272,
+   "usersrated": 11270,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 272,
    "blurb": "Piece the clues together to stop the horrors before your sanity shatters.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/09KeqyJEtu2qcskbtlOhqw__square200/img/uWVtIV5SuMcG7y-FS0yRLZbfsMk=/200x200/filters:strip_icc()/pic5726297.jpg",
@@ -16090,6 +19551,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 518,
    "blurb": "What's your bid? Bid on promising property bundles, then sell properties for checks.",
    "digital": [
     "Board Game Arena"
@@ -16137,6 +19608,15 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 176,
    "blurb": "Armageddon came. Humanity fell. Which Elder God will rule the last remains of Earth?",
    "digital": [
     "VASSAL"
@@ -16167,6 +19647,15 @@
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 398,
    "blurb": "Lay out the case, interrogate suspects, and investigate crime scenes with your phone.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/1BMyuEwK0zV9005oYinYLw__square200/img/_28Az4VY7N8mxmQqEERw1p8KgZ8=/200x200/filters:strip_icc()/pic4317519.jpg",
@@ -16196,6 +19685,13 @@
     "Strategy",
     "Customizable"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 58,
    "blurb": "The fight for Itharia is on! Defeat the enemy summoner before they cut yours down.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/HDPEZ_KvztEkzYI8YQDtCg__square200/img/DYVc9RlvKo7Zj_lPnS-p6VmLteY=/200x200/filters:strip_icc()/pic6019321.jpg",
@@ -16224,6 +19720,21 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    6
+   ],
+   "rec_players": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "player_votes": 251,
    "blurb": "Don’t be too vague or precise when describing beautifully surreal art.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/7b75ZZJQ4EEbDsKLi6kYSw__square200/img/ChlbUDq68me-2sdZIJHJH517gq0=/200x200/filters:strip_icc()/pic918568.jpg",
@@ -16253,6 +19764,16 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 184,
    "blurb": "Explore strange lands, establish trade routes, and search for treasure.",
    "digital": [
     "Board Game Arena",
@@ -16301,6 +19822,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 141,
    "blurb": "Card Crafting meets 4X!  Sail the high seas and choose your path to victory!",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -16332,6 +19863,14 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3
+   ],
+   "player_votes": 565,
    "blurb": "Mages compete across twelve seasons to collect crystals and become the new archmage.",
    "digital": [
     "Board Game Arena"
@@ -16377,6 +19916,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 151,
    "blurb": "Lead your space agency to expand your presence on the Moon.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -16406,6 +19954,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 146,
    "blurb": "Plot out supply lines and build monuments to impress the African god of your choice.",
    "digital": [
     "Boardgamecore",
@@ -16438,6 +19996,13 @@
    "categories": [
     "Abstract"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 173,
    "blurb": "Assert your martial prowess by harnessing the power of various animal spirits.",
    "digital": [
     "Board Game Arena",
@@ -16481,6 +20046,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 141,
    "blurb": "Cheesemakers compete to run the most prosperous creamery in France.",
    "digital": [
     "Board Game Arena",
@@ -16522,13 +20097,22 @@
    "bgg_id": 146508,
    "name": "T.I.M.E Stories",
    "year": 2015,
-   "rank": 368,
+   "rank": 369,
    "rating": 7.34,
    "weight": 2.58,
-   "usersrated": 28926,
+   "usersrated": 28929,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 396,
    "blurb": "Protect the world from paradoxes with your team of time-traveling agents.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/XmwCsjQ3C1Ul53ZN2o8Q-Q__square200/img/C4n5V1Oth_9wqPr2h1775bYE6gY=/200x200/filters:strip_icc()/pic2617634.png",
@@ -16557,6 +20141,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 392,
    "blurb": "Invest, divest, and stage hostile takeovers in this classic real estate game.",
    "digital": [
     "TableTop Simulator Mod (TTS)",
@@ -16587,6 +20181,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 151,
    "blurb": "Become the most influential banker and pull the strings that decide Europe's future.",
    "digital": [
     "Board Game Arena",
@@ -16634,6 +20238,14 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4
+   ],
+   "player_votes": 1194,
    "blurb": "Can you get a letter to the princess or remove all your rivals? You win either way!",
    "digital": [
     "Apple App Store",
@@ -16698,6 +20310,13 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    1
+   ],
+   "rec_players": [
+    1
+   ],
+   "player_votes": 106,
    "blurb": "Build the canals, repel the barbarians, and rise to fame as Yu the Great!",
    "digital": [
     "Tabletopia"
@@ -16727,6 +20346,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 234,
    "blurb": "A subtle game of shifting power and control over medieval Britain.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/p8ATnANurMdieJUELqN3IA__square200/img/KMbvcmiB1jxHs00SwSD78iRr-8k=/200x200/filters:strip_icc()/pic5680120.jpg",
@@ -16755,6 +20383,21 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "player_votes": 201,
    "blurb": "Bet, buy horses, and influence jockeys for cash in an exciting 1930's era horse race.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -16786,6 +20429,14 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    1
+   ],
+   "rec_players": [
+    1,
+    2
+   ],
+   "player_votes": 297,
    "blurb": "A city-survival game where heat means life and every decision comes with a cost. ",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -16846,6 +20497,17 @@
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "player_votes": 170,
    "blurb": "Seek fortune and infamy in a fantastical world of piratical misadventure.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/gLnzfyJio2MYbG9J-uQSiQ__square200/img/_xbloy-RJln0nU4rnQPMhgQw5rc=/200x200/filters:strip_icc()/pic5253984.jpg",
@@ -16877,6 +20539,15 @@
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 192,
    "blurb": "Fight against rival guilds and monsters in a campaign to reclaim the city of Arcadia.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/8qyLCqvdZkSpT2lEbwVpeg__square200/img/6cJ8HhUgCdq7uhHRIJ_yydPhc_0=/200x200/filters:strip_icc()/pic2305263.jpg",
@@ -16907,6 +20578,14 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3
+   ],
+   "player_votes": 608,
    "blurb": "Guide your civilization with inventions from the stone age through to the modern era.",
    "digital": [
     "Board Game Arena",
@@ -16953,6 +20632,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 130,
    "blurb": "Build power plants, not bombs, in this standalone sequel to The Manhattan Project.",
    "digital": [
     "BoardGamePlay"
@@ -16984,6 +20674,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 230,
    "blurb": "Sail around the globe while managing your trade in the Portuguese Colonial Empire.",
    "digital": [
     "Yucata"
@@ -17015,6 +20715,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 312,
    "blurb": "Venture to the dangerous north in this tile-exploration sequel to Scythe.",
    "digital": [
     "Board Game Arena",
@@ -17063,6 +20772,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 247,
    "blurb": "Win tricks without knowing the colour of your cards until you play them.",
    "digital": [
     "Board Game Arena"
@@ -17109,6 +20827,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 110,
    "blurb": "Set sail for an adventurous raid…for perhaps it will be your last!",
    "digital": [
     "Board Game Arena",
@@ -17158,6 +20886,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 308,
    "blurb": "Invest in imperialist powers to extract wealth by industrialization and expansion.",
    "digital": [
     "BrettspielWelt"
@@ -17189,6 +20927,18 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    1,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 236,
    "blurb": "Use your three workers to clear trees, build a harbor, and fish in northern Norway.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/nKYqNPEE94Zk_q5Vtk527w__square200/img/AdzZuXm7OUQ-wB3oa0ni7qiQmVI=/200x200/filters:strip_icc()/pic3729070.jpg",
@@ -17217,6 +20967,14 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    5
+   ],
+   "rec_players": [
+    4,
+    5
+   ],
+   "player_votes": 228,
    "blurb": "Negotiate and build the most successful business in all of Chinatown!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/o23NBqu_LBRAtRaVoOBBhQ__square200/img/zRx0iOV4dctVeeXVo2Zq-YDQukI=/200x200/filters:strip_icc()/pic403442.jpg",
@@ -17245,6 +21003,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 243,
    "blurb": "Raise monstrous pets and sell them to demanding Dungeon Lords for fame and fortune.",
    "digital": [
     "Board Game Arena",
@@ -17294,6 +21061,17 @@
     "Family",
     "Abstract"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 173,
    "blurb": "Fast-paced, tile-matching, engine building game.",
    "digital": [
     "TableTop Simulator Mod (TTS)",
@@ -17325,6 +21103,14 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4
+   ],
+   "player_votes": 461,
    "blurb": "Sharks, whales, and sea monsters, oh my! Hurry and escape before Atlantis disappears!",
    "digital": [
     "Tabletopia"
@@ -17356,6 +21142,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 348,
    "blurb": "Strategically create pathways through jungle, collect treasure, and excavate temples.",
    "digital": [
     "Board Game Arena"
@@ -17399,10 +21194,20 @@
    "rank": 392,
    "rating": 8.97,
    "weight": 3.29,
-   "usersrated": 2640,
+   "usersrated": 2642,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 117,
    "blurb": "Exiles explore the lands of Arydia, fighting and questing, to earn their way home.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/GGXq2lRAJCtS1yPPPmdVKw__square200/img/rNaZEs4MH4yHBFtI2iYYzCSwqc8=/200x200/filters:strip_icc()/pic6205610.png",
@@ -17432,6 +21237,16 @@
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 364,
    "blurb": "This ship runs itself! Wait, why are our shields down and where did you go? Help us!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/tinE1f2lauIsEL4aC9aU-w__square200/img/JkVvp4Xf55EUTaISJQ_WxD4pUjc=/200x200/filters:strip_icc()/pic384313.jpg",
@@ -17462,6 +21277,16 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 253,
    "blurb": "Adorable bunnies build cities, harvest carrots, and go on missions to be \"Big Ears!\"",
    "digital": [
     "Board Game Arena"
@@ -17505,11 +21330,26 @@
    "rank": 395,
    "rating": 7.77,
    "weight": 2.17,
-   "usersrated": 6900,
+   "usersrated": 6903,
    "categories": [
     "Thematic",
     "Party"
    ],
+   "best_players": [
+    8,
+    9,
+    10,
+    11
+   ],
+   "rec_players": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "player_votes": 150,
    "blurb": "Social deduction - Loyal sailors, ruthless pirates, crazy cultists and... The Kraken!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/1I9spdDMuRzgM4EVV6BRiQ__square200/img/pN6dmwatSu8yMu6LaKbhlyXCFlw=/200x200/filters:strip_icc()/pic8775698.jpg",
@@ -17541,6 +21381,17 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 348,
    "blurb": "Grow and trade spices and use them to gain estate.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/0_KEDk4lCvryf1Ju3YQJxA__square200/img/meDXLtQn5ZpZ0_Likuc-smJH0k8=/200x200/filters:strip_icc()/pic3339551.jpg",
@@ -17569,6 +21420,19 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    5,
+    6
+   ],
+   "rec_players": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "player_votes": 151,
    "blurb": "Nine bizarre alien races barter their way to the top of a new utopian community.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/3V1Nmee3P4qSpVmWO9uGgw__square200/img/9znXMUikY1lXFLAcuUlaBDKTlSY=/200x200/filters:strip_icc()/pic4981297.jpg",
@@ -17599,6 +21463,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 325,
    "blurb": "Clear the land, hire specialists, build and gather to make your own trade empire.",
    "digital": [
     "Board Game Arena"
@@ -17647,6 +21521,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 339,
    "blurb": "Send monks, merchants, soldiers, & more to explore, settle, & battle in the New World",
    "digital": [
     "VASSAL"
@@ -17678,6 +21563,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 200,
    "blurb": "Vie for influence, manage threats, build, and employ the unique denizens of the city!",
    "digital": [
     "BrettspielWelt",
@@ -17710,6 +21604,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 204,
    "blurb": "Harvest beer ingredients and master the art of monastic brewcrafting.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/P0B68R2CLFTuiD8M9lCYPQ__square200/img/Mm06YimLBeY42P6dKke0yLwC2mA=/200x200/filters:strip_icc()/pic3563904.jpg",
@@ -17738,6 +21641,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 234,
    "blurb": "Raid and plunder your way through ancient empires on horseback.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/07MRsX6Tv5elGdefTOQxsQ__square200/img/Qxw4agyo2Mo_R38cQdu1gwaZlsE=/200x200/filters:strip_icc()/pic5235769.png",
@@ -17764,6 +21677,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 341,
    "blurb": "Roll your dice and colonize planets, utilizing your energy and culture.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -17797,10 +21720,18 @@
    "rank": 404,
    "rating": 7.67,
    "weight": 2.26,
-   "usersrated": 7339,
+   "usersrated": 7341,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    5
+   ],
+   "rec_players": [
+    4,
+    5
+   ],
+   "player_votes": 171,
    "blurb": "Leaders join in council to vote on the kingdom’s issues, but with hidden motives!",
    "digital": [
     "Apple App Store",
@@ -17862,6 +21793,17 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 109,
    "blurb": "Dive into the watery depths to find and observe a vast array of aquatic life.",
    "digital": [
     "Tabletopia"
@@ -17892,6 +21834,18 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 61,
    "blurb": "Manage resources, build networks and supply the most cities with power.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/pTnv3lUWs4Knl3fqer0KnA__square200/img/SQvqDbnYTMF0COdjjXTeNZW7vS8=/200x200/filters:strip_icc()/pic2056160.jpg",
@@ -17919,6 +21873,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 531,
    "blurb": "Construct buildings, harvest resources, and attack your neighbor!",
    "digital": [
     "Board Game Arena",
@@ -17967,6 +21931,17 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 72,
    "blurb": "Co-operate as Marvel Heroes to stop the Villains' master plans!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/McQXSQjyTtrqpGA77GSRxg__square200/img/rc2VqGjHXc1cE0FhYAmuWnFch3c=/200x200/filters:strip_icc()/pic6245965.jpg",
@@ -17996,6 +21971,17 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 313,
    "blurb": "Gather goods, place dragons and enchant shops to enhance the town.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/EvGtnsBDcfnKiqSiXHothQ__square200/img/AawHoFMIt0QDpHp_cAA5aXfPECo=/200x200/filters:strip_icc()/pic6605448.jpg",
@@ -18059,6 +22045,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 199,
    "blurb": "Use money to manipulate countries into warring with each other for your own profit.",
    "digital": [
     "BrettspielWelt"
@@ -18085,10 +22081,21 @@
    "rank": 411,
    "rating": 7.39,
    "weight": 3.28,
-   "usersrated": 15689,
+   "usersrated": 15690,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    3,
+    5
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 278,
    "blurb": "Dracula is attacking! Or is it a trick while he hides? Track him down to find out.",
    "digital": [
     "Steam"
@@ -18155,6 +22162,16 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 1136,
    "blurb": "Control one fantasy race after another to expand quickly throughout the land.",
    "digital": [
     "Board Game Arena",
@@ -18204,6 +22221,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 190,
    "blurb": "19th century capitalists manipulate the market and manage their industrial empires.",
    "digital": [
     "Tabletopia"
@@ -18236,6 +22263,17 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 238,
    "blurb": "A thrilling whodunit where only logic saves you from bluff and false leads.",
    "digital": [
     "Board Game Arena"
@@ -18289,6 +22327,14 @@
     "Strategy",
     "Customizable"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    4
+   ],
+   "player_votes": 117,
    "blurb": "Harness the magic! Summon your warrior hordes onto the field of battle.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/JvkUZy1YS7V9GX-7JutIYg__square200/img/tVkuRfHF7oIjy-0ltV-ZifxoqMc=/200x200/filters:strip_icc()/pic923048.jpg",
@@ -18318,6 +22364,13 @@
     "Thematic",
     "Wargames"
    ],
+   "best_players": [
+    1
+   ],
+   "rec_players": [
+    1
+   ],
+   "player_votes": 184,
    "blurb": "Sail the Seven Seas as the hardened captain Nemo, fighting the Imperialist powers.",
    "digital": [
     "Tabletopia"
@@ -18348,10 +22401,19 @@
    "rank": 417,
    "rating": 7.64,
    "weight": 1.92,
-   "usersrated": 10257,
+   "usersrated": 10259,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 239,
    "blurb": "Characters explore a medieval-fantasy land as they race to fulfill their destiny.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/oaD1ZQ3yGj6lacLdtqgdnQ__square200/img/4AD1SXkHWSgMg_ArfUmau6Qw-UM=/200x200/filters:strip_icc()/pic5558118.png",
@@ -18383,6 +22445,15 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 176,
    "blurb": "Gather energy marbles to build gizmos parts and trigger chain reactions and combos.",
    "digital": [
     "Board Game Arena"
@@ -18428,6 +22499,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 331,
    "blurb": "Race to develop and colonize the surface of planet Maxwell.",
    "digital": [
     "Tabletopia",
@@ -18459,6 +22540,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 182,
    "blurb": "Cooperatively decarbonize the planet and create resilient societies.",
    "digital": [
     "Board Game Arena",
@@ -18508,6 +22599,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 135,
    "blurb": "Create a travel itinerary and go on your dream vacation to Japan.",
    "digital": [
     "Board Game Arena"
@@ -18556,6 +22657,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 399,
    "blurb": "Battle robots, gangs, and more in tactical post-apocalyptic warfare.",
    "digital": [
     "Google Play",
@@ -18620,6 +22730,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 82,
    "blurb": "Submit orders on three fronts to outwit and outmatch your military opponent.",
    "digital": [
     "Tabletopia"
@@ -18652,6 +22769,15 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 256,
    "blurb": "Build, conquer, gather, recruit, and find runes in the Terrinoth realm.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/5cjKhFwhZwBcr8e3YA-9Nw__square200/img/ZyQLHUGv_9PwhCfR20OyTgN0Kyo=/200x200/filters:strip_icc()/pic1534815.jpg",
@@ -18682,6 +22808,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 199,
    "blurb": "Gnomes struggle to re-ignite mystical bonfires to bring light to their dark planet.",
    "digital": [
     "Tabletopia",
@@ -18712,6 +22848,13 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 112,
    "blurb": "Serve the Mindbug, summon hybrids, and mind-control your opponent's best cards.",
    "digital": [
     "Steam",
@@ -18769,13 +22912,23 @@
    "bgg_id": 203420,
    "name": "EXIT: The Game – The Abandoned Cabin",
    "year": 2016,
-   "rank": 426,
+   "rank": 427,
    "rating": 7.4,
    "weight": 2.54,
-   "usersrated": 12292,
+   "usersrated": 12293,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 188,
    "blurb": "A kind stranger's invitation becomes a grim trap - can you escape before he returns?",
    "digital": [],
    "image": "https://cf.geekdo-images.com/r7cZVZMpP28w3-JQ-EYY7g__square200/img/5khdlYR0EA5JBD9KBYWAYRh87kY=/200x200/filters:strip_icc()/pic3332426.jpg",
@@ -18800,11 +22953,21 @@
    "rank": 428,
    "rating": 7.4,
    "weight": 2.31,
-   "usersrated": 12811,
+   "usersrated": 12813,
    "categories": [
     "Thematic",
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 251,
    "blurb": "As part of a heist team, break in, get the loot, and get out without getting caught.",
    "digital": [
     "Apple App Store",
@@ -18886,6 +23049,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 40,
    "blurb": "The big beast and the wily rogue fight to see who's king of the forest.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/5Fr8QPIazZRgEMnN2bwJ0g__square200/img/15w-BNiRzpU0JsoelS4PUN3nkzM=/200x200/filters:strip_icc()/pic4621589.jpg",
@@ -18946,6 +23116,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 213,
    "blurb": "As the Obelisk's shadow moves, use dice to build Ipet-Isut and the temple of Amun-Ra.",
    "digital": [
     "Tabletopia"
@@ -18972,10 +23152,19 @@
    "rank": 431,
    "rating": 7.38,
    "weight": 3.26,
-   "usersrated": 14836,
+   "usersrated": 14835,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 349,
    "blurb": "Live the life of an influential merchant or a dreaded pirate in the Caribbean.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/RmKYojYHmV8X-ebtNgaz-g__square200/img/RqgM2uk_l7kiK34RnK0uezyiLUE=/200x200/filters:strip_icc()/pic738119.jpg",
@@ -19006,6 +23195,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 261,
    "blurb": "Build a bear park on personal boards by carefully placing polyominoes.",
    "digital": [
     "Board Game Arena"
@@ -19041,37 +23239,6 @@
    "note": null
   },
   {
-   "bgg_id": 193037,
-   "name": "Dead of Winter: The Long Night",
-   "year": 2016,
-   "rank": 434,
-   "rating": 7.5,
-   "weight": 3.33,
-   "usersrated": 10662,
-   "categories": [
-    "Thematic"
-   ],
-   "blurb": "A new group stands alone against the undead, bandits, and the horrors of Raxxon.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/wpWzYeX4dg5TgNdR9OsxAg__square200/img/CVS5qZbEWB2WMhC9UJpp-qKCWyk=/200x200/filters:strip_icc()/pic2906832.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 120,
-   "minplayers": 2,
-   "minplaytime": 60,
-   "themes": [
-    "Bluffing",
-    "Deduction",
-    "Horror",
-    "Mature / Adult",
-    "Science Fiction",
-    "Zombies"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null
-  },
-  {
    "bgg_id": 39856,
    "name": "Dixit",
    "year": 2008,
@@ -19082,6 +23249,17 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    5,
+    6
+   ],
+   "rec_players": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "player_votes": 946,
    "blurb": "Give the perfect clue so most (not all) players guess the right surreal image card.",
    "digital": [
     "Boiteajeux",
@@ -19114,6 +23292,15 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 207,
    "blurb": "Build your newly founded village above while exploring the caves and stories below.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/U0wpvRmBe65e4vwGf0Jbpg__square200/img/rSMDogfjLvXKar6e2fE_JUvDWt0=/200x200/filters:strip_icc()/pic2398773.jpg",
@@ -19136,6 +23323,46 @@
    "note": null
   },
   {
+   "bgg_id": 193037,
+   "name": "Dead of Winter: The Long Night",
+   "year": 2016,
+   "rank": 435,
+   "rating": 7.5,
+   "weight": 3.33,
+   "usersrated": 10663,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 125,
+   "blurb": "A new group stands alone against the undead, bandits, and the horrors of Raxxon.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/wpWzYeX4dg5TgNdR9OsxAg__square200/img/CVS5qZbEWB2WMhC9UJpp-qKCWyk=/200x200/filters:strip_icc()/pic2906832.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "themes": [
+    "Bluffing",
+    "Deduction",
+    "Horror",
+    "Mature / Adult",
+    "Science Fiction",
+    "Zombies"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
    "bgg_id": 425549,
    "name": "Moon Colony Bloodbath",
    "year": 2025,
@@ -19146,6 +23373,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 137,
    "blurb": "Whatever can go wrong will go wrong. Players compete to keep their colonists alive.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -19176,6 +23414,13 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    1
+   ],
+   "rec_players": [
+    1
+   ],
+   "player_votes": 92,
    "blurb": "Woodland rulers engage in debate in this tactical solo trick-taking game.",
    "digital": [
     "Board Game Arena"
@@ -19221,6 +23466,13 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 151,
    "blurb": "Place your kilted clansmen, control stones, expand territory & foil the rival clan.",
    "digital": [
     "Board Game Arena"
@@ -19263,6 +23515,13 @@
    "categories": [
     "Wargames"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    3
+   ],
+   "player_votes": 156,
    "blurb": "Maneuver martially and politically in this 3 player War of the Austrian Succession.",
    "digital": [
     "Rally the Troops"
@@ -19295,6 +23554,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 211,
    "blurb": "Launch your rockets, sabotage the competition as you vie to control Mars.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/dqA_FWqa16taFKOqvdvCEA__square200/img/iCEj3x3DO1aVv7GzqQO464OSVVs=/200x200/filters:strip_icc()/pic8483896.jpg",
@@ -19321,6 +23590,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 375,
    "blurb": "Lead your civilization to greatness in military, arts, science or economy.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/1WAfWHPi4Vvm1UCMtQaeaA__square200/img/LcIwnDKp8HG2XF83GbHOu6xdox4=/200x200/filters:strip_icc()/pic798666.jpg",
@@ -19351,6 +23629,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 247,
    "blurb": "Build upwards as well as outwards to control the most buildings in a future eco-city.",
    "digital": [
     "Board Game Arena",
@@ -19396,11 +23685,20 @@
    "rank": 443,
    "rating": 8.04,
    "weight": 3.49,
-   "usersrated": 4578,
+   "usersrated": 4580,
    "categories": [
     "Thematic",
     "Customizable"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 190,
    "blurb": "Explore the wilderness of the far future as rangers of a wondrous mountain valley.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -19433,6 +23731,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 444,
    "blurb": "Build the Arboretum of your dreams, and prevent your rival from building theirs.",
    "digital": [
     "Board Game Arena",
@@ -19480,6 +23787,17 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 466,
    "blurb": "Slip away as Jack the Ripper or track his hidden movement as a team of investigators.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/H3G1t-oIjN9gEVVI21FoVg__square200/img/g8y8BIm9bX2NgizwbeSQQyntsg0=/200x200/filters:strip_icc()/pic1545654.jpg",
@@ -19509,6 +23827,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 133,
    "blurb": "Expand your bus line and maybe bend time in this worker placement classic!",
    "digital": [
     "Board Game Arena",
@@ -19537,7 +23864,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 589
+    "plays": 590
    },
    "steam": [],
    "vtt": [],
@@ -19554,6 +23881,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 204,
    "blurb": "Build your Greek city on multiple levels to keep your districts perfectly placed.",
    "digital": [
     "Board Game Arena"
@@ -19602,6 +23938,20 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    6,
+    7,
+    8
+   ],
+   "rec_players": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "player_votes": 123,
    "blurb": "Head to the races for a day of cheering, jeering, and betting!",
    "digital": [
     "Tabletopia"
@@ -19634,6 +23984,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 509,
    "blurb": "Carefully cultivate a bamboo garden with the help of a gardener and a hungry panda.",
    "digital": [
     "Apple App Store",
@@ -19684,6 +24043,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 300,
    "blurb": "Control factions, influence the court and reign over underwater realms!",
    "digital": [
     "Board Game Arena"
@@ -19732,6 +24100,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 333,
    "blurb": "Prepare your dungeon. Set evil traps. Release your monsters. Stop the good guys.",
    "digital": [
     "Boiteajeux"
@@ -19763,6 +24140,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 128,
    "blurb": "Build your very own thriving jungle by discovering various wild animals.",
    "digital": [
     "Tabletopia"
@@ -19792,6 +24178,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 120,
    "blurb": "Achieve your civilization’s goal before being overwhelmed by famine and pollution.",
    "digital": [
     "Boardgamecore",
@@ -19826,6 +24222,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 366,
    "blurb": "Cards have multiple potential uses -- choose wisely to build the city.",
    "digital": [
     "BrettspielWelt"
@@ -19856,6 +24261,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    1,
+    2
+   ],
+   "rec_players": [
+    1,
+    2
+   ],
+   "player_votes": 183,
    "blurb": "Compete to become the most dominant empire the world has ever seen!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/-6AnQ0BuCM8u1lqAwTe8Rw__square200/img/AKw1-pC86TZjjPz2WU_R2Xp893M=/200x200/filters:strip_icc()/pic5623567.jpg",
@@ -19883,6 +24297,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 204,
    "blurb": "Triumph in the golden age of air travel.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/Dkd1DKelqroYz21llrqJ_A__square200/img/_TWFYZkXlhTNorVwQcva0ApTWOQ=/200x200/filters:strip_icc()/pic5252922.jpg",
@@ -19912,6 +24336,13 @@
     "Strategy",
     "Customizable"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 75,
    "blurb": "Witch and Hunter duel for the fate of Roanoke in an asymmetrical deduction card game.",
    "digital": [
     "Board Game Arena"
@@ -19958,6 +24389,15 @@
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 255,
    "blurb": "Coach your “fantasy” football team and gather most fans to win.",
    "digital": [
     "VASSAL"
@@ -19990,6 +24430,23 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "player_votes": 83,
    "blurb": "Explore new lands and chart the deeds of brave heroes who defeat monsters.",
    "digital": [
     "Board Game Arena",
@@ -20020,6 +24477,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "player_votes": 138,
    "blurb": "Success is measured in money as you build your global smartphone empire.",
    "digital": [
     "Tabletopia"
@@ -20049,6 +24515,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 188,
    "blurb": "Build villas and lands to produce gold, bread and goods in ancient Rome.",
    "digital": [
     "Yucata"
@@ -20073,11 +24548,23 @@
    "rank": 462,
    "rating": 7.19,
    "weight": 1.89,
-   "usersrated": 49904,
+   "usersrated": 49907,
    "categories": [
     "Thematic",
     "Family"
    ],
+   "best_players": [
+    5,
+    6
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "player_votes": 514,
    "blurb": "Become a psychic and divine spectral visions to solve the murder of a restless ghost.",
    "digital": [
     "Steam"
@@ -20142,6 +24629,13 @@
    "categories": [
     "Abstract"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 543,
    "blurb": "Checkmate your opponent in this timeless abstract.",
    "digital": [
     "Ai Ai",
@@ -20197,11 +24691,21 @@
    "rank": 464,
    "rating": 7.33,
    "weight": 2.09,
-   "usersrated": 22378,
+   "usersrated": 22384,
    "categories": [
     "Thematic",
     "Family"
    ],
+   "best_players": [
+    2,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 399,
    "blurb": "Battle for the fate of the Wizarding World over your 7 years at Hogwarts.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/ugYBvYxyWyx8_BqaFKZlGw__square200/img/1EMU8brKYpsRNF-Tr_f6ha1CZUA=/200x200/filters:strip_icc()/pic3518231.jpg",
@@ -20231,6 +24735,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 181,
    "blurb": "Reach the top of the cut-throat mob world...all others sleep with the fishes.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/umGE4fOLYylHloIvw5bitA__square200/img/J_Qz8wApM2V9tIqwPZTOeQ55n0U=/200x200/filters:strip_icc()/pic3364797.jpg",
@@ -20259,6 +24773,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 133,
    "blurb": "Rebuild the walls and temple for the returning exiles of ancient Jerusalem.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/MVflz8gmtK1DZy49E-Llog__square200/img/RfFR-tPmF9MkTQjoDaFlMBDVnyo=/200x200/filters:strip_icc()/pic7474410.jpg",
@@ -20287,6 +24811,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 181,
    "blurb": "Out-manoeuvre your rivals as you vie for control of an ancient, crumbling kingdom.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/q3Qp4L-rU3VOW6fMAFUJnQ__square200/img/L9f5yQQkCRDRPUQQBuKrzE6we2k=/200x200/filters:strip_icc()/pic8937255.jpg",
@@ -20315,6 +24849,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 118,
    "blurb": "Craft musical instruments for patrons through worker placement and hidden bidding.",
    "digital": [
     "Board Game Arena",
@@ -20362,6 +24906,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "player_votes": 93,
    "blurb": "Island Spirits join forces using elemental powers to defend their home from invaders.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/jQ9g8pqZZuchIX_Pv3bHRQ__square200/img/gIRM88vcsn8Axr0OjGmFwB5XPsU=/200x200/filters:strip_icc()/pic6972881.jpg",
@@ -20393,6 +24946,13 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 152,
    "blurb": "Breed animals and expand your small farm in this two player version of the original.",
    "digital": [
     "Google Play",
@@ -20456,6 +25016,13 @@
    "categories": [
     "Wargames"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 90,
    "blurb": "Fantasy Command & Colors spiced up with magic.",
    "digital": [
     "Steam",
@@ -20518,6 +25085,16 @@
     "Strategy",
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 400,
    "blurb": "Taoist monks must defeat the undead or humanity is lost as Wu Feng returns.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/Mfoj66t524ZS5DKMZJlUYQ__square200/img/MgUWLNSvgGU8_v_54Phlj7T8w_o=/200x200/filters:strip_icc()/pic1790243.jpg",
@@ -20547,6 +25124,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2,
+    4
+   ],
+   "rec_players": [
+    2,
+    4
+   ],
+   "player_votes": 37,
    "blurb": "More heroes, more sidekicks, more legends, more fights!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/_N9ueJu-Vaq656p7HSI9sw__square200/img/byfI0qhiM2qQN02Ugjpji0ThmsU=/200x200/filters:strip_icc()/pic6267930.jpg",
@@ -20608,6 +25194,18 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    7
+   ],
+   "rec_players": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "player_votes": 517,
    "blurb": "Assign operatives to missions while avoiding enemy spies.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/cAPTkL2BR3snLO71dkH8rw__square200/img/70MIujDltk2dtwaB9cVzTW2DdSg=/200x200/filters:strip_icc()/pic2576459.jpg",
@@ -20641,6 +25239,23 @@
    "categories": [
     "Party"
    ],
+   "best_players": [
+    4,
+    5,
+    6
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "player_votes": 116,
    "blurb": "Listen to music hits and take turns guessing when the songs were released.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/9I1iUFddrKposfDVRppehQ__square200/img/sSJQsmYQ2_Wl1VB7o0p_9woj_qE=/200x200/filters:strip_icc()/pic9804982.jpg",
@@ -20672,6 +25287,16 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 159,
    "blurb": "Buy tiles, manage resources and place wonder tokens to build your own Ancient City.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/GGi5aUL1dVQIrytxgXow4g__square200/img/VeHAD09svpWizFN0IfkqFeJ24ME=/200x200/filters:strip_icc()/pic7604558.png",
@@ -20699,6 +25324,16 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 149,
    "blurb": "Roll colorful dice, choosing just one each roll to combo bonuses and points!",
    "digital": [
     "Apple App Store",
@@ -20730,6 +25365,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 141,
    "blurb": "Gather scrolls and bring them back to the House of Wisdom to be translated.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -20759,6 +25404,17 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    4,
+    5
+   ],
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 209,
    "blurb": "Reveal anyone's lowest or highest card and aim to collect three of a kind.",
    "digital": [
     "Board Game Arena"
@@ -20807,6 +25463,13 @@
     "Strategy",
     "Wargames"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2
+   ],
+   "player_votes": 71,
    "blurb": "France and Britain clash globally over trade, influence and territory in the 1700s.",
    "digital": [
     "Rally the Troops",
@@ -20839,6 +25502,16 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 144,
    "blurb": "Bees have discovered economics! Make and sell honey to get money and win!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/q3KbDdmiSkvKucANAdOU1g__square200/img/rdotAlhr0FJDCFmtysm3R96OIpc=/200x200/filters:strip_icc()/pic5608344.jpg",
@@ -20866,6 +25539,14 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    4
+   ],
+   "player_votes": 96,
    "blurb": "Players struggle to get control of the Solar System.",
    "digital": [
     "Board Game Arena",
@@ -20911,6 +25592,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 196,
    "blurb": "Smelt precious silver, develop a medieval city, but mind the ever-changing economy!",
    "digital": [],
    "image": "https://cf.geekdo-images.com/ar_YhktX6VcXBLcEfnu_dw__square200/img/mFxxxNAydkuen0XgiuLOjZJyzYE=/200x200/filters:strip_icc()/pic7464921.png",
@@ -20939,6 +25630,16 @@
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 141,
    "blurb": "A cooperative survival game in the bizarre and wondrous reaches of deep space.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/ldAjb0-puj6iiMZO0xuJtw__square200/img/P4toy4gn5CPXOE4FzPfq0uKqV4c=/200x200/filters:strip_icc()/pic5106065.jpg",
@@ -20966,6 +25667,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3,
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 271,
    "blurb": "Improve the area around Notre Dame Cathedral to earn prestige for your family.",
    "digital": [
     "BrettspielWelt"
@@ -20995,6 +25707,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 338,
    "blurb": "Produce, craft, and recruit to build a cathedral in this classic worker placement.",
    "digital": [
     "BrettspielWelt"
@@ -21026,6 +25747,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 139,
    "blurb": "Travel to the capital of ancient Egypt & take part in the development of its culture.",
    "digital": [
     "TableTop Simulator Mod (TTS)"
@@ -21056,6 +25787,15 @@
    "categories": [
     "Family"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 167,
    "blurb": "Assemble your Viking crew to explore new destinations in the world and trade!",
    "digital": [
     "Board Game Arena"
@@ -21100,6 +25840,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 192,
    "blurb": "Hire artisans, set them up in the market and acquire prestige in feudal Japan.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/ypE6HrTY1Xvpt1XCpKlMBw__square200/img/700IbcQBqaIm0yOWingu12ziL4M=/200x200/filters:strip_icc()/pic5960068.png",
@@ -21126,6 +25875,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 176,
    "blurb": "Action selection and hand management in the age of enlightenment.",
    "digital": [
     "Board Game Arena",
@@ -21174,6 +25933,17 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "player_votes": 127,
    "blurb": "Will you be strong enough to protect the Imperium from the Barbarians?",
    "digital": [],
    "image": "https://cf.geekdo-images.com/eGXgHOp40KYVqUGoSJ09bw__square200/img/8e9NmWQy5zFVseIUPbsxtqIP0tA=/200x200/filters:strip_icc()/pic8031112.jpg",
@@ -21196,11 +25966,19 @@
    "rank": 492,
    "rating": 7.8,
    "weight": 3.16,
-   "usersrated": 5745,
+   "usersrated": 5746,
    "categories": [
     "Thematic",
     "Wargames"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    2,
+    3
+   ],
+   "player_votes": 61,
    "blurb": "Form your fleet, plan a strategy, and execute it with your commands.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/oKBz9HmfYDsgDgpy06LPoQ__square200/img/gRUgUfMXPA82EixYko8HlyaWMx4=/200x200/filters:strip_icc()/pic2355171.jpg",
@@ -21231,6 +26009,18 @@
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 1138,
    "blurb": "Work as a team to save the town of Arkham from monsters and a Great Old One.",
    "digital": [
     "VASSAL"
@@ -21262,6 +26052,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 461,
    "blurb": "Harvest crops and fulfill orders to become the most prosperous merchant.",
    "digital": [
     "VASSAL",
@@ -21292,6 +26092,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 192,
    "blurb": "Bag building in the highlands of Peru.",
    "digital": [
     "Tabletopia"
@@ -21326,6 +26135,16 @@
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 163,
    "blurb": "An app-driven dungeon crawl set in the world of Terrinoth.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/Q96PxRVbrDxS9_4ZPTJtHQ__square200/img/3s0xRaYaVrndT0wdLdFwZODjkpo=/200x200/filters:strip_icc()/pic5941333.png",
@@ -21356,6 +26175,16 @@
     "Strategy",
     "Family"
    ],
+   "best_players": [
+    2
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 81,
    "blurb": "Team up in Unmatched to take down the Mothman or Martian Invader.",
    "digital": [],
    "image": "https://cf.geekdo-images.com/pDiHT-n1xpW71Ck_wiR8_g__square200/img/Wjn3s2efjyCMYUbvczzjlbYxhyU=/200x200/filters:strip_icc()/pic7375477.png",
@@ -21382,10 +26211,22 @@
    "rank": 498,
    "rating": 7.89,
    "weight": 2.37,
-   "usersrated": 5746,
+   "usersrated": 5749,
    "categories": [
     "Thematic"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "player_votes": 142,
    "blurb": "The ultimate zombie game made reality. Don't get surrounded!",
    "digital": [
     "Board Game Arena"
@@ -21443,6 +26284,16 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    3
+   ],
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "player_votes": 251,
    "blurb": "Exchange gifts, send servants, and visit the Emperor in a luscious 1570 China.",
    "digital": [
     "Tabletopia"
@@ -21500,6 +26351,15 @@
    "categories": [
     "Strategy"
    ],
+   "best_players": [
+    4
+   ],
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "player_votes": 319,
    "blurb": "Hire craftsmen, pay for buildings, snag noblemen as you compete for rubles and glory.",
    "digital": [
     "Board Game Arena",

@@ -22,7 +22,8 @@ section below for reuse terms.
     record (cached for 30 days), along with BGG's themes (its "categories")
     and its own "Digital Implementations" tags — used to show iOS/Android and
     other platforms, and to flag games BGG says are on Steam that the name
-    search missed.
+    search missed. The community player-count poll (best / recommended at
+    each count) comes from the dynamicinfo endpoint, also cached for 30 days.
   - **Board Game Arena:** BGA's game list page embeds every game with its BGG
     id, so that match is exact. Also gives Premium vs free, supported player
     counts, average game length, and real-time / turn-based support. If BGA

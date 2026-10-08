@@ -1,0 +1,4046 @@
+{
+ "generated": "2026-10-08T06:32+00:00",
+ "country": "au",
+ "top_n": 100,
+ "games": [
+  {
+   "bgg_id": 224517,
+   "name": "Brass: Birmingham",
+   "year": 2018,
+   "rank": 1,
+   "rating": 8.56,
+   "weight": 3.86,
+   "usersrated": 60457,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Build networks, grow industries, and navigate the world of the Industrial Revolution.",
+   "image": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__square200/img/dNf_NYkJhQ6h2K0zWxhzRmJfAg8=/200x200/filters:strip_icc()/pic3490053.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 342942,
+   "name": "Ark Nova",
+   "year": 2021,
+   "rank": 2,
+   "rating": 8.54,
+   "weight": 3.8,
+   "usersrated": 63413,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Plan and build a modern, scientifically managed zoo to support conservation projects.",
+   "image": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__square200/img/bHhp_JlkP0JfeHgVd7bzt8W510k=/200x200/filters:strip_icc()/pic6293412.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "bga": {
+    "slug": "arknova",
+    "name": "Ark Nova",
+    "url": "https://boardgamearena.com/gamepanel?game=arknova",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 46,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 13575107
+   },
+   "steam": [
+    {
+     "appid": 2438990,
+     "name": "Ark Nova",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/2438990/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 23.06,
+     "price_initial": 35.49,
+     "discount": 35,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "online_pvp"
+     ],
+     "developers": [
+      "Dire Wolf"
+     ],
+     "publishers": [
+      "Dire Wolf"
+     ],
+     "release": "20 Jun, 2025",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438990/header.jpg?t=1767897183",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 95,
+      "total": 928
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 161936,
+   "name": "Pandemic Legacy: Season 1",
+   "year": 2015,
+   "rank": 3,
+   "rating": 8.5,
+   "weight": 2.83,
+   "usersrated": 57890,
+   "categories": [
+    "Strategy",
+    "Thematic"
+   ],
+   "blurb": "Mutating diseases are spreading around the world - can your team save humanity?",
+   "image": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__square200/img/rYEBKMB4WYkH4O-m5l4ZAErtvxE=/200x200/filters:strip_icc()/pic2452831.png",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 174430,
+   "name": "Gloomhaven",
+   "year": 2017,
+   "rank": 4,
+   "rating": 8.53,
+   "weight": 3.92,
+   "usersrated": 67814,
+   "categories": [
+    "Strategy",
+    "Thematic"
+   ],
+   "blurb": "Vanquish monsters with strategic cardplay. Fulfill your quest to leave your legacy!",
+   "image": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__square200/img/gKnqaGwGjmSUNVj6NwQ7f8cyKp8=/200x200/filters:strip_icc()/pic2437871.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 780290,
+     "name": "Gloomhaven",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/780290/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 14.26,
+     "price_initial": 50.95,
+     "discount": 72,
+     "currency": "AUD",
+     "mp": [
+      "online_coop"
+     ],
+     "developers": [
+      "Flaming Fowl Studios",
+      "Saber Interactive"
+     ],
+     "publishers": [
+      "Twin Sails Interactive"
+     ],
+     "release": "20 Oct, 2021",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/header.jpg?t=1788792171",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 82,
+      "total": 16170
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 397598,
+   "name": "Dune: Imperium – Uprising",
+   "year": 2023,
+   "rank": 5,
+   "rating": 8.7,
+   "weight": 3.53,
+   "usersrated": 20510,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Deploy agents, build your deck, and engage in strategic battles to control Arrakis.",
+   "image": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__square200/img/N-wPvyGj69vuCWMD1-5bRhgDBqs=/200x200/filters:strip_icc()/pic7664424.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 4598200,
+     "name": "Dune: Imperium - Uprising",
+     "dlc": true,
+     "url": "https://store.steampowered.com/app/4598200/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 20.95,
+     "price_initial": 20.95,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [
+      "crossplay",
+      "online_pvp"
+     ],
+     "developers": [
+      "Dire Wolf"
+     ],
+     "publishers": [],
+     "release": "9 Jun, 2026",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598200/186f696f0a7ccc27463c5f68851287dd0496a7e4/header.jpg?t=1781022072",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 89,
+      "total": 61
+     }
+    }
+   ],
+   "vtt": [],
+   "note": "Steam DLC for Dune: Imperium - you need the base game too."
+  },
+  {
+   "bgg_id": 316554,
+   "name": "Dune: Imperium",
+   "year": 2020,
+   "rank": 6,
+   "rating": 8.41,
+   "weight": 3.08,
+   "usersrated": 60017,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Influence, intrigue, and combat in the universe of Dune.",
+   "image": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__square200/img/XQE1cgfiOiXKN_jYpPpnxKPPXTI=/200x200/filters:strip_icc()/pic5666597.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 1689500,
+     "name": "Dune: Imperium",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/1689500/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 21.82,
+     "price_initial": 33.58,
+     "discount": 35,
+     "currency": "AUD",
+     "mp": [
+      "crossplay",
+      "online_pvp"
+     ],
+     "developers": [
+      "Dire Wolf"
+     ],
+     "publishers": [
+      "Dire Wolf"
+     ],
+     "release": "13 Mar, 2024",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689500/header.jpg?t=1781022179",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 94,
+      "total": 4436
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 233078,
+   "name": "Twilight Imperium: Fourth Edition",
+   "year": 2017,
+   "rank": 7,
+   "rating": 8.56,
+   "weight": 4.37,
+   "usersrated": 29107,
+   "categories": [
+    "Strategy",
+    "Thematic"
+   ],
+   "blurb": "Build an intergalactic empire through trade, research, conquest and grand politics.",
+   "image": "https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__square200/img/VWIKhG2w7Bwh7PX7_xHRSmf6s6c=/200x200/filters:strip_icc()/pic3727516.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 480,
+   "minplayers": 3,
+   "minplaytime": 240,
+   "bga": {
+    "slug": "twilightimperium",
+    "name": "Twilight Imperium: Fourth Edition",
+    "url": "https://boardgamearena.com/gamepanel?game=twilightimperium",
+    "premium": false,
+    "status": "beta",
+    "players": [
+     3,
+     4,
+     5,
+     6
+    ],
+    "avg_minutes": 235,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": false,
+    "plays": 4464
+   },
+   "steam": [
+    {
+     "appid": 3669430,
+     "name": "Twilight Imperium Digital",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/3669430/",
+     "confidence": 0.95,
+     "is_free": false,
+     "price": null,
+     "price_initial": null,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [
+      "crossplay",
+      "online_pvp"
+     ],
+     "developers": [
+      "Red Square Games"
+     ],
+     "publishers": [
+      "Red Square Games"
+     ],
+     "release": "To be announced",
+     "coming_soon": true,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669430/5efb05cd759c238d171fee702119573f1c0251ea/header.jpg?t=1781194020",
+     "reviews": {
+      "desc": "No user reviews",
+      "pct": null,
+      "total": 0
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 115746,
+   "name": "War of the Ring: Second Edition",
+   "year": 2011,
+   "rank": 8,
+   "rating": 8.55,
+   "weight": 4.23,
+   "usersrated": 25632,
+   "categories": [
+    "Thematic",
+    "Wargames"
+   ],
+   "blurb": "The Fellowship and the Free Peoples clash with Sauron over the fate of Middle-earth.",
+   "image": "https://cf.geekdo-images.com/ImPgGag98W6gpV1KV812aA__square200/img/6baKJvb9Rf8PpOXARlmBJtaMGuU=/200x200/filters:strip_icc()/pic1215633.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 240,
+   "minplayers": 2,
+   "minplaytime": 150,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 167791,
+   "name": "Terraforming Mars",
+   "year": 2016,
+   "rank": 9,
+   "rating": 8.33,
+   "weight": 3.27,
+   "usersrated": 115235,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Compete with rival CEOs to make Mars habitable and build your corporate empire.",
+   "image": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__square200/img/MjTJPRXlUCK3U1Tpt8NDAUJBNxs=/200x200/filters:strip_icc()/pic3536616.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 120,
+   "bga": {
+    "slug": "terraformingmars",
+    "name": "Terraforming Mars",
+    "url": "https://boardgamearena.com/gamepanel?game=terraformingmars",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 53,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 5550806
+   },
+   "steam": [
+    {
+     "appid": 800270,
+     "name": "Terraforming Mars",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/800270/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 8.85,
+     "price_initial": 29.5,
+     "discount": 70,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "local_pvp",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "Artefacts Studio"
+     ],
+     "publishers": [
+      "Twin Sails Interactive"
+     ],
+     "release": "17 Oct, 2018",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/800270/header.jpg?t=1769091240",
+     "reviews": {
+      "desc": "Mostly Positive",
+      "pct": 71,
+      "total": 7269
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 187645,
+   "name": "Star Wars: Rebellion",
+   "year": 2016,
+   "rank": 10,
+   "rating": 8.42,
+   "weight": 3.75,
+   "usersrated": 36937,
+   "categories": [
+    "Thematic"
+   ],
+   "blurb": "Strike from your hidden base as the Rebels—or find and destroy it as the Empire.",
+   "image": "https://cf.geekdo-images.com/7SrPNGBKg9IIsP4UQpOi8g__square200/img/0-1L0Gg5myRHigxWodOvvI_8UT4=/200x200/filters:strip_icc()/pic4325841.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 240,
+   "minplayers": 2,
+   "minplaytime": 180,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 162886,
+   "name": "Spirit Island",
+   "year": 2017,
+   "rank": 11,
+   "rating": 8.34,
+   "weight": 4.08,
+   "usersrated": 64906,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Island Spirits join forces using elemental powers to defend their home from invaders.",
+   "image": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__square200/img/MSwBm5TdhKshhkC8UVeXi8_izTA=/200x200/filters:strip_icc()/pic7013651.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 1236720,
+     "name": "Spirit Island",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/1236720/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 14.6,
+     "price_initial": 36.5,
+     "discount": 60,
+     "currency": "AUD",
+     "mp": [
+      "crossplay",
+      "local_coop",
+      "online_coop",
+      "remote_play"
+     ],
+     "developers": [
+      "Handelabra Games Inc."
+     ],
+     "publishers": [
+      "Handelabra Games Inc."
+     ],
+     "release": "29 Jul, 2020",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1236720/header.jpg?t=1781204150",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 92,
+      "total": 1705
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 291457,
+   "name": "Gloomhaven: Jaws of the Lion",
+   "year": 2020,
+   "rank": 12,
+   "rating": 8.35,
+   "weight": 3.64,
+   "usersrated": 42065,
+   "categories": [
+    "Strategy",
+    "Thematic"
+   ],
+   "blurb": "Vanquish monsters with strategic cardplay in a 25-scenario Gloomhaven campaign.",
+   "image": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__square200/img/PAvcImUWC1c5q2TBIbG87fyPfEM=/200x200/filters:strip_icc()/pic5055631.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 780290,
+     "name": "Gloomhaven",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/780290/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 14.26,
+     "price_initial": 50.95,
+     "discount": 72,
+     "currency": "AUD",
+     "mp": [
+      "online_coop"
+     ],
+     "developers": [
+      "Flaming Fowl Studios",
+      "Saber Interactive"
+     ],
+     "publishers": [
+      "Twin Sails Interactive"
+     ],
+     "release": "20 Oct, 2021",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/header.jpg?t=1788792171",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 82,
+      "total": 16170
+     }
+    }
+   ],
+   "vtt": [],
+   "note": "Jaws of the Lion is a DLC campaign inside Gloomhaven digital."
+  },
+  {
+   "bgg_id": 220308,
+   "name": "Gaia Project",
+   "year": 2017,
+   "rank": 13,
+   "rating": 8.35,
+   "weight": 4.4,
+   "usersrated": 31915,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Expand, research, upgrade, and settle the galaxy with one of 14 alien species.",
+   "image": "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__square200/img/-B_SCvvRB-Q0_yfCwKgIwhdSLNw=/200x200/filters:strip_icc()/pic5375625.png",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": {
+    "slug": "gaiaproject",
+    "name": "Gaia Project",
+    "url": "https://boardgamearena.com/gamepanel?game=gaiaproject",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 60,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 483980
+   },
+   "steam": [
+    {
+     "appid": 1516400,
+     "name": "Gaia Project",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/1516400/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 14.38,
+     "price_initial": 35.95,
+     "discount": 60,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "local_pvp",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "DIGIDICED"
+     ],
+     "publishers": [
+      "DIGIDICED"
+     ],
+     "release": "31 May, 2021",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1516400/header.jpg?t=1642691527",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 80,
+      "total": 364
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 418059,
+   "name": "SETI: Search for Extraterrestrial Intelligence",
+   "year": 2024,
+   "rank": 14,
+   "rating": 8.41,
+   "weight": 3.84,
+   "usersrated": 22435,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Search for signs of alien life by launching probes and analyzing distant signals.",
+   "image": "https://cf.geekdo-images.com/_BUXOVRDU9g_eRwgpR5ZZw__square200/img/-WbLZgUA8uT9LlkICjhM75xS0BU=/200x200/filters:strip_icc()/pic8160466.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 160,
+   "minplayers": 1,
+   "minplaytime": 40,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 338960,
+   "name": "Slay the Spire: The Board Game",
+   "year": 2024,
+   "rank": 15,
+   "rating": 8.61,
+   "weight": 2.91,
+   "usersrated": 14568,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Craft a unique deck, discover powerful relics, and Slay the Spire together!",
+   "image": "https://cf.geekdo-images.com/PQzVclEoOQ_wr4e1V86kxA__square200/img/re-Tb8BZJFe6HqT-yOVkZTTdYsw=/200x200/filters:strip_icc()/pic8157856.png",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 646570,
+     "name": "Slay the Spire",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/646570/",
+     "confidence": 0.95,
+     "is_free": false,
+     "price": 9.24,
+     "price_initial": 36.99,
+     "discount": 75,
+     "currency": "AUD",
+     "mp": [],
+     "developers": [
+      "Mega Crit"
+     ],
+     "publishers": [
+      "Mega Crit"
+     ],
+     "release": "23 Jan, 2019",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg?t=1774015376",
+     "reviews": {
+      "desc": "Overwhelmingly Positive",
+      "pct": 97,
+      "total": 219213
+     }
+    }
+   ],
+   "vtt": [],
+   "note": "This is the original video game the board game is based on."
+  },
+  {
+   "bgg_id": 12333,
+   "name": "Twilight Struggle",
+   "year": 2005,
+   "rank": 16,
+   "rating": 8.23,
+   "weight": 3.61,
+   "usersrated": 52501,
+   "categories": [
+    "Strategy",
+    "Wargames"
+   ],
+   "blurb": "Relive the Cold War and rewrite history in an epic clash between the USA and USSR.",
+   "image": "https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__square200/img/SS93B065Qqem8DLCKnJIXIRtx0A=/200x200/filters:strip_icc()/pic3530661.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 180,
+   "minplayers": 2,
+   "minplaytime": 120,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 406290,
+     "name": "Twilight Struggle",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/406290/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 7.25,
+     "price_initial": 14.5,
+     "discount": 50,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "local_pvp",
+      "online_pvp"
+     ],
+     "developers": [
+      "Playdek, Inc."
+     ],
+     "publishers": [
+      "Playdek, Inc."
+     ],
+     "release": "13 Apr, 2016",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406290/header.jpg?t=1647893895",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 86,
+      "total": 2994
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 84876,
+   "name": "The Castles of Burgundy",
+   "year": 2011,
+   "rank": 17,
+   "rating": 8.16,
+   "weight": 2.97,
+   "usersrated": 70706,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Plan, trade, and build your Burgundian estate to prosperity and prominence.",
+   "image": "https://cf.geekdo-images.com/sH2YTQ10dHj1ibfS-KKtGA__square200/img/r6DQDmw79GWm0DCcVurADoUj4fE=/200x200/filters:strip_icc()/pic8745814.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "castlesofburgundy",
+    "name": "The Castles of Burgundy",
+    "url": "https://boardgamearena.com/gamepanel?game=castlesofburgundy",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 32,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 4525388
+   },
+   "steam": [
+    {
+     "appid": 903040,
+     "name": "The Castles of Burgundy",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/903040/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 8.6,
+     "price_initial": 21.5,
+     "discount": 60,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "local_pvp",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "DIGIDICED"
+     ],
+     "publishers": [
+      "DIGIDICED"
+     ],
+     "release": "27 Feb, 2019",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903040/header.jpg?t=1704802634",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 81,
+      "total": 282
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 421006,
+   "name": "The Lord of the Rings: Duel for Middle-earth",
+   "year": 2024,
+   "rank": 18,
+   "rating": 8.35,
+   "weight": 2.07,
+   "usersrated": 22366,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Play as the Fellowship or Sauron and attempt to determine the fate of Middle-earth.",
+   "image": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__square200/img/M2uZQ7htP8r19LLDOiPs3699mho=/200x200/filters:strip_icc()/pic8378939.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 30,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 182028,
+   "name": "Through the Ages: A New Story of Civilization",
+   "year": 2015,
+   "rank": 19,
+   "rating": 8.24,
+   "weight": 4.44,
+   "usersrated": 35215,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Forge your own path through history as you draft a civilization for the ages.",
+   "image": "https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__square200/img/PAU5YvdetwtFUt_qVYvzn3T41Es=/200x200/filters:strip_icc()/pic2663291.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 120,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 758370,
+     "name": "Through the Ages",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/758370/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 11.47,
+     "price_initial": 22.95,
+     "discount": 50,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "online_pvp"
+     ],
+     "developers": [
+      "CGE Digital"
+     ],
+     "publishers": [
+      "CGE Digital"
+     ],
+     "release": "26 Mar, 2018",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758370/header.jpg?t=1762427088",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 91,
+      "total": 2347
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 295770,
+   "name": "Frosthaven",
+   "year": 2022,
+   "rank": 20,
+   "rating": 8.72,
+   "weight": 4.41,
+   "usersrated": 10593,
+   "categories": [
+    "Strategy",
+    "Thematic"
+   ],
+   "blurb": "Adventure in the frozen north and build up your outpost throughout an epic campaign.",
+   "image": "https://cf.geekdo-images.com/cwUgf-f-qwri8UHBUnifuQ__square200/img/0qgkWKzaUMVjbdOn66kpz7hKSYs=/200x200/filters:strip_icc()/pic5092291.png",
+   "maxplayers": 4,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 2347080,
+     "name": "Frosthaven",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/2347080/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 43.87,
+     "price_initial": 58.5,
+     "discount": 25,
+     "currency": "AUD",
+     "mp": [
+      "online_coop"
+     ],
+     "developers": [
+      "Snapshot Games Inc."
+     ],
+     "publishers": [
+      "Arc Games"
+     ],
+     "release": "31 Jul, 2025",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347080/c6c09a8eb1a0fac5ac8e0d2ea0a228c8303d8967/header.jpg?t=1791408197",
+     "reviews": {
+      "desc": "Mostly Positive",
+      "pct": 72,
+      "total": 977
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 193738,
+   "name": "Great Western Trail",
+   "year": 2016,
+   "rank": 21,
+   "rating": 8.14,
+   "weight": 3.7,
+   "usersrated": 44199,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Use strategic outposts and navigate danger as you herd your cattle to Kansas City.",
+   "image": "https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__square200/img/j9S8OUI3ePSxgzC8EvF82thofas=/200x200/filters:strip_icc()/pic4887376.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 2,
+   "minplaytime": 75,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 28720,
+   "name": "Brass: Lancashire",
+   "year": 2007,
+   "rank": 22,
+   "rating": 8.2,
+   "weight": 3.84,
+   "usersrated": 27792,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Test your economic mettle as you build and network in the Industrial Revolution.",
+   "image": "https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__square200/img/1NkF8PtzGzJUTqjxfniH0OI8SD4=/200x200/filters:strip_icc()/pic3469216.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 246900,
+   "name": "Eclipse: Second Dawn for the Galaxy",
+   "year": 2020,
+   "rank": 23,
+   "rating": 8.38,
+   "weight": 3.67,
+   "usersrated": 17943,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Build an interstellar civilization by exploration, research, conquest, and diplomacy.",
+   "image": "https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__square200/img/HENJ3g_owqTJThmVD4a5dpJlZCE=/200x200/filters:strip_icc()/pic5235277.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 200,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 173346,
+   "name": "7 Wonders Duel",
+   "year": 2015,
+   "rank": 24,
+   "rating": 8.07,
+   "weight": 2.23,
+   "usersrated": 110838,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Science? Military? What will you draft to win this head-to-head version of 7 Wonders?",
+   "image": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__square200/img/xNee3M-jWc5u5sMjn7IyvWFJ4qQ=/200x200/filters:strip_icc()/pic2576399.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 30,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "sevenwondersduel",
+    "name": "7 Wonders Duel",
+    "url": "https://boardgamearena.com/gamepanel?game=sevenwondersduel",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2
+    ],
+    "avg_minutes": 9,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 14290078
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 167355,
+   "name": "Nemesis",
+   "year": 2018,
+   "rank": 25,
+   "rating": 8.24,
+   "weight": 3.49,
+   "usersrated": 38394,
+   "categories": [
+    "Thematic"
+   ],
+   "blurb": "Survive an alien-infested spaceship, but beware of other players and their agendas!",
+   "image": "https://cf.geekdo-images.com/4KSmlm59w0GwLIlgDnJDAQ__square200/img/1kuCTzh-sagNMhCP3ja2BNWjAn4=/200x200/filters:strip_icc()/pic8211747.png",
+   "maxplayers": 5,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 1915550,
+     "name": "Nemesis: Lockdown",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/1915550/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 10.95,
+     "price_initial": 36.5,
+     "discount": 70,
+     "currency": "AUD",
+     "mp": [
+      "online_coop",
+      "online_pvp"
+     ],
+     "developers": [
+      "InterStudio"
+     ],
+     "publishers": [
+      "Awaken Realms"
+     ],
+     "release": "31 May, 2022",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915550/header.jpg?t=1724323885",
+     "reviews": {
+      "desc": "Mixed",
+      "pct": 67,
+      "total": 822
+     }
+    }
+   ],
+   "vtt": [],
+   "note": "Digital adaptation of the standalone Nemesis: Lockdown."
+  },
+  {
+   "bgg_id": 177736,
+   "name": "A Feast for Odin",
+   "year": 2016,
+   "rank": 26,
+   "rating": 8.16,
+   "weight": 3.87,
+   "usersrated": 34252,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "\"Puzzle\" the life of a Viking Age place as you hunt, farm, craft, raid and explore.",
+   "image": "https://cf.geekdo-images.com/s9oGMCo1fcfV4Dk3EnqLZw__square200/img/CvC5j5CzbWjq2HXchnnwZODJowQ=/200x200/filters:strip_icc()/pic3146943.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "feastforodin",
+    "name": "A Feast for Odin",
+    "url": "https://boardgamearena.com/gamepanel?game=feastforodin",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 65,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 516336
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 169786,
+   "name": "Scythe",
+   "year": 2016,
+   "rank": 27,
+   "rating": 8.09,
+   "weight": 3.45,
+   "usersrated": 94781,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Five factions vie for dominance in a war-torn, mech-filled, dieselpunk 1920s Europe.",
+   "image": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__square200/img/I_icGNJh7M73OZIs7Lg9JvS__Bo=/200x200/filters:strip_icc()/pic3163924.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 115,
+   "minplayers": 1,
+   "minplaytime": 115,
+   "bga": {
+    "slug": "scythe",
+    "name": "Scythe",
+    "url": "https://boardgamearena.com/gamepanel?game=scythe",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 50,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 134600
+   },
+   "steam": [
+    {
+     "appid": 718560,
+     "name": "Scythe: Digital Edition",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/718560/",
+     "confidence": 0.95,
+     "is_free": false,
+     "price": 11.58,
+     "price_initial": 28.95,
+     "discount": 60,
+     "currency": "AUD",
+     "mp": [
+      "local_pvp",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "The Knights of Unity"
+     ],
+     "publishers": [
+      "The Knights of Unity"
+     ],
+     "release": "5 Sep, 2018",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718560/header.jpg?t=1752320013",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 89,
+      "total": 3818
+     }
+    }
+   ],
+   "vtt": [
+    {
+     "appid": 414231,
+     "platform": "Tabletopia",
+     "url": "https://store.steampowered.com/app/414231/"
+    }
+   ],
+   "note": null
+  },
+  {
+   "bgg_id": 266507,
+   "name": "Clank! Legacy: Acquisitions Incorporated",
+   "year": 2019,
+   "rank": 28,
+   "rating": 8.49,
+   "weight": 2.74,
+   "usersrated": 11598,
+   "categories": [
+    "Thematic"
+   ],
+   "blurb": "\"Go forth, be bold, and ACQUIRE!\" in this campaign version of \"Clank!\"",
+   "image": "https://cf.geekdo-images.com/hc2NDafu5c24iLJh_IZmyg__square200/img/q7xfs--rsnJKyhlDomAw2BB3-pQ=/200x200/filters:strip_icc()/pic4885780.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 90,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 124361,
+   "name": "Concordia",
+   "year": 2013,
+   "rank": 29,
+   "rating": 8.07,
+   "weight": 2.98,
+   "usersrated": 46483,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Merchants build and trade throughout the Roman Empire to please the Gods.",
+   "image": "https://cf.geekdo-images.com/CzwSm8i7tkLz6cBnrILZBg__square200/img/abLYDYKOKY23BH31W6ZCyV1rDnU=/200x200/filters:strip_icc()/pic3453267.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 100,
+   "minplayers": 2,
+   "minplaytime": 100,
+   "bga": {
+    "slug": "concordia",
+    "name": "Concordia",
+    "url": "https://boardgamearena.com/gamepanel?game=concordia",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 48,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 56319
+   },
+   "steam": [
+    {
+     "appid": 1450330,
+     "name": "Concordia: Digital Edition",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/1450330/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 14.75,
+     "price_initial": 29.5,
+     "discount": 50,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "local_pvp",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "Acram Digital"
+     ],
+     "publishers": [
+      "Acram Digital"
+     ],
+     "release": "28 Sep, 2021",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1450330/a192c66f78fcc0247e625af8a4e0672de25fc2cf/header.jpg?t=1773923584",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 82,
+      "total": 187
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 312484,
+   "name": "Lost Ruins of Arnak",
+   "year": 2020,
+   "rank": 30,
+   "rating": 8.08,
+   "weight": 2.93,
+   "usersrated": 59058,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Explore an island to find resources and discover the lost ruins of Arnak.",
+   "image": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__square200/img/tyxj64Wz6GWL1X-jfnsg3tnaWV4=/200x200/filters:strip_icc()/pic5674958.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "arnak",
+    "name": "Lost Ruins of Arnak",
+    "url": "https://boardgamearena.com/gamepanel?game=arnak",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 28,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 3374363
+   },
+   "steam": [
+    {
+     "appid": 3387300,
+     "name": "Lost Ruins of Arnak",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/3387300/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": null,
+     "price_initial": null,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [
+      "local_pvp",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "CGE Digital"
+     ],
+     "publishers": [
+      "CGE Digital"
+     ],
+     "release": "To be announced",
+     "coming_soon": true,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387300/74ea3bb77923aab6697adb688211857f7834e258/header.jpg?t=1790661771",
+     "reviews": {
+      "desc": "No user reviews",
+      "pct": null,
+      "total": 0
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 341169,
+   "name": "Great Western Trail: Second Edition",
+   "year": 2021,
+   "rank": 31,
+   "rating": 8.26,
+   "weight": 3.7,
+   "usersrated": 18726,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Wrangle your herd of cows across the Midwest prairie and deliver it to Kansas City.",
+   "image": "https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__square200/img/f7ENg613N2TgijE9u_Za59u14R4=/200x200/filters:strip_icc()/pic5988511.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 75,
+   "bga": {
+    "slug": "greatwesterntrail",
+    "name": "Great Western Trail",
+    "url": "https://boardgamearena.com/gamepanel?game=greatwesterntrail",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 53,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 424214
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 373106,
+   "name": "Sky Team",
+   "year": 2023,
+   "rank": 32,
+   "rating": 8.11,
+   "weight": 2.04,
+   "usersrated": 34991,
+   "categories": [
+    "Thematic",
+    "Family"
+   ],
+   "blurb": "Work together silently to land a plane under increasingly challenging circumstances.",
+   "image": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__square200/img/kJAcg5Elp5Q81kiEPAen7IkaphA=/200x200/filters:strip_icc()/pic7398904.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 20,
+   "minplayers": 2,
+   "minplaytime": 20,
+   "bga": {
+    "slug": "skyteam",
+    "name": "Sky Team",
+    "url": "https://boardgamearena.com/gamepanel?game=skyteam",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2
+    ],
+    "avg_minutes": 16,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 1002421
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 205637,
+   "name": "Arkham Horror: The Card Game",
+   "year": 2016,
+   "rank": 33,
+   "rating": 8.12,
+   "weight": 3.57,
+   "usersrated": 48300,
+   "categories": [
+    "Thematic",
+    "Customizable"
+   ],
+   "blurb": "Investigate the horrors of Arkham while courting cosmic doom.",
+   "image": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__square200/img/rCOvTBoMid0V821bCAJuY_gLLfc=/200x200/filters:strip_icc()/pic3122349.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 237182,
+   "name": "Root",
+   "year": 2018,
+   "rank": 34,
+   "rating": 8.07,
+   "weight": 3.84,
+   "usersrated": 66406,
+   "categories": [
+    "Strategy",
+    "Wargames"
+   ],
+   "blurb": "Decide the fate of the woodland as asymmetric factions fight for contrasting goals.",
+   "image": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__square200/img/pKGjK1ToJcM3DyOYnc2LHdhkKJ4=/200x200/filters:strip_icc()/pic4254509.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 965580,
+     "name": "Root",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/965580/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 8.6,
+     "price_initial": 21.5,
+     "discount": 60,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "local_pvp",
+      "online_pvp"
+     ],
+     "developers": [
+      "Dire Wolf"
+     ],
+     "publishers": [
+      "Dire Wolf"
+     ],
+     "release": "24 Sep, 2020",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/header.jpg?t=1767902987",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 90,
+      "total": 5614
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 164928,
+   "name": "Orléans",
+   "year": 2014,
+   "rank": 35,
+   "rating": 8.05,
+   "weight": 3.01,
+   "usersrated": 36235,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Craftsmen, scholars & monks can help you reign supreme—but who will turn up to help?",
+   "image": "https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__square200/img/T_uM1IU51e8qhIN6z91oIQSSWmU=/200x200/filters:strip_icc()/pic6228507.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 90,
+   "bga": {
+    "slug": "orleans",
+    "name": "Orléans",
+    "url": "https://boardgamearena.com/gamepanel?game=orleans",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 72,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 88581
+   },
+   "steam": [],
+   "vtt": [
+    {
+     "appid": 1040501,
+     "platform": "Tabletopia",
+     "url": "https://store.steampowered.com/app/1040501/"
+    }
+   ],
+   "note": null
+  },
+  {
+   "bgg_id": 120677,
+   "name": "Terra Mystica",
+   "year": 2012,
+   "rank": 36,
+   "rating": 8.03,
+   "weight": 3.97,
+   "usersrated": 51451,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Play fantastical factions.  Expand your influence by terraforming and joining cults.",
+   "image": "https://cf.geekdo-images.com/bre12I1YiXkZr7elvriz4A__square200/img/Lt3E9YEpWQuYsloTmlpw6fImcz8=/200x200/filters:strip_icc()/pic5375624.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 150,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "bga": {
+    "slug": "terramystica",
+    "name": "Terra Mystica",
+    "url": "https://boardgamearena.com/gamepanel?game=terramystica",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 59,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": false,
+    "plays": 903821
+   },
+   "steam": [
+    {
+     "appid": 628900,
+     "name": "Terra Mystica",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/628900/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 8.73,
+     "price_initial": 24.95,
+     "discount": 65,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "local_pvp",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "DIGIDICED"
+     ],
+     "publishers": [
+      "DIGIDICED"
+     ],
+     "release": "8 Jun, 2017",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628900/header.jpg?t=1611672526",
+     "reviews": {
+      "desc": "Mixed",
+      "pct": 62,
+      "total": 270
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 192135,
+   "name": "Too Many Bones",
+   "year": 2017,
+   "rank": 37,
+   "rating": 8.27,
+   "weight": 3.87,
+   "usersrated": 17579,
+   "categories": [
+    "Strategy",
+    "Thematic"
+   ],
+   "blurb": "Toss gobs of unique dice in an epic adventure en route to a final boss showdown.",
+   "image": "https://cf.geekdo-images.com/wKwRk0wYBcrtLAfgn4PCdg__square200/img/VIuvUsmNEKTA6dpKeddDJXMv7bI=/200x200/filters:strip_icc()/pic6624445.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 266192,
+   "name": "Wingspan",
+   "year": 2019,
+   "rank": 38,
+   "rating": 7.99,
+   "weight": 2.48,
+   "usersrated": 115847,
+   "categories": [
+    "Strategy",
+    "Family"
+   ],
+   "blurb": "Attract a beautiful and diverse collection of birds to your wildlife preserve.",
+   "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__square200/img/BuUGdo8iEnHLPKZvyttszIdBNOU=/200x200/filters:strip_icc()/pic4458123.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 70,
+   "minplayers": 1,
+   "minplaytime": 40,
+   "bga": {
+    "slug": "wingspan",
+    "name": "Wingspan",
+    "url": "https://boardgamearena.com/gamepanel?game=wingspan",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 26,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 10473147
+   },
+   "steam": [
+    {
+     "appid": 1054490,
+     "name": "Wingspan",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/1054490/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 11.99,
+     "price_initial": 29.99,
+     "discount": 60,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "local_coop",
+      "local_pvp",
+      "online_coop",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "Monster Couch"
+     ],
+     "publishers": [
+      "Monster Couch",
+      "Stonemaier Games",
+      "indienova"
+     ],
+     "release": "17 Sep, 2020",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/header.jpg?t=1789657608",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 94,
+      "total": 12077
+     }
+    }
+   ],
+   "vtt": [
+    {
+     "appid": 988180,
+     "platform": "Tabletopia",
+     "url": "https://store.steampowered.com/app/988180/"
+    }
+   ],
+   "note": null
+  },
+  {
+   "bgg_id": 96848,
+   "name": "Mage Knight Board Game",
+   "year": 2011,
+   "rank": 39,
+   "rating": 8.08,
+   "weight": 4.38,
+   "usersrated": 35445,
+   "categories": [
+    "Strategy",
+    "Thematic"
+   ],
+   "blurb": "Build your hero’s spells, abilities, and artifacts as you explore & conquer cities.",
+   "image": "https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__square200/img/oLolIr6hF9rF7H-KhouE-cjNA7o=/200x200/filters:strip_icc()/pic1083380.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 240,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 251247,
+   "name": "Barrage",
+   "year": 2019,
+   "rank": 40,
+   "rating": 8.13,
+   "weight": 4.12,
+   "usersrated": 22333,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Nations vie for hydroelectric dominance in a dystopia where water is power.",
+   "image": "https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__square200/img/NPsCNCzsyx31oWcmXAunWxchq9A=/200x200/filters:strip_icc()/pic4336469.png",
+   "maxplayers": 4,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "bga": {
+    "slug": "barrage",
+    "name": "Barrage",
+    "url": "https://boardgamearena.com/gamepanel?game=barrage",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 51,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 313090
+   },
+   "steam": [
+    {
+     "appid": 2879570,
+     "name": "Barrage",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/2879570/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 19.75,
+     "price_initial": 21.95,
+     "discount": 10,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "online_pvp"
+     ],
+     "developers": [
+      "Cranio Lab"
+     ],
+     "publishers": [
+      "Cranio Creations"
+     ],
+     "release": "15 May, 2025",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2879570/header.jpg?t=1772463569",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 81,
+      "total": 101
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 321608,
+   "name": "Hegemony: Lead Your Class to Victory",
+   "year": 2023,
+   "rank": 41,
+   "rating": 8.35,
+   "weight": 4.26,
+   "usersrated": 13041,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Simulate a whole contemporary nation in this asymmetric, politico-economic euro-game.",
+   "image": "https://cf.geekdo-images.com/DCLgJlrvB-EqL6A3WgQLMQ__square200/img/9GbQRtLowDB2Ap719ByQX7xwGAs=/200x200/filters:strip_icc()/pic5715770.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 180,
+   "minplayers": 2,
+   "minplaytime": 90,
+   "bga": {
+    "slug": "hegemony",
+    "name": "Hegemony: Lead Your Class to Victory",
+    "url": "https://boardgamearena.com/gamepanel?game=hegemony",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 97,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": false,
+    "plays": 24966
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 284378,
+   "name": "Kanban EV",
+   "year": 2020,
+   "rank": 42,
+   "rating": 8.37,
+   "weight": 4.3,
+   "usersrated": 10683,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "EV-factory workers optimize and innovate to stand out at the big board meeting.",
+   "image": "https://cf.geekdo-images.com/L2Wn-zUqkcHgqvwvY212Ig__square200/img/lbhDIQYms65DRMApiPWBVRnDcdc=/200x200/filters:strip_icc()/pic4924232.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 521,
+   "name": "Crokinole",
+   "year": 1876,
+   "rank": 43,
+   "rating": 8.07,
+   "weight": 1.23,
+   "usersrated": 21588,
+   "categories": [
+    "Family"
+   ],
+   "blurb": "Flick discs and make trick shots in this traditional Canadian dexterity game!",
+   "image": "https://cf.geekdo-images.com/DOwZ7_Q1w68iBhARcDAxig__square200/img/G_W2MKRGB4sA2J7JMZYqZAHMI6E=/200x200/filters:strip_icc()/pic8549797.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 30,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 4628460,
+     "name": "Boardcraft: Crokinole",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/4628460/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 9.75,
+     "price_initial": 9.75,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [
+      "local_coop",
+      "local_pvp",
+      "online_coop",
+      "online_pvp"
+     ],
+     "developers": [
+      "Boardcraft Studios"
+     ],
+     "publishers": [
+      "Boardcraft Studios"
+     ],
+     "release": "20 Aug, 2026",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628460/c2c89b28dd0d6cd2a37a9e2d35d6aa99203149e0/header.jpg?t=1788042089",
+     "reviews": {
+      "desc": "4 user reviews",
+      "total": 4,
+      "pct": 100
+     }
+    }
+   ],
+   "vtt": [],
+   "note": "Physics-based digital crokinole board."
+  },
+  {
+   "bgg_id": 183394,
+   "name": "Viticulture Essential Edition",
+   "year": 2015,
+   "rank": 44,
+   "rating": 7.95,
+   "weight": 2.9,
+   "usersrated": 56088,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Create the most prosperous winery in Italy from the Tuscan vineyard you've inherited.",
+   "image": "https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__square200/img/q8oiJvSqse6aDn9xMKya2Fo4G80=/200x200/filters:strip_icc()/pic6500949.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 90,
+   "minplayers": 1,
+   "minplaytime": 45,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 1325800,
+     "name": "Viticulture Essential Edition",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/1325800/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 8.6,
+     "price_initial": 21.5,
+     "discount": 60,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "local_pvp",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "DIGIDICED"
+     ],
+     "publishers": [
+      "DIGIDICED"
+     ],
+     "release": "10 Jul, 2020",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325800/header.jpg?t=1728984183",
+     "reviews": {
+      "desc": "Mixed",
+      "pct": 70,
+      "total": 241
+     }
+    }
+   ],
+   "vtt": [
+    {
+     "appid": 414235,
+     "platform": "Tabletopia",
+     "url": "https://store.steampowered.com/app/414235/"
+    }
+   ],
+   "note": null
+  },
+  {
+   "bgg_id": 324856,
+   "name": "The Crew: Mission Deep Sea",
+   "year": 2021,
+   "rank": 45,
+   "rating": 8.03,
+   "weight": 2.06,
+   "usersrated": 26770,
+   "categories": [
+    "Strategy",
+    "Family"
+   ],
+   "blurb": "Explore the deep sea, outwit fate, and discover the mythic land of Mu!",
+   "image": "https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__square200/img/ubbfKftLJ8Wc7LcJ3GE40adj7sM=/200x200/filters:strip_icc()/pic5988903.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 20,
+   "minplayers": 2,
+   "minplaytime": 20,
+   "bga": {
+    "slug": "thecrewdeepsea",
+    "name": "The Crew: Mission Deep Sea",
+    "url": "https://boardgamearena.com/gamepanel?game=thecrewdeepsea",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 35,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 340325
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 199792,
+   "name": "Everdell",
+   "year": 2018,
+   "rank": 46,
+   "rating": 7.97,
+   "weight": 2.84,
+   "usersrated": 70280,
+   "categories": [
+    "Strategy",
+    "Family"
+   ],
+   "blurb": "Gather resources to develop a harmonious village of woodland critters and structures.",
+   "image": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__square200/img/oSGR0N6s84_G6q5MSCrZ1ILL7VE=/200x200/filters:strip_icc()/pic3918905.png",
+   "maxplayers": 4,
+   "maxplaytime": 80,
+   "minplayers": 1,
+   "minplaytime": 40,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 1722840,
+     "name": "Everdell",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/1722840/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 15.92,
+     "price_initial": 28.95,
+     "discount": 45,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "local_pvp",
+      "online_pvp"
+     ],
+     "developers": [
+      "Dire Wolf"
+     ],
+     "publishers": [
+      "Dire Wolf"
+     ],
+     "release": "28 Jul, 2022",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1722840/header.jpg?t=1778777751",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 90,
+      "total": 736
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 365717,
+   "name": "Clank!: Catacombs",
+   "year": 2022,
+   "rank": 47,
+   "rating": 8.23,
+   "weight": 2.5,
+   "usersrated": 15478,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Deck-building adventure meets tile-laying in the newest incarnation of Clank!",
+   "image": "https://cf.geekdo-images.com/cCLn9Mvb7jRSaZzHeUXhoQ__square200/img/N7u18siDGbHybKb7nV0M0pXSQaE=/200x200/filters:strip_icc()/pic6937913.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 45,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 1722870,
+     "name": "Clank!",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/1722870/",
+     "confidence": 0.85,
+     "is_free": false,
+     "price": 32.85,
+     "price_initial": 36.5,
+     "discount": 10,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "local_pvp",
+      "online_pvp"
+     ],
+     "developers": [
+      "Dire Wolf"
+     ],
+     "publishers": [
+      "Dire Wolf"
+     ],
+     "release": "21 Oct, 2024",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1722870/ed76a3e3ba468f4f7c3dd8d49b36f905534660c9/header_alt_assets_1.jpg?t=1773855162",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 92,
+      "total": 594
+     }
+    }
+   ],
+   "vtt": [],
+   "note": "Digital version of the original Clank!, not Catacombs."
+  },
+  {
+   "bgg_id": 366013,
+   "name": "Heat: Pedal to the Metal",
+   "year": 2022,
+   "rank": 48,
+   "rating": 7.99,
+   "weight": 2.2,
+   "usersrated": 43538,
+   "categories": [
+    "Family"
+   ],
+   "blurb": "Push your car to the limit in the pursuit of victory, but don’t overheat!",
+   "image": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__square200/img/LYL8i7kS1_RuTZLvSi8a8hPBh74=/200x200/filters:strip_icc()/pic6940449.png",
+   "maxplayers": 6,
+   "maxplaytime": 60,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "heat",
+    "name": "Heat: Pedal to the Metal",
+    "url": "https://boardgamearena.com/gamepanel?game=heat",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "avg_minutes": 42,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 920875
+   },
+   "steam": [
+    {
+     "appid": 4898550,
+     "name": "Heat: Pedal to the Metal",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/4898550/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": null,
+     "price_initial": null,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [
+      "crossplay",
+      "local_pvp",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "Mipmap Digital"
+     ],
+     "publishers": [
+      "Mipmap Digital"
+     ],
+     "release": "To be announced",
+     "coming_soon": true,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898550/1c926bff13dc27f5d4621acb5007e3d6244abe39/header.jpg?t=1785776241",
+     "reviews": {
+      "desc": "No user reviews",
+      "pct": null,
+      "total": 0
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 390092,
+   "name": "Ticket to Ride Legacy: Legends of the West",
+   "year": 2023,
+   "rank": 49,
+   "rating": 8.6,
+   "weight": 2.55,
+   "usersrated": 7271,
+   "categories": [
+    "Family"
+   ],
+   "blurb": "Build train lines across the United States in a twelve-game campaign.",
+   "image": "https://cf.geekdo-images.com/2H0pJddVJA3r6btqRNLG1g__square200/img/qWByOsW3m4eQsBUubz7Jd-nHqJU=/200x200/filters:strip_icc()/pic7541330.png",
+   "maxplayers": 5,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 20,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 285774,
+   "name": "Marvel Champions: The Card Game",
+   "year": 2019,
+   "rank": 50,
+   "rating": 8.11,
+   "weight": 2.97,
+   "usersrated": 28385,
+   "categories": [
+    "Customizable"
+   ],
+   "blurb": "Battle Marvel villains with unique teams of iconic heroes in this LCG.",
+   "image": "https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__square200/img/dELqF3Nu63hBEDyV_WbyvsIVAr0=/200x200/filters:strip_icc()/pic4900321.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 1,
+   "minplaytime": 45,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 414317,
+   "name": "Harmonies",
+   "year": 2024,
+   "rank": 51,
+   "rating": 8.03,
+   "weight": 2.01,
+   "usersrated": 33310,
+   "categories": [
+    "Family",
+    "Abstract"
+   ],
+   "blurb": "Create your own landscape and habitats to welcome animals.",
+   "image": "https://cf.geekdo-images.com/A_XP2_VN3ugyqPhezowB_w__square200/img/GzPfresEpaVrQdmh-T7Pv0yaiQc=/200x200/filters:strip_icc()/pic8026369.png",
+   "maxplayers": 4,
+   "maxplaytime": 45,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "harmonies",
+    "name": "Harmonies",
+    "url": "https://boardgamearena.com/gamepanel?game=harmonies",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 17,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 3335735
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 247763,
+   "name": "Underwater Cities",
+   "year": 2018,
+   "rank": 52,
+   "rating": 8.04,
+   "weight": 3.59,
+   "usersrated": 23486,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Develop future cities on the seafloor through politics, production, and science.",
+   "image": "https://cf.geekdo-images.com/PwOwTVHovJAUQgghnGqCOg__square200/img/syDUV8dzXQdIgonXlbGiLDhbHQM=/200x200/filters:strip_icc()/pic4837710.png",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 80,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 2182320,
+     "name": "Underwater Cities",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/2182320/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": null,
+     "price_initial": null,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [
+      "local_pvp",
+      "online_pvp"
+     ],
+     "developers": [
+      "Savant Games"
+     ],
+     "publishers": [
+      "Savant Games"
+     ],
+     "release": "To be announced",
+     "coming_soon": true,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2182320/header.jpg?t=1779720716",
+     "reviews": {
+      "desc": "No user reviews",
+      "pct": null,
+      "total": 0
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 175914,
+   "name": "Food Chain Magnate",
+   "year": 2015,
+   "rank": 53,
+   "rating": 8.03,
+   "weight": 4.18,
+   "usersrated": 23622,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Strategically hire and manage your workforce to outcompete rival fast food chains.",
+   "image": "https://cf.geekdo-images.com/Wtxml94LAXsIWQCxGPS63Q__square200/img/QcgCQVkBl7TKU6Sdhx6I_cmkAg8=/200x200/filters:strip_icc()/pic2649434.png",
+   "maxplayers": 5,
+   "maxplaytime": 240,
+   "minplayers": 2,
+   "minplaytime": 120,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 436217,
+   "name": "The Lord of the Rings: Fate of the Fellowship",
+   "year": 2025,
+   "rank": 54,
+   "rating": 8.34,
+   "weight": 3.11,
+   "usersrated": 12074,
+   "categories": [
+    "Thematic"
+   ],
+   "blurb": "As members of The Fellowship, embark on a journey to save—or doom—Middle-earth.",
+   "image": "https://cf.geekdo-images.com/scw36iBIad7l-rGzxPGcGg__square200/img/N9e1iADIa5fTAYSjatXDvtk9-Po=/200x200/filters:strip_icc()/pic8662670.png",
+   "maxplayers": 5,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": {
+    "slug": "fateoffellowship",
+    "name": "The Fate of the Fellowship",
+    "url": "https://boardgamearena.com/gamepanel?game=fateoffellowship",
+    "premium": false,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 65,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 63981
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 253344,
+   "name": "Cthulhu: Death May Die",
+   "year": 2019,
+   "rank": 55,
+   "rating": 8.18,
+   "weight": 2.49,
+   "usersrated": 17495,
+   "categories": [
+    "Thematic"
+   ],
+   "blurb": "Disrupt the ritual and slay the Elder Gods in this co-op dice chucker.",
+   "image": "https://cf.geekdo-images.com/SPpzri7fwLRgVWMKOocHxw__square200/img/G7NDTea1O6DjOTL7d2PyoEgkuAo=/200x200/filters:strip_icc()/pic9712872.png",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 256960,
+   "name": "Pax Pamir: Second Edition",
+   "year": 2019,
+   "rank": 56,
+   "rating": 8.12,
+   "weight": 3.85,
+   "usersrated": 18131,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Swing the tides of \"The Great Game\" as countries vie for control of Afghanistan.",
+   "image": "https://cf.geekdo-images.com/oSM_AuKYfGIwOtKbVEsoVg__square200/img/qtzIXnKqkVdxGM4FTHUTRutor7Q=/200x200/filters:strip_icc()/pic4503733.png",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 45,
+   "bga": {
+    "slug": "paxpamir",
+    "name": "Pax Pamir: Second Edition",
+    "url": "https://boardgamearena.com/gamepanel?game=paxpamir",
+    "premium": false,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 36,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 92414
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 383179,
+   "name": "Age of Innovation",
+   "year": 2023,
+   "rank": 57,
+   "rating": 8.42,
+   "weight": 4.27,
+   "usersrated": 8984,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Terraform the world to expand your faction and create innovations on the way.",
+   "image": "https://cf.geekdo-images.com/D1vrcFEptCEoD8Z6s_iRfw__square200/img/eVyh9QbYOjbTxVgDkXJz8ubWa4E=/200x200/filters:strip_icc()/pic7430993.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 200,
+   "minplayers": 1,
+   "minplaytime": 40,
+   "bga": {
+    "slug": "ageofinnovation",
+    "name": "Age of Innovation: a Terra Mystica game",
+    "url": "https://boardgamearena.com/gamepanel?game=ageofinnovation",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 54,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 244562
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 3076,
+   "name": "Puerto Rico",
+   "year": 2002,
+   "rank": 58,
+   "rating": 7.9,
+   "weight": 3.27,
+   "usersrated": 74824,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Ship goods, construct buildings, and choose roles that benefit you more than others.",
+   "image": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__square200/img/PbI-9XB0EyMkWrlj3_C5Ono8BSQ=/200x200/filters:strip_icc()/pic158548.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 150,
+   "minplayers": 3,
+   "minplaytime": 90,
+   "bga": {
+    "slug": "puertorico",
+    "name": "Puerto Rico",
+    "url": "https://boardgamearena.com/gamepanel?game=puertorico",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 25,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 2911014
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 184267,
+   "name": "On Mars",
+   "year": 2020,
+   "rank": 59,
+   "rating": 8.16,
+   "weight": 4.62,
+   "usersrated": 15329,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Be a part of the first Martian colony, striving to be the best contributor.",
+   "image": "https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__square200/img/xn03BbsTlZEf-4ZLV8FfPCUX7j8=/200x200/filters:strip_icc()/pic4357658.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 314040,
+   "name": "Pandemic Legacy: Season 0",
+   "year": 2020,
+   "rank": 60,
+   "rating": 8.33,
+   "weight": 3.19,
+   "usersrated": 9777,
+   "categories": [
+    "Strategy",
+    "Thematic"
+   ],
+   "blurb": "Work together during the Cold War to prevent a Soviet bio-threat.",
+   "image": "https://cf.geekdo-images.com/y0x1zbkpUXjddzWWnhekYw__square200/img/JWGMjjEyW82coUMV3Nh2akor1tY=/200x200/filters:strip_icc()/pic5581457.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 45,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 295947,
+   "name": "Cascadia",
+   "year": 2021,
+   "rank": 61,
+   "rating": 7.88,
+   "weight": 1.84,
+   "usersrated": 57467,
+   "categories": [
+    "Family",
+    "Abstract"
+   ],
+   "blurb": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife.",
+   "image": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__square200/img/ClDVJ5N-pZlzIkxQBCufbfFXChI=/200x200/filters:strip_icc()/pic5100691.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 45,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 2438970,
+     "name": "Cascadia",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/2438970/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 16.46,
+     "price_initial": 21.95,
+     "discount": 25,
+     "currency": "AUD",
+     "mp": [
+      "crossplay",
+      "local_pvp",
+      "online_pvp"
+     ],
+     "developers": [
+      "Dire Wolf"
+     ],
+     "publishers": [
+      "Dire Wolf"
+     ],
+     "release": "19 Feb, 2025",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438970/header.jpg?t=1767897466",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 98,
+      "total": 230
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 102794,
+   "name": "Caverna: The Cave Farmers",
+   "year": 2013,
+   "rank": 62,
+   "rating": 7.92,
+   "weight": 3.78,
+   "usersrated": 37649,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "From a simple cave, expand your dwarven home through mining, agriculture, and more.",
+   "image": "https://cf.geekdo-images.com/EAqbd46lFxo-7GumlO8U4w__square200/img/PHUfUaGn_YwK7b_vgE1auTLi658=/200x200/filters:strip_icc()/pic5598833.jpg",
+   "maxplayers": 7,
+   "maxplaytime": 210,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "caverna",
+    "name": "Caverna",
+    "url": "https://boardgamearena.com/gamepanel?game=caverna",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    "avg_minutes": 53,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 119112
+   },
+   "steam": [
+    {
+     "appid": 3216750,
+     "name": "Caverna",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/3216750/",
+     "confidence": 0.85,
+     "is_free": false,
+     "price": 11.8,
+     "price_initial": 29.5,
+     "discount": 60,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "local_pvp",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "DIGIDICED"
+     ],
+     "publishers": [
+      "DIGIDICED"
+     ],
+     "release": "28 Apr, 2025",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216750/3b8343bd98f30ee3eed4c83a5a9c9b7f33ea2c8e/header.jpg?t=1745825594",
+     "reviews": {
+      "desc": "Mostly Positive",
+      "pct": 76,
+      "total": 25
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 185343,
+   "name": "Anachrony",
+   "year": 2017,
+   "rank": 63,
+   "rating": 8.03,
+   "weight": 3.99,
+   "usersrated": 21971,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Use Exosuits & time travel to ensure your vision for the future after the cataclysm.",
+   "image": "https://cf.geekdo-images.com/31quLNzteInnevVRAABoow__square200/img/hCABQy7_cwoW2HF4egxKwD9XmI0=/200x200/filters:strip_icc()/pic3499707.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "anachrony",
+    "name": "Anachrony",
+    "url": "https://boardgamearena.com/gamepanel?game=anachrony",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 59,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 52637
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 251661,
+   "name": "Oathsworn: Into the Deepwood",
+   "year": 2022,
+   "rank": 64,
+   "rating": 8.74,
+   "weight": 3.69,
+   "usersrated": 7081,
+   "categories": [
+    "Thematic"
+   ],
+   "blurb": "Fight for humanity's survival against unnatural horrors and the Deepwood itself.",
+   "image": "https://cf.geekdo-images.com/dezQ4YjF03lZVxTdI-UJYw__square200/img/vm0ohqUOn26Q4YvBcdaoN2xGi2w=/200x200/filters:strip_icc()/pic6863204.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 240980,
+   "name": "Blood on the Clocktower",
+   "year": 2022,
+   "rank": 65,
+   "rating": 8.33,
+   "weight": 3.02,
+   "usersrated": 12541,
+   "categories": [
+    "Strategy",
+    "Party"
+   ],
+   "blurb": "Deduce who the Demon is through logic and bluffing. Dead players still play.",
+   "image": "https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__square200/img/FdLq8zXvSnNWo6jw9FusW2s-JJw=/200x200/filters:strip_icc()/pic7009391.jpg",
+   "maxplayers": 21,
+   "maxplaytime": 120,
+   "minplayers": 6,
+   "minplaytime": 30,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 31260,
+   "name": "Agricola",
+   "year": 2007,
+   "rank": 66,
+   "rating": 7.85,
+   "weight": 3.64,
+   "usersrated": 77347,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Build your farmstead by sowing fields and raising livestock. But don't forget to eat!",
+   "image": "https://cf.geekdo-images.com/3L6ZtOll9W5O6-3-EwSMyw__square200/img/bWrkWbzfhvWAr0czjLnC09w2170=/200x200/filters:strip_icc()/pic1899157.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 231733,
+   "name": "Obsession",
+   "year": 2018,
+   "rank": 67,
+   "rating": 8.07,
+   "weight": 3.11,
+   "usersrated": 18880,
+   "categories": [
+    "Strategy",
+    "Thematic"
+   ],
+   "blurb": "Renovate an estate, manage servants, and pursue romance in Victorian England.",
+   "image": "https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__square200/img/Z7sEVwotxCsT0n1rH7JuPHq5x7g=/200x200/filters:strip_icc()/pic5902073.png",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "obsession",
+    "name": "Obsession",
+    "url": "https://boardgamearena.com/gamepanel?game=obsession",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 36,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 326666
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 182874,
+   "name": "Grand Austria Hotel",
+   "year": 2015,
+   "rank": 68,
+   "rating": 7.96,
+   "weight": 3.19,
+   "usersrated": 25725,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Serve guests and prepare rooms to be the best hotelier in the Viennese modern age.",
+   "image": "https://cf.geekdo-images.com/PJRaImV8iXGAq2L-6rrn-w__square200/img/jEUyGb2ochXtziGkbgdDqSyvLVQ=/200x200/filters:strip_icc()/pic2649931.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 170216,
+   "name": "Blood Rage",
+   "year": 2015,
+   "rank": 69,
+   "rating": 7.89,
+   "weight": 2.88,
+   "usersrated": 52469,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Ragnarök has come! Secure your place in Valhalla in epic Viking battles.",
+   "image": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__square200/img/b_iWKswWsdEOlF5BTuKw36gMFcs=/200x200/filters:strip_icc()/pic2439223.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "bga": {
+    "slug": "bloodrage",
+    "name": "Blood Rage",
+    "url": "https://boardgamearena.com/gamepanel?game=bloodrage",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 50,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 105761
+   },
+   "steam": [
+    {
+     "appid": 1015930,
+     "name": "Blood Rage: Digital Edition",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/1015930/",
+     "confidence": 0.95,
+     "is_free": false,
+     "price": 7.37,
+     "price_initial": 29.5,
+     "discount": 75,
+     "currency": "AUD",
+     "mp": [
+      "local_pvp",
+      "online_pvp"
+     ],
+     "developers": [
+      "Endava"
+     ],
+     "publishers": [
+      "Twin Sails Interactive"
+     ],
+     "release": "27 May, 2020",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015930/header.jpg?t=1760950360",
+     "reviews": {
+      "desc": "Mixed",
+      "pct": 56,
+      "total": 839
+     }
+    }
+   ],
+   "vtt": [
+    {
+     "appid": 610700,
+     "platform": "Tabletop Simulator",
+     "url": "https://store.steampowered.com/app/610700/"
+    }
+   ],
+   "note": null
+  },
+  {
+   "bgg_id": 367966,
+   "name": "Endeavor: Deep Sea",
+   "year": 2024,
+   "rank": 70,
+   "rating": 8.21,
+   "weight": 2.93,
+   "usersrated": 11801,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Lead your research institute to explore ocean depths and publish your findings!",
+   "image": "https://cf.geekdo-images.com/wIbevITv9W79ELP8rEZoKA__square200/img/7BDx8KnThYSPoWphy0Mz06zDeyk=/200x200/filters:strip_icc()/pic6996584.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 161533,
+   "name": "Lisboa",
+   "year": 2017,
+   "rank": 71,
+   "rating": 8.16,
+   "weight": 4.56,
+   "usersrated": 13150,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Compete to reconstruct the city of Lisboa after the great earthquake of 1755.",
+   "image": "https://cf.geekdo-images.com/OrHS8_a1CqSGiXeTfCk0Wg__square200/img/3TOdPvLG_fiveUKS-UcfZS3vFDE=/200x200/filters:strip_icc()/pic3209553.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 371942,
+   "name": "The White Castle",
+   "year": 2023,
+   "rank": 72,
+   "rating": 7.98,
+   "weight": 3.07,
+   "usersrated": 24559,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Become the most influential clan in Japan's Himeji stronghold.",
+   "image": "https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__square200/img/dhL41LnGHG3_goo6-PGqOIYH-no=/200x200/filters:strip_icc()/pic7754663.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 80,
+   "minplayers": 1,
+   "minplaytime": 80,
+   "bga": {
+    "slug": "thewhitecastle",
+    "name": "The White Castle",
+    "url": "https://boardgamearena.com/gamepanel?game=thewhitecastle",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 34,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 634491
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 380607,
+   "name": "Great Western Trail: New Zealand",
+   "year": 2023,
+   "rank": 73,
+   "rating": 8.44,
+   "weight": 3.99,
+   "usersrated": 7456,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Tend to your sheep on the South Island of New Zealand.",
+   "image": "https://cf.geekdo-images.com/X4KaD6ADLW1ohOznNay7xg__square200/img/qerCUlPg6OyAUqysI0dJToSjYEs=/200x200/filters:strip_icc()/pic7350809.png",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 75,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 221107,
+   "name": "Pandemic Legacy: Season 2",
+   "year": 2017,
+   "rank": 74,
+   "rating": 8.01,
+   "weight": 3.25,
+   "usersrated": 18497,
+   "categories": [
+    "Strategy",
+    "Thematic"
+   ],
+   "blurb": "The world is a mystery after a devastating pandemic—where will your team go?",
+   "image": "https://cf.geekdo-images.com/Qtkb-UTvHa0-kxt_MK1nKw__square200/img/blyxL6y6CirAoi7HTcJHEmkcpyg=/200x200/filters:strip_icc()/pic3763549.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 2651,
+   "name": "Power Grid",
+   "year": 2004,
+   "rank": 76,
+   "rating": 7.8,
+   "weight": 3.25,
+   "usersrated": 70179,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Bid, network, and manage resources in a race to supply the most cities with power.",
+   "image": "https://cf.geekdo-images.com/yd6LuatytHRhcFCxCf-EEg__square200/img/Z3qk5PojKVvbrAnp8-OrO0RgnQo=/200x200/filters:strip_icc()/pic4459753.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 120,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 2983910,
+     "name": "Power Grid",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/2983910/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 8.39,
+     "price_initial": 13.99,
+     "discount": 40,
+     "currency": "AUD",
+     "mp": [
+      "crossplay",
+      "online_pvp"
+     ],
+     "developers": [
+      "Brettspielwelt GmbH"
+     ],
+     "publishers": [
+      "Brettspielwelt GmbH"
+     ],
+     "release": "8 Jul, 2024",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983910/header.jpg?t=1786374417",
+     "reviews": {
+      "desc": "Mixed",
+      "pct": 53,
+      "total": 66
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 255984,
+   "name": "Sleeping Gods",
+   "year": 2021,
+   "rank": 76,
+   "rating": 8.08,
+   "weight": 3.26,
+   "usersrated": 16403,
+   "categories": [
+    "Thematic"
+   ],
+   "blurb": "Voyages of the steamship \"Manticore\" and her crew on the Wandering Sea.",
+   "image": "https://cf.geekdo-images.com/Zdt8l4oTBpFICsMyNof7Jg__square200/img/b6WoYa7PqsW2uvN2_hia1pqzE64=/200x200/filters:strip_icc()/pic5975244.png",
+   "maxplayers": 4,
+   "maxplaytime": 1200,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 126163,
+   "name": "Tzolk'in: The Mayan Calendar",
+   "year": 2012,
+   "rank": 77,
+   "rating": 7.84,
+   "weight": 3.66,
+   "usersrated": 42924,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Lead your people, build monuments and make offerings to earn the favour of the gods.",
+   "image": "https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__square200/img/3lSxrU1xoZ0ycVzPdGyJWKgiMM8=/200x200/filters:strip_icc()/pic4604439.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 90,
+   "bga": {
+    "slug": "tzolkin",
+    "name": "Tzolk'in",
+    "url": "https://boardgamearena.com/gamepanel?game=tzolkin",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 29,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 802454
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 216132,
+   "name": "Clans of Caledonia",
+   "year": 2017,
+   "rank": 78,
+   "rating": 7.94,
+   "weight": 3.47,
+   "usersrated": 23269,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Lead your unique Scottish clan to economic might via production, trade, and export.",
+   "image": "https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__square200/img/Gh9uS5Yzc-ColbSvuoXY2_ZQ0do=/200x200/filters:strip_icc()/pic3511783.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "clansofcaledonia",
+    "name": "Clans of Caledonia",
+    "url": "https://boardgamearena.com/gamepanel?game=clansofcaledonia",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 30,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 384004
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 337627,
+   "name": "Voidfall",
+   "year": 2023,
+   "rank": 80,
+   "rating": 8.5,
+   "weight": 4.62,
+   "usersrated": 7462,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Repel the Voidborn and restore Domineum in this space themed, heavy Euro.",
+   "image": "https://cf.geekdo-images.com/hItZjdDTNuaCZ7fEztwcUQ__square200/img/DDdkWOb1a8aIwnrMg25R1JqdNTw=/200x200/filters:strip_icc()/pic6153324.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 240,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 205059,
+   "name": "Mansions of Madness: Second Edition",
+   "year": 2016,
+   "rank": 80,
+   "rating": 7.91,
+   "weight": 2.69,
+   "usersrated": 40868,
+   "categories": [
+    "Thematic"
+   ],
+   "blurb": "Cling to your sanity as you investigate Lovecraftian horrors.",
+   "image": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__square200/img/I60Uk2oPsbiV0u_onRxI6HNgUxc=/200x200/filters:strip_icc()/pic3118622.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 120,
+   "bga": null,
+   "steam": [
+    {
+     "appid": 840210,
+     "name": "Arkham Horror: Mother's Embrace",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/840210/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 5.9,
+     "price_initial": 29.5,
+     "discount": 80,
+     "currency": "AUD",
+     "mp": [],
+     "developers": [
+      "Twin Sails Interactive"
+     ],
+     "publishers": [
+      "Twin Sails Interactive"
+     ],
+     "release": "23 Mar, 2021",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840210/header.jpg?t=1741270543",
+     "reviews": {
+      "desc": "Mixed",
+      "pct": 63,
+      "total": 718
+     }
+    }
+   ],
+   "vtt": [],
+   "note": "Standalone digital game set in the Mansions of Madness world (the official Steam app is only a companion for the physical box)."
+  },
+  {
+   "bgg_id": 244521,
+   "name": "Quacks",
+   "year": 2018,
+   "rank": 81,
+   "rating": 7.8,
+   "weight": 1.94,
+   "usersrated": 60389,
+   "categories": [
+    "Family"
+   ],
+   "blurb": "Pull ingredients from your stock to make your pot bubble, but hopefully not explode!",
+   "image": "https://cf.geekdo-images.com/B1bLRWzTASZ-xx9NoAE79A__square200/img/b81LsPuzm8w3sJmRwRMEchKJcCg=/200x200/filters:strip_icc()/pic8780293.png",
+   "maxplayers": 4,
+   "maxplaytime": 45,
+   "minplayers": 2,
+   "minplaytime": 45,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 413246,
+   "name": "Bomb Busters",
+   "year": 2024,
+   "rank": 82,
+   "rating": 8.03,
+   "weight": 2.01,
+   "usersrated": 15804,
+   "categories": [
+    "Family"
+   ],
+   "blurb": "Players defuse bombs by deducing and cutting unseen wires of different values.",
+   "image": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__square200/img/Vc2P4ULKQq1zNLkpRZR3wYb0Bmc=/200x200/filters:strip_icc()/pic8303080.png",
+   "maxplayers": 5,
+   "maxplaytime": 30,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 266810,
+   "name": "Paladins of the West Kingdom",
+   "year": 2019,
+   "rank": 83,
+   "rating": 7.95,
+   "weight": 3.7,
+   "usersrated": 21002,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Invaders are coming from everywhere.  Keep the faith and defend your homeland.",
+   "image": "https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__square200/img/P6L_aBbHzjbrlTMw4dJzy9Eb-IM=/200x200/filters:strip_icc()/pic4462987.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "bga": {
+    "slug": "paladins",
+    "name": "Paladins of the West Kingdom",
+    "url": "https://boardgamearena.com/gamepanel?game=paladins",
+    "premium": false,
+    "status": "beta",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 51,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": false,
+    "plays": 13246
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 35677,
+   "name": "Le Havre",
+   "year": 2008,
+   "rank": 84,
+   "rating": 7.83,
+   "weight": 3.71,
+   "usersrated": 34179,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Establish a supply chain by collecting resources, building industries, and shipping.",
+   "image": "https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__square200/img/Vmp5PE2CmwgUy5mLoMO0_UiXxi4=/200x200/filters:strip_icc()/pic6091101.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 124742,
+   "name": "Android: Netrunner",
+   "year": 2012,
+   "rank": 85,
+   "rating": 7.89,
+   "weight": 3.42,
+   "usersrated": 31473,
+   "categories": [
+    "Customizable"
+   ],
+   "blurb": "Megacorporation versus Netrunner in this futuristic cyberpunk game of cat and mouse.",
+   "image": "https://cf.geekdo-images.com/2ewHIIG_TRq8bYlqk0jIMw__square200/img/u0IPTsqaLAEjDQ144XSx_tzHRiM=/200x200/filters:strip_icc()/pic3738560.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 45,
+   "minplayers": 2,
+   "minplaytime": 45,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 125153,
+   "name": "The Gallerist",
+   "year": 2015,
+   "rank": 86,
+   "rating": 8.0,
+   "weight": 4.21,
+   "usersrated": 16784,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Amass a fortune, and stake your reputation by operating a lucrative art gallery.",
+   "image": "https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__square200/img/GB0k7HXU0wjXkdPEH949LgrbmwA=/200x200/filters:strip_icc()/pic2503200.png",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 200680,
+   "name": "Agricola (Revised Edition)",
+   "year": 2016,
+   "rank": 87,
+   "rating": 7.95,
+   "weight": 3.45,
+   "usersrated": 21780,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Help your farm to prosper in this updated, streamlined edition of the acclaimed game.",
+   "image": "https://cf.geekdo-images.com/YCGWJMFwOI5efji2RJ2mSw__square200/img/Yyxaz3YRjIEo1EZBN4ipT3gpEzY=/200x200/filters:strip_icc()/pic8093340.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "agricola",
+    "name": "Agricola",
+    "url": "https://boardgamearena.com/gamepanel?game=agricola",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 52,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 1899501
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 164153,
+   "name": "Star Wars: Imperial Assault",
+   "year": 2014,
+   "rank": 88,
+   "rating": 7.95,
+   "weight": 3.3,
+   "usersrated": 26171,
+   "categories": [
+    "Thematic"
+   ],
+   "blurb": "Play as Rebel or Imperial forces to fulfill mission objectives.",
+   "image": "https://cf.geekdo-images.com/pIQ_MXvaoARRp1loCHJuHg__square200/img/aRf64WJF7Cein-kStu4i2yrObV8=/200x200/filters:strip_icc()/pic2247647.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 366161,
+   "name": "Wingspan Asia",
+   "year": 2022,
+   "rank": 89,
+   "rating": 8.21,
+   "weight": 2.64,
+   "usersrated": 10666,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Travel to Asia to discover new birds for your wildlife preserve.",
+   "image": "https://cf.geekdo-images.com/h1dRxq4lNMpuSUSGdgCmfA__square200/img/WEocLq53wEj33mgfSXTdS0dxvPs=/200x200/filters:strip_icc()/pic7107431.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 70,
+   "minplayers": 1,
+   "minplaytime": 40,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 322289,
+   "name": "Darwin's Journey",
+   "year": 2023,
+   "rank": 90,
+   "rating": 8.09,
+   "weight": 3.91,
+   "usersrated": 12897,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Retrace Darwin’s journey to the Galapagos in a worker-placement adventure.",
+   "image": "https://cf.geekdo-images.com/-A_ABjMw4PdoAZrH-FjiiA__square200/img/S7XIwZfWrEAjQhXn3QQPBfaTcT8=/200x200/filters:strip_icc()/pic5726930.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": {
+    "slug": "darwinsjourney",
+    "name": "Darwin's Journey",
+    "url": "https://boardgamearena.com/gamepanel?game=darwinsjourney",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 48,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 197166
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 276025,
+   "name": "Maracaibo",
+   "year": 2019,
+   "rank": 91,
+   "rating": 7.93,
+   "weight": 3.92,
+   "usersrated": 18984,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Seafarers journey to obtain wealth and fame in the 17th century Caribbean.",
+   "image": "https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__square200/img/NwLionWm5CbAlZ_zAuoJrftDW74=/200x200/filters:strip_icc()/pic4917407.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "maracaibo",
+    "name": "Maracaibo",
+    "url": "https://boardgamearena.com/gamepanel?game=maracaibo",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 61,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 96442
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 332772,
+   "name": "Revive",
+   "year": 2022,
+   "rank": 92,
+   "rating": 8.05,
+   "weight": 3.46,
+   "usersrated": 13443,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Revive civilization, 5000 years after the fall of humankind.",
+   "image": "https://cf.geekdo-images.com/V0OZ9QR0pC9G5t5i9MoZTQ__square200/img/m8Y_ObrYvi74VbiS-bn-CYYqTfc=/200x200/filters:strip_icc()/pic6950224.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "bga": {
+    "slug": "revive",
+    "name": "Revive",
+    "url": "https://boardgamearena.com/gamepanel?game=revive",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 55,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 84597
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 209010,
+   "name": "Mechs vs. Minions",
+   "year": 2016,
+   "rank": 93,
+   "rating": 7.94,
+   "weight": 2.45,
+   "usersrated": 18534,
+   "categories": [
+    "Strategy",
+    "Thematic"
+   ],
+   "blurb": "Cooperatively program and pilot your mechs to defeat an army of marauding minions.",
+   "image": "https://cf.geekdo-images.com/n4J5LebMj0DQD016qW7ABw__square200/img/D1SNTEKmDb6zeTgXzQSIohsQFuE=/200x200/filters:strip_icc()/pic3184103.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 277659,
+   "name": "Final Girl",
+   "year": 2021,
+   "rank": 94,
+   "rating": 8.21,
+   "weight": 2.75,
+   "usersrated": 12026,
+   "categories": [
+    "Thematic"
+   ],
+   "blurb": "You alone must survive and defeat the horror movie killer.",
+   "image": "https://cf.geekdo-images.com/TUtzY-F7gKTIKm9y8e1AQw__square200/img/ElsynU1BFxm4xjLFXLp-KtJnQXw=/200x200/filters:strip_icc()/pic6520382.jpg",
+   "maxplayers": 1,
+   "maxplaytime": 60,
+   "minplayers": 1,
+   "minplaytime": 20,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 28143,
+   "name": "Race for the Galaxy",
+   "year": 2007,
+   "rank": 95,
+   "rating": 7.74,
+   "weight": 2.99,
+   "usersrated": 59491,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Worlds await! Colonize, develop and conquer, taking advantage of others' choices.",
+   "image": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__square200/img/-5KKMJP6dz4UCjr_1SH8ngDfbCE=/200x200/filters:strip_icc()/pic5261714.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "raceforthegalaxy",
+    "name": "Race for the Galaxy",
+    "url": "https://boardgamearena.com/gamepanel?game=raceforthegalaxy",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "avg_minutes": 6,
+    "realtime": true,
+    "turnbased": false,
+    "tutorial": true,
+    "plays": 16986772
+   },
+   "steam": [
+    {
+     "appid": 579940,
+     "name": "Race for the Galaxy",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/579940/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 8.71,
+     "price_initial": 12.45,
+     "discount": 30,
+     "currency": "AUD",
+     "mp": [
+      "crossplay",
+      "online_pvp"
+     ],
+     "developers": [
+      "Temple Gates Games"
+     ],
+     "publishers": [
+      "Temple Gates Games"
+     ],
+     "release": "27 Jun, 2017",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/579940/header.jpg?t=1573172455",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 93,
+      "total": 455
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 55690,
+   "name": "Kingdom Death: Monster",
+   "year": 2015,
+   "rank": 96,
+   "rating": 8.47,
+   "weight": 4.28,
+   "usersrated": 10527,
+   "categories": [
+    "Thematic"
+   ],
+   "blurb": "Try to survive in a nightmarish world that lies under eternal darkness.",
+   "image": "https://cf.geekdo-images.com/LenzJBOHboAGU0cUIqAZPQ__square200/img/Bi3sbnpagLAukGxqmO8lc0BeW-U=/200x200/filters:strip_icc()/pic2931007.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 284083,
+   "name": "The Crew: The Quest for Planet Nine",
+   "year": 2019,
+   "rank": 97,
+   "rating": 7.75,
+   "weight": 1.97,
+   "usersrated": 49562,
+   "categories": [
+    "Family"
+   ],
+   "blurb": "Cooperate with your fellow astronauts as you explore the outer solar system.",
+   "image": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__square200/img/qZWXPZh8d-YABHSwRvnwMmZcaE4=/200x200/filters:strip_icc()/pic5687013.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 20,
+   "minplayers": 2,
+   "minplaytime": 20,
+   "bga": {
+    "slug": "thecrew",
+    "name": "The Crew",
+    "url": "https://boardgamearena.com/gamepanel?game=thecrew",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 34,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 562145
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 157354,
+   "name": "Five Tribes: The Djinns of Naqala",
+   "year": 2014,
+   "rank": 98,
+   "rating": 7.76,
+   "weight": 2.84,
+   "usersrated": 45772,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Move assassins, elders & builders through Naqala to claim oases & control djinns.",
+   "image": "https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__square200/img/H0-f9JQPOa_njB8pJbztZpUxhqg=/200x200/filters:strip_icc()/pic2055255.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 80,
+   "minplayers": 2,
+   "minplaytime": 40,
+   "bga": {
+    "slug": "fivetribes",
+    "name": "Five Tribes",
+    "url": "https://boardgamearena.com/gamepanel?game=fivetribes",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 43,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 70625
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 230802,
+   "name": "Azul",
+   "year": 2017,
+   "rank": 99,
+   "rating": 7.71,
+   "weight": 1.77,
+   "usersrated": 111267,
+   "categories": [
+    "Family",
+    "Abstract"
+   ],
+   "blurb": "Artfully embellish the walls of your palace by drafting the most beautiful tiles.",
+   "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__square200/img/3SujmcsLunL1xALI1xJzgbfDndE=/200x200/filters:strip_icc()/pic6973671.png",
+   "maxplayers": 4,
+   "maxplaytime": 45,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "bga": {
+    "slug": "azul",
+    "name": "Azul",
+    "url": "https://boardgamearena.com/gamepanel?game=azul",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 11,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 28983564
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  },
+  {
+   "bgg_id": 93,
+   "name": "El Grande",
+   "year": 1995,
+   "rank": 100,
+   "rating": 7.77,
+   "weight": 2.93,
+   "usersrated": 33690,
+   "categories": [
+    "Strategy"
+   ],
+   "blurb": "Use your caballeros to control regions of medieval Spain, keeping clear of the King!",
+   "image": "https://cf.geekdo-images.com/RRKDHaYtFPHhczkUDcHOmg__square200/img/bazWyO4bxH2Mo2GPIoE_2DAMCRo=/200x200/filters:strip_icc()/pic7906240.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "bga": {
+    "slug": "elgrande",
+    "name": "El Grande",
+    "url": "https://boardgamearena.com/gamepanel?game=elgrande",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 61,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 31577
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null
+  }
+ ]
+}

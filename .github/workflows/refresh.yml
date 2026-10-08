@@ -1,0 +1,38 @@
+name: Refresh data
+
+on:
+  schedule:
+    - cron: "20 18 * * *"   # daily ~04:20 AEST, just after Steam's sales roll over
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch BGG, Steam and BGA data
+        run: python fetch_data.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/games.json data/cache.json
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Refresh game data"
+            git push
+          fi

@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Digital Board Game Finder — Matchsticks for my Eyes</title>
+<meta name="description" content="The BoardGameGeek top 100, cross-referenced against Steam and Board Game Arena: what's playable digitally, what's on sale, and what you can play with friends tonight.">
+<link rel="icon" type="image/png" href="assets/logo.png">
+<link rel="apple-touch-icon" href="assets/logo.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Digital Board Game Finder">
+<meta property="og:description" content="The BoardGameGeek top 100, cross-referenced against Steam and Board Game Arena.">
+<meta property="og:image" content="assets/logo.png">
+<meta name="twitter:card" content="summary">
+<style>
+  :root {
+    --bg: #efefef;
+    --card: #ffffff;
+    --ink: #3a3a3a;
+    --ink-2: #6b6b6b;
+    --ink-3: #9a9a9a;
+    --accent: #1e73be;
+    --line: #e2e2e2;
+    --sale-bg: #4c6b22; --sale-ink: #beee11;
+    --steam-bg: #e8f1fa;  --steam-ink: #1a5c96;
+    --bga-bg: #fdf3e0;    --bga-ink: #8a5a10;
+    --free-bg: #e9f4ea;   --free-ink: #2c6b33;
+    --vtt-bg: #f0eef7;    --vtt-ink: #574f80;
+    --soon-bg: #eeeeee;   --soon-ink: #555555;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 16px/1.55 -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 0 16px; }
+
+  header.site { background: var(--card); border-bottom: 1px solid var(--line); }
+  header.site .wrap { padding-top: 28px; padding-bottom: 22px; }
+  header.site h1 { margin: 0; font-size: 34px; font-weight: 700; letter-spacing: -0.5px; }
+  header.site p.tagline { margin: 6px 0 0; color: var(--ink-2); font-size: 15px; }
+
+  .layout { display: grid; grid-template-columns: 264px 1fr; gap: 20px; padding: 20px 0 40px; }
+  @media (max-width: 820px) { .layout { grid-template-columns: 1fr; } }
+
+  aside.filters {
+    align-self: start; position: sticky; top: 12px;
+    max-height: calc(100vh - 24px); overflow-y: auto; overscroll-behavior: contain;
+    padding-right: 4px; scrollbar-width: thin; scrollbar-color: #c5c5c5 transparent;
+  }
+  @media (max-width: 820px) { aside.filters { position: static; max-height: none; overflow-y: visible; } }
+  .fgroup { background: var(--card); border: 1px solid var(--line); border-radius: 6px; margin-bottom: 12px; }
+  .fgroup summary {
+    cursor: pointer; padding: 10px 14px; font-weight: 600; font-size: 14px;
+    list-style: none; display: flex; justify-content: space-between; align-items: center;
+  }
+  .fgroup summary::-webkit-details-marker { display: none; }
+  .fgroup summary::after { content: "▾"; color: var(--ink-3); font-size: 11px; }
+  .fgroup:not([open]) summary::after { content: "▸"; }
+  .fgroup .fbody { padding: 6px 14px 10px; border-top: 1px solid var(--line); }
+  .fgroup label { display: flex; gap: 8px; align-items: baseline; padding: 3px 0; font-size: 14px; cursor: pointer; }
+  .fgroup label .count { color: var(--ink-3); font-size: 12px; margin-left: auto; }
+  .fgroup input[type=checkbox], .fgroup input[type=radio], .fgroup input[type=range] { accent-color: var(--accent); }
+  .fgroup select { font: inherit; font-size: 14px; padding: 3px 6px; border: 1px solid var(--line); border-radius: 4px; background: #fff; }
+  .fgroup .row { display: flex; justify-content: space-between; align-items: center; gap: 8px; font-size: 14px; padding: 4px 0; }
+  .fgroup .hint { font-size: 12px; color: var(--ink-3); line-height: 1.4; padding-top: 2px; }
+  .fgroup input[type=range] { width: 100%; }
+
+  main { min-width: 0; }
+  .presets { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
+  .presets button, .toolbar button {
+    font: inherit; font-size: 14px; border: 1px solid var(--line); background: var(--card); color: var(--ink);
+    padding: 7px 14px; border-radius: 18px; cursor: pointer;
+  }
+  .presets button:hover, .toolbar button:hover { border-color: var(--accent); color: var(--accent); }
+  .presets button.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .toolbar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin: 4px 4px 10px; font-size: 13.5px; color: var(--ink-2); }
+  .toolbar select { font: inherit; font-size: 13.5px; padding: 3px 6px; border: 1px solid var(--line); border-radius: 4px; background: #fff; }
+  .toolbar .spacer { flex: 1; }
+  .toolbar button { padding: 4px 12px; font-size: 13px; }
+
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 6px;
+    display: flex; gap: 14px; padding: 12px 14px; margin-bottom: 8px; align-items: flex-start;
+  }
+  .card img.thumb { width: 84px; height: 84px; object-fit: cover; border-radius: 4px; flex: none; background: #ddd; }
+  @media (max-width: 560px) { .card img.thumb { width: 64px; height: 64px; } }
+  .card .body { min-width: 0; flex: 1; }
+  .card h3 { margin: 0 0 2px; font-size: 16.5px; font-weight: 600; line-height: 1.3; }
+  .card h3 a { color: var(--ink); }
+  .card h3 a:hover { color: var(--accent); }
+  .card h3 .rank { color: var(--ink-3); font-weight: 400; margin-right: 6px; }
+  .meta { font-size: 13px; color: var(--ink-2); }
+  .meta .sep { color: var(--ink-3); margin: 0 4px; }
+  .blurb { font-size: 13.5px; color: var(--ink-2); margin-top: 2px; }
+  .where { margin-top: 8px; display: flex; flex-direction: column; gap: 5px; }
+  .plat { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 13px; }
+  .plat .name { font-weight: 600; }
+  .badge {
+    font-size: 11px; font-weight: 600; letter-spacing: 0.3px; text-transform: uppercase;
+    padding: 1.5px 8px; border-radius: 10px; white-space: nowrap;
+  }
+  .b-steam { background: var(--steam-bg); color: var(--steam-ink); }
+  .b-bga { background: var(--bga-bg); color: var(--bga-ink); }
+  .b-free { background: var(--free-bg); color: var(--free-ink); }
+  .b-vtt { background: var(--vtt-bg); color: var(--vtt-ink); }
+  .b-soon { background: var(--soon-bg); color: var(--soon-ink); }
+  .b-plain { background: transparent; color: var(--ink-2); border: 1px solid var(--line); text-transform: none; letter-spacing: 0; font-weight: 500; }
+  .price { display: inline-flex; align-items: stretch; border-radius: 3px; overflow: hidden; font-size: 13px; }
+  .price .pct { background: var(--sale-bg); color: var(--sale-ink); font-weight: 700; padding: 1px 6px; }
+  .price .amt { background: #f2f2f2; padding: 1px 7px; }
+  .price s { color: var(--ink-3); margin-right: 5px; font-size: 12px; }
+  .price .amt b { font-weight: 600; }
+  .own { font: inherit; font-size: 12px; border: 1px solid var(--line); background: #fff; color: var(--ink-2);
+    border-radius: 10px; padding: 0 8px; cursor: pointer; }
+  .own:hover { border-color: var(--accent); color: var(--accent); }
+  .own.on { background: var(--free-bg); color: var(--free-ink); border-color: var(--free-bg); font-weight: 600; }
+  .card.owned { opacity: .62; }
+  .card.owned:hover { opacity: 1; }
+  .note { font-size: 12.5px; color: var(--ink-2); margin-top: 6px; font-style: italic; }
+  .nodigital { font-size: 13px; color: var(--ink-3); margin-top: 6px; }
+  .empty { color: var(--ink-2); padding: 30px 4px; }
+
+  .help { background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 12px 16px; font-size: 13.5px; color: var(--ink-2); margin-top: 18px; }
+  .help h4 { margin: 0 0 4px; color: var(--ink); font-size: 14px; }
+  .help p { margin: 4px 0; }
+
+  footer.site { background: var(--card); border-top: 1px solid var(--line); margin-top: 20px; }
+  footer.site .wrap { padding: 26px 16px 34px; text-align: center; color: var(--ink-2); font-size: 13.5px; }
+  footer.site img { height: 84px; display: block; margin: 0 auto 8px; }
+  footer.site .home { font-size: 15px; }
+
+  .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: #333; color: #fff;
+    padding: 8px 16px; border-radius: 18px; font-size: 14px; opacity: 0; transition: opacity .2s; pointer-events: none; }
+  .toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap">
+    <h1>Digital Board Game Finder</h1>
+    <p class="tagline" id="tagline">The BoardGameGeek top games, cross-referenced against Steam, Board Game Arena and virtual tabletops — what's on sale, and what you can play with friends tonight. Click a title for its BGG page, or a platform to go play.</p>
+  </div>
+</header>
+
+<div class="wrap layout">
+  <aside class="filters">
+    <details class="fgroup" open>
+      <summary>Available on</summary>
+      <div class="fbody">
+        <label><input type="checkbox" data-f="steam" checked> Steam <span class="count" data-c="steam"></span></label>
+        <label><input type="checkbox" data-f="bga" checked> Board Game Arena <span class="count" data-c="bga"></span></label>
+        <label><input type="checkbox" data-f="vtt" checked> Tabletop Simulator / Tabletopia <span class="count" data-c="vtt"></span></label>
+        <label><input type="checkbox" data-f="none"> Not available digitally <span class="count" data-c="none"></span></label>
+      </div>
+    </details>
+
+    <details class="fgroup" open>
+      <summary>Shopping (Steam)</summary>
+      <div class="fbody">
+        <label><input type="checkbox" data-f="sale"> On sale now <span class="count" data-c="sale"></span></label>
+        <label><input type="checkbox" data-f="released"> Hide "coming soon"</label>
+        <label><input type="checkbox" data-f="hideOwned"> Hide games I own <span class="count" data-c="owned"></span></label>
+        <div class="row"><span>Max price</span><b id="maxPriceOut">Any</b></div>
+        <input type="range" id="maxPrice" min="0" max="50" step="1" value="50">
+        <div class="hint" id="currencyHint"></div>
+      </div>
+    </details>
+
+    <details class="fgroup" open>
+      <summary>Playing together</summary>
+      <div class="fbody">
+        <div class="row"><span>We have</span>
+          <select id="players">
+            <option value="">any number of</option>
+            <option value="1">1 (solo)</option><option value="2">2</option><option value="3">3</option>
+            <option value="4">4</option><option value="5">5</option><option value="6">6+</option>
+          </select>
+        </div>
+        <div class="hint" style="margin-bottom:4px">players</div>
+        <label><input type="checkbox" data-f="online"> Online multiplayer</label>
+        <label><input type="checkbox" data-f="bgafree"> Free on BGA (no Premium needed)</label>
+        <label><input type="checkbox" data-f="remote"> Steam Remote Play Together</label>
+        <label><input type="checkbox" data-f="async"> Turn-based / async play</label>
+        <div class="hint">Player counts use BGA's supported counts where the game is on BGA, otherwise the box's range from BGG.</div>
+      </div>
+    </details>
+
+    <details class="fgroup">
+      <summary>Weight</summary>
+      <div class="fbody">
+        <label><input type="checkbox" data-w="light" checked> Light (under 2.25) <span class="count" data-c="light"></span></label>
+        <label><input type="checkbox" data-w="medium" checked> Medium (2.25–3.5) <span class="count" data-c="medium"></span></label>
+        <label><input type="checkbox" data-w="heavy" checked> Heavy (over 3.5) <span class="count" data-c="heavy"></span></label>
+      </div>
+    </details>
+
+    <details class="fgroup">
+      <summary>BGG category</summary>
+      <div class="fbody" id="catBox"></div>
+    </details>
+
+    <div class="fgroup" style="padding:10px 14px;font-size:13px">
+      <a href="#" id="resetLink">Reset all filters</a>
+    </div>
+  </aside>
+
+  <main>
+    <div class="presets">
+      <button data-preset="sale">🛒 Steam sale shopping</button>
+      <button data-preset="tonight">🎲 Play with friends tonight</button>
+      <button data-preset="all">Everything digital</button>
+    </div>
+    <div class="toolbar">
+      <span id="shown"></span>
+      <span>· Sort by
+        <select id="sort">
+          <option value="rank">BGG rank</option>
+          <option value="discount">Biggest discount</option>
+          <option value="price">Lowest Steam price</option>
+          <option value="reviews">Steam reviews</option>
+          <option value="bgaplays">Most played on BGA</option>
+          <option value="weight">Lightest first</option>
+        </select>
+      </span>
+      <span class="spacer"></span>
+      <button id="share" title="Copy a link to this exact view">🔗 Copy link to this view</button>
+    </div>
+    <div id="list"></div>
+
+    <div class="help">
+      <h4>Notes</h4>
+      <p><b>Board Game Arena Premium:</b> many BGA games are free for everyone. For Premium games, BGA's rule is that only the player who creates the table needs Premium — everyone else joins free. One subscription covers a whole group.</p>
+      <p><b>Steam Remote Play Together:</b> one person owns the game and streams it; friends join from their own Steam without buying it. Only works for games with local multiplayer.</p>
+      <p><b>Tabletop Simulator / Tabletopia:</b> official DLC for those apps — a faithful virtual copy of the physical game, with no rules enforcement. Each player usually needs the base app.</p>
+      <p>Steam matches are found by name and checked by hand, so the odd miss is possible. Prices are Steam's current <span id="ccName">AUD</span> prices at the last refresh — check the store page before buying.</p>
+    </div>
+  </main>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <img src="assets/logo.png" alt="Matchsticks for my Eyes logo">
+    <div class="home"><a href="https://www.matchstickeyes.com">Powered by Matchsticks for my Eyes</a></div>
+    <div id="generated"></div>
+    <div>Ranks and game data from <a href="https://boardgamegeek.com">BoardGameGeek</a>; platform data from <a href="https://store.steampowered.com">Steam</a> and <a href="https://boardgamearena.com">Board Game Arena</a>.</div>
+  </div>
+</footer>
+<div class="toast" id="toast">Link copied</div>
+
+<script>
+const $ = (s, el = document) => el.querySelector(s);
+const $$ = (s, el = document) => [...el.querySelectorAll(s)];
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+const DEFAULTS = { steam: true, bga: true, vtt: true, none: false, sale: false, released: false,
+  hideOwned: false, online: false, bgafree: false, remote: false, async: false,
+  light: true, medium: true, heavy: true, players: "", maxPrice: null, sort: "rank", cats: null };
+let S = { ...DEFAULTS };
+let DATA, GAMES = [], CATS = [], PRICE_CAP = 50, CUR = "A$";
+
+const PRESETS = {
+  sale: { ...DEFAULTS, bga: false, vtt: false, sale: true, sort: "discount" },
+  tonight: { ...DEFAULTS, online: true, released: true, sort: "rank" },
+  all: { ...DEFAULTS },
+};
+
+// ---------- owned games (per viewer, kept in this browser only)
+let OWNED = new Set();
+try { OWNED = new Set(JSON.parse(localStorage.getItem("owned") || "[]")); } catch {}
+function saveOwned() { try { localStorage.setItem("owned", JSON.stringify([...OWNED])); } catch {} }
+const ownsAll = g => g.steam.length > 0 && g.steam.filter(s => !s.dlc).every(s => OWNED.has(s.appid));
+const ownsAny = g => g.steam.some(s => OWNED.has(s.appid));
+
+// ---------- derived fields
+function weightClass(g) { return g.weight == null ? "medium" : g.weight < 2.25 ? "light" : g.weight <= 3.5 ? "medium" : "heavy"; }
+const liveSteam = g => g.steam.filter(s => !s.coming_soon);
+function bestSteam(g) {  // cheapest released Steam version, else first listed
+  const live = liveSteam(g).filter(s => s.price != null);
+  return live.sort((a, b) => a.price - b.price)[0] || g.steam[0] || null;
+}
+function supportsPlayers(g, n) {
+  if (!n) return true;
+  if (g.bga && g.bga.players.length) return n >= 6 ? Math.max(...g.bga.players) >= 6 : g.bga.players.includes(n);
+  return n >= 6 ? g.maxplayers >= 6 : g.minplayers <= n && n <= g.maxplayers;
+}
+const steamOnline = s => s.mp.includes("online_pvp") || s.mp.includes("online_coop");
+function playsOnline(g) { return !!g.bga || g.vtt.length > 0 || g.steam.some(steamOnline); }
+
+// ---------- filtering
+function visible(g) {
+  const hasSteam = g.steam.length > 0, hasBga = !!g.bga, hasVtt = g.vtt.length > 0;
+  const any = hasSteam || hasBga || hasVtt;
+  if (!((S.steam && hasSteam) || (S.bga && hasBga) || (S.vtt && hasVtt) || (S.none && !any))) return false;
+  if (!S[weightClass(g)]) return false;
+  if (S.cats && !g.categories.some(c => S.cats.includes(c))) return false;
+  const steamPool = S.released ? liveSteam(g) : g.steam;
+  if (S.hideOwned && ownsAny(g)) return false;
+  if (S.sale && !steamPool.some(s => s.discount > 0)) return false;
+  if (S.maxPrice != null && !steamPool.some(s => s.price != null && s.price <= S.maxPrice)) return false;
+  if (S.released && !S.bga && !S.vtt && !liveSteam(g).length && !S.none) return false;
+  const n = S.players ? +S.players : 0;
+  if (!supportsPlayers(g, n)) return false;
+  if (S.online && !playsOnline(g)) return false;
+  if (S.bgafree && !(g.bga && !g.bga.premium)) return false;
+  if (S.remote && !g.steam.some(s => s.mp.includes("remote_play"))) return false;
+  if (S.async && !((g.bga && g.bga.turnbased) || g.steam.some(s => s.mp.includes("async")))) return false;
+  return true;
+}
+
+const SORTS = {
+  rank: (a, b) => a.rank - b.rank,
+  discount: (a, b) => (Math.max(0, ...b.steam.map(s => s.discount)) - Math.max(0, ...a.steam.map(s => s.discount))) || a.rank - b.rank,
+  price: (a, b) => ((bestSteam(a)?.price ?? 1e9) - (bestSteam(b)?.price ?? 1e9)) || a.rank - b.rank,
+  reviews: (a, b) => ((bestSteam(b)?.reviews?.pct ?? -1) - (bestSteam(a)?.reviews?.pct ?? -1)) || a.rank - b.rank,
+  bgaplays: (a, b) => ((b.bga?.plays ?? -1) - (a.bga?.plays ?? -1)) || a.rank - b.rank,
+  weight: (a, b) => ((a.weight ?? 9) - (b.weight ?? 9)) || a.rank - b.rank,
+};
+
+// ---------- rendering
+const money = v => v === 0 ? "Free" : CUR + v.toFixed(2);
+const MP_LABEL = { online_pvp: "Online", online_coop: "Online co-op", remote_play: "Remote Play", crossplay: "Cross-platform", async: "Async turns", local_pvp: "Local", local_coop: "Local co-op" };
+
+function steamLine(g, s) {
+  const bits = [`<a class="badge b-steam" href="${esc(s.url)}" target="_blank" rel="noopener">Steam</a>`];
+  bits.push(`<a class="name" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`);
+  if (s.dlc) bits.push(`<span class="badge b-plain">DLC</span>`);
+  if (s.coming_soon) bits.push(`<span class="badge b-soon">Coming soon</span>`);
+  else if (s.price != null) {
+    bits.push(s.discount > 0
+      ? `<span class="price"><span class="pct">-${s.discount}%</span><span class="amt"><s>${money(s.price_initial)}</s><b>${money(s.price)}</b></span></span>`
+      : `<span class="price"><span class="amt"><b>${money(s.price)}</b></span></span>`);
+  }
+  bits.push(`<button class="own${OWNED.has(s.appid) ? " on" : ""}" data-own="${s.appid}" title="Mark whether you own this on Steam (saved in this browser)">${OWNED.has(s.appid) ? "✓ Own it" : "Own it?"}</button>`);
+  if (s.reviews && s.reviews.total >= 10) bits.push(`<span class="badge b-plain" title="${s.reviews.total.toLocaleString()} Steam reviews">${esc(s.reviews.desc)} · ${s.reviews.pct}%</span>`);
+  for (const m of ["online_pvp", "online_coop", "remote_play", "async", "crossplay"])
+    if (s.mp.includes(m)) bits.push(`<span class="badge b-plain">${MP_LABEL[m]}</span>`);
+  return `<div class="plat">${bits.join("")}</div>`;
+}
+
+function bgaLine(b) {
+  const p = b.players.length ? (b.players.length > 1 ? `${Math.min(...b.players)}–${Math.max(...b.players)}` : b.players[0]) + " players" : "";
+  const mode = [b.realtime && "real-time", b.turnbased && "turn-based"].filter(Boolean).join(" & ");
+  return `<div class="plat">
+    <a class="badge b-bga" href="${esc(b.url)}" target="_blank" rel="noopener">BGA</a>
+    <a class="name" href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.name)}</a>
+    ${b.premium ? `<span class="badge b-plain" title="Only the table creator needs Premium">Premium</span>` : `<span class="badge b-free">Free to play</span>`}
+    ${b.status === "beta" ? `<span class="badge b-soon">Beta</span>` : ""}
+    ${p ? `<span class="badge b-plain">${p}</span>` : ""}
+    ${b.avg_minutes ? `<span class="badge b-plain">~${b.avg_minutes} min</span>` : ""}
+    ${mode ? `<span class="badge b-plain">${mode}</span>` : ""}
+    ${b.plays >= 100000 ? `<span class="badge b-plain">${(b.plays / 1e6 >= 1 ? (b.plays / 1e6).toFixed(1) + "M" : Math.round(b.plays / 1e3) + "k")} games played</span>` : ""}
+  </div>`;
+}
+
+function card(g) {
+  const players = g.minplayers === g.maxplayers ? `${g.minplayers} players` : `${g.minplayers}–${g.maxplayers} players`;
+  const time = g.minplaytime && g.maxplaytime && g.minplaytime !== g.maxplaytime ? `${g.minplaytime}–${g.maxplaytime} min` : g.maxplaytime ? `${g.maxplaytime} min` : "";
+  const meta = [g.year, players, time, g.weight != null ? `weight ${g.weight.toFixed(1)}/5` : "", g.rating ? `★ ${g.rating.toFixed(1)}` : "", g.categories.join(", ")]
+    .filter(Boolean).map(esc).join('<span class="sep">·</span>');
+  const where = [...g.steam.map(s => steamLine(g, s)), g.bga ? bgaLine(g.bga) : "",
+    ...g.vtt.map(v => `<div class="plat"><a class="badge b-vtt" href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.platform)}</a><a class="name" href="${esc(v.url)}" target="_blank" rel="noopener">DLC on Steam</a></div>`)].join("");
+  return `<div class="card${ownsAny(g) ? " owned" : ""}">
+    <a href="https://boardgamegeek.com/boardgame/${g.bgg_id}" target="_blank" rel="noopener"><img class="thumb" loading="lazy" src="${esc(g.image)}" alt=""></a>
+    <div class="body">
+      <h3><span class="rank">#${g.rank}</span><a href="https://boardgamegeek.com/boardgame/${g.bgg_id}" target="_blank" rel="noopener">${esc(g.name)}</a></h3>
+      <div class="meta">${meta}</div>
+      ${g.blurb ? `<div class="blurb">${esc(g.blurb)}</div>` : ""}
+      ${where ? `<div class="where">${where}</div>` : `<div class="nodigital">No digital version found.</div>`}
+      ${g.note ? `<div class="note">${esc(g.note)}</div>` : ""}
+    </div>
+  </div>`;
+}
+
+function render() {
+  const shown = GAMES.filter(visible).sort(SORTS[S.sort] || SORTS.rank);
+  $("#list").innerHTML = shown.length ? shown.map(card).join("") : `<div class="empty">No games match these filters.</div>`;
+  $("#shown").textContent = `${shown.length} of ${GAMES.length} games`;
+  syncControls();
+  writeUrl();
+}
+
+// ---------- state <-> controls <-> URL
+function syncControls() {
+  $$("[data-f]").forEach(el => el.checked = !!S[el.dataset.f]);
+  $$("[data-w]").forEach(el => el.checked = !!S[el.dataset.w]);
+  $$("[data-cat]").forEach(el => el.checked = !S.cats || S.cats.includes(el.dataset.cat));
+  $("#players").value = S.players;
+  $("#sort").value = S.sort;
+  $("#maxPrice").value = S.maxPrice ?? PRICE_CAP;
+  $("#maxPriceOut").textContent = S.maxPrice == null ? "Any" : `${CUR}${S.maxPrice}`;
+  $$(".presets button").forEach(b => b.classList.toggle("on", JSON.stringify(PRESETS[b.dataset.preset]) === JSON.stringify(S)));
+}
+
+function writeUrl() {
+  const q = new URLSearchParams();
+  for (const [k, v] of Object.entries(S)) {
+    if (JSON.stringify(v) === JSON.stringify(DEFAULTS[k])) continue;
+    q.set(k, Array.isArray(v) ? v.join("|") : typeof v === "boolean" ? (v ? "1" : "0") : v);
+  }
+  const qs = q.toString();
+  history.replaceState(null, "", location.pathname + (qs ? "?" + qs : ""));
+}
+
+function readUrl() {
+  const q = new URLSearchParams(location.search);
+  for (const [k, v] of q) {
+    if (!(k in DEFAULTS)) continue;
+    if (k === "cats") S.cats = v.split("|");
+    else if (k === "maxPrice") S.maxPrice = +v;
+    else if (typeof DEFAULTS[k] === "boolean") S[k] = v === "1";
+    else S[k] = v;
+  }
+}
+
+function counts() {
+  $("[data-c=owned]") && ($("[data-c=owned]").textContent = OWNED.size || "");
+  const c = { steam: 0, bga: 0, vtt: 0, none: 0, sale: 0, light: 0, medium: 0, heavy: 0 };
+  for (const g of GAMES) {
+    if (g.steam.length) c.steam++;
+    if (g.bga) c.bga++;
+    if (g.vtt.length) c.vtt++;
+    if (!g.steam.length && !g.bga && !g.vtt.length) c.none++;
+    if (g.steam.some(s => s.discount > 0)) c.sale++;
+    c[weightClass(g)]++;
+  }
+  c.owned = OWNED.size || "";
+  $$("[data-c]").forEach(el => el.textContent = c[el.dataset.c] ?? "");
+}
+
+function bind() {
+  $$("[data-f]").forEach(el => el.addEventListener("change", () => { S[el.dataset.f] = el.checked; render(); }));
+  $$("[data-w]").forEach(el => el.addEventListener("change", () => { S[el.dataset.w] = el.checked; render(); }));
+  $("#players").addEventListener("change", e => { S.players = e.target.value; render(); });
+  $("#sort").addEventListener("change", e => { S.sort = e.target.value; render(); });
+  $("#maxPrice").addEventListener("input", e => { const v = +e.target.value; S.maxPrice = v >= PRICE_CAP ? null : v; render(); });
+  $$(".presets button").forEach(b => b.addEventListener("click", () => { S = structuredClone(PRESETS[b.dataset.preset]); render(); }));
+  $("#resetLink").addEventListener("click", e => { e.preventDefault(); S = { ...DEFAULTS }; render(); });
+  $("#list").addEventListener("click", e => {
+    const b = e.target.closest("[data-own]"); if (!b) return;
+    const id = +b.dataset.own; OWNED.has(id) ? OWNED.delete(id) : OWNED.add(id);
+    saveOwned(); counts(); render();
+  });
+  $("#share").addEventListener("click", async () => {
+    try { await navigator.clipboard.writeText(location.href); toast("Link copied — send it to your group"); }
+    catch { prompt("Copy this link:", location.href); }
+  });
+}
+
+function toast(msg) { const t = $("#toast"); t.textContent = msg; t.classList.add("show"); setTimeout(() => t.classList.remove("show"), 1800); }
+
+async function init() {
+  DATA = await (await fetch("data/games.json", { cache: "no-cache" })).json();
+  GAMES = DATA.games;
+  const cur = GAMES.flatMap(g => g.steam).find(s => s.currency)?.currency || "AUD";
+  CUR = { AUD: "A$", USD: "$", EUR: "€", GBP: "£", CAD: "C$", NZD: "NZ$" }[cur] || cur + " ";
+  $("#ccName").textContent = cur;
+  const prices = GAMES.flatMap(g => g.steam).map(s => s.price).filter(p => p != null);
+  PRICE_CAP = Math.ceil(Math.max(10, ...prices) / 5) * 5;
+  $("#maxPrice").max = PRICE_CAP;
+  $("#currencyHint").textContent = `Prices in ${cur}, from the Steam ${DATA.country.toUpperCase()} store.`;
+
+  CATS = [...new Set(GAMES.flatMap(g => g.categories))].sort();
+  $("#catBox").innerHTML = CATS.map(c => `<label><input type="checkbox" data-cat="${esc(c)}" checked> ${esc(c)} <span class="count">${GAMES.filter(g => g.categories.includes(c)).length}</span></label>`).join("");
+  $$("[data-cat]").forEach(el => el.addEventListener("change", () => {
+    const on = $$("[data-cat]").filter(x => x.checked).map(x => x.dataset.cat);
+    S.cats = on.length === CATS.length ? null : on; render();
+  }));
+
+  $("#tagline").textContent = `The BoardGameGeek top ${DATA.top_n}, cross-referenced against Steam, Board Game Arena and virtual tabletops — what's on sale, and what you can play with friends tonight. Click a title for its BGG page, or a platform to go play.`;
+  const when = new Date(DATA.generated);
+  $("#generated").textContent = `Data refreshed ${when.toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" })}.`;
+
+  readUrl();
+  counts();
+  bind();
+  render();
+}
+init();
+</script>
+</body>
+</html>

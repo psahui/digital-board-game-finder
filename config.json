@@ -1,0 +1,27 @@
+{
+  "top_n": 100,
+  "country": "au",
+  "steam_overrides": {
+    "397598": [4598200],
+    "291457": [780290],
+    "182028": [758370],
+    "124361": [1450330],
+    "251247": [2879570],
+    "167355": [1915550],
+    "205059": [840210],
+    "521": [4628460],
+    "231733": [],
+    "367966": [],
+    "337627": []
+  },
+  "steam_notes": {
+    "397598": "Steam DLC for Dune: Imperium - you need the base game too.",
+    "291457": "Jaws of the Lion is a DLC campaign inside Gloomhaven digital.",
+    "338960": "This is the original video game the board game is based on.",
+    "365717": "Digital version of the original Clank!, not Catacombs.",
+    "167355": "Digital adaptation of the standalone Nemesis: Lockdown.",
+    "205059": "Standalone digital game set in the Mansions of Madness world (the official Steam app is only a companion for the physical box).",
+    "521": "Physics-based digital crokinole board."
+  },
+  "vtt_overrides": {}
+}

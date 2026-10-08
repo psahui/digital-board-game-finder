@@ -1,0 +1,4644 @@
+{
+ "bgg": {
+  "102794": {
+   "_fetched": 1791440731.3626416,
+   "alternatenames": [
+    "Caverna",
+    "Caverna: Die H\u00f6hlenbauern",
+    "Caverna: I Contadini delle Caverne",
+    "Caverna: il Popolo delle Montagne",
+    "Caverna: Los Granjeros Trogloditas",
+    "Caverna: Sedl\u00e1ci z jeskyn\u00ed",
+    "Caverna: \u041f\u0435\u0449\u0435\u0440\u043d\u044b\u0435 \u0444\u0435\u0440\u043c\u0435\u0440\u044b",
+    "Kawerna: Rolnicy z Jaski\u0144",
+    "\u30ab\u30f4\u30a7\u30eb\u30ca: \u6d1e\u7a9f\u306e\u8fb2\u592b\u305f\u3061",
+    "\u6d1e\u7a74\u8fb2\u592b",
+    "\u6d1e\u7a74\u8fb2\u592b",
+    "\uce74\ubca0\ub974\ub098: \ub3d9\uad74 \uc18d \ub18d\ubd80\ub4e4"
+   ],
+   "blurb": "From a simple cave, expand your dwarven home through mining, agriculture, and more.",
+   "image": "https://cf.geekdo-images.com/EAqbd46lFxo-7GumlO8U4w__square200/img/PHUfUaGn_YwK7b_vgE1auTLi658=/200x200/filters:strip_icc()/pic5598833.jpg",
+   "maxplayers": 7,
+   "maxplaytime": 210,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "115746": {
+   "_fetched": 1791440687.3802574,
+   "alternatenames": [
+    "Guerra del Anillo: Segunda Edici\u00f3n",
+    "La Guerra dell'Anello: Seconda Edizione",
+    "Guerra do Anel: Segunda Edi\u00e7\u00e3o",
+    "La Guerre de l'anneau",
+    "Der Ringkrieg",
+    "Der Ringkrieg: 2. Edition",
+    "V\u00e1lka o prsten: Druh\u00e1 edice",
+    "Wojna o Pier\u015bcie\u0144: Druga Edycja",
+    "\u0412\u0456\u0439\u043d\u0430 \u041f\u0435\u0440\u0441\u043d\u044f: \u0414\u0440\u0443\u0433\u0435 \u0432\u0438\u0434\u0430\u043d\u043d\u044f",
+    "\u0412\u043e\u0439\u043d\u0430 \u041a\u043e\u043b\u044c\u0446\u0430: \u0412\u0442\u043e\u0440\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+    "\u0e27\u0e2d\u0e23\u0e4c \u0e2d\u0e2d\u0e1f \u0e40\u0e14\u0e2d\u0e30 \u0e23\u0e34\u0e07: \u0e21\u0e2b\u0e32\u0e01\u0e32\u0e1e\u0e22\u0e4c\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21\u0e41\u0e2b\u0e48\u0e07\u0e41\u0e1c\u0e48\u0e19\u0e14\u0e34\u0e19\u0e21\u0e34\u0e14\u0e40\u0e14\u0e34\u0e49\u0e25\u0e40\u0e2d\u0e34\u0e23\u0e4c\u0e18",
+    "\u9b54\u6212\u8056\u6230",
+    "\ubc18\uc9c0 \uc804\uc7c1"
+   ],
+   "blurb": "The Fellowship and the Free Peoples clash with Sauron over the fate of Middle-earth.",
+   "image": "https://cf.geekdo-images.com/ImPgGag98W6gpV1KV812aA__square200/img/6baKJvb9Rf8PpOXARlmBJtaMGuU=/200x200/filters:strip_icc()/pic1215633.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 240,
+   "minplayers": 2,
+   "minplaytime": 150
+  },
+  "120677": {
+   "_fetched": 1791440709.8032618,
+   "alternatenames": [
+    "\u0422\u0435\u0440\u0440\u0430 \u041c\u0438\u0441\u0442\u0438\u043a\u0430",
+    "\u30c6\u30e9\u30df\u30b9\u30c6\u30a3\u30ab",
+    "\u795e\u79d8\u5927\u5730",
+    "\ud14c\ub77c \ubbf8\uc2a4\ud2f0\uce74"
+   ],
+   "blurb": "Play fantastical factions.  Expand your influence by terraforming and joining cults.",
+   "image": "https://cf.geekdo-images.com/bre12I1YiXkZr7elvriz4A__square200/img/Lt3E9YEpWQuYsloTmlpw6fImcz8=/200x200/filters:strip_icc()/pic5375624.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 150,
+   "minplayers": 2,
+   "minplaytime": 60
+  },
+  "12333": {
+   "_fetched": 1791440693.8005397,
+   "alternatenames": [
+    "Gleichgewicht des Schreckens",
+    "Studen\u00e1 v\u00e1lka 1945-1989",
+    "Twilight Struggle: The Cold War, 1945-1989",
+    "Twilight Struggle: Zimna wojna 1945-1989",
+    "Zimna wojna 1945-1989",
+    "\u0421\u0443\u043c\u0435\u0440\u0435\u0447\u043d\u0430\u044f \u0431\u043e\u0440\u044c\u0431\u0430",
+    "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30fb\u30b9\u30c8\u30e9\u30b0\u30eb",
+    "\u51b7\u6218\u70ed\u6597 (\u51b7\u6230\u71b1\u9b25)",
+    "\u6668\u660f\u5bf9\u5cd9\uff08\u6668\u660f\u5c0d\u5cd9\uff09",
+    "\ud669\ud63c\uc758 \ud22c\uc7c1"
+   ],
+   "blurb": "Relive the Cold War and rewrite history in an epic clash between the USA and USSR.",
+   "image": "https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__square200/img/SS93B065Qqem8DLCKnJIXIRtx0A=/200x200/filters:strip_icc()/pic3530661.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 180,
+   "minplayers": 2,
+   "minplaytime": 120
+  },
+  "124361": {
+   "_fetched": 1791440704.2066011,
+   "alternatenames": [
+    "Concordia: Sestertiusszal kik\u00f6vezett utak",
+    "Oppida Romana",
+    "Oppida: Cities of the Roman Empire",
+    "Roma Caput Mundi",
+    "\u041a\u043e\u043d\u043a\u043e\u0440\u0434\u0438\u044f",
+    "\u30b3\u30f3\u30b3\u30eb\u30c7\u30a3\u30a2",
+    "\u5eb7\u8003\u8fea\u4e9a",
+    "\u5eb7\u8003\u8fea\u5a05",
+    "\u5eb7\u8003\u8fea\u5a6d",
+    "\ucf69\ucf54\ub974\ub514\uc544"
+   ],
+   "blurb": "Merchants build and trade throughout the Roman Empire to please the Gods.",
+   "image": "https://cf.geekdo-images.com/CzwSm8i7tkLz6cBnrILZBg__square200/img/abLYDYKOKY23BH31W6ZCyV1rDnU=/200x200/filters:strip_icc()/pic3453267.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 100,
+   "minplayers": 2,
+   "minplaytime": 100
+  },
+  "124742": {
+   "_fetched": 1791440750.2154415,
+   "alternatenames": [
+    "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\uff1a\u30cd\u30c3\u30c8\u30e9\u30f3\u30ca\u30fc",
+    "\u5b89\u5353\u7eaa\u5143\uff1a\u77e9\u9635\u6f5c\u88ad",
+    "\uc548\ub4dc\ub85c\uc774\ub4dc \ub137\ub7ec\ub108"
+   ],
+   "blurb": "Megacorporation versus Netrunner in this futuristic cyberpunk game of cat and mouse.",
+   "image": "https://cf.geekdo-images.com/2ewHIIG_TRq8bYlqk0jIMw__square200/img/u0IPTsqaLAEjDQ144XSx_tzHRiM=/200x200/filters:strip_icc()/pic3738560.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 45,
+   "minplayers": 2,
+   "minplaytime": 45
+  },
+  "125153": {
+   "_fetched": 1791440751.0527887,
+   "alternatenames": [
+    "\u0413\u0430\u043b\u0435\u0440\u0438\u0441\u0442",
+    "\u30ae\u30e3\u30e9\u30ea\u30b9\u30c8",
+    "\u753b\u5eca",
+    "\u85dd\u5eca\u7d93\u7d00\u4eba",
+    "\uac24\ub7ec\ub9ac\uc2a4\ud2b8",
+    "\ub354 \uac24\ub7ec\ub9ac\uc2a4\ud2b8"
+   ],
+   "blurb": "Amass a fortune, and stake your reputation by operating a lucrative art gallery.",
+   "image": "https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__square200/img/GB0k7HXU0wjXkdPEH949LgrbmwA=/200x200/filters:strip_icc()/pic2503200.png",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "126163": {
+   "_fetched": 1791440743.4415834,
+   "alternatenames": [
+    "Tzolk'in: Calendarul Maia\u0219",
+    "Tzolk'in: De Kalender van de Maya's",
+    "Tzolk'in: Der Maya-Kalender",
+    "Tzolk'in: El Calendario Maya",
+    "Tzolk'in: Il Calendario Maya",
+    "Tzolk'in: Kalendarz Maj\u00f3w",
+    "Tzolk'in: le calendrier maya",
+    "Tzolk'in: Maysk\u00fd kalend\u00e1\u0159",
+    "Tzolkin: The Mayan Calendar",
+    "\u0426\u043e\u043b\u044c\u043a'\u0456\u043d: \u041a\u0430\u043b\u0435\u043d\u0434\u0430\u0440 \u043c\u0430\u044f",
+    "\u0426\u043e\u043b\u044c\u043a\u0438\u043d: \u041a\u0430\u043b\u0435\u043d\u0434\u0430\u0440\u044c \u041c\u0430\u0439\u044f",
+    "\u30c4\u30a9\u30eb\u30ad\u30f3\uff1a\u30de\u30e4\u795e\u8056\u6b74",
+    "\u5353\u5c14\u91d1\u5386\uff1a\u739b\u96c5\u65e5\u5386",
+    "\u5353\u723e\u91d1\u66c6:\u99ac\u96c5\u66c6\u6cd5",
+    "\u5353\u723e\u91d1\u6b77\uff1a\u746a\u96c5\u65e5\u66c6",
+    "\ucd10\ud0a8: \ub9c8\uc57c\uc758 \ub2ec\ub825"
+   ],
+   "blurb": "Lead your people, build monuments and make offerings to earn the favour of the gods.",
+   "image": "https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__square200/img/3lSxrU1xoZ0ycVzPdGyJWKgiMM8=/200x200/filters:strip_icc()/pic4604439.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 90
+  },
+  "157354": {
+   "_fetched": 1791440760.7093875,
+   "alternatenames": [
+    "Five Tribes: Die Dschinn von Naqala",
+    "Five Tribes: I Geni di Naqala",
+    "Five Tribes: Les Djinns de Naqala",
+    "Five Tribes: Los genios de Naqala",
+    "Five Tribes: Naquala dzsinnjei",
+    "Five Tribes: Os G\u00eanios de Naqala",
+    "Pi\u0119\u0107 Klan\u00f3w: D\u017ciny Naqali",
+    "\u041f'\u044f\u0442\u044c \u041a\u0430\u0441\u0442",
+    "\u041f\u044f\u0442\u044c \u043f\u043b\u0435\u043c\u0451\u043d",
+    "\u30d5\u30a1\u30a4\u30d6\u30fb\u30c8\u30e9\u30a4\u30d6\u30ba",
+    "\u4e94\u5927\u90e8\u843d",
+    "\ub2e4\uc12f \ubd80\uc871"
+   ],
+   "blurb": "Move assassins, elders & builders through Naqala to claim oases & control djinns.",
+   "image": "https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__square200/img/H0-f9JQPOa_njB8pJbztZpUxhqg=/200x200/filters:strip_icc()/pic2055255.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 80,
+   "minplayers": 2,
+   "minplaytime": 40
+  },
+  "161533": {
+   "_fetched": 1791440738.6779294,
+   "alternatenames": [
+    "\u041b\u0438\u0441\u0441\u0430\u0431\u043e\u043d",
+    "\u91cc\u65af\u672c",
+    "\ub9ac\uc2a4\ubcf4\uc544"
+   ],
+   "blurb": "Compete to reconstruct the city of Lisboa after the great earthquake of 1755.",
+   "image": "https://cf.geekdo-images.com/OrHS8_a1CqSGiXeTfCk0Wg__square200/img/3TOdPvLG_fiveUKS-UcfZS3vFDE=/200x200/filters:strip_icc()/pic3209553.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "161936": {
+   "_fetched": 1791440683.1531985,
+   "alternatenames": [
+    "Pandemic Legacy:  Saison 1",
+    "Pandemic Legacy: 1. \u00c9vad",
+    "Pandemic Legacy: 1a. Temporada",
+    "Pandemic Legacy: Rok 1",
+    "Pandemic Legacy: Seizoen 1",
+    "Pandemic Legacy: Sezon 1",
+    "\u041f\u0430\u043d\u0434\u0435\u043c\u0438\u044f: \u041d\u0430\u0441\u043b\u0435\u0434\u0438\u0435",
+    "\u041f\u0430\u043d\u0434\u0435\u043c\u0456\u044f \u0421\u043f\u0430\u0434\u0449\u0438\u043d\u0430. \u0421\u0435\u0437\u043e\u043d 1",
+    "\u30d1\u30f3\u30c7\u30df\u30c3\u30af\uff1a\u30ec\u30ac\u30b7\u30fc \u30b7\u30fc\u30ba\u30f31",
+    "\u761f\u75ab\u5371\u6a5f\ufe30\u627f\u50b3",
+    "\ud32c\ub370\ubbf9 \ub808\uac70\uc2dc: \uc2dc\uc98c 1"
+   ],
+   "blurb": "Mutating diseases are spreading around the world - can your team save humanity?",
+   "image": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__square200/img/rYEBKMB4WYkH4O-m5l4ZAErtvxE=/200x200/filters:strip_icc()/pic2452831.png",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 60
+  },
+  "162886": {
+   "_fetched": 1791440689.8500953,
+   "alternatenames": [
+    "Duchov\u00e9 ostrova",
+    "Szellemek Szigete",
+    "\u041e\u0441\u0442\u0440\u0456\u0432 \u0434\u0443\u0445\u0456\u0432",
+    "\u041e\u0441\u0442\u0440\u043e\u0432 \u0434\u0443\u0445\u043e\u0432",
+    "\u0e40\u0e01\u0e32\u0e30\u0e20\u0e39\u0e15\u0e34\u0e1e\u0e34\u0e17\u0e31\u0e01\u0e29\u0e4c",
+    "\u30b9\u30d4\u30ea\u30c3\u30c8\u30fb\u30a2\u30a4\u30e9\u30f3\u30c9",
+    "\u7075\u8ff9\u5c9b",
+    "\uc815\ub839\uc12c"
+   ],
+   "blurb": "Island Spirits join forces using elemental powers to defend their home from invaders.",
+   "image": "https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__square200/img/MSwBm5TdhKshhkC8UVeXi8_izTA=/200x200/filters:strip_icc()/pic7013651.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 90
+  },
+  "164153": {
+   "_fetched": 1791440752.6795614,
+   "alternatenames": [
+    "Star Wars: Assalto Imperiale",
+    "Star Wars: Assaut sur l'Empire",
+    "Star Wars: Imperium Atakuje",
+    "\u661f\u969b\u5927\u6230\uff1a\u5e1d\u570b\u7a81\u8972"
+   ],
+   "blurb": "Play as Rebel or Imperial forces to fulfill mission objectives.",
+   "image": "https://cf.geekdo-images.com/pIQ_MXvaoARRp1loCHJuHg__square200/img/aRf64WJF7Cein-kStu4i2yrObV8=/200x200/filters:strip_icc()/pic2247647.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60
+  },
+  "164928": {
+   "_fetched": 1791440709.0328624,
+   "alternatenames": [
+    "Orlean",
+    "\u041e\u0440\u043b\u0435\u0430\u043d",
+    "\u30aa\u30eb\u30ec\u30a2\u30f3",
+    "\u5965\u5c14\u826f",
+    "\u5967\u723e\u826f",
+    "\uc624\ub97c\ub808\uc559"
+   ],
+   "blurb": "Craftsmen, scholars & monks can help you reign supreme\u2014but who will turn up to help?",
+   "image": "https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__square200/img/T_uM1IU51e8qhIN6z91oIQSSWmU=/200x200/filters:strip_icc()/pic6228507.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 90
+  },
+  "167355": {
+   "_fetched": 1791440701.02138,
+   "alternatenames": [
+    "\u041d\u0435\u043c\u0435\u0437\u0438\u0434\u0430",
+    "\u30cd\u30e1\u30b7\u30b9",
+    "\u5fa9\u4ec7\u5973\u795e\u865f",
+    "\ub124\uba54\uc2dc\uc2a4"
+   ],
+   "blurb": "Survive an alien-infested spaceship, but beware of other players and their agendas!",
+   "image": "https://cf.geekdo-images.com/4KSmlm59w0GwLIlgDnJDAQ__square200/img/1kuCTzh-sagNMhCP3ja2BNWjAn4=/200x200/filters:strip_icc()/pic8211747.png",
+   "maxplayers": 5,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 90
+  },
+  "167791": {
+   "_fetched": 1791440688.243136,
+   "alternatenames": [
+    "A Mars terraform\u00e1l\u00e1sa",
+    "Mars: Teraformace",
+    "Teraformiranje Marsa",
+    "Terraformacja Marsa",
+    "Terraformarea Planetei Marte",
+    "Terraforming Mars: \u039f \u0391\u03c0\u03bf\u03b9\u03ba\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a4\u03bf\u03c5 \u0386\u03c1\u03b7",
+    "\u041f\u043e\u043a\u043e\u0440\u0435\u043d\u0438\u0435 \u041c\u0430\u0440\u0441\u0430",
+    "\u0422\u0435\u0440\u0430\u0444\u043e\u0440\u043c\u0438\u0440\u0430\u0439 \u041c\u0430\u0440\u0441",
+    "\u0422\u0435\u0440\u0430\u0444\u043e\u0440\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u041c\u0430\u0440\u0441\u0430",
+    "\u05d7\u05d9\u05d9\u05dd \u05e2\u05dc \u05de\u05d0\u05d3\u05d9\u05dd",
+    "\u091f\u0947\u0930\u093e\u092b\u0949\u0930\u094d\u092e\u093f\u0902\u0917 \u092e\u093e\u0930\u094d\u0938",
+    "\u0e1e\u0e25\u0e34\u0e01\u0e1e\u0e34\u0e20\u0e1e\u0e14\u0e32\u0e27\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23",
+    "\u30c6\u30e9\u30d5\u30a9\u30fc\u30df\u30f3\u30b0\u30fb\u30de\u30fc\u30ba",
+    "\u6b96\u6c11\u706b\u661f",
+    "\u91cd\u5851\u706b\u661f",
+    "\ud14c\ub77c\ud3ec\ubc0d \ub9c8\uc2a4"
+   ],
+   "blurb": "Compete with rival CEOs to make Mars habitable and build your corporate empire.",
+   "image": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__square200/img/MjTJPRXlUCK3U1Tpt8NDAUJBNxs=/200x200/filters:strip_icc()/pic3536616.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 120
+  },
+  "169786": {
+   "_fetched": 1791440702.5649755,
+   "alternatenames": [
+    "S\u00e7ythe",
+    "\u041a\u043e\u0441\u0430",
+    "\u0421\u0435\u0440\u043f",
+    "\u5927\u938c\u6226\u5f79",
+    "\u942e\u5200\u6230\u722d",
+    "\uc0ac\uc774\ub4dc",
+    "\uc0ac\uc774\uc4f0"
+   ],
+   "blurb": "Five factions vie for dominance in a war-torn, mech-filled, dieselpunk 1920s Europe.",
+   "image": "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__square200/img/I_icGNJh7M73OZIs7Lg9JvS__Bo=/200x200/filters:strip_icc()/pic3163924.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 115,
+   "minplayers": 1,
+   "minplaytime": 115
+  },
+  "170216": {
+   "_fetched": 1791440737.0897965,
+   "alternatenames": [
+    "Krv i Bes",
+    "\u041a\u0440\u043e\u0432\u044c \u0438 \u042f\u0440\u043e\u0441\u0442\u044c",
+    "\u041a\u0440\u044a\u0432 \u0438 \u042f\u0440\u043e\u0441\u0442",
+    "\u041b\u044e\u0442\u044c \u043a\u0440\u043e\u0432\u0456",
+    "\u30d6\u30e9\u30c3\u30c9\u30ec\u30a4\u30b8",
+    "\u8840\u8272\u72c2\u6012",
+    "\ube14\ub7ec\ub4dc \ub808\uc774\uc9c0"
+   ],
+   "blurb": "Ragnar\u00f6k has come! Secure your place in Valhalla in epic Viking battles.",
+   "image": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__square200/img/b_iWKswWsdEOlF5BTuKw36gMFcs=/200x200/filters:strip_icc()/pic2439223.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 60
+  },
+  "173346": {
+   "_fetched": 1791440700.2107625,
+   "alternatenames": [
+    "7 Csoda P\u00e1rbaj",
+    "7 Cud\u00f3w \u015awiata: Pojedynek",
+    "7 Div\u016f sv\u011bta: Duel",
+    "7 \u0427\u0443\u0434\u0435\u0441: \u0414\u0443\u044d\u043b\u044c",
+    "7 \u0e2a\u0e34\u0e48\u0e07\u0e21\u0e2b\u0e31\u0e28\u0e08\u0e23\u0e23\u0e22\u0e4c \u0e14\u0e27\u0e25",
+    "7 \uc6d0\ub354\uc2a4 \ub300\uacb0",
+    "\u0644\u0639\u0628\u0629 \u0645\u0628\u0627\u0631\u0632\u0629 \u0627\u0644\u0639\u062c\u0627\u0626\u0628 \u0627\u0644\u0633\u0628\u0639\u0629",
+    "\u4e03\u5927\u5947\u8e5f \u5c0d\u6c7a",
+    "\u4e03\u5927\u5947\u8ff9:\u5bf9\u51b3",
+    "\u4e03\u5927\u5947\u8ff9\uff1a\u5bf9\u51b3",
+    "\u4e03\u5927\u5bf9\u51b3",
+    "\u4e16\u754c\u306e\u4e03\u4e0d\u601d\u8b70:\u30c7\u30e5\u30a8\u30eb"
+   ],
+   "blurb": "Science? Military? What will you draft to win this head-to-head version of 7 Wonders?",
+   "image": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__square200/img/xNee3M-jWc5u5sMjn7IyvWFJ4qQ=/200x200/filters:strip_icc()/pic2576399.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 30,
+   "minplayers": 2,
+   "minplaytime": 30
+  },
+  "174430": {
+   "_fetched": 1791440684.0593214,
+   "alternatenames": [
+    "Gloomhaven: Aventures \u00e0 Havrenuit",
+    "Gloomhaven: \u041c\u0440\u0430\u0447\u043d\u0430\u044f \u0413\u0430\u0432\u0430\u043d\u044c",
+    "Hom\u00e1lyr\u00e9v",
+    "\u30b0\u30eb\u30fc\u30e0\u30d8\u30a4\u30f4\u30f3",
+    "\u5e7d\u6e2f\u8ff7\u57ce",
+    "\uae00\ub8f8\ud5e4\uc774\ube10"
+   ],
+   "blurb": "Vanquish monsters with strategic cardplay. Fulfill your quest to leave your legacy!",
+   "image": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__square200/img/gKnqaGwGjmSUNVj6NwQ7f8cyKp8=/200x200/filters:strip_icc()/pic2437871.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "175914": {
+   "_fetched": 1791440723.8393044,
+   "alternatenames": [
+    "Food Chain Magnate: Special Edition",
+    "Kr\u00e1lov\u00e9 rychl\u00e9ho ob\u010derstven\u00ed",
+    "\u30d5\u30fc\u30c9\u30c1\u30a7\u30fc\u30f3\u30de\u30b0\u30cd\u30a4\u30c8",
+    "\u5feb\u9910\u5927\u4ea8",
+    "\u5feb\u9910\u9023\u9396\u5927\u4ea8",
+    "\ud478\ub4dc \uccb4\uc778 \ub9e4\uadf8\ub124\uc774\ud2b8"
+   ],
+   "blurb": "Strategically hire and manage your workforce to outcompete rival fast food chains.",
+   "image": "https://cf.geekdo-images.com/Wtxml94LAXsIWQCxGPS63Q__square200/img/QcgCQVkBl7TKU6Sdhx6I_cmkAg8=/200x200/filters:strip_icc()/pic2649434.png",
+   "maxplayers": 5,
+   "maxplaytime": 240,
+   "minplayers": 2,
+   "minplaytime": 120
+  },
+  "177736": {
+   "_fetched": 1791440701.7577596,
+   "alternatenames": [
+    "\u00c0 la gloire d'Odin",
+    "Um Banquete a Odin",
+    "El Banquete de Od\u00edn",
+    "Ein Fest f\u00fcr Odin",
+    "La Festa per Odino",
+    "Hostina pro \u00d3dina",
+    "Odin",
+    "Uczta dla Odyna",
+    "\u0412\u043e \u0441\u043b\u0430\u0432\u0443 \u041e\u0434\u0438\u043d\u0430",
+    "\u30aa\u30fc\u30c7\u30a3\u30f3\u306e\u795d\u796d",
+    "\u5965\u4e01\u7684\u76db\u5bb4",
+    "\u5967\u4e01\u7684\u76db\u5bb4",
+    "\uc624\ub518\uc744 \uc704\ud558\uc5ec"
+   ],
+   "blurb": "\"Puzzle\" the life of a Viking Age place as you hunt, farm, craft, raid and explore.",
+   "image": "https://cf.geekdo-images.com/s9oGMCo1fcfV4Dk3EnqLZw__square200/img/CvC5j5CzbWjq2HXchnnwZODJowQ=/200x200/filters:strip_icc()/pic3146943.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "182028": {
+   "_fetched": 1791440696.1777995,
+   "alternatenames": [
+    "Cywilizacja: Poprzez Wieki",
+    "Im Wandel der Zeitalter: Ein neue Geschichte der Zivilisation",
+    "Korokon \u00e1t: A civiliz\u00e1ci\u00f3 \u00faj t\u00f6rt\u00e9nete",
+    "Through the Ages",
+    "Through the Ages: Eine neue Geschichte der Zivilisation",
+    "Through the Ages: L'Histoire vous appartient",
+    "Through the Ages: Nov\u00fd p\u0159\u00edb\u011bh civilizace",
+    "Through the Ages: Rivivi la Storia della Civilt\u00e0",
+    "Through the Ages: Uma Nova Hist\u00f3ria da Civiliza\u00e7\u00e3o",
+    "Through the Ages: Una Nueva Historia de la Civilizaci\u00f3n",
+    "\u041a\u0440\u0456\u0437\u044c \u0435\u043f\u043e\u0445\u0438: \u041d\u043e\u0432\u0430 \u0456\u0441\u0442\u043e\u0440\u0456\u044f \u0446\u0438\u0432\u0456\u043b\u0456\u0437\u0430\u0446\u0456\u0457",
+    "\u0421\u043a\u0432\u043e\u0437\u044c \u0412\u0435\u043a\u0430. \u041d\u043e\u0432\u0430\u044f \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0426\u0438\u0432\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u0438",
+    "\u05d3\u05e8\u05da \u05d4\u05e2\u05d9\u05d3\u05e0\u05d9\u05dd",
+    "\u30b9\u30eb\u30fc\uff65\u30b8\uff65\u30a8\u30a4\u30b8\u30ba:\u65b0\u305f\u306a\u308b\u6587\u660e\u306e\u7269\u8a9e",
+    "\u5386\u53f2\u5de8\u8f6e\uff1a\u4eba\u7c7b\u6587\u660e\u65b0\u7bc7\u7ae0",
+    "\uc4f0\ub8e8 \ub514 \uc5d0\uc774\uc9c0\uc2a4: \ubb38\uba85\uc5d0 \uad00\ud55c \uc0c8\ub85c\uc6b4 \uc774\uc57c\uae30",
+    "\uc4f0\ub8e8 \ub514 \uc5d0\uc774\uc9c0\uc2a4: \uc0c8\ub85c\uc6b4 \uc778\ub958 \ubb38\uba85 \ubc1c\uc804 \ub300\uc11c\uc0ac\uc2dc"
+   ],
+   "blurb": "Forge your own path through history as you draft a civilization for the ages.",
+   "image": "https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__square200/img/PAU5YvdetwtFUt_qVYvzn3T41Es=/200x200/filters:strip_icc()/pic2663291.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 120
+  },
+  "182874": {
+   "_fetched": 1791440736.3306503,
+   "alternatenames": [
+    "Gran Hotel Austria",
+    "\u0413\u0440\u0430\u043d\u0434-\u0433\u043e\u0442\u0435\u043b\u044c \"\u0410\u0432\u0441\u0442\u0440\u0456\u044f\"",
+    "\u0413\u0440\u0430\u043d\u0434-\u043e\u0442\u0435\u043b\u044c \"\u0410\u0432\u0441\u0442\u0440\u0438\u044f\"",
+    "\u30b0\u30e9\u30f3\u30c9\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2\u30db\u30c6\u30eb",
+    "\u5967\u5730\u5229\u5927\u98ef\u5e97",
+    "\uadf8\ub79c\ub4dc \uc624\uc2a4\ud2b8\ub9ac\uc544 \ud638\ud154"
+   ],
+   "blurb": "Serve guests and prepare rooms to be the best hotelier in the Viennese modern age.",
+   "image": "https://cf.geekdo-images.com/PJRaImV8iXGAq2L-6rrn-w__square200/img/jEUyGb2ochXtziGkbgdDqSyvLVQ=/200x200/filters:strip_icc()/pic2649931.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60
+  },
+  "183394": {
+   "_fetched": 1791440716.2850986,
+   "alternatenames": [
+    "Vinohrad",
+    "Viticultura Editia Revizuita",
+    "Viticulture Edi\u00e7\u00e3o Essencial",
+    "Viticulture Edici\u00f3n esencial",
+    "Viticulture Edition Essentielle",
+    "Viticulture: Esszenci\u00e1lis kiad\u00e1s",
+    "\u0412\u0438\u043d\u043e\u0434\u0435\u043b\u0438\u0435: \u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+    "\u0412\u0438\u043d\u043e\u0440\u043e\u0431\u0441\u0442\u0432\u043e. \u041e\u0441\u043d\u043e\u0432\u043d\u0435 \u0432\u0438\u0434\u0430\u043d\u043d\u044f",
+    "\u0e27\u0e34\u0e16\u0e35\u0e41\u0e2b\u0e48\u0e07\u0e44\u0e27\u0e19\u0e4c",
+    "\u30ef\u30a4\u30ca\u30ea\u30fc\u306e\u56db\u5b63",
+    "\u8461\u8404\u9152\u5e84\u56ed\u7cbe\u534e\u7248",
+    "\u8461\u8404\u9152\u838a\u5712-\u7cbe\u83ef\u7248",
+    "\ube44\ud2f0\uceec\ucc98 \uc5d0\uc13c\uc15c \uc5d0\ub514\uc158"
+   ],
+   "blurb": "Create the most prosperous winery in Italy from the Tuscan vineyard you've inherited.",
+   "image": "https://cf.geekdo-images.com/l_PRU2lVlX9seScRFcvFlA__square200/img/q8oiJvSqse6aDn9xMKya2Fo4G80=/200x200/filters:strip_icc()/pic6500949.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 90,
+   "minplayers": 1,
+   "minplaytime": 45
+  },
+  "184267": {
+   "_fetched": 1791440728.8999512,
+   "alternatenames": [
+    "A Mars",
+    "\u041d\u0430 \u041c\u0430\u0440\u0441\u0435",
+    "\u30aa\u30f3\u30fb\u30de\u30fc\u30ba",
+    "\u706b\u661f\u4e4b\u4e0a",
+    "\uc628 \ub9c8\uc2a4"
+   ],
+   "blurb": "Be a part of the first Martian colony, striving to be the best contributor.",
+   "image": "https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__square200/img/xn03BbsTlZEf-4ZLV8FfPCUX7j8=/200x200/filters:strip_icc()/pic4357658.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 90
+  },
+  "185343": {
+   "_fetched": 1791440732.2471662,
+   "alternatenames": [
+    "Anachrony Essential Edition",
+    "Anachrony Grundspiel",
+    "Anachrony: A j\u00f6v\u0151 \u00fatjai",
+    "Anachrony: Edi\u00e7\u00e3o Essencial",
+    "\u0410\u043d\u0430\u0445\u0440\u043e\u043d\u043d\u043e\u0441\u0442\u044c",
+    "\u30a2\u30ca\u30af\u30ed\u30cb\u30fc",
+    "\u65f6\u7a7a\u4e71\u5e8f\uff1a\u7cbe\u534e\u7248",
+    "\u65f6\u7a7a\u9519\u4e71",
+    "\u6642\u7a7a\u4e82\u5e8f",
+    "\uc544\ub098\ud06c\ub85c\ub2c8"
+   ],
+   "blurb": "Use Exosuits & time travel to ensure your vision for the future after the cataclysm.",
+   "image": "https://cf.geekdo-images.com/31quLNzteInnevVRAABoow__square200/img/hCABQy7_cwoW2HF4egxKwD9XmI0=/200x200/filters:strip_icc()/pic3499707.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "187645": {
+   "_fetched": 1791440689.0269163,
+   "alternatenames": [
+    "Star Wars: L\u00e1zad\u00e1s",
+    "Star Wars: L\u00e1zad\u00e1s",
+    "Star Wars: Rebelia",
+    "Star Wars: Rebelie",
+    "Star Wars: R\u00e9bellion",
+    "\u0417\u0432\u0451\u0437\u0434\u043d\u044b\u0435 \u0412\u043e\u0439\u043d\u044b: \u0412\u043e\u0441\u0441\u0442\u0430\u043d\u0438\u0435",
+    "\u0417\u043e\u0440\u044f\u043d\u0456 \u0432\u0456\u0439\u043d\u0438: \u041f\u043e\u0432\u0441\u0442\u0430\u043d\u043d\u044f",
+    "\u30b9\u30bf\u30fc\u30a6\u30a9\u30fc\u30ba:\u53cd\u4e71",
+    "\u661f\u7403\u5927\u6218\uff1a\u53db\u4e71",
+    "\u661f\u7403\u5927\u6218\uff1a\u8d77\u4e49\u519b",
+    "\uc2a4\ud0c0\uc6cc\uc988: \ub9ac\ubca8\ub9ac\uc628"
+   ],
+   "blurb": "Strike from your hidden base as the Rebels\u2014or find and destroy it as the Empire.",
+   "image": "https://cf.geekdo-images.com/7SrPNGBKg9IIsP4UQpOi8g__square200/img/0-1L0Gg5myRHigxWodOvvI_8UT4=/200x200/filters:strip_icc()/pic4325841.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 240,
+   "minplayers": 2,
+   "minplaytime": 180
+  },
+  "192135": {
+   "_fetched": 1791440710.5625863,
+   "alternatenames": [
+    "Kosti jsou vr\u017eeny",
+    "\u0421\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u043d\u043e\u0433\u043e \u043a\u043e\u0441\u0442\u0435\u0439",
+    "\u9ab8\u9aa8\u96aa\u5883",
+    "\ud22c \ub9e4\ub2c8 \ubcf8\uc988"
+   ],
+   "blurb": "Toss gobs of unique dice in an epic adventure en route to a final boss showdown.",
+   "image": "https://cf.geekdo-images.com/wKwRk0wYBcrtLAfgn4PCdg__square200/img/VIuvUsmNEKTA6dpKeddDJXMv7bI=/200x200/filters:strip_icc()/pic6624445.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "193738": {
+   "_fetched": 1791440697.8015294,
+   "alternatenames": [
+    "Great Western",
+    "Great Western Trail: Aventur\u0103 prin Vestul S\u0103lbatic",
+    "Great Western Trail: La Gran Ruta del Oeste",
+    "A nagy western utaz\u00e1s",
+    "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0437\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u043f\u0443\u0442\u044c",
+    "\u30b0\u30ec\u30fc\u30c8 \u30a6\u30a8\u30b9\u30bf\u30f3 \u30c8\u30ec\u30a4\u30eb",
+    "\u5927\u897f\u90e8\u4e4b\u8def",
+    "\u5927\u897f\u9435\u8def",
+    "\uadf8\ub808\uc774\ud2b8 \uc6e8\uc2a4\ud134 \ud2b8\ub808\uc77c"
+   ],
+   "blurb": "Use strategic outposts and navigate danger as you herd your cattle to Kansas City.",
+   "image": "https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__square200/img/j9S8OUI3ePSxgzC8EvF82thofas=/200x200/filters:strip_icc()/pic4887376.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 2,
+   "minplaytime": 75
+  },
+  "199792": {
+   "_fetched": 1791440717.9289303,
+   "alternatenames": [
+    "Divukraj",
+    "Everdel",
+    "Everdel Esencijalno izdanje",
+    "Everdell, H \u0395\u03cd\u03c6\u03bf\u03c1\u03b7 \u039a\u03bf\u03b9\u03bb\u03ac\u03b4\u03b1",
+    "Everdell: Az \u00d6r\u00f6kfa \u00c1rny\u00e9k\u00e1ban",
+    "Everdell: Edici\u00f3n esencial",
+    "Everdell: Essentials Edition",
+    "Everdell: Temel S\u00fcr\u00fcm",
+    "Valea de Smarald",
+    "\u0415\u0432\u0435\u0440\u0434\u0435\u043b",
+    "\u0415\u0432\u044a\u0440\u0434\u0435\u043b",
+    "\u042d\u0432\u0435\u0440\u0434\u0435\u043b\u043b",
+    "\u042d\u0432\u0435\u0440\u0434\u0435\u043b\u043b: \u0411\u0430\u0437\u043e\u0432\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+    "\u0e14\u0e34\u0e19\u0e41\u0e14\u0e19\u0e41\u0e2b\u0e48\u0e07\u0e21\u0e19\u0e15\u0e4c\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e4c",
+    "\u30a8\u30d0\u30fc\u30c7\u30fc\u30eb",
+    "\u4ed9\u5883\u5e7d\u8c37",
+    "\uc5d0\ubc84\ub378"
+   ],
+   "blurb": "Gather resources to develop a harmonious village of woodland critters and structures.",
+   "image": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__square200/img/oSGR0N6s84_G6q5MSCrZ1ILL7VE=/200x200/filters:strip_icc()/pic3918905.png",
+   "maxplayers": 4,
+   "maxplaytime": 80,
+   "minplayers": 1,
+   "minplaytime": 40
+  },
+  "200680": {
+   "_fetched": 1791440751.9071953,
+   "alternatenames": [
+    "Agr\u00edcola (Edi\u00e7\u00e3o Revisada)",
+    "Agr\u00edcola (edici\u00f3n revisada)",
+    "Agricola expert-editie",
+    "Agricola: Advanced Level",
+    "Agricola: Revised Edition",
+    "Agricola: \u00dcberarbeitete Neuauflage",
+    "Agricola: wersja dla graczy",
+    "\u0410\u0433\u0440\u0438\u043a\u043e\u043b\u0430. \u041d\u043e\u0432\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+    "\u30a2\u30b0\u30ea\u30b3\u30e9\uff1a\u30ea\u30d0\u30a4\u30ba\u30c9\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3",
+    "\u519c\u573a\u4e3b",
+    "\u8fb2\u5bb6\u6a02",
+    "\uc544\uadf8\ub9ac\ucf5c\ub77c (\uac1c\uc815\ud310)"
+   ],
+   "blurb": "Help your farm to prosper in this updated, streamlined edition of the acclaimed game.",
+   "image": "https://cf.geekdo-images.com/YCGWJMFwOI5efji2RJ2mSw__square200/img/Yyxaz3YRjIEo1EZBN4ipT3gpEzY=/200x200/filters:strip_icc()/pic8093340.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "205059": {
+   "_fetched": 1791440745.9077816,
+   "alternatenames": [
+    "Le Case della Follia: Seconda Edizione",
+    "Les Demeures de l'\u00c9pouvante: Seconde \u00c9dition",
+    "Las Mansiones de la Locura: Segunda Edici\u00f3n",
+    "Mansions of Madness: M\u00e1sodik kiad\u00e1s",
+    "Mansions of Madness: Segunda Edi\u00e7\u00e3o",
+    "Panstv\u00ed hr\u016fzy: Druh\u00e1 edice",
+    "Posiad\u0142o\u015b\u0107 Szale\u0144stwa: Druga Edycja",
+    "Villen des Wahnsinns: Zweite Edition",
+    "\u041c\u0430\u0454\u0442\u043a\u0438 \u0431\u043e\u0436\u0435\u0432\u0456\u043b\u043b\u044f",
+    "\u041e\u0441\u043e\u0431\u043d\u044f\u043a\u0438 \u0431\u0435\u0437\u0443\u043c\u0438\u044f. \u0412\u0442\u043e\u0440\u0430\u044f \u0440\u0435\u0434\u0430\u043a\u0446\u0438\u044f",
+    "\u0e04\u0e24\u0e2b\u0e32\u0e2a\u0e19\u0e4c \u0e27\u0e34\u0e1b\u0e25\u0e32\u0e2a",
+    "\u30de\u30f3\u30b7\u30e7\u30f3\u30fb\u30aa\u30d6\u30fb\u30de\u30c3\u30c9\u30cd\u30b9\u7b2c2\u7248",
+    "\u760b\u72c2\u8a6d\u5b85\uff1a\u7b2c\u4e8c\u7248",
+    "\uad11\uae30\uc758 \uc800\ud0dd"
+   ],
+   "blurb": "Cling to your sanity as you investigate Lovecraftian horrors.",
+   "image": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__square200/img/I60Uk2oPsbiV0u_onRxI6HNgUxc=/200x200/filters:strip_icc()/pic3118622.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 120
+  },
+  "205637": {
+   "_fetched": 1791440707.4407933,
+   "alternatenames": [
+    "Arkham Horror: Das Kartenspiel",
+    "Arkham Horror: El Juego de Cartas",
+    "Arkham Horror: Il Gioco di Carte",
+    "Horreur \u00e0 Arkham: Le Jeu de Cartes",
+    "Horror w Arkham: Gra Karciana",
+    "\u0416\u0430\u0445 \u0410\u0440\u043a\u0433\u0435\u043c\u0430: \u041a\u0430\u0440\u0442\u043a\u043e\u0432\u0430 \u0413\u0440\u0430",
+    "\u0423\u0436\u0430\u0441 \u0410\u0440\u043a\u0445\u044d\u043c\u0430: \u041a\u0430\u0440\u0442\u043e\u0447\u043d\u0430\u044f \u0438\u0433\u0440\u0430",
+    "\u0e2d\u0e32\u0e16\u0e23\u0e23\u0e1e\u0e4c\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e32\u0e23\u0e4c\u0e04\u0e31\u0e21: \u0e40\u0e14\u0e2d\u0e30 \u0e01\u0e32\u0e23\u0e4c\u0e14 \u0e40\u0e01\u0e21",
+    "\u30a2\u30fc\u30ab\u30e0\u30db\u30e9\u30fc \u30b6\u30fb\u30ab\u30fc\u30c9\u30b2\u30fc\u30e0",
+    "\u8be1\u9547\u5947\u8c08 \u5361\u724c\u7248",
+    "\u9b54\u93ae\u9a5a\u9b42\u5361\u724c\u7248",
+    "\uc544\ucef4 \ud638\ub7ec: \uce74\ub4dc \uac8c\uc784"
+   ],
+   "blurb": "Investigate the horrors of Arkham while courting cosmic doom.",
+   "image": "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__square200/img/rCOvTBoMid0V821bCAJuY_gLLfc=/200x200/filters:strip_icc()/pic3122349.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "209010": {
+   "_fetched": 1791440756.6288006,
+   "alternatenames": [
+    "Mechs vs. Minions: Bandle City Edition",
+    "\u7ea6\u5fb7\u5c14\uff1a\u6218\u6597\u5b66\u9662",
+    "\uba54\ud06c vs \ubbf8\ub2c8\uc5b8"
+   ],
+   "blurb": "Cooperatively program and pilot your mechs to defeat an army of marauding minions.",
+   "image": "https://cf.geekdo-images.com/n4J5LebMj0DQD016qW7ABw__square200/img/D1SNTEKmDb6zeTgXzQSIohsQFuE=/200x200/filters:strip_icc()/pic3184103.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60
+  },
+  "216132": {
+   "_fetched": 1791440744.2146685,
+   "alternatenames": [
+    "Clan di Caledonia",
+    "Clanes de Caledonia",
+    "Cl\u00e3s da Caled\u00f4nia",
+    "Klany Kaledonii",
+    "\u041a\u043b\u0430\u043d\u044b \u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0438\u0438",
+    "\u30af\u30e9\u30f3\u30ba\u30fb\u30aa\u30d6\u30fb\u30ab\u30ec\u30c9\u30cb\u30a2",
+    "\u52a0\u52d2\u591a\u5c3c\u4e9e",
+    "\ud074\ub79c \uc624\ube0c \uce7c\ub808\ub3c4\ub2c8\uc544"
+   ],
+   "blurb": "Lead your unique Scottish clan to economic might via production, trade, and export.",
+   "image": "https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__square200/img/Gh9uS5Yzc-ColbSvuoXY2_ZQ0do=/200x200/filters:strip_icc()/pic3511783.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "220308": {
+   "_fetched": 1791440691.4033127,
+   "alternatenames": [
+    "Gaia Project: Galaxie Terra Mystica",
+    "Gaia projekt",
+    "Progetto Gaia",
+    "Projekt Gaja",
+    "Projet Gaia",
+    "Projeto Gaia",
+    "Terra Mystica: Projeto Gaia",
+    "\u041f\u0440\u043e\u0435\u043a\u0442 \"\u0413\u0430\u0439\u044f\"",
+    "\u041f\u0440\u043e\u0454\u043a\u0442 \"\u0413\u0430\u044f\"",
+    "\u30c6\u30e9\u30df\u30b9\u30c6\u30a3\u30ab\uff1a\u30ac\u30a4\u30a2\u30d7\u30ed\u30b8\u30a7\u30af\u30c8",
+    "\u84cb\u4e9e\u8a08\u756b",
+    "\uac00\uc774\uc544 \ud504\ub85c\uc81d\ud2b8"
+   ],
+   "blurb": "Expand, research, upgrade, and settle the galaxy with one of 14 alien species.",
+   "image": "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__square200/img/-B_SCvvRB-Q0_yfCwKgIwhdSLNw=/200x200/filters:strip_icc()/pic5375625.png",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "221107": {
+   "_fetched": 1791440741.031346,
+   "alternatenames": [
+    "Pandemic Legacy: 2. \u00c9vad",
+    "Pandemic Legacy: Saison 2",
+    "Pandemic Legacy: Segunda temporada",
+    "Pandemic Legacy: Seizoen 2",
+    "Pandemic Legacy: Sezon 2",
+    "\u041f\u0430\u043d\u0434\u0435\u043c\u0438\u044f \u041d\u0430\u0441\u043b\u0435\u0434\u0438\u0435 \u0412\u0442\u043e\u0440\u043e\u0439 \u0441\u0435\u0437\u043e\u043d",
+    "\u30d1\u30f3\u30c7\u30df\u30c3\u30af:\u30ec\u30ac\u30b7\u30fc \u30b7\u30fc\u30ba\u30f32",
+    "\u761f\u75ab\u5371\u673a\uff1a\u4f20\u627f \u7b2c\u4e8c\u5b63 \u9ec4",
+    "\ud32c\ub370\ubbf9 \ub808\uac70\uc2dc: \uc2dc\uc98c2"
+   ],
+   "blurb": "The world is a mystery after a devastating pandemic\u2014where will your team go?",
+   "image": "https://cf.geekdo-images.com/Qtkb-UTvHa0-kxt_MK1nKw__square200/img/blyxL6y6CirAoi7HTcJHEmkcpyg=/200x200/filters:strip_icc()/pic3763549.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 60
+  },
+  "224517": {
+   "_fetched": 1791440681.608723,
+   "alternatenames": [
+    "Brass. \u0411\u0438\u0440\u043c\u0438\u043d\u0433\u0435\u043c",
+    "Brass. \u0411\u0456\u0440\u043c\u0456\u043d\u0433\u0435\u043c",
+    "\u30d6\u30e9\u30b9\uff1a\u30d0\u30fc\u30df\u30f3\u30ac\u30e0",
+    "\u5de5\u4e1a\u9769\u547d\uff1a\u4f2f\u660e\u7ff0(Chinese edition) (2018)",
+    "\u5de5\u696d\u9769\u547d\uff1a\u4f2f\u660e\u7ff0",
+    "\ube0c\ub77c\uc2a4: \ubc84\ubc0d\uc5c4"
+   ],
+   "blurb": "Build networks, grow industries, and navigate the world of the Industrial Revolution.",
+   "image": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__square200/img/dNf_NYkJhQ6h2K0zWxhzRmJfAg8=/200x200/filters:strip_icc()/pic3490053.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60
+  },
+  "230802": {
+   "_fetched": 1791440761.4704692,
+   "alternatenames": [
+    "Azul Mini",
+    "Azul \u041c\u0456\u043d\u0456",
+    "\u30a2\u30ba\u30fc\u30eb",
+    "\u30a2\u30ba\u30fc\u30eb \u30df\u30cb",
+    "\u82b1\u78da\u7269\u8a9e",
+    "\uc544\uc904",
+    "\uc544\uc904 \ubbf8\ub2c8"
+   ],
+   "blurb": "Artfully embellish the walls of your palace by drafting the most beautiful tiles.",
+   "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__square200/img/3SujmcsLunL1xALI1xJzgbfDndE=/200x200/filters:strip_icc()/pic6973671.png",
+   "maxplayers": 4,
+   "maxplaytime": 45,
+   "minplayers": 2,
+   "minplaytime": 30
+  },
+  "231733": {
+   "_fetched": 1791440735.574446,
+   "alternatenames": [
+    "Obsesi\u00f3n",
+    "Obsesje",
+    "Posedlost",
+    "\u041e\u0431\u043e\u043b\u044c\u0449\u0435\u043d\u0438\u0435",
+    "\u5e84\u56ed\u8ff7\u60c5",
+    "\uc5c5\uc138\uc158"
+   ],
+   "blurb": "Renovate an estate, manage servants, and pursue romance in Victorian England.",
+   "image": "https://cf.geekdo-images.com/sy89BiuZXfbSnG7Cag9tBQ__square200/img/Z7sEVwotxCsT0n1rH7JuPHq5x7g=/200x200/filters:strip_icc()/pic5902073.png",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "233078": {
+   "_fetched": 1791440686.5368118,
+   "alternatenames": [
+    "Twilight Imperium: 4. kiad\u00e1s",
+    "Twilight Imperium: \u010ctvrt\u00e1 edice",
+    "Twilight Imperium: Cuarta Edici\u00f3n",
+    "Twilight Imperium: Quarta Edi\u00e7\u00e3o",
+    "Twilight Imperium: Quarta Edizione",
+    "Twilight Imperium: Quatri\u00e8me \u00c9dition",
+    "Twilight Imperium: \u015awit Nowej Ery",
+    "Twilight Imperium: Vierte Edition",
+    "\u0421\u0443\u043c\u0435\u0440\u043a\u0438 \u0438\u043c\u043f\u0435\u0440\u0438\u0438: \u0427\u0435\u0442\u0432\u0451\u0440\u0442\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+    "\u0421\u0443\u0442\u0456\u043d\u043a\u0438 \u0456\u043c\u043f\u0435\u0440\u0456\u0457: \u0427\u0435\u0442\u0432\u0435\u0440\u0442\u0435 \u0432\u0438\u0434\u0430\u043d\u043d\u044f",
+    "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30fb\u30a4\u30f3\u307a\u30ea\u30a6\u30e0\u7b2c4\u7248",
+    "\u5e1d\u56fd\u66d9\u5149 \u7b2c4\u7248",
+    "\uc5ec\uba85\uc758 \uc81c\uad6d"
+   ],
+   "blurb": "Build an intergalactic empire through trade, research, conquest and grand politics.",
+   "image": "https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__square200/img/VWIKhG2w7Bwh7PX7_xHRSmf6s6c=/200x200/filters:strip_icc()/pic3727516.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 480,
+   "minplayers": 3,
+   "minplaytime": 240
+  },
+  "237182": {
+   "_fetched": 1791440708.229783,
+   "alternatenames": [
+    "Root Macht und Recht im Waldland",
+    "Root: A Game of Woodland Might and Right",
+    "\u041a\u043e\u0440\u043d\u0438",
+    "\u30eb\u30fc\u30c8 \uff5e\u306f\u308b\u3051\u304d\u68ee\u306e\u3069\u3046\u3076\u3064\u6226\u8a18\uff5e",
+    "\u8302\u6797\u6e90\u8a18",
+    "\ub8e8\ud2b8"
+   ],
+   "blurb": "Decide the fate of the woodland as asymmetric factions fight for contrasting goals.",
+   "image": "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__square200/img/pKGjK1ToJcM3DyOYnc2LHdhkKJ4=/200x200/filters:strip_icc()/pic4254509.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 60
+  },
+  "240980": {
+   "_fetched": 1791440733.8637059,
+   "alternatenames": [
+    "Krvav\u00e1 Hodina Odbila",
+    "V\u00e9res \u00f3ratorony",
+    "\u041a\u0440\u043e\u0432\u044c \u043d\u0430 \u0447\u0430\u0441\u043e\u0432\u043e\u0439 \u0431\u0430\u0448\u043d\u0435",
+    "\u67d3.\u949f\u697c\u8c1c\u56e2",
+    "\uc2dc\uacc4\ud0d1\uc5d0 \ud750\ub978 \ud53c"
+   ],
+   "blurb": "Deduce who the Demon is through logic and bluffing. Dead players still play.",
+   "image": "https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__square200/img/FdLq8zXvSnNWo6jw9FusW2s-JJw=/200x200/filters:strip_icc()/pic7009391.jpg",
+   "maxplayers": 21,
+   "maxplaytime": 120,
+   "minplayers": 6,
+   "minplaytime": 30
+  },
+  "244521": {
+   "_fetched": 1791440746.6743906,
+   "alternatenames": [
+    "Les Charlatans de Belcastel",
+    "Ciarlatani di Quedlinburgo",
+    "Kuruzsl\u00f3k Quedlinburgban",
+    "Kvacksalvare",
+    "Kvakksalver",
+    "Kvaksalver",
+    "Kvedlalov\u00e9 z Kvedlinburku",
+    "Kvedlinburgas p\u016b\u0161\u013cot\u0101ji",
+    "Kvedlinburgi soolapuhujad",
+    "De Kwakzalvers van Kakelenburg",
+    "P\u00f3cimas y Brebajes",
+    "The Quacks of Quedlinburg",
+    "Quacks: Deluxe Edition",
+    "Die Quacksalber von Quedlinburg",
+    "R\u00e4\u00e4velin Rohtotohtorit",
+    "Szarlatani z Pasikurowic",
+    "\u039f\u03b9 \u03a4\u03c3\u03b1\u03c1\u03bb\u03b1\u03c4\u03ac\u03bd\u03bf\u03b9 \u03c4\u03bf\u03c5 \u039a\u03bf\u03c5\u03ad\u03bd\u03c4\u03bb\u03b9\u03bd\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba",
+    "\u041f\u0440\u043e\u0439\u0434\u0438\u0441\u0432\u0456\u0442\u0438 \u041a\u0432\u0435\u0434\u043b\u0456\u043d\u0431\u0443\u0440\u0433\u0430",
+    "\u0428\u0430\u0440\u043b\u0430\u0442\u0430\u043d\u044b \u0438\u0437 \u041a\u0432\u0435\u0434\u043b\u0438\u043d\u0431\u0443\u0440\u0433\u0430",
+    "\u05e9\u05d5\u05e7 \u05d4\u05e9\u05d9\u05e7\u05d5\u05d9\u05d9\u05dd",
+    "\u062c\u0627\u062f\u0648\u06af\u0631\u0627\u0646",
+    "\u30af\u30a2\u30c3\u30af\u30b5\u30eb\u30d0\u30fc",
+    "\u90ce\u4e2d\u95d6\u6c5f\u6e56",
+    "\u90ce\u4e2d\u95d6\u6c5f\u6e56Q\u7248",
+    "\ud06c\ubca0\ub4e4\ub9b0\ubd80\ub974\ud06c\uc758 \ub3cc\ud314\uc774 \uc57d\uc7a5\uc218"
+   ],
+   "blurb": "Pull ingredients from your stock to make your pot bubble, but hopefully not explode!",
+   "image": "https://cf.geekdo-images.com/B1bLRWzTASZ-xx9NoAE79A__square200/img/b81LsPuzm8w3sJmRwRMEchKJcCg=/200x200/filters:strip_icc()/pic8780293.png",
+   "maxplayers": 4,
+   "maxplaytime": 45,
+   "minplayers": 2,
+   "minplaytime": 45
+  },
+  "246900": {
+   "_fetched": 1791440699.3647037,
+   "alternatenames": [
+    "Eclipse: Das zweite galaktische Zeitalter",
+    "Eclipse: Drugi \u015awit Galaktyki",
+    "Eclipse: El Segundo Amanecer de la Galaxia",
+    "Eclipse: o Segundo Despertar da Gal\u00e1xia",
+    "Eclipse. \u0412\u0442\u043e\u0440\u043e\u0439 \u0440\u0430\u0441\u0441\u0432\u0435\u0442 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
+    "\u30a8\u30af\u30ea\u30d7\u30b9\u301c\u65b0\u305f\u306a\u308b\u9280\u6cb3\u306e\u591c\u660e\u3051\u301c",
+    "\u661f\u8755\uff1a\u9ece\u660e\u91cd\u73fe",
+    "\uc774\ud074\ub9bd\uc2a4: \ub450 \ubc88\uc9f8 \uc5ec\uba85"
+   ],
+   "blurb": "Build an interstellar civilization by exploration, research, conquest, and diplomacy.",
+   "image": "https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__square200/img/HENJ3g_owqTJThmVD4a5dpJlZCE=/200x200/filters:strip_icc()/pic5235277.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 200,
+   "minplayers": 2,
+   "minplaytime": 60
+  },
+  "247763": {
+   "_fetched": 1791440723.0107405,
+   "alternatenames": [
+    "Cidades submersas",
+    "Podmo\u0159sk\u00e1 m\u011bsta",
+    "Podwodne Miasta",
+    "V\u00edz alatti v\u00e1rosok",
+    "\u041f\u0456\u0434\u0432\u043e\u0434\u043d\u0456 \u043c\u0456\u0441\u0442\u0430",
+    "\u041f\u043e\u0434\u0432\u043e\u0434\u043d\u044b\u0435 \u0433\u043e\u0440\u043e\u0434\u0430",
+    "\u30a2\u30f3\u30c0\u30fc\u30a6\u30a9\u30fc\u30bf\u30fc\u30b7\u30c6\u30a3\u30fc\u30ba",
+    "\u6c34\u4e0b\u57ce\u5e02 Underwater Cities",
+    "\uc5b8\ub354\uc6cc\ud130 \uc2dc\ud2f0\uc988"
+   ],
+   "blurb": "Develop future cities on the seafloor through politics, production, and science.",
+   "image": "https://cf.geekdo-images.com/PwOwTVHovJAUQgghnGqCOg__square200/img/syDUV8dzXQdIgonXlbGiLDhbHQM=/200x200/filters:strip_icc()/pic4837710.png",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 80
+  },
+  "251247": {
+   "_fetched": 1791440713.0488138,
+   "alternatenames": [
+    "Duzzaszt\u00f3m\u0171",
+    "P\u0159ehrada",
+    "Wasserkraft",
+    "\u0413\u0440\u0435\u0431\u043b\u044f",
+    "\u041f\u043b\u043e\u0442\u0438\u043d\u0430",
+    "\u30d0\u30e9\u30fc\u30b8",
+    "\u5f3a\u56fd\u4e89\u575d",
+    "\ubc84\ub77c\uc9c0"
+   ],
+   "blurb": "Nations vie for hydroelectric dominance in a dystopia where water is power.",
+   "image": "https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__square200/img/NPsCNCzsyx31oWcmXAunWxchq9A=/200x200/filters:strip_icc()/pic4336469.png",
+   "maxplayers": 4,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 90
+  },
+  "251661": {
+   "_fetched": 1791440733.0561316,
+   "alternatenames": [
+    "Oathsworn: \u0412\u0435\u0440\u043d\u044b\u0435 \u043a\u043b\u044f\u0442\u0432\u0435 \u2013 \u0422\u0430\u0439\u043d\u044b \u0422\u0435\u043c\u043d\u043e\u043b\u0435\u0441\u044c\u044f",
+    "\u5b88\u8a93\u8005\uff1a\u6df1\u5165\u5bc6\u6797"
+   ],
+   "blurb": "Fight for humanity's survival against unnatural horrors and the Deepwood itself.",
+   "image": "https://cf.geekdo-images.com/dezQ4YjF03lZVxTdI-UJYw__square200/img/vm0ohqUOn26Q4YvBcdaoN2xGi2w=/200x200/filters:strip_icc()/pic6863204.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "253344": {
+   "_fetched": 1791440725.6098976,
+   "alternatenames": [
+    "Cthulhu: A haland\u00f3 hal\u00e1l",
+    "Cthulhu: I smrt m\u016f\u017ee zem\u0159\u00edt",
+    "\u041a\u0442\u0443\u043b\u0445\u0443: \u0421\u043c\u0435\u0440\u0442\u044c \u043c\u043e\u0436\u0435\u0442 \u0443\u043c\u0435\u0440\u0435\u0442\u044c",
+    "\u041a\u0442\u0443\u043b\u0445\u0443. \u0421\u043c\u0435\u0440\u0442\u044c \u043c\u043e\u0436\u0435 \u0432\u043c\u0435\u0440\u0442\u0438",
+    "\u30af\u30c8\u30a5\u30eb\u30d5 \uff5e\u6b7b\u3082\u307e\u305f\u6b7b\u3059\u3079\u3057\uff5e",
+    "\u514b\u82cf\u9c81\uff1a\u6b7b\u4ea1\u6e6e\u706d",
+    "\ud06c\ud234\ub8e8: \uc8fd\uc74c\ub9c8\uc800 \uc8fd\uc73c\ub9ac\ub2c8"
+   ],
+   "blurb": "Disrupt the ritual and slay the Elder Gods in this co-op dice chucker.",
+   "image": "https://cf.geekdo-images.com/SPpzri7fwLRgVWMKOocHxw__square200/img/G7NDTea1O6DjOTL7d2PyoEgkuAo=/200x200/filters:strip_icc()/pic9712872.png",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 90
+  },
+  "255984": {
+   "_fetched": 1791440742.5788987,
+   "alternatenames": [
+    "Schlafende G\u00f6tter",
+    "Sp\u00edc\u00ed bohov\u00e9",
+    "Szunnyad\u00f3 istenek",
+    "U\u015bpieni bogowie",
+    "\u0421\u043f\u043b\u044f\u0447\u0456 \u0411\u043e\u0433\u0438",
+    "\u0421\u043f\u043b\u044f\u0447\u0456 \u0411\u043e\u0433\u0438",
+    "\u0421\u043f\u044f\u0449\u0438\u0435 \u0431\u043e\u0433\u0438",
+    "\u30b9\u30ea\u30fc\u30d4\u30f3\u30b0\u30fb\u30b4\u30c3\u30ba",
+    "\u6c89\u7761\u7684\u795e\u7947",
+    "\uc2ac\ub9ac\ud551 \uac13\uc988"
+   ],
+   "blurb": "Voyages of the steamship \"Manticore\" and her crew on the Wandering Sea.",
+   "image": "https://cf.geekdo-images.com/Zdt8l4oTBpFICsMyNof7Jg__square200/img/b6WoYa7PqsW2uvN2_hia1pqzE64=/200x200/filters:strip_icc()/pic5975244.png",
+   "maxplayers": 4,
+   "maxplaytime": 1200,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "256960": {
+   "_fetched": 1791440726.4547,
+   "alternatenames": [
+    "Pax Pamir: Druga edycja",
+    "Pax Pamir: Druh\u00e1 Edice",
+    "Pax Pamir: Seconde \u00c9dition",
+    "Pax Pamir: Segunda Edici\u00f3n",
+    "Pax Pamir: \u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0438\u0433\u0440\u0430",
+    "\u30d1\u30c3\u30af\u30b9\u30fb\u30d1\u30df\u30fc\u30eb\u3000\u7b2c\uff12\u7248",
+    "\u5e15\u7c73\u5c14\u548c\u5e73\uff1a\u7b2c\u4e8c\u7248",
+    "\ud30d\uc2a4 \ud30c\ubbf8\ub974"
+   ],
+   "blurb": "Swing the tides of \"The Great Game\" as countries vie for control of Afghanistan.",
+   "image": "https://cf.geekdo-images.com/oSM_AuKYfGIwOtKbVEsoVg__square200/img/qtzIXnKqkVdxGM4FTHUTRutor7Q=/200x200/filters:strip_icc()/pic4503733.png",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 45
+  },
+  "2651": {
+   "_fetched": 1791440741.8118813,
+   "alternatenames": [
+    "Alta Tens\u00e3o",
+    "Alta Tensao",
+    "Alta Tensi\u00f3n",
+    "Alta Tensi\u00f3n (Reenergizado)",
+    "Alta Tensione",
+    "Funkenschlag",
+    "Funkenschlag (Recharged Version)",
+    "Haute Tension",
+    "Hoogspanning",
+    "Hoogspanning (Recharged Versie)",
+    "Megawatts",
+    "Nagyfesz\u00fclts\u00e9g",
+    "Power Grid (Recharged Version)",
+    "Power Grid (Versao Energizada)",
+    "Re\u0163eaua Energetic\u0103",
+    "Visoki Napon",
+    "Vysok\u00e9 Nap\u011bt\u00ed",
+    "Wysokie Napi\u0119cie",
+    "Wysokie Napi\u0119cie: Do\u0142adowana Wersja",
+    "\u042d\u043d\u0435\u0440\u0433\u043e\u0441\u0435\u0442\u044c",
+    "\u0e40\u0e01\u0e21\u0e42\u0e23\u0e07\u0e44\u0e1f\u0e1f\u0e49\u0e32",
+    "\u96fb\u529b\u4f1a\u793e",
+    "\u96fb\u529b\u4f1a\u793e \u5145\u96fb\u5b8c\u4e86\uff01",
+    "\u96fb\u529b\u516c\u53f8",
+    "\ud30c\uc6cc\uadf8\ub9ac\ub4dc",
+    "\ud30c\uc6cc\uadf8\ub9ac\ub4dc \uc7ac\ucda9\uc804"
+   ],
+   "blurb": "Bid, network, and manage resources in a race to supply the most cities with power.",
+   "image": "https://cf.geekdo-images.com/yd6LuatytHRhcFCxCf-EEg__square200/img/Z3qk5PojKVvbrAnp8-OrO0RgnQo=/200x200/filters:strip_icc()/pic4459753.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 120
+  },
+  "266192": {
+   "_fetched": 1791440711.348062,
+   "alternatenames": [
+    "Feszt\u00e1v",
+    "Fl\u00fcgelschlag",
+    "Na k\u0159\u00eddlech",
+    "Na skrzyd\u0142ach",
+    "Sp\u0101rnotie",
+    "Sparnuotieji",
+    "Tiivulised",
+    "Wingspan srpsko izdanje",
+    "Wingspan: Lumea p\u0103s\u0103rilor",
+    "\u0386\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c6\u03c4\u03b5\u03c1\u03ce\u03bd",
+    "\u041a\u0440\u0438\u043b\u0430",
+    "\u041a\u0440\u0438\u043b\u0435",
+    "\u041a\u0440\u044b\u043b\u044c\u044f",
+    "\u0e1b\u0e35\u0e01\u0e1b\u0e31\u0e01\u0e29\u0e32",
+    "\u30a6\u30a4\u30f3\u30b0\u30b9\u30d1\u30f3",
+    "\u5c55\u7fc5\u7ff1\u7fd4",
+    "\uc719\uc2a4\ud32c"
+   ],
+   "blurb": "Attract a beautiful and diverse collection of birds to your wildlife preserve.",
+   "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__square200/img/BuUGdo8iEnHLPKZvyttszIdBNOU=/200x200/filters:strip_icc()/pic4458123.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 70,
+   "minplayers": 1,
+   "minplaytime": 40
+  },
+  "266507": {
+   "_fetched": 1791440703.4025164,
+   "alternatenames": [
+    "Brzd\u0119k! Legacy: Acquisitions Incorporated",
+    "Klong! Legacy",
+    "\u041a\u043b\u0430\u043d\u043a! \u041d\u0430\u0441\u043b\u0435\u0434\u0438\u0435",
+    "\ud074\ub7ad\ud06c! \ub808\uac70\uc2dc: \uc804\ub9ac\ud488 \uc8fc\uc2dd\ud68c\uc0ac"
+   ],
+   "blurb": "\"Go forth, be bold, and ACQUIRE!\" in this campaign version of \"Clank!\"",
+   "image": "https://cf.geekdo-images.com/hc2NDafu5c24iLJh_IZmyg__square200/img/q7xfs--rsnJKyhlDomAw2BB3-pQ=/200x200/filters:strip_icc()/pic4885780.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 90
+  },
+  "266810": {
+   "_fetched": 1791440748.2799304,
+   "alternatenames": [
+    "A Nyugati Kir\u00e1lys\u00e1g Lovagjai",
+    "Paladijnen van het Westelijk Koninkrijk",
+    "Paladine des Westfrankenreichs",
+    "Paladines del Reino del Oeste",
+    "Paladini del Regno Occidentale",
+    "Paladinos do Reino Ocidental",
+    "Paladinov\u00e9 Z\u00e1padn\u00edho kr\u00e1lovstv\u00ed",
+    "Paladinov\u00e9 Z\u00e1padn\u00edho kr\u00e1lovstv\u00ed",
+    "Paladins du Royaume de l'Ouest",
+    "Paladyni Zachodniego Kr\u00f3lestwa",
+    "\u041f\u0430\u043b\u0430\u0434\u0438\u043d\u0438 \u0417\u0430\u0445\u0456\u0434\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u0430",
+    "\u041f\u0430\u043b\u0430\u0434\u0438\u043d\u044b \u0437\u0430\u043f\u0430\u0434\u043d\u043e\u0433\u043e \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u0430",
+    "\u897f\u30d5\u30e9\u30f3\u30af\u738b\u56fd\u306e\u8056\u9a0e\u58eb",
+    "\u897f\u56fd\u5723\u6b66\u58eb",
+    "\u897f\u570b\u8056\u9a0e\u58eb",
+    "\uc11c\ucabd \uc655\uad6d\uc758 \uc131\uae30\uc0ac"
+   ],
+   "blurb": "Invaders are coming from everywhere.  Keep the faith and defend your homeland.",
+   "image": "https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__square200/img/P6L_aBbHzjbrlTMw4dJzy9Eb-IM=/200x200/filters:strip_icc()/pic4462987.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 90
+  },
+  "276025": {
+   "_fetched": 1791440755.1150613,
+   "alternatenames": [
+    "\u041c\u0430\u0440\u0430\u043a\u0430\u0439\u0431\u043e",
+    "\u30de\u30e9\u30ab\u30a4\u30dc",
+    "\u9a6c\u62c9\u5f00\u6ce2",
+    "\ub9c8\ub77c\uce74\uc774\ubcf4"
+   ],
+   "blurb": "Seafarers journey to obtain wealth and fame in the 17th century Caribbean.",
+   "image": "https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__square200/img/NwLionWm5CbAlZ_zAuoJrftDW74=/200x200/filters:strip_icc()/pic4917407.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "277659": {
+   "_fetched": 1791440757.407605,
+   "alternatenames": [
+    "Posledn\u00ed holka: P\u0159ehr\u00e1va\u010d",
+    "\u7edd\u547d\u5c11\u5973\uff1a\u57fa\u7840\u76d2",
+    "\ud30c\uc774\ub110 \uac78"
+   ],
+   "blurb": "You alone must survive and defeat the horror movie killer.",
+   "image": "https://cf.geekdo-images.com/TUtzY-F7gKTIKm9y8e1AQw__square200/img/ElsynU1BFxm4xjLFXLp-KtJnQXw=/200x200/filters:strip_icc()/pic6520382.jpg",
+   "maxplayers": 1,
+   "maxplaytime": 60,
+   "minplayers": 1,
+   "minplaytime": 20
+  },
+  "28143": {
+   "_fetched": 1791440758.2269218,
+   "alternatenames": [
+    "Dobyvatel\u00e9 Vesm\u00edru",
+    "Galaxia: La conquista",
+    "Race for the Galaxy: Narodziny Imperi\u00f3w",
+    "\u0411\u043e\u0440\u044c\u0431\u0430 \u0437\u0430 \u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0443",
+    "\u30ec\u30fc\u30b9\u30fb\u30d5\u30a9\u30fc\u30fb\u30b6\u30fb\u30ae\u30e3\u30e9\u30af\u30b7\u30fc",
+    "\u30ec\u30fc\u30b9\u30fb\u30d5\u30a9\u30fc\u30fb\u30b6\u30fb\u30ae\u30e3\u30e9\u30af\u30b7\u30fc \u7b2c\u4e8c\u7248",
+    "\u9280\u6cb3\u7af6\u9010 (\u94f6\u6cb3\u7ade\u9010)",
+    "\u94f6\u6cb3\u7ade\u9010\uff1a\u7b2c\u4e8c\u7248",
+    "\ub808\uc774\uc2a4 \ud3ec \ub354 \uac24\ub7ed\uc2dc"
+   ],
+   "blurb": "Worlds await! Colonize, develop and conquer, taking advantage of others' choices.",
+   "image": "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__square200/img/-5KKMJP6dz4UCjr_1SH8ngDfbCE=/200x200/filters:strip_icc()/pic5261714.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 30
+  },
+  "284083": {
+   "_fetched": 1791440759.952816,
+   "alternatenames": [
+    "The Crew",
+    "The Crew: Alla Scoperta del Pianeta Nove",
+    "The Crew: En qu\u00eate de la neuvi\u00e8me plan\u00e8te",
+    "The Crew: \u00cen c\u0103utarea celei de-a noua planete",
+    "The Crew: Iskanje devetega planeta",
+    "The Crew: K\u00fcldet\u00e9s a 9. bolyg\u00f3hoz",
+    "De Crew: Op weg naar de 9e Planeet",
+    "Die Crew: Reist gemeinsam zum 9. Planeten",
+    "Ke\u015fif: Gezegen 9 G\u00f6revi",
+    "Odysea: Spole\u010dn\u011b k dev\u00e1t\u00e9 planet\u011b",
+    "Posada: Potraga za devetom planetom",
+    "A Tripula\u00e7\u00e3o: Em Busca do Nono Planeta",
+    "La Tripulaci\u00f3n: En busca del noveno planeta",
+    "Za\u0142oga: W poszukiwaniu dziewi\u0105tej planety",
+    "\u0397 \u0391\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae: \u0391\u03bd\u03b1\u03b6\u03b7\u03c4\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c4\u03bf\u03bd \u0388\u03bd\u03b1\u03c4\u03bf \u03a0\u03bb\u03b1\u03bd\u03ae\u03c4\u03b7",
+    "\u0415\u043a\u0438\u043f\u0430\u0436",
+    "\u0415\u043a\u0456\u043f\u0430\u0436: \u041f\u043e\u0448\u0443\u043a\u0438 \u0434\u0435\u0432'\u044f\u0442\u043e\u0457 \u043f\u043b\u0430\u043d\u0435\u0442\u0438",
+    "\u042d\u043a\u0438\u043f\u0430\u0436: \u042d\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0438\u044f \u043a \u0434\u0435\u0432\u044f\u0442\u043e\u0439 \u043f\u043b\u0430\u043d\u0435\u0442\u0435",
+    "\u05d4\u05e6\u05d5\u05d5\u05ea: \u05d4\u05de\u05e1\u05e2 \u05dc\u05db\u05d5\u05db\u05d1 \u05d4\u05dc\u05db\u05ea \u05ea\u05e9\u05e2",
+    "\u30b6\u30fb\u30af\u30eb\u30fc \u7b2c\uff19\u60d1\u661f\u306e\u63a2\u7d22",
+    "\u661f\u969b\u63a2\u96aa\u968a",
+    "\uc2a4\ud398\uc774\uc2a4 \ud06c\ub8e8: 9\ubc88\uc9f8 \ud589\uc131\uc744 \ucc3e\uc544\uc11c"
+   ],
+   "blurb": "Cooperate with your fellow astronauts as you explore the outer solar system.",
+   "image": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__square200/img/qZWXPZh8d-YABHSwRvnwMmZcaE4=/200x200/filters:strip_icc()/pic5687013.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 20,
+   "minplayers": 2,
+   "minplaytime": 20
+  },
+  "284378": {
+   "_fetched": 1791440714.6839209,
+   "alternatenames": [
+    "\u041a\u0430\u043d\u0431\u0430\u043d \u042d\u043b\u0435\u043a\u0442\u0440\u043e",
+    "\u30ab\u30f3\u30d0\u30f3EV",
+    "\uce78\ubc18 EV"
+   ],
+   "blurb": "EV-factory workers optimize and innovate to stand out at the big board meeting.",
+   "image": "https://cf.geekdo-images.com/L2Wn-zUqkcHgqvwvY212Ig__square200/img/lbhDIQYms65DRMApiPWBVRnDcdc=/200x200/filters:strip_icc()/pic4924232.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "285774": {
+   "_fetched": 1791440721.372941,
+   "alternatenames": [
+    "Marvel Champions: Das Kartenspiel",
+    "Marvel Champions: El Juego de Cartas",
+    "Marvel Champions: Il Gioco di Carte",
+    "Marvel Champions: Karetn\u00ed hra",
+    "Marvel Champions: Le Jeu De Cartes",
+    "Marvel Champions: \u041a\u0430\u0440\u0442\u043a\u043e\u0432\u0430 \u0433\u0440\u0430",
+    "Marvel \ucc54\ud53c\uc5b8\uc2a4: \uce74\ub4dc \uac8c\uc784",
+    "\u6f2b\u5a01\u50b3\u5947\u518d\u8d77",
+    "\u6f2b\u5a01\u7fa4\u82f1\u4f20",
+    "\ub9c8\ube14 \ucc54\ud53c\uc5b8\uc2a4: \uce74\ub4dc \uac8c\uc784"
+   ],
+   "blurb": "Battle Marvel villains with unique teams of iconic heroes in this LCG.",
+   "image": "https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__square200/img/dELqF3Nu63hBEDyV_WbyvsIVAr0=/200x200/filters:strip_icc()/pic4900321.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 1,
+   "minplaytime": 45
+  },
+  "28720": {
+   "_fetched": 1791440698.5981212,
+   "alternatenames": [
+    "Brass",
+    "Brass Deluxe",
+    "Brass. \u041b\u0430\u043d\u043a\u0430\u0448\u0438\u0440",
+    "Kohle: Mit Volldampf zum Reichtum",
+    "\u30d6\u30e9\u30b9\uff1a\u30e9\u30f3\u30ab\u30b7\u30e3\u30fc",
+    "\u5de5\u696d\u9769\u547d",
+    "\u5de5\u696d\u9769\u547d\uff1a\u862d\u958b\u590f",
+    "\ube0c\ub77c\uc2a4: \ub7ad\ucee4\uc154"
+   ],
+   "blurb": "Test your economic mettle as you build and network in the Industrial Revolution.",
+   "image": "https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__square200/img/1NkF8PtzGzJUTqjxfniH0OI8SD4=/200x200/filters:strip_icc()/pic3469216.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60
+  },
+  "291457": {
+   "_fetched": 1791440690.6265533,
+   "alternatenames": [
+    "Gloomhaven: Col\u021bii Leului",
+    "Gloomhaven: Die Pranken des L\u00f6wen",
+    "Gloomhaven: Fauces del Le\u00f3n",
+    "Gloomhaven: Lavlje \u010celjusti",
+    "Gloomhaven: Les M\u00e2choires du lion",
+    "Gloomhaven: Lv\u00ed ch\u0159t\u00e1n",
+    "Gloomhaven: Presas do Le\u00e3o",
+    "Gloomhaven: Szcz\u0119ki Lwa",
+    "Gloomhaven. \u041c\u0440\u0430\u0447\u043d\u0430\u044f \u0433\u0430\u0432\u0430\u043d\u044c: \u0427\u0435\u043b\u044e\u0441\u0442\u0438 \u043b\u044c\u0432\u0430",
+    "Hom\u00e1lyr\u00e9v: Az oroszl\u00e1nfalka",
+    "\u0422\u0435\u043c\u043d\u0430 \u0433\u0430\u0432\u0430\u043d\u044c. \u0429\u0435\u043b\u0435\u043f\u0438 \u043b\u0435\u0432\u0430",
+    "\u0e01\u0e25\u0e39\u0e21\u0e40\u0e2e\u0e40\u0e27\u0e19\u0e04\u0e21\u0e40\u0e02\u0e35\u0e49\u0e22\u0e27\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e2b\u0e4c",
+    "\u30b0\u30eb\u30fc\u30e0\u30d8\u30a4\u30f4\u30f3 \u30b9\u30bf\u30fc\u30c8\u30bb\u30c3\u30c8 \u7345\u5b50\u306e\u3042\u304e\u3068",
+    "\u5e7d\u6e2f\u8ff7\u57ce\uff1a\u96c4\u72ee\u86ee\u989a",
+    "\uae00\ub8f8\ud5e4\uc774\ube10: \uc0ac\uc790\uc758 \ud131"
+   ],
+   "blurb": "Vanquish monsters with strategic cardplay in a 25-scenario Gloomhaven campaign.",
+   "image": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__square200/img/PAvcImUWC1c5q2TBIbG87fyPfEM=/200x200/filters:strip_icc()/pic5055631.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "295770": {
+   "_fetched": 1791440696.95887,
+   "alternatenames": [
+    "Frosthaven: Sale Temps \u00e0 Havreblanc",
+    "\u30d5\u30ed\u30b9\u30c8\u30d8\u30a4\u30f4\u30f3",
+    "\u971c\u6e2f\u8ff7\u57ce",
+    "\ud504\ub85c\uc2a4\ud2b8\ud5e4\uc774\ube10"
+   ],
+   "blurb": "Adventure in the frozen north and build up your outpost throughout an epic campaign.",
+   "image": "https://cf.geekdo-images.com/cwUgf-f-qwri8UHBUnifuQ__square200/img/0qgkWKzaUMVjbdOn66kpz7hKSYs=/200x200/filters:strip_icc()/pic5092291.png",
+   "maxplayers": 4,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 90
+  },
+  "295947": {
+   "_fetched": 1791440730.5199385,
+   "alternatenames": [
+    "Cascadia vadvil\u00e1ga",
+    "Cascadia: Im Herzen der Natur",
+    "Kalikasan",
+    "Kaskadia",
+    "Kask\u00e1die",
+    "Kaskadija",
+    "\u041a\u0430\u0441\u043a\u0430\u0434\u0438\u044f",
+    "\u041a\u0430\u0441\u043a\u0430\u0434\u0456\u044f",
+    "\u0e04\u0e32\u0e2a\u0e04\u0e32\u0e40\u0e14\u0e35\u0e22",
+    "\u30ab\u30b9\u30ab\u30c7\u30a3\u30a2",
+    "\u5361\u65af\u5361\u8fea\u4e9a\u4e4b\u65c5",
+    "\uce90\uc2a4\uce90\ub514\uc544"
+   ],
+   "blurb": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife.",
+   "image": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__square200/img/ClDVJ5N-pZlzIkxQBCufbfFXChI=/200x200/filters:strip_icc()/pic5100691.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 45,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "3076": {
+   "_fetched": 1791440728.1256876,
+   "alternatenames": [
+    "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u03a1\u03af\u03ba\u03bf",
+    "\u6ce2\u591a\u9ece\u5404",
+    "\ud478\uc5d0\ub974\ud1a0 \ub9ac\ucf54"
+   ],
+   "blurb": "Ship goods, construct buildings, and choose roles that benefit you more than others.",
+   "image": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__square200/img/PbI-9XB0EyMkWrlj3_C5Ono8BSQ=/200x200/filters:strip_icc()/pic158548.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 150,
+   "minplayers": 3,
+   "minplaytime": 90
+  },
+  "312484": {
+   "_fetched": 1791440705.0731125,
+   "alternatenames": [
+    "Arnak elveszett romjai",
+    "Arnak Harabeleri",
+    "Arnak: Kadonneet rauniot",
+    "Izgubljene ru\u0161evine Arnaka",
+    "Le Rovine Perdute di Arnak",
+    "As Ru\u00ednas Perdidas de Arnak",
+    "Las Ruinas Perdidas de Arnak",
+    "Les Ruines Perdues de Narak",
+    "De verdwenen ru\u00efnes van Arnak",
+    "Die verlorenen Ruinen von Arnak",
+    "Zaginiona wyspa Arnak",
+    "Ztracen\u00fd ostrov Arnak",
+    "\u03a4\u03b1 \u0395\u03c1\u03b5\u03af\u03c0\u03b9\u03b1 \u03c4\u03bf\u03c5 \u0386\u03c1\u03bd\u03b1\u03ba",
+    "\u0417\u0430\u0433\u0443\u0431\u043b\u0435\u043d\u0456 \u0440\u0443\u0457\u043d\u0438 \u0410\u0440\u043d\u0430\u043a\u0443",
+    "\u0418\u0437\u0433\u0443\u0431\u0435\u043d\u0438\u0442\u0435 \u0440\u0443\u0438\u043d\u0438 \u043d\u0430 \u0410\u0440\u043d\u0430\u043a",
+    "\u0420\u0443\u0438\u043d\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u0410\u0440\u043d\u0430\u043a",
+    "\u05d7\u05d5\u05e8\u05d1\u05d5\u05ea\u05d9\u05d4 \u05e9\u05dc \u05d0\u05e8\u05e0\u05d0\u05e7",
+    "\u0e19\u0e04\u0e23\u0e2a\u0e32\u0e1a\u0e2a\u0e39\u0e0d\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e32\u0e23\u0e4c\u0e19\u0e31\u0e04",
+    "\u30a2\u30eb\u30ca\u30c3\u30af\u306e\u5931\u308f\u308c\u3057\u907a\u8de1",
+    "\u963f\u7d0d\u514b\u907a\u8e5f|\u963f\u7eb3\u514b\u9057\u8ff9",
+    "\uc544\ub974\ub099\uc758 \uc78a\ud600\uc9c4 \uc720\uc801"
+   ],
+   "blurb": "Explore an island to find resources and discover the lost ruins of Arnak.",
+   "image": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__square200/img/tyxj64Wz6GWL1X-jfnsg3tnaWV4=/200x200/filters:strip_icc()/pic5674958.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "31260": {
+   "_fetched": 1791440734.7457237,
+   "alternatenames": [
+    "\u0410\u0433\u0440\u0438\u043a\u043e\u043b\u0430",
+    "\u30a2\u30b0\u30ea\u30b3\u30e9",
+    "\u519c\u573a\u4e3b",
+    "\u8fb2\u5bb6\u6a02",
+    "\uc544\uadf8\ub9ac\ucf5c\ub77c"
+   ],
+   "blurb": "Build your farmstead by sowing fields and raising livestock. But don't forget to eat!",
+   "image": "https://cf.geekdo-images.com/3L6ZtOll9W5O6-3-EwSMyw__square200/img/bWrkWbzfhvWAr0czjLnC09w2170=/200x200/filters:strip_icc()/pic1899157.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "314040": {
+   "_fetched": 1791440729.675542,
+   "alternatenames": [
+    "Pandemic Legacy: Saison 0",
+    "Pandemic Legacy: Seizoen 0",
+    "Pandemic Legacy: Sezon 0",
+    "Pandemic Legacy: Temporada 0",
+    "Pandemic: Legacy \u2013 0. \u00e9vad",
+    "\u041f\u0430\u043d\u0434\u0435\u043c\u0438\u044f. \u041d\u0430\u0441\u043b\u0435\u0434\u0438\u0435: \u041d\u0443\u043b\u0435\u0432\u043e\u0439 \u0441\u0435\u0437\u043e\u043d",
+    "\u30d1\u30f3\u30c7\u30df\u30c3\u30af\uff1a\u30ec\u30ac\u30b7\u30fc \u30b7\u30fc\u30ba\u30f30",
+    "\u761f\u75ab\u5371\u6a5f\u50b3\u627f\uff1a\u7b2c\u96f6\u5b63",
+    "\ud32c\ub370\ubbf9 \ub808\uac70\uc2dc: \uc2dc\uc98c 0"
+   ],
+   "blurb": "Work together during the Cold War to prevent a Soviet bio-threat.",
+   "image": "https://cf.geekdo-images.com/y0x1zbkpUXjddzWWnhekYw__square200/img/JWGMjjEyW82coUMV3Nh2akor1tY=/200x200/filters:strip_icc()/pic5581457.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 45
+  },
+  "316554": {
+   "_fetched": 1791440685.6801744,
+   "alternatenames": [
+    "Dina: Imperijum",
+    "Diuna: Imperium",
+    "Duna: Imperium",
+    "Duna: Imp\u00e9rium",
+    "D\u0171ne: Imp\u00e9rium",
+    "\u0414\u044e\u043d\u0430: \u0418\u043c\u043f\u0435\u0440\u0438\u044f",
+    "\u0414\u044e\u043d\u0430: \u0406\u043c\u043f\u0435\u0440\u0456\u0443\u043c",
+    "\u30c7\u30e5\u30fc\u30f3 \u7802\u306e\u60d1\u661f\uff1a\u30a4\u30f3\u30da\u30ea\u30a6\u30e0",
+    "\u6c99\u4e18\uff1a\u5e1d\u56fd",
+    "\ub4c4: \uc784\ud398\ub9ac\uc6c0"
+   ],
+   "blurb": "Influence, intrigue, and combat in the universe of Dune.",
+   "image": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__square200/img/XQE1cgfiOiXKN_jYpPpnxKPPXTI=/200x200/filters:strip_icc()/pic5666597.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "321608": {
+   "_fetched": 1791440713.935514,
+   "alternatenames": [
+    "Hegemony: F\u00fchre deine Klasse zum Sieg",
+    "Hegemony: Poprowad\u017a Swoj\u0105 Klas\u0119 do Zwyci\u0119stwa",
+    "\u0413\u0435\u0433\u0435\u043c\u043e\u043d\u0438\u044f: \u041a\u043b\u0430\u0441\u0441\u043e\u0432\u0430\u044f \u0431\u043e\u0440\u044c\u0431\u0430",
+    "\u9818\u570b\u8005\uff1a\u5e36\u9818\u4f60\u7684\u4eba\u6c11\u9081\u5411\u52dd\u5229"
+   ],
+   "blurb": "Simulate a whole contemporary nation in this asymmetric, politico-economic euro-game.",
+   "image": "https://cf.geekdo-images.com/DCLgJlrvB-EqL6A3WgQLMQ__square200/img/9GbQRtLowDB2Ap719ByQX7xwGAs=/200x200/filters:strip_icc()/pic5715770.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 180,
+   "minplayers": 2,
+   "minplaytime": 90
+  },
+  "322289": {
+   "_fetched": 1791440754.3101115,
+   "alternatenames": [
+    "Darwin utaz\u00e1sai",
+    "Darwinovy cesty",
+    "Wyprawa Darwina",
+    "\u041f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0435 \u0414\u0430\u0440\u0432\u0438\u043d\u0430",
+    "\u30c0\u30fc\u30a6\u30a3\u30f3\u30ba\u30fb\u30b8\u30e3\u30fc\u30cb\u30fc",
+    "\u8fbe\u5c14\u6587\u7684\u65c5\u7a0b",
+    "\ub2e4\uc708\uc758 \uc5ec\uc815"
+   ],
+   "blurb": "Retrace Darwin\u2019s journey to the Galapagos in a worker-placement adventure.",
+   "image": "https://cf.geekdo-images.com/-A_ABjMw4PdoAZrH-FjiiA__square200/img/S7XIwZfWrEAjQhXn3QQPBfaTcT8=/200x200/filters:strip_icc()/pic5726930.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "324856": {
+   "_fetched": 1791440717.114649,
+   "alternatenames": [
+    "The Crew: A m\u00e9lytengeri k\u00fcldet\u00e9s",
+    "The Crew: Dybhavsmissionen",
+    "De Crew: Missie Diepzee",
+    "The Crew: Mission Sous-Marine",
+    "Die Crew: Mission Tiefsee",
+    "The Crew: Missione negli Abissi",
+    "Odysea: Spole\u010dn\u011b do hlubin oce\u00e1nu",
+    "Posada: Misija Duboko more",
+    "A Tripula\u00e7\u00e3o: Miss\u00e3o no Mar Profundo",
+    "La Tripulaci\u00f3n: Misi\u00f3n Mar Profundo",
+    "Za\u0142oga: Wyprawa w g\u0142\u0119biny",
+    "\u0397 \u0391\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae 2: \u03a3\u03c4\u03b1 \u0392\u03ac\u03b8\u03b7 \u03c4\u03c9\u03bd \u03a9\u03ba\u03b5\u03b1\u03bd\u03ce\u03bd",
+    "\u042d\u043a\u0438\u043f\u0430\u0436: \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 \u0431\u0435\u0437\u0434\u043d\u0443",
+    "\u30b6\u30fb\u30af\u30eb\u30fc\u3000\u6df1\u6d77\u306b\u7720\u308b\u907a\u8de1",
+    "\u661f\u969b\u63a2\u96aa\u968a\uff1a\u6df1\u6d77\u4efb\u52d9",
+    "\ub525 \uc528 \ud06c\ub8e8: \uc2ec\ud574\uc5d0\uc11c\uc758 \uc784\ubb34"
+   ],
+   "blurb": "Explore the deep sea, outwit fate, and discover the mythic land of Mu!",
+   "image": "https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__square200/img/ubbfKftLJ8Wc7LcJ3GE40adj7sM=/200x200/filters:strip_icc()/pic5988903.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 20,
+   "minplayers": 2,
+   "minplaytime": 20
+  },
+  "332772": {
+   "_fetched": 1791440755.8517962,
+   "alternatenames": [
+    "\u00c9bred\u00e9s",
+    "Obleva",
+    "\u041f\u0440\u043e\u0435\u043a\u0442 \"\u0412\u043e\u0437\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435\"",
+    "\u30ea\u30d0\u30a4\u30d6",
+    "\u9ece\u660e\u65b0\u751f",
+    "\ub9ac\ubc14\uc774\ube0c"
+   ],
+   "blurb": "Revive civilization, 5000 years after the fall of humankind.",
+   "image": "https://cf.geekdo-images.com/V0OZ9QR0pC9G5t5i9MoZTQ__square200/img/m8Y_ObrYvi74VbiS-bn-CYYqTfc=/200x200/filters:strip_icc()/pic6950224.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 90
+  },
+  "337627": {
+   "_fetched": 1791440745.0333796,
+   "alternatenames": [
+    "\u041e\u043f\u0443\u0441\u0442\u043e\u0448\u0435\u043d\u0438\u0435",
+    "\u30f4\u30a9\u30a4\u30c9\u30d5\u30a9\u30fc\u30eb",
+    "\u865a\u7a7a\u964d\u4e34",
+    "\ubcf4\uc774\ub4dc\ud3f4"
+   ],
+   "blurb": "Repel the Voidborn and restore Domineum in this space themed, heavy Euro.",
+   "image": "https://cf.geekdo-images.com/hItZjdDTNuaCZ7fEztwcUQ__square200/img/DDdkWOb1a8aIwnrMg25R1JqdNTw=/200x200/filters:strip_icc()/pic6153324.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 240,
+   "minplayers": 1,
+   "minplaytime": 90
+  },
+  "338960": {
+   "_fetched": 1791440692.968025,
+   "alternatenames": [
+    "Slay the Spire: Das Brettspiel",
+    "Slay the Spire: Deskov\u00e1 hra",
+    "Slay the Spire: El Juego de Mesa",
+    "Slay the Spire: Gra Planszowa",
+    "Slay The Spire: O Jogo de Tabuleiro",
+    "Slay the Spire: Sb\u011bratelsk\u00e1 edice",
+    "Slay the Spire: \u041d\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u0430\u044f \u0438\u0433\u0440\u0430",
+    "\u5c16\u5854\u5947\u5175\uff1a\u684c\u9762\u6e38\u620f",
+    "\uc2ac\ub808\uc774 \ub354 \uc2a4\ud30c\uc774\uc5b4: \ubcf4\ub4dc\uac8c\uc784"
+   ],
+   "blurb": "Craft a unique deck, discover powerful relics, and Slay the Spire together!",
+   "image": "https://cf.geekdo-images.com/PQzVclEoOQ_wr4e1V86kxA__square200/img/re-Tb8BZJFe6HqT-yOVkZTTdYsw=/200x200/filters:strip_icc()/pic8157856.png",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "341169": {
+   "_fetched": 1791440705.846432,
+   "alternatenames": [
+    "Great Western Trail: Drugie wydanie",
+    "Great Western Trail: Drugo izdanje",
+    "Great Western Trail: Seconda Edizione",
+    "A nagy western utaz\u00e1s: M\u00e1sodik kiad\u00e1s",
+    "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u041f\u0443\u0442\u044c: \u0412\u0442\u043e\u0440\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435",
+    "\u30b0\u30ec\u30fc\u30c8\u30fb\u30a6\u30a8\u30b9\u30bf\u30f3\u30fb\u30c8\u30ec\u30a4\u30eb\u7b2c2\u7248",
+    "\u5927\u897f\u90e8\u958b\u62d3\u8005",
+    "\uadf8\ub808\uc774\ud2b8 \uc6e8\uc2a4\ud134 \ud2b8\ub808\uc77c (2\ud310)"
+   ],
+   "blurb": "Wrangle your herd of cows across the Midwest prairie and deliver it to Kansas City.",
+   "image": "https://cf.geekdo-images.com/gDn7AhrDlmfCLSz9ZqoNFQ__square200/img/f7ENg613N2TgijE9u_Za59u14R4=/200x200/filters:strip_icc()/pic5988511.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 75
+  },
+  "342942": {
+   "_fetched": 1791440682.3947718,
+   "alternatenames": [
+    "Archa Nova",
+    "Arche Nova",
+    "\u041d\u043e\u0432\u0438\u0439 \u043a\u043e\u0432\u0447\u0435\u0433",
+    "\u0e19\u0e32\u0e27\u0e32\u0e2a\u0e23\u0e23\u0e1e\u0e2a\u0e31\u0e15\u0e27\u0e4c",
+    "\u30a2\u30fc\u30af\u30fb\u30ce\u30f4\u30a1 \u65b0\u305f\u306a\u308b\u65b9\u821f",
+    "\u65b9\u821f\u52a8\u7269\u56ed",
+    "\u65b9\u821f\u52d5\u7269\u5712",
+    "\uc544\ud06c \ub178\ubc14"
+   ],
+   "blurb": "Plan and build a modern, scientifically managed zoo to support conservation projects.",
+   "image": "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__square200/img/bHhp_JlkP0JfeHgVd7bzt8W510k=/200x200/filters:strip_icc()/pic6293412.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 90
+  },
+  "35677": {
+   "_fetched": 1791440749.0819767,
+   "alternatenames": [
+    "\u0413\u0430\u0432\u0440",
+    "\u30eb\u30fb\u30a2\u30fc\u30d6\u30eb",
+    "\u30eb\u30fb\u30a2\u30fc\u30d6\u30eb\u3000\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u30d1\u30c3\u30af",
+    "\u30eb\u30fb\u30a2\u30fc\u30d6\u30eb\uff0b\u30eb\u30fb\u30b0\u30e9\u30f3\u30a2\u30e2\u30fc",
+    "\u6e2f\u90fd\u60c5\u6fc3",
+    "\ub974 \uc544\ube0c\ub974"
+   ],
+   "blurb": "Establish a supply chain by collecting resources, building industries, and shipping.",
+   "image": "https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__square200/img/Vmp5PE2CmwgUy5mLoMO0_UiXxi4=/200x200/filters:strip_icc()/pic6091101.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "365717": {
+   "_fetched": 1791440718.8823788,
+   "alternatenames": [
+    "B\u0159ink!: V katakomb\u00e1ch",
+    "Brzd\u0119k!: Katakumby",
+    "Clank!: Catacombes",
+    "Clank!: Catacumbas",
+    "Klank!: Katakomb\u00e1k",
+    "Klong!: Katakomben",
+    "\u041a\u043b\u0430\u043d\u043a! \u041a\u0430\u0442\u0430\u043a\u043e\u043c\u0431\u0438",
+    "\u041a\u043b\u0430\u043d\u043a!: \u041a\u0430\u0442\u0430\u043a\u043e\u043c\u0431\u044b",
+    "\u30af\u30e9\u30f3\u30af\uff01 \u30ab\u30bf\u30b3\u30f3\u30d9",
+    "\u5664\u58f0\u5bfb\u5b9d\u8bb0\uff01\u5730\u4e0b\u5893\u7a74",
+    "\ud074\ub7ad\ud06c!: \uce74\ud0c0\ucf64"
+   ],
+   "blurb": "Deck-building adventure meets tile-laying in the newest incarnation of Clank!",
+   "image": "https://cf.geekdo-images.com/cCLn9Mvb7jRSaZzHeUXhoQ__square200/img/N7u18siDGbHybKb7nV0M0pXSQaE=/200x200/filters:strip_icc()/pic6937913.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 45
+  },
+  "366013": {
+   "_fetched": 1791440719.6832943,
+   "alternatenames": [
+    "Heat",
+    "Heat: Padl\u00f3g\u00e1z",
+    "Turbo",
+    "\u0413\u043e\u043d\u043a\u0430: \u0416\u0430\u0440\u0430 \u043d\u0430 \u0442\u0440\u0430\u0441\u0441\u0435",
+    "\u0422\u0443\u0440\u0431\u043e: \u0421\u043f\u0435\u043a\u0430 \u043d\u0430 \u0442\u0440\u0435\u043a\u0443",
+    "\u30d2\u30fc\u30c8",
+    "\u706b\u7206\u72c2\u98d9\uff1a\u5168\u901f\u524d\u8fdb",
+    "\u71b1\u529b\u72c2\u98c6",
+    "\ud788\ud2b8: \uc9c8\uc8fc\uc758 \uc5f4\uae30"
+   ],
+   "blurb": "Push your car to the limit in the pursuit of victory, but don\u2019t overheat!",
+   "image": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__square200/img/LYL8i7kS1_RuTZLvSi8a8hPBh74=/200x200/filters:strip_icc()/pic6940449.png",
+   "maxplayers": 6,
+   "maxplaytime": 60,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "366161": {
+   "_fetched": 1791440753.5151086,
+   "alternatenames": [
+    "Feszt\u00e1v: \u00c1zsia",
+    "Fl\u00fcgelschlag: Asien",
+    "Na k\u0159\u00eddlech: Hn\u00edzdem v Asii",
+    "Na k\u0159\u00eddlech: Hn\u00edzdic\u00ed box",
+    "Na skrzyd\u0142ach: Ptaki Azji",
+    "Wingspan Asie",
+    "Wingspan Asya",
+    "Wingspan \u0391\u03c3\u03af\u03b1",
+    "Wingspan: Aasian linnut \u2013 lis\u00e4osa",
+    "Wingspan: Asia",
+    "Wingspan: Azi\u00eb",
+    "Wingspan: Ptice Azije",
+    "\u041a\u0440\u0438\u043b\u0430: \u043f\u0442\u0430\u0445\u0438 \u0410\u0437\u0456\u0457",
+    "\u041a\u0440\u0438\u043b\u0435: \u0410\u0437\u0438\u044f",
+    "\u041a\u0440\u044b\u043b\u044c\u044f: \u041f\u0442\u0438\u0446\u044b \u0410\u0437\u0438\u0438",
+    "\u0e1b\u0e35\u0e01\u0e1b\u0e31\u0e01\u0e29\u0e32: \u0e19\u0e01\u0e40\u0e2d\u0e40\u0e0a\u0e35\u0e22",
+    "\u30a6\u30a4\u30f3\u30b0\u30b9\u30d1\u30f3\u3000\u6771\u6d0b\u306e\u7ffc",
+    "\u5c55\u7fc5\u7ff1\u7fd4\uff1a\u4e9a\u6d32\u7bc7",
+    "\uc719\uc2a4\ud32c: \uc544\uc2dc\uc544 \ud655\uc7a5"
+   ],
+   "blurb": "Travel to Asia to discover new birds for your wildlife preserve.",
+   "image": "https://cf.geekdo-images.com/h1dRxq4lNMpuSUSGdgCmfA__square200/img/WEocLq53wEj33mgfSXTdS0dxvPs=/200x200/filters:strip_icc()/pic7107431.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 70,
+   "minplayers": 1,
+   "minplaytime": 40
+  },
+  "367966": {
+   "_fetched": 1791440737.8972838,
+   "alternatenames": [
+    "Endeavor: A m\u00e9lys\u00e9g felfedez\u0151i",
+    "Endeavor: Abissi Marini",
+    "Endeavor: Die Tiefsee",
+    "Endeavor: Diepzee",
+    "Endeavor: Eaux profondes",
+    "Endeavor: Hlubiny mo\u0159\u00ed",
+    "Endeavor: Mar Profundo",
+    "Endeavor. \u041c\u043e\u0440\u0441\u044c\u043a\u0456 \u0433\u043b\u0438\u0431\u0438\u043d\u0438",
+    "\u042d\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0438\u044f: \u041c\u043e\u0440\u0441\u043a\u0438\u0435 \u0433\u043b\u0443\u0431\u0438\u043d\u044b",
+    "\u30a8\u30f3\u30c7\u30d0\u30fc\uff1a\u30c7\u30a3\u30fc\u30d7\u30fb\u30b7\u30fc",
+    "\u594b\u8fdb\u53f7\uff1a\u6df1\u6d77",
+    "\uc5d4\ub370\ubc84: \uc2ec\ud574"
+   ],
+   "blurb": "Lead your research institute to explore ocean depths and publish your findings!",
+   "image": "https://cf.geekdo-images.com/wIbevITv9W79ELP8rEZoKA__square200/img/7BDx8KnThYSPoWphy0Mz06zDeyk=/200x200/filters:strip_icc()/pic6996584.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "371942": {
+   "_fetched": 1791440739.5176678,
+   "alternatenames": [
+    "Beli dvorac",
+    "Bia\u0142y Zamek",
+    "B\u00edl\u00fd hrad",
+    "Le Ch\u00e2teau Blanc",
+    "A feh\u00e9r v\u00e1rkast\u00e9ly",
+    "Die Wei\u00dfe Burg",
+    "Het Witte Kasteel van Himeji",
+    "\u0411\u0435\u043b\u044b\u0439 \u0417\u0430\u043c\u043e\u043a",
+    "\u0411\u0456\u043b\u0438\u0439 \u0437\u0430\u043c\u043e\u043a",
+    "\u59ec\u8def\u57ce",
+    "\u767d\u9dfa\u57ce",
+    "\u767d\u9dfa\u57ce\uff0f\u30db\u30ef\u30a4\u30c8\u30fb\u30ad\u30e3\u30c3\u30b9\u30eb",
+    "\ubc31\ub85c\uc131"
+   ],
+   "blurb": "Become the most influential clan in Japan's Himeji stronghold.",
+   "image": "https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__square200/img/dhL41LnGHG3_goo6-PGqOIYH-no=/200x200/filters:strip_icc()/pic7754663.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 80,
+   "minplayers": 1,
+   "minplaytime": 80
+  },
+  "373106": {
+   "_fetched": 1791440706.5884912,
+   "alternatenames": [
+    "Halo wie\u017ca",
+    "A l\u00e9gi t\u00e1rsas\u00e1g",
+    "Nebeski tim",
+    "Sky Team: \u03a0\u03c1\u03bf\u03c3\u03b4\u03b5\u03b8\u03b5\u03af\u03c4\u03b5!",
+    "\u041a\u0440\u0443\u0442\u043e\u0435 \u043f\u0438\u043a\u0435",
+    "\u041f\u0456\u043b\u043e\u0442\u0438",
+    "\u30b9\u30ab\u30a4\u30c1\u30fc\u30e0",
+    "\u5929\u5408\u5c0f\u961f",
+    "\u5929\u5408\u5c0f\u968a",
+    "\uc2a4\uce74\uc774 \ud300"
+   ],
+   "blurb": "Work together silently to land a plane under increasingly challenging circumstances.",
+   "image": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__square200/img/kJAcg5Elp5Q81kiEPAen7IkaphA=/200x200/filters:strip_icc()/pic7398904.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 20,
+   "minplayers": 2,
+   "minplaytime": 20
+  },
+  "380607": {
+   "_fetched": 1791440740.2484767,
+   "alternatenames": [
+    "Great Western Trail: Neuseeland",
+    "Great Western Trail: Nouvelle-Z\u00e9lande",
+    "Great Western Trail: Nova Zel\u00e2ndia",
+    "Great Western Trail: Nowa Zelandia",
+    "Great Western Trail: Nueva Zelanda",
+    "Great Western Trail: Nuova Zelanda",
+    "Great Western Trail: \u00daj-Z\u00e9land",
+    "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u041f\u0443\u0442\u044c: \u041d\u043e\u0432\u0430\u044f \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
+    "\u30b0\u30ec\u30fc\u30c8\u30fb\u30a6\u30a8\u30b9\u30bf\u30f3\u30fb\u30c8\u30ec\u30a4\u30eb\uff1a\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9",
+    "\u5927\u897f\u90e8\u5f00\u62d3\u8005\uff1a\u65b0\u897f\u5170\u5f00\u62d3\u53f2",
+    "\u5927\u897f\u90e8\u958b\u62d3\u8005\uff1a\u7d10\u897f\u862d\u958b\u62d3\u53f2"
+   ],
+   "blurb": "Tend to your sheep on the South Island of New Zealand.",
+   "image": "https://cf.geekdo-images.com/X4KaD6ADLW1ohOznNay7xg__square200/img/qerCUlPg6OyAUqysI0dJToSjYEs=/200x200/filters:strip_icc()/pic7350809.png",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 75
+  },
+  "383179": {
+   "_fetched": 1791440727.2819276,
+   "alternatenames": [
+    "Era da Inova\u00e7\u00e3o",
+    "La Era de la Innovaci\u00f3n",
+    "Era Innowacji",
+    "Terra Mystica: L'Era delle Scoperte",
+    "Terra Mystica: Tal\u00e1lm\u00e1nyok kora",
+    "\u0415\u0440\u0430 \u0456\u043d\u043d\u043e\u0432\u0430\u0446\u0456\u0439",
+    "\u30c6\u30e9\u30df\u30b9\u30c6\u30a3\u30ab\uff1a\u9769\u65b0\u306e\u6642\u4ee3",
+    "\u795e\u79d8\u5927\u5730\uff1a\u5927\u5275\u9020\u6642\u4ee3",
+    "\ud601\uc2e0\uc758 \uc2dc\ub300"
+   ],
+   "blurb": "Terraform the world to expand your faction and create innovations on the way.",
+   "image": "https://cf.geekdo-images.com/D1vrcFEptCEoD8Z6s_iRfw__square200/img/eVyh9QbYOjbTxVgDkXJz8ubWa4E=/200x200/filters:strip_icc()/pic7430993.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 200,
+   "minplayers": 1,
+   "minplaytime": 40
+  },
+  "390092": {
+   "_fetched": 1791440720.513677,
+   "alternatenames": [
+    "\u00a1Aventureros al Tren! Legacy: Leyendas del Oeste",
+    "Les Aventuriers du Rail Legacy: L\u00e9gendes de L'Ouest",
+    "J\u00edzdenky, pros\u00edm! Legacy: Legendy Z\u00e1padu",
+    "Ticket to Ride Legacy: A Legend\u00e1s Nyugat",
+    "Ticket to Ride Legacy: Legendes uit het Westen",
+    "Ticket to Ride Legacy: Leggende del Vecchio West",
+    "Ticket to Ride Legacy: Lendas do Oeste",
+    "Ticket to Ride \u041d\u0430\u0441\u043b\u0435\u0434\u0438\u0435: \u041b\u0435\u0433\u0435\u043d\u0434\u044b \u0417\u0430\u043f\u0430\u0434\u0430",
+    "Wsi\u0105\u015b\u0107 do Poci\u0105gu Legacy: Legendy Zachodu",
+    "Zug um Zug Legacy: Legenden des Westens",
+    "\u30c1\u30b1\u30c3\u30c8\u30fb\u30c8\u30a5\u30fb\u30e9\u30a4\u30c9\u30fb\u30ec\u30ac\u30b7\u30fc\uff1a\u897f\u90e8\u958b\u62d3\u8a18",
+    "\ud2f0\ucf13 \ud22c \ub77c\uc774\ub4dc \ub808\uac70\uc2dc: \uc11c\ubd80 \uac1c\ucc99"
+   ],
+   "blurb": "Build train lines across the United States in a twelve-game campaign.",
+   "image": "https://cf.geekdo-images.com/2H0pJddVJA3r6btqRNLG1g__square200/img/qWByOsW3m4eQsBUubz7Jd-nHqJU=/200x200/filters:strip_icc()/pic7541330.png",
+   "maxplayers": 5,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 20
+  },
+  "397598": {
+   "_fetched": 1791440684.8657658,
+   "alternatenames": [
+    "Diuna: Imperium \u2013 Powstanie",
+    "Duna: Imp\u00e9rium \u2013 Povst\u00e1n\u00ed",
+    "Duna: Imperium \u2013 Uprising",
+    "Dune: Imperiul \u2013 Revolta",
+    "D\u0171ne: Imp\u00e9rium \u2013 Felkel\u00e9s",
+    "Dune: Imperium \u2013 Insurrecci\u00f3n",
+    "Dune: Imperium \u2013 Insurrection",
+    "Dune: Imperium \u2013 Insurrezione",
+    "\u0414\u044e\u043d\u0430: \u0418\u043c\u043f\u0435\u0440\u0438\u044f \u2013 \u0412\u043e\u0441\u0441\u0442\u0430\u043d\u0438\u0435",
+    "\u0414\u044e\u043d\u0430: \u0406\u043c\u043f\u0435\u0440\u0456\u0443\u043c \u2013 \u041f\u0456\u0434\u043d\u0435\u0441\u0435\u043d\u043d\u044f",
+    "\u30c7\u30e5\u30fc\u30f3 \u7802\u306e\u60d1\u661f\uff1a\u30a4\u30f3\u30da\u30ea\u30a6\u30e0 \u53cd\u4e71",
+    "\u6c99\u4e18\uff1a\u5e1d\u56fd - \u8d77\u4e49",
+    "\ub4c4 \uc784\ud398\ub9ac\uc6c0: \ubd09\uae30"
+   ],
+   "blurb": "Deploy agents, build your deck, and engage in strategic battles to control Arrakis.",
+   "image": "https://cf.geekdo-images.com/UVUkjMV_Q2paVUIUP30Vvw__square200/img/N-wPvyGj69vuCWMD1-5bRhgDBqs=/200x200/filters:strip_icc()/pic7664424.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "413246": {
+   "_fetched": 1791440747.4476378,
+   "alternatenames": [
+    "Bomb Busters: \u039f\u03b9 \u03a3\u03c0\u03b5\u03c3\u03b9\u03b1\u03bb\u03af\u03c3\u03c4\u03b5\u03c2",
+    "Bombairt\u00f3k",
+    "Caza Bombas",
+    "Jedeme bomby!",
+    "Pazi, bomba!",
+    "\u0411\u043e\u043c\u0431\u0430\u0441\u0442\u0435\u0440\u0438",
+    "\u042d\u0442\u043e \u0431\u043e\u043c\u0431\u0430!",
+    "\u30dc\u30e0\u30d0\u30b9\u30bf\u30fc\u30ba",
+    "\u70b8\u5f39\u514b\u661f",
+    "\u70b8\u5f48\u524b\u661f",
+    "\ubd04\ubc84\uc2a4\ud130\uc988"
+   ],
+   "blurb": "Players defuse bombs by deducing and cutting unseen wires of different values.",
+   "image": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__square200/img/Vc2P4ULKQq1zNLkpRZR3wYb0Bmc=/200x200/filters:strip_icc()/pic8303080.png",
+   "maxplayers": 5,
+   "maxplaytime": 30,
+   "minplayers": 2,
+   "minplaytime": 30
+  },
+  "414317": {
+   "_fetched": 1791440722.1852443,
+   "alternatenames": [
+    "Harmoni",
+    "Harm\u00f3nia",
+    "Krajina zv\u00ed\u0159at",
+    "Ostoja",
+    "\u0391\u03c1\u03bc\u03bf\u03bd\u03af\u03b1",
+    "\u0413\u0430\u0440\u043c\u043e\u043d\u0438\u044f",
+    "\u0413\u0430\u0440\u043c\u043e\u043d\u0456\u044f",
+    "\u041f\u0440\u0438\u0440\u043e\u0434\u0430",
+    "\u30cf\u30fc\u30e2\u30cb\u30fc\u30ba",
+    "\u81ea\u7136\u548c\u5f26",
+    "\ud558\ubaa8\ub2c8\uc988"
+   ],
+   "blurb": "Create your own landscape and habitats to welcome animals.",
+   "image": "https://cf.geekdo-images.com/A_XP2_VN3ugyqPhezowB_w__square200/img/GzPfresEpaVrQdmh-T7Pv0yaiQc=/200x200/filters:strip_icc()/pic8026369.png",
+   "maxplayers": 4,
+   "maxplaytime": 45,
+   "minplayers": 1,
+   "minplaytime": 30
+  },
+  "418059": {
+   "_fetched": 1791440692.1849318,
+   "alternatenames": [
+    "SETI: Auf der Suche nach au\u00dferirdischem Leben",
+    "SETI: Busca por Intelig\u00eancia Extraterrestre",
+    "SETI: De Zoektocht naar Buitenaardse Intelligentie",
+    "SETI: En busca de vida extraterrestre",
+    "SETI: Kutat\u00e1s a f\u00f6ld\u00f6n k\u00edv\u00fcli \u00e9let ut\u00e1n",
+    "SETI: P\u00e1tr\u00e1n\u00ed po mimozemsk\u00e9 inteligenci",
+    "SETI: Poszukiwania pozaziemskich cywilizacji",
+    "SETI: Potraga za vanzemaljskom inteligencijom",
+    "SETI: Recherche d'intelligence extraterrestre",
+    "SETI: Ricerca di Intelligenza Extraterrestre",
+    "SETI: \u041f\u043e\u0448\u0443\u043a\u0438 \u043f\u043e\u0437\u0430\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u0440\u043e\u0437\u0443\u043c\u0443",
+    "SETI\uff1a\u5730\u7403\u5916\u77e5\u7684\u751f\u547d\u4f53\u63a2\u67fb",
+    "\u661f\u7a7a\u8993\u8de1\uff1a\u4f86\u81ea\u661f\u6d77\u5f7c\u7aef\u7684\u56de\u8072",
+    "\u661f\u7a7a\u89c5\u8ff9\uff1a\u63a2\u5bfb\u5730\u5916\u6587\u660e\u8ba1\u5212",
+    "\uc138\ud2f0: \uc678\uacc4 \uc9c0\uc131\uccb4\ub97c \ucc3e\uc544\uc11c"
+   ],
+   "blurb": "Search for signs of alien life by launching probes and analyzing distant signals.",
+   "image": "https://cf.geekdo-images.com/_BUXOVRDU9g_eRwgpR5ZZw__square200/img/-WbLZgUA8uT9LlkICjhM75xS0BU=/200x200/filters:strip_icc()/pic8160466.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 160,
+   "minplayers": 1,
+   "minplaytime": 40
+  },
+  "421006": {
+   "_fetched": 1791440695.3776817,
+   "alternatenames": [
+    "A Gy\u0171r\u0171k Ura: P\u00e1rbaj K\u00f6z\u00e9pf\u00f6ld\u00e9\u00e9rt",
+    "Der Herr der Ringe: Duell um Mittelerde",
+    "The Lord of the Rings: \u039c\u03bf\u03bd\u03bf\u03bc\u03b1\u03c7\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u039c\u03ad\u03c3\u03b7 \u0393\u03b7",
+    "P\u00e1n prsten\u016f: Duel o St\u0159edozem",
+    "Le Seigneur des Anneaux: Duel pour la Terre du Milieu",
+    "O Senhor dos An\u00e9is: Duelo pela Terra M\u00e9dia",
+    "El Se\u00f1or de los Anillos: El Duelo por la Tierra Media",
+    "Il Signore degli Anelli: Duel for Middle-earth",
+    "W\u0142adca Pier\u015bcieni: Pojedynek o \u015ar\u00f3dziemie",
+    "\u0412\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d\u044a\u0442 \u043d\u0430 \u043f\u0440\u044a\u0441\u0442\u0435\u043d\u0438\u0442\u0435: \u0414\u0443\u0435\u043b \u0437\u0430 \u0421\u0440\u0435\u0434\u043d\u0430\u0442\u0430 \u0437\u0435\u043c\u044f",
+    "\u0412\u043e\u043b\u043e\u0434\u0430\u0440 \u041f\u0435\u0440\u0441\u043d\u0456\u0432: \u0414\u0443\u0435\u043b\u044c \u0437\u0430 \u0421\u0435\u0440\u0435\u0434\u0437\u0435\u043c'\u044f",
+    "\u6307\u8f2a\u7269\u8a9e\uff1a\u30c7\u30e5\u30a8\u30eb \u4e2d\u3064\u56fd\u306e\u6c7a\u6226",
+    "\u9b54\u6212\uff1a\u4e2d\u6d32\u5bf9\u51b3",
+    "\ubc18\uc9c0\uc758 \uc81c\uc655: \uac00\uc6b4\ub370\ub545\uc5d0\uc11c\uc758 \ub300\uacb0"
+   ],
+   "blurb": "Play as the Fellowship or Sauron and attempt to determine the fate of Middle-earth.",
+   "image": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__square200/img/M2uZQ7htP8r19LLDOiPs3699mho=/200x200/filters:strip_icc()/pic8378939.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 30,
+   "minplayers": 2,
+   "minplaytime": 30
+  },
+  "436217": {
+   "_fetched": 1791440724.6847296,
+   "alternatenames": [
+    "A Gy\u0171r\u0171k Ura: A Sz\u00f6vets\u00e9g \u00fatja",
+    "Der Herr der Ringe: Das Schicksal der Gemeinschaft",
+    "Pa\u0301n prstenu\u030a: Osud spolec\u030censtva",
+    "Ringenes Herre: Brorskapets Skjebne",
+    "Le Seigneur des Anneaux: Le Destin de la Communaut\u00e9",
+    "O Senhor dos An\u00e9is: Sina da Sociedade",
+    "El Se\u00f1or de los Anillos: El Destino de la Comunidad",
+    "Il Signore degli Anelli: Il Destino della Compagnia",
+    "St\u0103p\u00e2nul Inelelor: Soarta Fr\u0103\u0163iei",
+    "W\u0142adca Pier\u015bcieni: Los Dru\u017cyny Pier\u015bcienia",
+    "Y\u00fcz\u00fcklerin Efendisi: Y\u00fcz\u00fck Karde\u015fli\u011finin Kaderi",
+    "\u0412\u043e\u043b\u043e\u0434\u0430\u0440 \u041f\u0435\u0440\u0441\u043d\u0456\u0432: \u0414\u043e\u043b\u044f \u0431\u0440\u0430\u0442\u0441\u0442\u0432\u0430",
+    "\u6307\u8f2a\u7269\u8a9e\uff1a\u904b\u547d\u306e\u65c5",
+    "\u9b54\u6212\uff1a\u547d\u8fd0\u540c\u76df",
+    "\u9b54\u6212\uff1a\u9060\u5f81\u968a\u7684\u5bbf\u547d",
+    "\ubc18\uc9c0\uc758 \uc81c\uc655 : \uc6d0\uc815\ub300\uc758 \uc6b4\uba85"
+   ],
+   "blurb": "As members of The Fellowship, embark on a journey to save\u2014or doom\u2014Middle-earth.",
+   "image": "https://cf.geekdo-images.com/scw36iBIad7l-rGzxPGcGg__square200/img/N9e1iADIa5fTAYSjatXDvtk9-Po=/200x200/filters:strip_icc()/pic8662670.png",
+   "maxplayers": 5,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "521": {
+   "_fetched": 1791440715.5224054,
+   "alternatenames": [
+    "Carqui\u00f1ol",
+    "Carquinyoli",
+    "Cracknel",
+    "Crokinolinho",
+    "Croquignole",
+    "Krokinole",
+    "Krokonol",
+    "Mini-crokinole",
+    "Sprigtis",
+    "\u041a\u0440\u043e\u043a\u0438\u043d\u043e\u043b",
+    "\u30af\u30ed\u30ad\u30ce\u30fc\u30eb",
+    "\u52a0\u62ff\u5927\u68cb",
+    "\u95d8\u7403\u76e4",
+    "\ud06c\ub85c\ud0a4\ub180"
+   ],
+   "blurb": "Flick discs and make trick shots in this traditional Canadian dexterity game!",
+   "image": "https://cf.geekdo-images.com/DOwZ7_Q1w68iBhARcDAxig__square200/img/G_W2MKRGB4sA2J7JMZYqZAHMI6E=/200x200/filters:strip_icc()/pic8549797.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 30,
+   "minplayers": 2,
+   "minplaytime": 30
+  },
+  "55690": {
+   "_fetched": 1791440759.1016564,
+   "alternatenames": [],
+   "blurb": "Try to survive in a nightmarish world that lies under eternal darkness.",
+   "image": "https://cf.geekdo-images.com/LenzJBOHboAGU0cUIqAZPQ__square200/img/Bi3sbnpagLAukGxqmO8lc0BeW-U=/200x200/filters:strip_icc()/pic2931007.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 60
+  },
+  "84876": {
+   "_fetched": 1791440694.60137,
+   "alternatenames": [
+    "Die Burgen von Burgund",
+    "I Castelli della Borgogna",
+    "Los Castillos de Borgo\u00f1a",
+    "Les Ch\u00e2teaux de Bourgogne",
+    "Zamki Burgundii",
+    "\u0417\u0430\u043c\u043a\u0438 \u0411\u0443\u0440\u0433\u0443\u043d\u0434\u0438\u0438",
+    "\u30d6\u30eb\u30b4\u30fc\u30cb\u30e5",
+    "\u30d6\u30eb\u30b4\u30fc\u30cb\u30e5\u306e\u57ce",
+    "\u52c3\u6839\u5730\u57ce\u5821",
+    "\ubc84\uac74\ub514\uc758 \uc131"
+   ],
+   "blurb": "Plan, trade, and build your Burgundian estate to prosperity and prominence.",
+   "image": "https://cf.geekdo-images.com/sH2YTQ10dHj1ibfS-KKtGA__square200/img/r6DQDmw79GWm0DCcVurADoUj4fE=/200x200/filters:strip_icc()/pic8745814.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 30
+  },
+  "93": {
+   "_fetched": 1791440762.2050242,
+   "alternatenames": [
+    "\u30a8\u30eb\u30b0\u30e9\u30f3\u30c7",
+    "\u57ce\u4e3b",
+    "\u5927\u738b",
+    "\u5927\u9886\u4e3b"
+   ],
+   "blurb": "Use your caballeros to control regions of medieval Spain, keeping clear of the King!",
+   "image": "https://cf.geekdo-images.com/RRKDHaYtFPHhczkUDcHOmg__square200/img/bazWyO4bxH2Mo2GPIoE_2DAMCRo=/200x200/filters:strip_icc()/pic7906240.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60
+  },
+  "96848": {
+   "_fetched": 1791440712.1970954,
+   "alternatenames": [
+    "Mage Knight: Das Brettspiel",
+    "Mage Knight: Deskov\u00e1 hra",
+    "Mage Knight: Gra Planszowa",
+    "Mage Knight: Il Gioco Da Tavolo",
+    "Mage Knight: Jeu de Plateau",
+    "\u9b54\u6cd5\u9a0e\u58eb"
+   ],
+   "blurb": "Build your hero\u2019s spells, abilities, and artifacts as you explore & conquer cities.",
+   "image": "https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__square200/img/oLolIr6hF9rF7H-KhouE-cjNA7o=/200x200/filters:strip_icc()/pic1083380.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 240,
+   "minplayers": 1,
+   "minplaytime": 60
+  }
+ },
+ "steam_app": {
+  "1015930": {
+   "_fetched": 1791440904.193237,
+   "_reviews_fetched": 1791440904.6016219,
+   "about": "Ragnar\u00f6k is coming! The sky is falling and the end is upon you\u2026 In Blood Rage, the digital adaptation of the hit strategy board game, you lead a proud Viking clan in their final fight for glory.",
+   "coming_soon": false,
+   "developers": [
+    "Endava"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015930/header.jpg?t=1760950360",
+   "is_free": false,
+   "mp": [
+    "local_pvp",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Blood Rage: Digital Edition",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 75,
+    "final": 737,
+    "final_formatted": "A$ 7.37",
+    "initial": 2950,
+    "initial_formatted": "A$ 29.50"
+   },
+   "publishers": [
+    "Twin Sails Interactive"
+   ],
+   "release": "27 May, 2020",
+   "reviews": {
+    "desc": "Mixed",
+    "pct": 56,
+    "total": 839
+   },
+   "type": "game"
+  },
+  "1054490": {
+   "_fetched": 1791440848.920632,
+   "_reviews_fetched": 1791440849.2542849,
+   "about": "Wingspan is a relaxing, award-winning strategy card game about birds for 1 to 5 players. Each bird you play extends a chain of powerful combinations in one of your three habitats. Your goal is to discover and attract the best birds to your network of wildlife preserves.",
+   "coming_soon": false,
+   "developers": [
+    "Monster Couch"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/header.jpg?t=1789657608",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "local_coop",
+    "local_pvp",
+    "online_coop",
+    "online_pvp",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Wingspan",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 60,
+    "final": 1199,
+    "final_formatted": "A$ 11.99",
+    "initial": 2999,
+    "initial_formatted": "A$ 29.99"
+   },
+   "publishers": [
+    "Monster Couch",
+    "Stonemaier Games",
+    "indienova"
+   ],
+   "release": "17 Sep, 2020",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 94,
+    "total": 12077
+   },
+   "type": "game"
+  },
+  "1236720": {
+   "_fetched": 1791440791.188425,
+   "_reviews_fetched": 1791440791.5389664,
+   "about": "Become the spirits of the land, and defend the island from colonizing Invaders spreading blight and destruction! Your spirits work with the native islanders to increase your power and drive the invading colonists from your island in this strategic area-control game.",
+   "coming_soon": false,
+   "developers": [
+    "Handelabra Games Inc."
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1236720/header.jpg?t=1781204150",
+   "is_free": false,
+   "mp": [
+    "crossplay",
+    "local_coop",
+    "online_coop",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Spirit Island",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 60,
+    "final": 1460,
+    "final_formatted": "A$ 14.60",
+    "initial": 3650,
+    "initial_formatted": "A$ 36.50"
+   },
+   "publishers": [
+    "Handelabra Games Inc."
+   ],
+   "release": "29 Jul, 2020",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 92,
+    "total": 1705
+   },
+   "type": "game"
+  },
+  "1325800": {
+   "_fetched": 1791440860.411767,
+   "_reviews_fetched": 1791440860.7265399,
+   "about": "This is the official digital adaption of the boardgame Viticulture by Jamey Stegmaier &amp; Alan Stone.",
+   "coming_soon": false,
+   "developers": [
+    "DIGIDICED"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325800/header.jpg?t=1728984183",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "local_pvp",
+    "online_pvp",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Viticulture Essential Edition",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 60,
+    "final": 860,
+    "final_formatted": "A$ 8.60",
+    "initial": 2150,
+    "initial_formatted": "A$ 21.50"
+   },
+   "publishers": [
+    "DIGIDICED"
+   ],
+   "release": "10 Jul, 2020",
+   "reviews": {
+    "desc": "Mixed",
+    "pct": 70,
+    "total": 241
+   },
+   "type": "game"
+  },
+  "1351790": {
+   "_fetched": 1791440856.6969187,
+   "_reviews_fetched": 1791440857.0268934,
+   "about": "The second official expansion for Hegemony III adds the megalithic builders of the mysterious Nuragic civilization to compete with the Romans, Greeks and Gauls for control of ancient Italy. The largest map expansion yet includes dozens of new cities, factions and units.",
+   "coming_soon": true,
+   "developers": [
+    "Longbow Games"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351790/header.jpg?t=1608092416",
+   "is_free": false,
+   "mp": [],
+   "multiplayer": false,
+   "name": "Hegemony III: Isle of Giants",
+   "price": null,
+   "publishers": [
+    "Longbow Games"
+   ],
+   "release": "Coming soon",
+   "reviews": {
+    "desc": "No user reviews",
+    "pct": null,
+    "total": 0
+   },
+   "type": "dlc"
+  },
+  "1450330": {
+   "_fetched": 1791440832.7501118,
+   "_reviews_fetched": 1791440833.0754142,
+   "about": "Concordia is a strategic, Euro-style board game. \ud83c\udffa Players take the roles of powerful Roman merchants and follow the Roman expansion with their trade routes, franchises, and production houses. \ud83c\udfdb\ufe0f",
+   "coming_soon": false,
+   "developers": [
+    "Acram Digital"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1450330/a192c66f78fcc0247e625af8a4e0672de25fc2cf/header.jpg?t=1773923584",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "local_pvp",
+    "online_pvp",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Concordia: Digital Edition",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 50,
+    "final": 1475,
+    "final_formatted": "A$ 14.75",
+    "initial": 2950,
+    "initial_formatted": "A$ 29.50"
+   },
+   "publishers": [
+    "Acram Digital"
+   ],
+   "release": "28 Sep, 2021",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 82,
+    "total": 187
+   },
+   "type": "game"
+  },
+  "1516400": {
+   "_fetched": 1791440796.6248906,
+   "_reviews_fetched": 1791440796.934796,
+   "about": "Gaia Project is the digital adaptation of the boardgame Gaia Project created by Helge Ostertag and Jens Dr\u00f6gem\u00fcller and published by &quot;Feuerland Verlag&quot;. It is a 1-4 player strategy game. It plays in the same universe as Terra Mystica and continues the adventure in the far future.",
+   "coming_soon": false,
+   "developers": [
+    "DIGIDICED"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1516400/header.jpg?t=1642691527",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "local_pvp",
+    "online_pvp",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Gaia Project",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 60,
+    "final": 1438,
+    "final_formatted": "A$ 14.38",
+    "initial": 3595,
+    "initial_formatted": "A$ 35.95"
+   },
+   "publishers": [
+    "DIGIDICED"
+   ],
+   "release": "31 May, 2021",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 80,
+    "total": 364
+   },
+   "type": "game"
+  },
+  "1689500": {
+   "_fetched": 1791440778.8744736,
+   "_reviews_fetched": 1791440779.1895428,
+   "about": "The award-winning board game of strategy and intrigue in the iconic universe of Dune. The Spice must flow.",
+   "coming_soon": false,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689500/header.jpg?t=1781022179",
+   "is_free": false,
+   "mp": [
+    "crossplay",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Dune: Imperium",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 35,
+    "final": 2182,
+    "final_formatted": "A$ 21.82",
+    "initial": 3358,
+    "initial_formatted": "A$ 33.58"
+   },
+   "publishers": [
+    "Dire Wolf"
+   ],
+   "release": "13 Mar, 2024",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 94,
+    "total": 4436
+   },
+   "type": "game"
+  },
+  "1722840": {
+   "_fetched": 1791440864.2797172,
+   "_reviews_fetched": 1791440864.595044,
+   "about": "Harvest resources to build a village of woodland critters in this adaptation of the award-winning tabletop board game!",
+   "coming_soon": false,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1722840/header.jpg?t=1778777751",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "local_pvp",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Everdell",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 45,
+    "final": 1592,
+    "final_formatted": "A$ 15.92",
+    "initial": 2895,
+    "initial_formatted": "A$ 28.95"
+   },
+   "publishers": [
+    "Dire Wolf"
+   ],
+   "release": "28 Jul, 2022",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 90,
+    "total": 736
+   },
+   "type": "game"
+  },
+  "1722870": {
+   "_fetched": 1791440867.5104702,
+   "_reviews_fetched": 1791440867.8551102,
+   "about": "Burgle your way to adventure in the award-winning board game!",
+   "coming_soon": false,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1722870/ed76a3e3ba468f4f7c3dd8d49b36f905534660c9/header_alt_assets_1.jpg?t=1773855162",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "local_pvp",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Clank!",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 10,
+    "final": 3285,
+    "final_formatted": "A$ 32.85",
+    "initial": 3650,
+    "initial_formatted": "A$ 36.50"
+   },
+   "publishers": [
+    "Dire Wolf"
+   ],
+   "release": "21 Oct, 2024",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 92,
+    "total": 594
+   },
+   "type": "game"
+  },
+  "1809490": {
+   "_fetched": 1791440794.241114,
+   "_reviews_fetched": 1791440794.5735898,
+   "about": "The Jaws of the Lion DLC is the digital adaptation of the eponymous board game and expansion to Gloomhaven the critically acclaimed grim Tactictal RPG. Recruit 4 exclusive mercenaries and explore a new side of the world of Gloomhaven through an arching story filled with new enemies and bosses.",
+   "coming_soon": false,
+   "developers": [
+    "Flaming Fowl Studios"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809490/header.jpg?t=1736436036",
+   "is_free": false,
+   "mp": [
+    "online_coop"
+   ],
+   "multiplayer": true,
+   "name": "Gloomhaven - Jaws of the Lion",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 30,
+    "final": 1816,
+    "final_formatted": "A$ 18.16",
+    "initial": 2595,
+    "initial_formatted": "A$ 25.95"
+   },
+   "publishers": [
+    "Twin Sails Interactive"
+   ],
+   "release": "17 May, 2022",
+   "reviews": {
+    "desc": "Mostly Positive",
+    "pct": 76,
+    "total": 96
+   },
+   "type": "dlc"
+  },
+  "1915550": {
+   "_fetched": 1791440824.0786395,
+   "_reviews_fetched": 1791440824.4056842,
+   "about": "In Nemesis: Lockdown, you're part of a team exploring an alien-infested space base. Craft, hide and fight to make it out of its dark, threat-filled corridors. Fulfill your objective even if it means betraying your allies, but remember - this time, you are not the hunter. You are the PREY.",
+   "coming_soon": false,
+   "developers": [
+    "InterStudio"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915550/header.jpg?t=1724323885",
+   "is_free": false,
+   "mp": [
+    "online_coop",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Nemesis: Lockdown",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 70,
+    "final": 1095,
+    "final_formatted": "A$ 10.95",
+    "initial": 3650,
+    "initial_formatted": "A$ 36.50"
+   },
+   "publishers": [
+    "Awaken Realms"
+   ],
+   "release": "31 May, 2022",
+   "reviews": {
+    "desc": "Mixed",
+    "pct": 67,
+    "total": 822
+   },
+   "type": "game"
+  },
+  "2182320": {
+   "_fetched": 1791440876.4339366,
+   "_reviews_fetched": 1791440876.7528784,
+   "about": "The official digital port of the tabletop game which won 2019 Diamant d\u2019Or \u2013 top expert strategy game. This digital version adds online multiplayer and AI opponents.",
+   "coming_soon": true,
+   "developers": [
+    "Savant Games"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2182320/header.jpg?t=1779720716",
+   "is_free": false,
+   "mp": [
+    "local_pvp",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Underwater Cities",
+   "price": null,
+   "publishers": [
+    "Savant Games"
+   ],
+   "release": "To be announced",
+   "reviews": {
+    "desc": "No user reviews",
+    "pct": null,
+    "total": 0
+   },
+   "type": "game"
+  },
+  "2347080": {
+   "_fetched": 1791440815.8081303,
+   "_reviews_fetched": 1791440816.1134613,
+   "about": "From the creative mind of Isaac Childres, the highly acclaimed board game moves to the digital realm in the video game adaptation of FROSTHAVEN! The dark fantasy tactical RPG features deep mechanics and challenging yet satisfying gameplay both in Single Player and Co-Op Online Multiplayer.",
+   "coming_soon": false,
+   "developers": [
+    "Snapshot Games Inc."
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347080/c6c09a8eb1a0fac5ac8e0d2ea0a228c8303d8967/header.jpg?t=1791408197",
+   "is_free": false,
+   "mp": [
+    "online_coop"
+   ],
+   "multiplayer": true,
+   "name": "Frosthaven",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 25,
+    "final": 4387,
+    "final_formatted": "A$ 43.87",
+    "initial": 5850,
+    "initial_formatted": "A$ 58.50"
+   },
+   "publishers": [
+    "Arc Games"
+   ],
+   "release": "31 Jul, 2025",
+   "reviews": {
+    "desc": "Mostly Positive",
+    "pct": 72,
+    "total": 977
+   },
+   "type": "game"
+  },
+  "2438970": {
+   "_fetched": 1791440890.5197046,
+   "_reviews_fetched": 1791440890.8367863,
+   "about": "Compete to create the most perfect ecosystem in the award-winning board game journey!",
+   "coming_soon": false,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438970/header.jpg?t=1767897466",
+   "is_free": false,
+   "mp": [
+    "crossplay",
+    "local_pvp",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Cascadia",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 25,
+    "final": 1646,
+    "final_formatted": "A$ 16.46",
+    "initial": 2195,
+    "initial_formatted": "A$ 21.95"
+   },
+   "publishers": [
+    "Dire Wolf"
+   ],
+   "release": "19 Feb, 2025",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 98,
+    "total": 230
+   },
+   "type": "game"
+  },
+  "2438990": {
+   "_fetched": 1791440768.8349688,
+   "_reviews_fetched": 1791440769.1903176,
+   "about": "Plan and build a modern, scientifically managed zoo to support conservation projects in an acclaimed strategy board game.",
+   "coming_soon": false,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438990/header.jpg?t=1767897183",
+   "is_free": false,
+   "mp": [
+    "async",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Ark Nova",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 35,
+    "final": 2306,
+    "final_formatted": "A$ 23.06",
+    "initial": 3549,
+    "initial_formatted": "A$ 35.49"
+   },
+   "publishers": [
+    "Dire Wolf"
+   ],
+   "release": "20 Jun, 2025",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 95,
+    "total": 928
+   },
+   "type": "game"
+  },
+  "2760560": {
+   "_fetched": 1791440881.5679913,
+   "_reviews_fetched": 1791440881.926429,
+   "about": "A mining station in the Pacific abyss is no longer responding. As an investigator of the occult, unravel the mysteries of the deep. Test your wits and sanity in this lovecraftian thriller.",
+   "coming_soon": false,
+   "developers": [
+    "Big Bad Wolf"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2760560/ca80a4dcbbe93089a909c45b0952b7bacd9da469/header.jpg?t=1780562041",
+   "is_free": false,
+   "mp": [],
+   "multiplayer": false,
+   "name": "Cthulhu: The Cosmic Abyss",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 65,
+    "final": 2308,
+    "final_formatted": "A$ 23.08",
+    "initial": 6595,
+    "initial_formatted": "A$ 65.95"
+   },
+   "publishers": [
+    "Nacon"
+   ],
+   "release": "16 Apr, 2026",
+   "reviews": {
+    "desc": "Mixed",
+    "pct": 57,
+    "total": 378
+   },
+   "type": "game"
+  },
+  "2815060": {
+   "_fetched": 1791440820.905034,
+   "_reviews_fetched": 1791440821.2242367,
+   "about": "Eclipse\u202fBreaker is a strategic action roguelike: dodge, parry, and strike in real\u2011time combat where every second counts. Master fast-paced combat, inspired by classic JRPGs, collect divine powers, and fight through ever-changing dungeons in a relentless cycle of epic boss battles.",
+   "coming_soon": false,
+   "developers": [
+    "Lunar Workshop",
+    "Jorge Rodriguez"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2815060/header.jpg?t=1771645174",
+   "is_free": false,
+   "mp": [],
+   "multiplayer": false,
+   "name": "Eclipse Breaker",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 25,
+    "final": 1331,
+    "final_formatted": "A$ 13.31",
+    "initial": 1775,
+    "initial_formatted": "A$ 17.75"
+   },
+   "publishers": [
+    "Lunar Workshop"
+   ],
+   "release": "7 Nov, 2025",
+   "reviews": {
+    "desc": "Positive",
+    "pct": 95,
+    "total": 39
+   },
+   "type": "game"
+  },
+  "2879570": {
+   "_fetched": 1791440852.0312738,
+   "_reviews_fetched": 1791440852.358623,
+   "about": "Embrace the technological evolution and build up your hydroelectric empire in Barrage, a turn-based strategy game where players compete to build majestic dams, exploit the power of running water, and bring their faction to victory!",
+   "coming_soon": false,
+   "developers": [
+    "Cranio Lab"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2879570/header.jpg?t=1772463569",
+   "is_free": false,
+   "mp": [
+    "async",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Barrage",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 10,
+    "final": 1975,
+    "final_formatted": "A$ 19.75",
+    "initial": 2195,
+    "initial_formatted": "A$ 21.95"
+   },
+   "publishers": [
+    "Cranio Creations"
+   ],
+   "release": "15 May, 2025",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 81,
+    "total": 101
+   },
+   "type": "game"
+  },
+  "2927010": {
+   "_fetched": 1791440931.3064363,
+   "_reviews_fetched": 1791440931.8083687,
+   "about": "Unite the ANDROID HORDE! Reignite the MACHINE UPRISING! As a bloodthirsty machine lord trapped within the treacherous Android Asylum, cut down rivals while you construct a loyal, relentless horde of androids in this cold, dark simulation.",
+   "coming_soon": true,
+   "developers": [
+    "Poor Little Pigeon LLC"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2927010/f75f13847d254102e51f881311f95f2fda9fcd76/header.jpg?t=1741467053",
+   "is_free": false,
+   "mp": [],
+   "multiplayer": false,
+   "name": "Android Asylum",
+   "price": null,
+   "publishers": [
+    "Poor Little Pigeon LLC"
+   ],
+   "release": "Coming soon",
+   "reviews": {
+    "desc": "No user reviews",
+    "pct": null,
+    "total": 0
+   },
+   "type": "game"
+  },
+  "2933130": {
+   "_fetched": 1791440808.7639365,
+   "_reviews_fetched": 1791440809.0849068,
+   "about": "A survival crafting adventure set in the Fourth Age of Middle-earth. Lead the Dwarves to reclaim Moria - mine, build, and battle through procedurally generated depths alone or with up to 8 players in co-op. It is time to return to Moria!",
+   "coming_soon": false,
+   "developers": [
+    "Free Range Games"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/6b8f8cf6304969c5c1d72fb3b33e5a31a1255f83/header.jpg?t=1790022388",
+   "is_free": false,
+   "mp": [
+    "crossplay",
+    "online_coop"
+   ],
+   "multiplayer": true,
+   "name": "The Lord of the Rings: Return to Moria\u2122",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 60,
+    "final": 1758,
+    "final_formatted": "A$ 17.58",
+    "initial": 4395,
+    "initial_formatted": "A$ 43.95"
+   },
+   "publishers": [
+    "North Beach Games"
+   ],
+   "release": "27 Aug, 2024",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 81,
+    "total": 12546
+   },
+   "type": "game"
+  },
+  "2983910": {
+   "_fetched": 1791440913.9866316,
+   "_reviews_fetched": 1791440914.5158653,
+   "about": "Dive into the world of the energy industry with the Power Grid app, designed by award-winning author Friedemann Friese.",
+   "coming_soon": false,
+   "developers": [
+    "Brettspielwelt GmbH"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983910/header.jpg?t=1786374417",
+   "is_free": false,
+   "mp": [
+    "crossplay",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Power Grid",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 40,
+    "final": 839,
+    "final_formatted": "A$ 8.39",
+    "initial": 1399,
+    "initial_formatted": "A$ 13.99"
+   },
+   "publishers": [
+    "Brettspielwelt GmbH"
+   ],
+   "release": "8 Jul, 2024",
+   "reviews": {
+    "desc": "Mixed",
+    "pct": 53,
+    "total": 66
+   },
+   "type": "game"
+  },
+  "3008810": {
+   "_fetched": 1791440907.4149566,
+   "_reviews_fetched": 1791440907.768128,
+   "about": "Endeavor is a 3D Space Adventure. Explore, Gather, Build and Battle your way through the unknown frontiers of deep space.",
+   "coming_soon": true,
+   "developers": [
+    "Shrey Games Inc."
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008810/header.jpg?t=1741652796",
+   "is_free": false,
+   "mp": [],
+   "multiplayer": false,
+   "name": "Endeavor",
+   "price": null,
+   "publishers": [
+    "Shrey Games Inc."
+   ],
+   "release": "Coming soon",
+   "reviews": {
+    "desc": "No user reviews",
+    "pct": null,
+    "total": 0
+   },
+   "type": "game"
+  },
+  "3216750": {
+   "_fetched": 1791440893.509255,
+   "_reviews_fetched": 1791440893.8662496,
+   "about": "Caverna is the digital adaptation of the board game of the same name created by Uwe Rosenberg developed by &quot;Lookout Games&quot;. It can be played with 1-7 players.",
+   "coming_soon": false,
+   "developers": [
+    "DIGIDICED"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216750/3b8343bd98f30ee3eed4c83a5a9c9b7f33ea2c8e/header.jpg?t=1745825594",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "local_pvp",
+    "online_pvp",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Caverna",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 60,
+    "final": 1180,
+    "final_formatted": "A$ 11.80",
+    "initial": 2950,
+    "initial_formatted": "A$ 29.50"
+   },
+   "publishers": [
+    "DIGIDICED"
+   ],
+   "release": "28 Apr, 2025",
+   "reviews": {
+    "desc": "Mostly Positive",
+    "pct": 76,
+    "total": 25
+   },
+   "type": "game"
+  },
+  "3387300": {
+   "_fetched": 1791440835.2690651,
+   "_reviews_fetched": 1791440835.5794206,
+   "about": "Uncover mysteries on an epic journey to the heart of the uncharted island of Arnak in this captivating blend of deck-building and worker placement. Become the leader of an expedition and dive deep into uncharted territory. But you\u2019re not alone\u2014and fame and glory await only the most successful team.",
+   "coming_soon": true,
+   "developers": [
+    "CGE Digital"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387300/74ea3bb77923aab6697adb688211857f7834e258/header.jpg?t=1790661771",
+   "is_free": false,
+   "mp": [
+    "local_pvp",
+    "online_pvp",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Lost Ruins of Arnak",
+   "price": null,
+   "publishers": [
+    "CGE Digital"
+   ],
+   "release": "To be announced",
+   "reviews": {
+    "desc": "No user reviews",
+    "pct": null,
+    "total": 0
+   },
+   "type": "game"
+  },
+  "3477620": {
+   "_fetched": 1791440811.899588,
+   "_reviews_fetched": 1791440812.2062232,
+   "about": "Through The Ages is a real-time high end graphical cinematic that takes us on a nostalgic journey through three of NVIDIA's iconic GPUs in unprecedended visual detail featuring visuals that push even the NVIDIA RTX 4090 to its limits.",
+   "coming_soon": false,
+   "developers": [
+    "Dylan Browne"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477620/header.jpg?t=1740650868",
+   "is_free": true,
+   "mp": [],
+   "multiplayer": false,
+   "name": "Through The Ages",
+   "price": null,
+   "publishers": [
+    "Dylan Browne"
+   ],
+   "release": "27 Feb, 2025",
+   "reviews": {
+    "desc": "9 user reviews",
+    "pct": 100,
+    "total": 9
+   },
+   "type": "game"
+  },
+  "3669430": {
+   "_fetched": 1791440782.0534332,
+   "_reviews_fetched": 1791440782.436324,
+   "about": "Dominate the galaxy in the legendary strategy board game, now available digitally. Choose your faction and fight to claim the Imperial Throne!",
+   "coming_soon": true,
+   "developers": [
+    "Red Square Games"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669430/5efb05cd759c238d171fee702119573f1c0251ea/header.jpg?t=1781194020",
+   "is_free": false,
+   "mp": [
+    "crossplay",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Twilight Imperium Digital",
+   "price": null,
+   "publishers": [
+    "Red Square Games"
+   ],
+   "release": "To be announced",
+   "reviews": {
+    "desc": "No user reviews",
+    "pct": null,
+    "total": 0
+   },
+   "type": "game"
+  },
+  "406290": {
+   "_fetched": 1791440803.3025794,
+   "_reviews_fetched": 1791440803.650833,
+   "about": "Twilight Struggle is a two-player game where players play as either the US or USSR during the Cold War. Using actual events from history, players must plan out their strategies in order to obtain world dominance. Play Twilight Struggle and change the course of history.",
+   "coming_soon": false,
+   "developers": [
+    "Playdek, Inc."
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406290/header.jpg?t=1647893895",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "local_pvp",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Twilight Struggle",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 50,
+    "final": 725,
+    "final_formatted": "A$ 7.25",
+    "initial": 1450,
+    "initial_formatted": "A$ 14.50"
+   },
+   "publishers": [
+    "Playdek, Inc."
+   ],
+   "release": "13 Apr, 2016",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 86,
+    "total": 2994
+   },
+   "type": "game"
+  },
+  "4078430": {
+   "_fetched": 1791440788.8451252,
+   "_reviews_fetched": 1791440789.1708348,
+   "about": "STAR WARS: Galactic Racer\u2122 is a \u200bruns-based, \u200bhigh-stakes reinvention of racing born in the lawless Outer Rim. With the Empire gone and the galaxy rebuilding, The Galactic League is created: an underground, unsanctioned circuit where syndicates bankroll chaos and champions are forged.",
+   "coming_soon": false,
+   "developers": [
+    "Fuse Games"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg?t=1791388584",
+   "is_free": false,
+   "mp": [
+    "crossplay",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "STAR WARS: Galactic Racer\u2122",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 0,
+    "final": 8850,
+    "final_formatted": "A$ 88.50",
+    "initial": 8850,
+    "initial_formatted": ""
+   },
+   "publishers": [
+    "Secret Mode"
+   ],
+   "release": "6 Oct, 2026",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 81,
+    "total": 2377
+   },
+   "type": "game"
+  },
+  "4249810": {
+   "_fetched": 1791440901.0041459,
+   "_reviews_fetched": 1791440901.3821084,
+   "about": "The Obsession \u2014 The Summit Awaits You! Are you ready to conquer a geometric world rising toward the sky in the middle of a vast, endless ocean? The Obsession is a skill-based 3D platformer set in a pure, distraction-free world where it\u2019s just you and the course.",
+   "coming_soon": false,
+   "developers": [
+    "O.D Games"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249810/b89be554c37f2246145abadb45fa2920b3b67e4e/header.jpg?t=1784314146",
+   "is_free": false,
+   "mp": [],
+   "multiplayer": false,
+   "name": "The Obsession",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 0,
+    "final": 140,
+    "final_formatted": "A$ 1.40",
+    "initial": 140,
+    "initial_formatted": ""
+   },
+   "publishers": [
+    "O.D Games"
+   ],
+   "release": "6 Jul, 2026",
+   "reviews": {
+    "desc": "2 user reviews",
+    "pct": 100,
+    "total": 2
+   },
+   "type": "game"
+  },
+  "4356290": {
+   "_fetched": 1791440831.0046663,
+   "_reviews_fetched": 1791440831.3574092,
+   "about": "ConCodia is a poker-inspired Roguelike solitaire-matching game. Heroes await your call \u2013 balance draws and shop choices, combine skills and items, defeat and recruit. Luck, strategy, skill \u2013 all essential. Your unique journey begins with your first hero pick.",
+   "coming_soon": true,
+   "developers": [
+    "Love.Element"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356290/49f9fcf9d0d069d02bd2d6db79c7af6cea89df1d/header.jpg?t=1788967979",
+   "is_free": false,
+   "mp": [],
+   "multiplayer": false,
+   "name": "ConCordia",
+   "price": null,
+   "publishers": [
+    "Love.Element"
+   ],
+   "release": "Coming soon",
+   "reviews": {
+    "desc": "No user reviews",
+    "pct": null,
+    "total": 0
+   },
+   "type": "game"
+  },
+  "4466790": {
+   "_fetched": 1791440886.1113575,
+   "_reviews_fetched": 1791440886.4343815,
+   "about": "An open-world racing game inspired by Puerto Rican car culture. Customize your ride, explore island-inspired locations, and compete in realistic drag races and street events with functional timing systems and online multiplayer.",
+   "coming_soon": true,
+   "developers": [
+    "Fiebru Studios"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466790/c31a4a397e2ead985670459a1390e599d7c6db1b/header.jpg?t=1772820393",
+   "is_free": false,
+   "mp": [
+    "online_coop",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Puerto Rico Racing: La Fiebre",
+   "price": null,
+   "publishers": [
+    "Fiebru Studios"
+   ],
+   "release": "Coming soon",
+   "reviews": {
+    "desc": "No user reviews",
+    "pct": null,
+    "total": 0
+   },
+   "type": "game"
+  },
+  "4598200": {
+   "_fetched": 1791440775.7943454,
+   "_reviews_fetched": 1791440776.1177344,
+   "about": "Summon mighty sandworms in the new expansion!",
+   "coming_soon": false,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598200/186f696f0a7ccc27463c5f68851287dd0496a7e4/header.jpg?t=1781022072",
+   "is_free": false,
+   "mp": [
+    "crossplay",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Dune: Imperium - Uprising",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 0,
+    "final": 2095,
+    "final_formatted": "A$ 20.95",
+    "initial": 2095,
+    "initial_formatted": ""
+   },
+   "publishers": [],
+   "release": "9 Jun, 2026",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 89,
+    "total": 61
+   },
+   "type": "dlc"
+  },
+  "4628460": {
+   "_fetched": 1791441133.645744,
+   "_reviews_fetched": 1791441133.9872117,
+   "about": "Boardcraft: Crokinole brings the classic tabletop game to a digital format where you can play with your friends, wherever they are. With precise physics, online competition, and deep board customization, you can experience Crokinole in a whole new way.",
+   "coming_soon": false,
+   "developers": [
+    "Boardcraft Studios"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628460/c2c89b28dd0d6cd2a37a9e2d35d6aa99203149e0/header.jpg?t=1788042089",
+   "is_free": false,
+   "mp": [
+    "local_coop",
+    "local_pvp",
+    "online_coop",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Boardcraft: Crokinole",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 0,
+    "final": 975,
+    "final_formatted": "A$ 9.75",
+    "initial": 975,
+    "initial_formatted": ""
+   },
+   "publishers": [
+    "Boardcraft Studios"
+   ],
+   "release": "20 Aug, 2026",
+   "reviews": {
+    "desc": "4 user reviews",
+    "pct": 100,
+    "total": 4
+   },
+   "type": "game"
+  },
+  "4632760": {
+   "_fetched": 1791440919.6274564,
+   "_reviews_fetched": 1791440920.1258304,
+   "about": "Survive waves of monsters in intense multiplayer co-op.",
+   "coming_soon": false,
+   "developers": [
+    "Voidfall Studios"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632760/f9bac9bcb7652d76a80878c6d64de18e2e38f01f/header.jpg?t=1791226840",
+   "is_free": false,
+   "mp": [
+    "online_coop"
+   ],
+   "multiplayer": true,
+   "name": "VoidFall",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 0,
+    "final": 1395,
+    "final_formatted": "A$ 13.95",
+    "initial": 1395,
+    "initial_formatted": ""
+   },
+   "publishers": [
+    "Voidfall Studios"
+   ],
+   "release": "5 Oct, 2026",
+   "reviews": {
+    "desc": "No user reviews",
+    "pct": null,
+    "total": 0
+   },
+   "type": "game"
+  },
+  "4740210": {
+   "_fetched": 1791440939.2844806,
+   "_reviews_fetched": 1791440939.718326,
+   "about": "Destroy stars, collect stardust, and revive the lost moonlight. Lose yourself in Euphoria.",
+   "coming_soon": true,
+   "developers": [
+    "JTonf"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740210/b1ae8b56f6457835b5832f27ce617d56d9ed15e1/header.jpg?t=1781364161",
+   "is_free": false,
+   "mp": [],
+   "multiplayer": false,
+   "name": "Revive the Moonlight with Stardust",
+   "price": null,
+   "publishers": [
+    "JTonf"
+   ],
+   "release": "Coming soon",
+   "reviews": {
+    "desc": "No user reviews",
+    "pct": null,
+    "total": 0
+   },
+   "type": "game"
+  },
+  "478980": {
+   "_fetched": 1791440923.1712484,
+   "_reviews_fetched": 1791440923.515055,
+   "about": "A companion app for the Mansions of Madness Second Edition board game from Fantasy Flight Games. Mansions of Madness is a cooperative game of mystery and investigation inspired by the writings of H. P. Lovecraft. During each game, one to five players explore a location to unravel a mystery.",
+   "coming_soon": false,
+   "developers": [
+    "Fantasy Flight Games"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/478980/header.jpg?t=1790365940",
+   "is_free": true,
+   "mp": [
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Mansions of Madness",
+   "price": null,
+   "publishers": [
+    "Fantasy Flight Games"
+   ],
+   "release": "1 Aug, 2016",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 92,
+    "total": 1310
+   },
+   "type": "game"
+  },
+  "4898550": {
+   "_fetched": 1791440870.5607643,
+   "_reviews_fetched": 1791440870.9002092,
+   "about": "Play your cards strategically and push your engine to the limit in Heat: Pedal to the Metal, the official digital adaptation of the award-winning board game. Manage your speed, master every corner and race through the golden age of 1960s motorsport against friends, Legends and players worldwide.",
+   "coming_soon": true,
+   "developers": [
+    "Mipmap Digital"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898550/1c926bff13dc27f5d4621acb5007e3d6244abe39/header.jpg?t=1785776241",
+   "is_free": false,
+   "mp": [
+    "crossplay",
+    "local_pvp",
+    "online_pvp",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Heat: Pedal to the Metal",
+   "price": null,
+   "publishers": [
+    "Mipmap Digital"
+   ],
+   "release": "To be announced",
+   "reviews": {
+    "desc": "No user reviews",
+    "pct": null,
+    "total": 0
+   },
+   "type": "game"
+  },
+  "511820": {
+   "_fetched": 1791440927.7944791,
+   "_reviews_fetched": 1791440928.1710112,
+   "about": "Build a prosperous port in Uwe Rosenberg\u2019s award winning two-player board game!",
+   "coming_soon": false,
+   "developers": [
+    "DIGIDICED"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/511820/header.jpg?t=1741270713",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "local_pvp",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Le Havre: The Inland Port",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 80,
+    "final": 205,
+    "final_formatted": "A$ 2.05",
+    "initial": 1025,
+    "initial_formatted": "A$ 10.25"
+   },
+   "publishers": [
+    "Twin Sails Interactive"
+   ],
+   "release": "29 Aug, 2016",
+   "reviews": {
+    "desc": "Mixed",
+    "pct": 56,
+    "total": 68
+   },
+   "type": "game"
+  },
+  "528180": {
+   "_fetched": 1791440898.6232514,
+   "_reviews_fetched": 1791440898.9567409,
+   "about": "Agricola: All Creatures Big &amp; Small is a digital adaptation of Uwe Rosenberg's award-winning two-player board game featuring farming and livestock breeding.",
+   "coming_soon": false,
+   "developers": [
+    "DIGIDICED"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/528180/header.jpg?t=1694187976",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "local_pvp",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Agricola: All Creatures Big and Small",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 80,
+    "final": 205,
+    "final_formatted": "A$ 2.05",
+    "initial": 1025,
+    "initial_formatted": "A$ 10.25"
+   },
+   "publishers": [
+    "Twin Sails Interactive"
+   ],
+   "release": "14 Feb, 2017",
+   "reviews": {
+    "desc": "Mostly Negative",
+    "pct": 39,
+    "total": 133
+   },
+   "type": "game"
+  },
+  "579940": {
+   "_fetched": 1791440943.1902452,
+   "_reviews_fetched": 1791440943.5246282,
+   "about": "Explore, Settle, Develop, Trade, Consume, or Produce? Which do you need most? Which of Earth's former colonies will be most successful at settling the galaxy, now that JumpDrive exists? Who will discover the secrets of the mysteriously vanished Alien Overlords? Your goal: to build the most prosperou",
+   "coming_soon": false,
+   "developers": [
+    "Temple Gates Games"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/579940/header.jpg?t=1573172455",
+   "is_free": false,
+   "mp": [
+    "crossplay",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Race for the Galaxy",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 30,
+    "final": 871,
+    "final_formatted": "A$ 8.71",
+    "initial": 1245,
+    "initial_formatted": "A$ 12.45"
+   },
+   "publishers": [
+    "Temple Gates Games"
+   ],
+   "release": "27 Jun, 2017",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 93,
+    "total": 455
+   },
+   "type": "game"
+  },
+  "628900": {
+   "_fetched": 1791440845.7421286,
+   "_reviews_fetched": 1791440846.093772,
+   "about": "In a world of fantasy, called Terra Mystica, 14 races are fighting together or individually against their opponents to gain power and territory. Using their resources smartly and terraforming wisely to gain supremacy and lead their own settlers to victory.",
+   "coming_soon": false,
+   "developers": [
+    "DIGIDICED"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628900/header.jpg?t=1611672526",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "local_pvp",
+    "online_pvp",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Terra Mystica",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 65,
+    "final": 873,
+    "final_formatted": "A$ 8.73",
+    "initial": 2495,
+    "initial_formatted": "A$ 24.95"
+   },
+   "publishers": [
+    "DIGIDICED"
+   ],
+   "release": "8 Jun, 2017",
+   "reviews": {
+    "desc": "Mixed",
+    "pct": 62,
+    "total": 270
+   },
+   "type": "game"
+  },
+  "646570": {
+   "_fetched": 1791440801.0014348,
+   "_reviews_fetched": 1791440801.3096595,
+   "about": "We fused card games and roguelikes together to make the best single player deckbuilder we could. Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and Slay the Spire!",
+   "coming_soon": false,
+   "developers": [
+    "Mega Crit"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg?t=1774015376",
+   "is_free": false,
+   "mp": [],
+   "multiplayer": false,
+   "name": "Slay the Spire",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 75,
+    "final": 924,
+    "final_formatted": "A$ 9.24",
+    "initial": 3699,
+    "initial_formatted": "A$ 36.99"
+   },
+   "publishers": [
+    "Mega Crit"
+   ],
+   "release": "23 Jan, 2019",
+   "reviews": {
+    "desc": "Overwhelmingly Positive",
+    "pct": 97,
+    "total": 219213
+   },
+   "type": "game"
+  },
+  "718560": {
+   "_fetched": 1791440827.2688625,
+   "_reviews_fetched": 1791440827.585012,
+   "about": "Scythe transports you to an alternate reality in 1920s Europa, one ravaged by the First World War. Take up the role of leader by assuming command of one of 5 factions, and set out to conquer the coveted &quot;Factory&quot;. Lead your mechs to war and your people to victory!",
+   "coming_soon": false,
+   "developers": [
+    "The Knights of Unity"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718560/header.jpg?t=1752320013",
+   "is_free": false,
+   "mp": [
+    "local_pvp",
+    "online_pvp",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Scythe: Digital Edition",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 60,
+    "final": 1158,
+    "final_formatted": "A$ 11.58",
+    "initial": 2895,
+    "initial_formatted": "A$ 28.95"
+   },
+   "publishers": [
+    "The Knights of Unity"
+   ],
+   "release": "5 Sep, 2018",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 89,
+    "total": 3818
+   },
+   "type": "game"
+  },
+  "758370": {
+   "_fetched": 1791440813.5253642,
+   "_reviews_fetched": 1791440813.8362763,
+   "about": "Legendary board game classic from award winning designer Vlaada Chv\u00e1til",
+   "coming_soon": false,
+   "developers": [
+    "CGE Digital"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758370/header.jpg?t=1762427088",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Through the Ages",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 50,
+    "final": 1147,
+    "final_formatted": "A$ 11.47",
+    "initial": 2295,
+    "initial_formatted": "A$ 22.95"
+   },
+   "publishers": [
+    "CGE Digital"
+   ],
+   "release": "26 Mar, 2018",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 91,
+    "total": 2347
+   },
+   "type": "game"
+  },
+  "780290": {
+   "_fetched": 1791440772.7226033,
+   "_reviews_fetched": 1791440773.046432,
+   "about": "Lead your band of mercenaries in the land of Gloomhaven, work with unsavoury individuals, shape the fate of the region, fight your way through horrific places and get rich or die trying in this ruthless Tactical-RPG.",
+   "coming_soon": false,
+   "developers": [
+    "Flaming Fowl Studios",
+    "Saber Interactive"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/header.jpg?t=1788792171",
+   "is_free": false,
+   "mp": [
+    "online_coop"
+   ],
+   "multiplayer": true,
+   "name": "Gloomhaven",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 72,
+    "final": 1426,
+    "final_formatted": "A$ 14.26",
+    "initial": 5095,
+    "initial_formatted": "A$ 50.95"
+   },
+   "publishers": [
+    "Twin Sails Interactive"
+   ],
+   "release": "20 Oct, 2021",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 82,
+    "total": 16170
+   },
+   "type": "game"
+  },
+  "800270": {
+   "_fetched": 1791440785.830534,
+   "_reviews_fetched": 1791440786.1506846,
+   "about": "The taming of the Red Planet has begun! Corporations are competing to transform Mars into a habitable planet by spending vast resources and using innovative technology to raise temperature, create a breathable atmosphere, and make oceans of water.",
+   "coming_soon": false,
+   "developers": [
+    "Artefacts Studio"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/800270/header.jpg?t=1769091240",
+   "is_free": false,
+   "mp": [
+    "async",
+    "local_pvp",
+    "online_pvp",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "Terraforming Mars",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 70,
+    "final": 885,
+    "final_formatted": "A$ 8.85",
+    "initial": 2950,
+    "initial_formatted": "A$ 29.50"
+   },
+   "publishers": [
+    "Twin Sails Interactive"
+   ],
+   "release": "17 Oct, 2018",
+   "reviews": {
+    "desc": "Mostly Positive",
+    "pct": 71,
+    "total": 7269
+   },
+   "type": "game"
+  },
+  "836080": {
+   "_fetched": 1791440853.6863947,
+   "_reviews_fetched": 1791440853.999964,
+   "about": "Tired of &quot;Pew-Pew&quot;pistol,Why not try about Bofors 40mm Anti-Aircraft Guns,or Mighty 88mm Flak-cannon?Shatter the sky with your BARRAGE,and ther is nothing like aiming or reloading can distrub you from shooting.",
+   "coming_soon": false,
+   "developers": [
+    "ChronoYuki"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/836080/header.jpg?t=1733269546",
+   "is_free": false,
+   "mp": [],
+   "multiplayer": false,
+   "name": "BARRAGE / \u94c1\u5e55",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 0,
+    "final": 750,
+    "final_formatted": "A$ 7.50",
+    "initial": 750,
+    "initial_formatted": ""
+   },
+   "publishers": [
+    "Archetype Industry | \u539f\u578b\u5de5\u4e1a"
+   ],
+   "release": "18 Apr, 2018",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 86,
+    "total": 64
+   },
+   "type": "game"
+  },
+  "840210": {
+   "_fetched": 1791440840.2646618,
+   "_reviews_fetched": 1791440840.5832436,
+   "about": "Inspired by the award-winning board game franchise, Arkham Horror: Mother\u2019s Embrace is an\u00a0investigation game served with turn-based combat, set in the cult universe of H.P. Lovecraft.",
+   "coming_soon": false,
+   "developers": [
+    "Twin Sails Interactive"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840210/header.jpg?t=1741270543",
+   "is_free": false,
+   "mp": [],
+   "multiplayer": false,
+   "name": "Arkham Horror: Mother's Embrace",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 80,
+    "final": 590,
+    "final_formatted": "A$ 5.90",
+    "initial": 2950,
+    "initial_formatted": "A$ 29.50"
+   },
+   "publishers": [
+    "Twin Sails Interactive"
+   ],
+   "release": "23 Mar, 2021",
+   "reviews": {
+    "desc": "Mixed",
+    "pct": 63,
+    "total": 718
+   },
+   "type": "game"
+  },
+  "903040": {
+   "_fetched": 1791440805.6898909,
+   "_reviews_fetched": 1791440806.005108,
+   "about": "Stefan Feld's highly decorated board game &quot;The Castles Of Burgundy&quot; by Ravensburger is getting its digital version on Steam! Enjoy against the challenging AI or friends a beautiful digital version of the classic board game!",
+   "coming_soon": false,
+   "developers": [
+    "DIGIDICED"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903040/header.jpg?t=1704802634",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "local_pvp",
+    "online_pvp",
+    "remote_play"
+   ],
+   "multiplayer": true,
+   "name": "The Castles of Burgundy",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 60,
+    "final": 860,
+    "final_formatted": "A$ 8.60",
+    "initial": 2150,
+    "initial_formatted": "A$ 21.50"
+   },
+   "publishers": [
+    "DIGIDICED"
+   ],
+   "release": "27 Feb, 2019",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 81,
+    "total": 282
+   },
+   "type": "game"
+  },
+  "965580": {
+   "_fetched": 1791440842.5793183,
+   "_reviews_fetched": 1791440842.9739127,
+   "about": "Might makes right in the wild wood! The award-winning board game of asymmetrical woodland warfare comes to cross-platform digital play! Combine subtle strategy and bold daring to guide your forest faction to victory!",
+   "coming_soon": false,
+   "developers": [
+    "Dire Wolf"
+   ],
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/header.jpg?t=1767902987",
+   "is_free": false,
+   "mp": [
+    "async",
+    "crossplay",
+    "local_pvp",
+    "online_pvp"
+   ],
+   "multiplayer": true,
+   "name": "Root",
+   "price": {
+    "currency": "AUD",
+    "discount_percent": 60,
+    "final": 860,
+    "final_formatted": "A$ 8.60",
+    "initial": 2150,
+    "initial_formatted": "A$ 21.50"
+   },
+   "publishers": [
+    "Dire Wolf"
+   ],
+   "release": "24 Sep, 2020",
+   "reviews": {
+    "desc": "Very Positive",
+    "pct": 90,
+    "total": 5614
+   },
+   "type": "game"
+  }
+ },
+ "steam_search": {
+  "7 wonders duel": {
+   "_fetched": 1791440822.3341584,
+   "results": {}
+  },
+  "a feast for odin": {
+   "_fetched": 1791440825.509995,
+   "results": {}
+  },
+  "age of innovation": {
+   "_fetched": 1791440884.4300776,
+   "results": {}
+  },
+  "agricola": {
+   "_fetched": 1791440897.7357547,
+   "results": {
+    "4618250": "Agricola - The King's Farmer",
+    "4802340": "Agricola - The King's Farmer Demo",
+    "528180": "Agricola: All Creatures Big and Small"
+   }
+  },
+  "agricola revised edition": {
+   "_fetched": 1791440933.693344,
+   "results": {}
+  },
+  "anachrony": {
+   "_fetched": 1791440894.9619684,
+   "results": {
+    "869241": "Tabletopia - Anachrony + Modules"
+   }
+  },
+  "android netrunner": {
+   "_fetched": 1791440930.2104619,
+   "results": {
+    "1116240": "Android Amazones",
+    "1131320": "Android Amazones Soundtrack",
+    "1891250": "Android Simulator",
+    "250110": "Assault Android Cactus+",
+    "267650": "Android Exporter for Clickteam Fusion 2.5",
+    "2927010": "Android Asylum",
+    "3352470": "Your Android",
+    "3690240": "Project Android",
+    "4210630": "Goob Wants an Android Girlfriend",
+    "4814280": "Marie Android"
+   }
+  },
+  "ark nova": {
+   "_fetched": 1791440767.6322944,
+   "results": {
+    "2438990": "Ark Nova"
+   }
+  },
+  "arkham horror the card game": {
+   "_fetched": 1791440839.3827362,
+   "results": {
+    "4339020": "Cthulhu: The Cosmic Abyss \u2013 Arkham Horror TTRPG Scenario",
+    "840210": "Arkham Horror: Mother's Embrace"
+   }
+  },
+  "azul": {
+   "_fetched": 1791440949.7062962,
+   "results": {
+    "1661920": "Ancient: Legacy of Azul",
+    "3937800": "Twin Tile",
+    "503010": "Azulgar: Star Commanders"
+   }
+  },
+  "barrage": {
+   "_fetched": 1791440851.0708807,
+   "results": {
+    "1173940": "Barrage Musical ~ Basic Danmaku Tutorial ~ / \u5f39\u5e55\u97f3\u4e50\u7ed8 ~ \u57fa\u7840\u6559\u5b66\u7bc7 ~",
+    "2844460": "Booty Barrage",
+    "2879570": "Barrage",
+    "3003460": "Bang Bang Barrage",
+    "3396930": "Beetle Barrage",
+    "4161990": "SpellBurst Barrage",
+    "4612810": " Bullet Barrage",
+    "5249600": "Cappy-Barrage",
+    "757700": "Dungeon's Barrage",
+    "836080": "BARRAGE / \u94c1\u5e55"
+   }
+  },
+  "blood on the clocktower": {
+   "_fetched": 1791440897.0443058,
+   "results": {}
+  },
+  "blood rage": {
+   "_fetched": 1791440903.2831998,
+   "results": {
+    "1015930": "Blood Rage: Digital Edition",
+    "1282300": "Blood Rage: Digital Edition - Mythical Monsters",
+    "1354120": "Blood Rage: Digital Edition - Mystics of Midgard",
+    "1366580": "Blood Rage: Digital Edition - Gods of Asgard",
+    "2302130": "Fantasy Grounds - Pathfinder 2 RPG - Blood Lords AP 6: Ghost King's Rage",
+    "610700": "Tabletop Simulator - Blood Rage"
+   }
+  },
+  "bomb busters": {
+   "_fetched": 1791440925.4393828,
+   "results": {}
+  },
+  "brass birmingham": {
+   "_fetched": 1791440766.9246264,
+   "results": {
+    "1023680": "Brass Town Wrestling",
+    "1163910": "Brass Brigade",
+    "2582940": "Brass Bellow",
+    "2657210": "Kicking Brass",
+    "301840": "City of Brass",
+    "3563530": "Brass Lament",
+    "3606970": "Brass Rain",
+    "3774400": "Blood and Brass",
+    "5329810": "Brine and Brass",
+    "892860": "Hot Brass"
+   }
+  },
+  "brass lancashire": {
+   "_fetched": 1791440818.5787687,
+   "results": {
+    "1023680": "Brass Town Wrestling",
+    "1163910": "Brass Brigade",
+    "2582940": "Brass Bellow",
+    "2657210": "Kicking Brass",
+    "301840": "City of Brass",
+    "3563530": "Brass Lament",
+    "3606970": "Brass Rain",
+    "3774400": "Blood and Brass",
+    "5329810": "Brine and Brass",
+    "892860": "Hot Brass"
+   }
+  },
+  "cascadia": {
+   "_fetched": 1791440889.6231446,
+   "results": {
+    "1103530": "Cascadia Quest",
+    "1415690": "American Truck Simulator - Freightliner Cascadia\u00ae (3rd/4th Generation)",
+    "1541340": "Chronicles of Cascadia",
+    "2120650": "Trials of Cascadia",
+    "2438970": "Cascadia",
+    "3272290": "American Truck Simulator - Freightliner Cascadia\u00ae (The Fifth Generation)",
+    "4123310": "Fields of Cascadia"
+   }
+  },
+  "castles of burgundy": {
+   "_fetched": 1791440804.754047,
+   "results": {
+    "903040": "The Castles of Burgundy"
+   }
+  },
+  "caverna the cave farmers": {
+   "_fetched": 1791440892.606873,
+   "results": {
+    "2848360": "Cavern Adventurers",
+    "3216750": "Caverna"
+   }
+  },
+  "clank catacombs": {
+   "_fetched": 1791440866.5818453,
+   "results": {
+    "1722870": "Clank!",
+    "1895880": "Ratchet & Clank: Rift Apart",
+    "3550040": "Clank! - Sunken Treasures",
+    "4111310": "Clankers!",
+    "4136580": "ClankOut",
+    "4163830": "Clankers! Demo",
+    "4356510": "Clank! - Mummy's Curse",
+    "4443390": "Clank-Robotics",
+    "5127530": "TOO MANY CLANKERS",
+    "5169780": "Kill All Clankers"
+   }
+  },
+  "clank legacy acquisitions incorporated": {
+   "_fetched": 1791440829.3771267,
+   "results": {}
+  },
+  "clans of caledonia": {
+   "_fetched": 1791440917.8697178,
+   "results": {}
+  },
+  "concordia": {
+   "_fetched": 1791440830.0749025,
+   "results": {
+    "1450330": "Concordia: Digital Edition",
+    "1707530": "Concordia: Digital Edition - Salsa",
+    "1707531": "Concordia: Digital Edition - Fish Market",
+    "1707532": "Concordia: Digital Edition - Venus",
+    "1707533": "Concordia: Digital Edition - Corsica & Gallia",
+    "1707534": "Concordia: Digital Edition - Aegyptus & Creta",
+    "1707535": "Concordia: Digital Edition - Britannia & Germania",
+    "4356290": "ConCordia",
+    "4791670": "Terra Concordia: Civilizations in Harmony"
+   }
+  },
+  "crew mission deep sea": {
+   "_fetched": 1791440862.512415,
+   "results": {
+    "1075340": "The Crew 2 Demo",
+    "2183880": "The Crew 2 - Porsche Cayman GT4 2016 Starter Pack",
+    "2183882": "The Crew 2 - Mazda RX8 Starter Pack",
+    "2698940": "The Crew Motorfest",
+    "3917380": "The Crew Motorfest | Year 3 Pass",
+    "4869010": "The Crew 2 \u2013 BMW Car Pack",
+    "4869080": "The Crew 2 \u2013 Bike Pack",
+    "4869120": "The Crew 2 \u2013 Mega Car Pack",
+    "646910": "The Crew\u2122 2",
+    "889890": "The Crew 2 - Season Pass"
+   }
+  },
+  "crew the quest for planet nine": {
+   "_fetched": 1791440947.4036546,
+   "results": {
+    "1075340": "The Crew 2 Demo",
+    "2183880": "The Crew 2 - Porsche Cayman GT4 2016 Starter Pack",
+    "2183882": "The Crew 2 - Mazda RX8 Starter Pack",
+    "2698940": "The Crew Motorfest",
+    "3917380": "The Crew Motorfest | Year 3 Pass",
+    "4869010": "The Crew 2 \u2013 BMW Car Pack",
+    "4869080": "The Crew 2 \u2013 Bike Pack",
+    "4869120": "The Crew 2 \u2013 Mega Car Pack",
+    "646910": "The Crew\u2122 2",
+    "889890": "The Crew 2 - Season Pass"
+   }
+  },
+  "crokinole": {
+   "_fetched": 1791440858.8157952,
+   "results": {
+    "4628460": "Boardcraft: Crokinole"
+   }
+  },
+  "cthulhu death may die": {
+   "_fetched": 1791440880.6466458,
+   "results": {
+    "1057540": "Cthulhu Saves Christmas",
+    "107310": "Cthulhu Saves the World",
+    "1157260": "GEESE vs CTHULHU",
+    "2569760": "The Mound: Omen of Cthulhu",
+    "2760560": "Cthulhu: The Cosmic Abyss",
+    "2807150": "Worshippers of Cthulhu",
+    "399810": "Call of Cthulhu\u00ae",
+    "4219890": "Lost Sanity: Cthulhu",
+    "485000": "Cthulhu Realms",
+    "956310": "Musashi vs Cthulhu"
+   }
+  },
+  "darwin s journey": {
+   "_fetched": 1791440936.7121358,
+   "results": {}
+  },
+  "dune imperium": {
+   "_fetched": 1791440777.954169,
+   "results": {
+    "1172710": "Dune: Awakening",
+    "1605220": "Dune: Spice Wars",
+    "1689500": "Dune: Imperium",
+    "1833200": "DuneCrawl",
+    "2016310": "Fantasy Grounds - Dune Adventures in the Imperium",
+    "2886040": "Fantasy Grounds - Dune - Adventures in the Imperium: Agents of Dune",
+    "3051590": "Dune: Imperium - Rise of Ix",
+    "3401360": "Fantasy Grounds - Dune - Adventures in the Imperium: Sand and Dust",
+    "3549940": "Fantasy Grounds - Dune - Adventures in the Imperium Gamemaster's Toolkit",
+    "3595530": "Dune: Imperium - Immortality",
+    "3604160": "Dune: Awakening - Dune (2021) Film Stillsuit",
+    "4319210": "Dune Rancher",
+    "4598200": "Dune: Imperium - Uprising",
+    "4857580": "Dune: Awakening - Filmic Archive DLC"
+   }
+  },
+  "dune imperium uprising": {
+   "_fetched": 1791440774.8811955,
+   "results": {
+    "1172710": "Dune: Awakening",
+    "1605220": "Dune: Spice Wars",
+    "1689500": "Dune: Imperium",
+    "1833200": "DuneCrawl",
+    "3051590": "Dune: Imperium - Rise of Ix",
+    "3595530": "Dune: Imperium - Immortality",
+    "3604160": "Dune: Awakening - Dune (2021) Film Stillsuit",
+    "4319210": "Dune Rancher",
+    "4598200": "Dune: Imperium - Uprising",
+    "4857580": "Dune: Awakening - Filmic Archive DLC"
+   }
+  },
+  "eclipse second dawn for the galaxy": {
+   "_fetched": 1791440819.9705102,
+   "results": {
+    "2130460": "FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse",
+    "2626860": "Dragon Eclipse",
+    "2815060": "Eclipse Breaker",
+    "2846160": "Hunted on Eclipse-9",
+    "2952690": "Witch of Eclipse",
+    "2953480": "Lunar Eclipse",
+    "3280020": "Eclipse : Special Forces",
+    "418340": "RWBY: Grimm Eclipse",
+    "4616580": "Eden's Eclipse",
+    "782260": "Rogue Eclipse"
+   }
+  },
+  "el grande": {
+   "_fetched": 1791440950.5153308,
+   "results": {
+    "3943770": "Grand Elder\u200c Teaches You Immortal Cultivation"
+   }
+  },
+  "endeavor deep sea": {
+   "_fetched": 1791440906.472961,
+   "results": {
+    "1006410": "Tanks Endeavor",
+    "1490660": "Tanks Endeavor Demo",
+    "1643350": "Aliens: Fireteam Elite - Endeavor Veteran Pack",
+    "1705920": "Space Endeavor",
+    "1737110": "Endeavor: Rite of Passage",
+    "3008810": "Endeavor",
+    "3289080": "Endeavor Demo",
+    "3368710": "Endeavor Demo",
+    "4832390": "Sumeru Divine Endeavor",
+    "921540": "MY HERO ONE'S JUSTICE Playable Character: Pro Hero Endeavor"
+   }
+  },
+  "everdell": {
+   "_fetched": 1791440863.3358507,
+   "results": {
+    "1722840": "Everdell",
+    "2553410": "Welcome To Everdell",
+    "3029430": "Everdell - Glimmergold",
+    "4561450": "Everdell - Bellfaire"
+   }
+  },
+  "final girl": {
+   "_fetched": 1791440941.5769715,
+   "results": {
+    "2935380": "Little Fire Girl Fights Final Boss / \u5c0f\u7d05\u59d0\u6389\u7ad9\u7ec8\u6781Boss!",
+    "4287310": "Magical Girl: Final Simulation",
+    "4297450": "Magical Girl: Final Pink Star",
+    "4400220": "Magical Girl: Final Pink Star DEMO"
+   }
+  },
+  "five tribes the djinns of naqala": {
+   "_fetched": 1791440948.9230304,
+   "results": {
+    "15370": "Heroes of Might & Magic V: Tribes of the East"
+   }
+  },
+  "food chain magnate": {
+   "_fetched": 1791440877.8589153,
+   "results": {}
+  },
+  "frosthaven": {
+   "_fetched": 1791440814.9047198,
+   "results": {
+    "2347080": "Frosthaven",
+    "2399450": "Frosthaven: Official Companion"
+   }
+  },
+  "gaia project": {
+   "_fetched": 1791440795.719439,
+   "results": {
+    "1516400": "Gaia Project"
+   }
+  },
+  "gallerist": {
+   "_fetched": 1791440932.9755716,
+   "results": {}
+  },
+  "gloomhaven": {
+   "_fetched": 1791440771.7994587,
+   "results": {
+    "1809490": "Gloomhaven - Jaws of the Lion",
+    "1958560": "Gloomhaven - Solo Scenarios: Mercenary Challenges",
+    "2584170": "Gloomhaven - Jaws of the Lion Alternative Skins",
+    "780290": "Gloomhaven"
+   }
+  },
+  "gloomhaven jaws of the lion": {
+   "_fetched": 1791440793.360116,
+   "results": {
+    "1809490": "Gloomhaven - Jaws of the Lion",
+    "1958560": "Gloomhaven - Solo Scenarios: Mercenary Challenges",
+    "2584170": "Gloomhaven - Jaws of the Lion Alternative Skins",
+    "780290": "Gloomhaven"
+   }
+  },
+  "grand austria hotel": {
+   "_fetched": 1791440902.5049195,
+   "results": {}
+  },
+  "great western trail": {
+   "_fetched": 1791440817.204961,
+   "results": {}
+  },
+  "great western trail new zealand": {
+   "_fetched": 1791440910.957251,
+   "results": {}
+  },
+  "great western trail second edition": {
+   "_fetched": 1791440837.3392017,
+   "results": {}
+  },
+  "harmonies": {
+   "_fetched": 1791440874.8207657,
+   "results": {}
+  },
+  "heat pedal to the metal": {
+   "_fetched": 1791440869.6608303,
+   "results": {
+    "1222680": "Need for Speed\u2122 Heat",
+    "1594060": "Victory Heat Rally",
+    "1705180": "Gunner, HEAT, PC!",
+    "1962890": "IN HEAT: Lustful Nights",
+    "2100280": "World of Tanks: HEAT",
+    "2236060": "Anthro Heat",
+    "268130": "Heat Signature",
+    "3708690": "Trailmakers: Packing Heat",
+    "3883060": "D\u014dky\u016bsei 2: Winter Heat",
+    "4898550": "Heat: Pedal to the Metal",
+    "4925260": "Milfylicious: The Heat Rises"
+   }
+  },
+  "hegemony lead your class to victory": {
+   "_fetched": 1791440855.7836132,
+   "results": {
+    "1228440": "Maritime Hegemony\uff1a Carrier Travel  \u6d77\u4e0a\u9738\u4e3b\uff1a\u822a\u7a7a\u6bcd\u8230\u4e4b\u65c5",
+    "1351790": "Hegemony III: Isle of Giants",
+    "1567450": "Rise of Hegemony",
+    "202690": "Hegemony Gold: Wars of Ancient Greece",
+    "2082540": "\u822a\u6d77\u9738\u696d Maritime hegemony",
+    "227060": "Hegemony Rome: The Rise of Caesar",
+    "308170": "Hegemony Rome: The Rise of Caesar - Bannermen Pack",
+    "308173": "Hegemony III: Clash of the Ancients",
+    "502010": "Hegemony III: The Eagle King",
+    "940630": "Hexen Hegemony"
+   }
+  },
+  "kanban ev": {
+   "_fetched": 1791440858.1416435,
+   "results": {}
+  },
+  "kingdom death monster": {
+   "_fetched": 1791440945.7541676,
+   "results": {
+    "3368600": "Kingdom Come: Deliverance II Brushes with Death"
+   }
+  },
+  "le havre": {
+   "_fetched": 1791440926.89566,
+   "results": {
+    "511820": "Le Havre: The Inland Port"
+   }
+  },
+  "lisboa": {
+   "_fetched": 1791440908.8646207,
+   "results": {}
+  },
+  "lord of the rings duel for middle earth": {
+   "_fetched": 1791440807.8152635,
+   "results": {
+    "1003400": "The Lord of the Rings: Journeys in Middle-earth",
+    "1265780": "The Lord of the Rings: Gollum\u2122",
+    "2016460": "Tales of the Shire: A The Lord of The Rings\u2122 Game",
+    "212500": "The Lord of the Rings Online\u2122",
+    "214510": "LEGO\u00ae The Lord of the Rings\u2122",
+    "2523770": "The Lord of the Rings: War in the North\u2122 - Legacy Edition",
+    "2933130": "The Lord of the Rings: Return to Moria\u2122",
+    "3080090": "The Lord of the Rings: Return to Moria\u2122 Soundtrack",
+    "3308250": "The Lord of the Rings: Return to Moria\u2122 Rohan Pack",
+    "3560550": "The Lord of the Rings: Return to Moria\u2122 Ent-craft Pack"
+   }
+  },
+  "lord of the rings fate of the fellowship": {
+   "_fetched": 1791440879.2590213,
+   "results": {
+    "1003400": "The Lord of the Rings: Journeys in Middle-earth",
+    "1265780": "The Lord of the Rings: Gollum\u2122",
+    "2016460": "Tales of the Shire: A The Lord of The Rings\u2122 Game",
+    "212500": "The Lord of the Rings Online\u2122",
+    "214510": "LEGO\u00ae The Lord of the Rings\u2122",
+    "2523770": "The Lord of the Rings: War in the North\u2122 - Legacy Edition",
+    "2933130": "The Lord of the Rings: Return to Moria\u2122",
+    "3080090": "The Lord of the Rings: Return to Moria\u2122 Soundtrack",
+    "3308250": "The Lord of the Rings: Return to Moria\u2122 Rohan Pack",
+    "3560550": "The Lord of the Rings: Return to Moria\u2122 Ent-craft Pack"
+   }
+  },
+  "lost ruins of arnak": {
+   "_fetched": 1791440834.1843522,
+   "results": {
+    "3387300": "Lost Ruins of Arnak"
+   }
+  },
+  "mage knight board game": {
+   "_fetched": 1791440850.3471215,
+   "results": {}
+  },
+  "mansions of madness second edition": {
+   "_fetched": 1791440921.992213,
+   "results": {
+    "3156750": "Mansions of Madness - Turn of a Page",
+    "3157020": "Mansions of Madness - Mirror of a Man",
+    "478980": "Mansions of Madness",
+    "558370": "Mansions of Madness - What Lies Within",
+    "678220": "Mansions of Madness - Dark Reflections",
+    "929680": "Mansions of Madness - Altered Fates"
+   }
+  },
+  "maracaibo": {
+   "_fetched": 1791440937.459449,
+   "results": {}
+  },
+  "marvel champions the card game": {
+   "_fetched": 1791440874.1352956,
+   "results": {
+    "3127280": "Marvel Contest of Champions",
+    "720740": "LEGO\u00ae Marvel Super Heroes 2 - Champions Character Pack"
+   }
+  },
+  "mechs vs minions": {
+   "_fetched": 1791440940.8616245,
+   "results": {}
+  },
+  "nemesis": {
+   "_fetched": 1791440823.1182494,
+   "results": {
+    "11040": "Sherlock Holmes - Nemesis",
+    "1343620": "Nemesis: Distress",
+    "1522090": "Stellaris: Nemesis",
+    "1653160": "Nemesis - FDT",
+    "1915550": "Nemesis: Lockdown",
+    "2857560": "Helbreath Nemesis",
+    "2920450": "GigaBash - Godzilla: Nemesis DLC",
+    "4249120": "Resident Evil 3 Nemesis (1999)",
+    "537140": "Nemesis Perspective",
+    "716750": "Nemesis Realms"
+   }
+  },
+  "oathsworn into the deepwood": {
+   "_fetched": 1791440896.3202732,
+   "results": {}
+  },
+  "obsession": {
+   "_fetched": 1791440900.093405,
+   "results": {
+    "2614590": "Online Obsession",
+    "3707750": "Price of Obsession",
+    "3784580": "Goth Obsession: Touch Adventure",
+    "4249810": "The Obsession",
+    "4360430": "Hentai Obsession",
+    "4606070": "Deadly Obsession",
+    "4802380": "MILF Obsession",
+    "4844860": "Goth Obsession: SMASH IT!",
+    "4944710": "Untold Memories: Obsession",
+    "4956550": "STAY: Possession \u2022 Obsession \u2022 Permanence"
+   }
+  },
+  "on mars": {
+   "_fetched": 1791440887.555514,
+   "results": {
+    "1120920": "ELON on MARS",
+    "1340570": "Golf On Mars",
+    "1619110": "Walk On Mars",
+    "1637490": "Alone on Mars",
+    "2138560": "Dissent on Mars",
+    "2422390": "Citizens: On Mars - Prologue",
+    "244030": "Take On Mars",
+    "4269050": "Cars on Mars",
+    "677910": "Life on Mars Remake",
+    "761820": "Far Cry\u00ae 5 - Lost On Mars"
+   }
+  },
+  "orleans": {
+   "_fetched": 1791440844.0574265,
+   "results": {
+    "1040501": "Tabletopia - Orl\u00e9ans",
+    "1816663": "X-Plane 11 - Add-on: Verticalsim - KMSY - New Orleans International Airport XP",
+    "2729450": "Profiler Files - New Orleans",
+    "2729750": "Profiler Files - New Orleans - Demo",
+    "457470": "Fantasy Grounds - Call of Cthulhu: Secrets of New Orleans",
+    "626536": "Fate/EXTELLA - Girl from Orl\u00e9ans",
+    "632370": "Tower!2011:SE - New Orleans [KMSY] Airport",
+    "702963": "FSX Steam Edition: US Cities X: New Orleans Add-On"
+   }
+  },
+  "paladins of the west kingdom": {
+   "_fetched": 1791440926.1236422,
+   "results": {}
+  },
+  "pandemic legacy season 0": {
+   "_fetched": 1791440888.9336233,
+   "results": {}
+  },
+  "pandemic legacy season 1": {
+   "_fetched": 1791440771.07333,
+   "results": {}
+  },
+  "pandemic legacy season 2": {
+   "_fetched": 1791440912.312445,
+   "results": {}
+  },
+  "pax pamir second edition": {
+   "_fetched": 1791440883.6816208,
+   "results": {}
+  },
+  "power grid": {
+   "_fetched": 1791440913.0634727,
+   "results": {
+    "1110100": "Power Rangers: Battle for the Grid",
+    "1120461": "Power Rangers: Battle for the Grid - Lord Zedd",
+    "1136312": "Power Rangers: Battle for the Grid - Drakkon Evo 2 Skin",
+    "1147382": "Power Rangers: Battle for the Grid - Eric Myers Time Force Quantum Ranger",
+    "1147383": "Power Rangers: Battle for the Grid - Dai Shi",
+    "1331021": "Power Rangers: Battle for the Grid - Scorpina",
+    "2983910": "Power Grid",
+    "3837330": "Power Grid Panic",
+    "5228130": "Power Grid Tycoon",
+    "5230530": "Power Grid Tycoon"
+   }
+  },
+  "puerto rico": {
+   "_fetched": 1791440885.183162,
+   "results": {
+    "4466790": "Puerto Rico Racing: La Fiebre"
+   }
+  },
+  "quacks": {
+   "_fetched": 1791440924.7445154,
+   "results": {
+    "2331980": "Unrelaxing Quacks",
+    "3259380": "Bouncing to the top with Quantum Quacks",
+    "3854970": "Bouncing to the top with Quantum Quacks Demo",
+    "3937960": "QuackSquad",
+    "4095980": "QuackSquad Soundtrack"
+   }
+  },
+  "race for the galaxy": {
+   "_fetched": 1791440942.30026,
+   "results": {
+    "579940": "Race for the Galaxy",
+    "647070": "Race for the Galaxy: Gathering Storm",
+    "647071": "Race for the Galaxy: Rebel vs Imperium",
+    "762070": "Race for the Galaxy: Brink of War"
+   }
+  },
+  "revive": {
+   "_fetched": 1791440938.1790838,
+   "results": {
+    "2247760": "Revive & Prosper",
+    "3012220": "Double Dragon Revive",
+    "3125530": "revive of the moon(\u30ea\u30d0\u30a4\u30d6\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30e0\u30fc\u30f3)",
+    "3191050": "BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT",
+    "3247080": "UNLIGHT:Revive",
+    "3573190": "Revive! Onsen Town!",
+    "3600770": "BAROQUE ~ Become a Meta-Being ~ Revive",
+    "3692490": "Revive & Repeat",
+    "3919900": "Dead Zone Revive",
+    "4740210": "Revive the Moonlight with Stardust"
+   }
+  },
+  "root": {
+   "_fetched": 1791440841.6721656,
+   "results": {
+    "1462460": "Root - The Clockwork Expansion",
+    "1586100": "Root: The Riverfolk Expansion",
+    "1605810": "Root Soundtrack",
+    "2253060": "Root: The Underworld Expansion",
+    "2556750": "Taking Root",
+    "2754380": "The Roottrees are Dead",
+    "3346620": "Root: The Marauder Expansion",
+    "3874110": "Root: Hirelings & Landmarks",
+    "809500": "Brazilian Root\u00ae",
+    "965580": "Root"
+   }
+  },
+  "scythe": {
+   "_fetched": 1791440826.269595,
+   "results": {
+    "1021190": "Scythe: Digital Edition - Invaders from Afar",
+    "1351420": "Tabletopia - Scythe: The Rise of Fenris",
+    "2745120": "Scythe Machine",
+    "315150": "Fable Anniversary - Scythe Content Pack",
+    "3627410": "Stick Figure Combat - Scythe",
+    "3754920": "Gothic Scythe",
+    "414231": "Tabletopia - Scythe",
+    "414238": "Tabletopia - Scythe: The Wind Gambit",
+    "718560": "Scythe: Digital Edition",
+    "893130": "Scythe: Digital Edition - Soundtrack"
+   }
+  },
+  "seti search for extraterrestrial intelligence": {
+   "_fetched": 1791440798.7133708,
+   "results": {
+    "4316760": "Set In Stone",
+    "4336980": "Set In Stone",
+    "4617250": "Set In Stone Demo",
+    "4654460": "Set In Stone Demo",
+    "5260120": "Blackwood: A S\u00e9tima Safra",
+    "5328950": "Blackwood: A S\u00e9tima Safra Demo"
+   }
+  },
+  "sky team": {
+   "_fetched": 1791440838.0136461,
+   "results": {}
+  },
+  "slay the spire the board game": {
+   "_fetched": 1791440800.091125,
+   "results": {
+    "1865780": "Downfall - A Slay the Spire Fan Expansion",
+    "2868840": "Slay the Spire 2",
+    "646570": "Slay the Spire",
+    "877620": "Slay the Spire - Soundtrack"
+   }
+  },
+  "sleeping gods": {
+   "_fetched": 1791440915.6170602,
+   "results": {}
+  },
+  "spirit island": {
+   "_fetched": 1791440790.2736278,
+   "results": {
+    "1236720": "Spirit Island",
+    "1409120": "Spirit Island - Promo Pack 1: Flame",
+    "1480780": "Spirit Island - Original Soundtrack",
+    "1516480": "Spirit Island - Branch & Claw",
+    "2419040": "Spirit Island - Horizons of Spirit Island",
+    "2419041": "Spirit Island - Jagged Earth",
+    "2419042": "Spirit Island - Promo Pack 2: Feather",
+    "2737080": "Spirit Island (Original Game Soundtrack): Volume Two",
+    "3973840": "Spirit Island - Nature Incarnate",
+    "4241910": "Spirit Island Original Game Soundtrack: Volume Three"
+   }
+  },
+  "star wars imperial assault": {
+   "_fetched": 1791440935.1167386,
+   "results": {
+    "1172380": "STAR WARS Jedi: Fallen Order\u2122",
+    "1222730": "STAR WARS\u2122: Squadrons",
+    "1237950": "STAR WARS\u2122 Battlefront\u2122 II",
+    "1286830": "STAR WARS\u2122: The Old Republic\u2122",
+    "1774580": "STAR WARS Jedi: Survivor\u2122",
+    "2075800": "STAR WARS Zero Company\u2122",
+    "2842040": "Star Wars Outlaws",
+    "32440": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+    "4078430": "STAR WARS: Galactic Racer\u2122",
+    "703980": "Star Wars: Imperial Assault - Legends of the Alliance",
+    "920210": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
+   }
+  },
+  "star wars rebellion": {
+   "_fetched": 1791440787.9416344,
+   "results": {
+    "1172380": "STAR WARS Jedi: Fallen Order\u2122",
+    "1222730": "STAR WARS\u2122: Squadrons",
+    "1237950": "STAR WARS\u2122 Battlefront\u2122 II",
+    "1286830": "STAR WARS\u2122: The Old Republic\u2122",
+    "1774580": "STAR WARS Jedi: Survivor\u2122",
+    "2075800": "STAR WARS Zero Company\u2122",
+    "2842040": "Star Wars Outlaws",
+    "32440": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+    "4078430": "STAR WARS: Galactic Racer\u2122",
+    "920210": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
+   }
+  },
+  "terra mystica": {
+   "_fetched": 1791440844.7813404,
+   "results": {
+    "628900": "Terra Mystica"
+   }
+  },
+  "terraforming mars": {
+   "_fetched": 1791440784.9335556,
+   "results": {
+    "1245590": "Terraforming Mars - Prelude",
+    "1785010": "Terraforming Mars - Hellas & Elysium",
+    "2625120": "Terraforming Mars - Venus Next",
+    "2948100": "Terraforming Mars - Original Promo Pack",
+    "2948110": "Terraforming Mars - Big Box Promo Pack",
+    "3078860": "All On Board! - Terraforming Mars",
+    "4143120": "Terraforming Mars - Colonies",
+    "800270": "Terraforming Mars"
+   }
+  },
+  "through the ages a new story of civilization": {
+   "_fetched": 1791440810.8553882,
+   "results": {
+    "1100960": "Through the Ages - New Leaders & Wonders",
+    "1228470": "Ship Surveyor Through the Ages - VR",
+    "2657480": "Cricket Through the Ages",
+    "3477620": "Through The Ages",
+    "462290": "Victor Vran: M\u00f6torhead Through The Ages",
+    "758370": "Through the Ages"
+   }
+  },
+  "ticket to ride legacy legends of the west": {
+   "_fetched": 1791440872.7592924,
+   "results": {}
+  },
+  "too many bones": {
+   "_fetched": 1791440847.16496,
+   "results": {}
+  },
+  "twilight imperium fourth edition": {
+   "_fetched": 1791440781.0958445,
+   "results": {
+    "3669430": "Twilight Imperium Digital"
+   }
+  },
+  "twilight struggle": {
+   "_fetched": 1791440802.415782,
+   "results": {
+    "1276130": "Twilight Struggle: Red Sea",
+    "406290": "Twilight Struggle",
+    "558480": "Twilight Struggle - Turn Zero & Promo Cards"
+   }
+  },
+  "tzolk in the mayan calendar": {
+   "_fetched": 1791440917.1066613,
+   "results": {}
+  },
+  "underwater cities": {
+   "_fetched": 1791440875.5439775,
+   "results": {
+    "2182320": "Underwater Cities"
+   }
+  },
+  "viticulture essential edition": {
+   "_fetched": 1791440859.5149717,
+   "results": {
+    "1325800": "Viticulture Essential Edition",
+    "414235": "Tabletopia - Viticulture: Essential Edition"
+   }
+  },
+  "voidfall": {
+   "_fetched": 1791440918.5666943,
+   "results": {
+    "4632760": "VoidFall",
+    "4808510": "Qliphah in Providence's Shadow Extra Battle: Voidfall",
+    "4875310": "Icon: Voidfall",
+    "4950800": "Icon: Voidfall Demo"
+   }
+  },
+  "war of the ring second edition": {
+   "_fetched": 1791440784.2421424,
+   "results": {
+    "2523770": "The Lord of the Rings: War in the North\u2122 - Legacy Edition"
+   }
+  },
+  "white castle": {
+   "_fetched": 1791440909.5711205,
+   "results": {}
+  },
+  "wingspan": {
+   "_fetched": 1791440848.0260508,
+   "results": {
+    "1054490": "Wingspan",
+    "1332420": "Wingspan Soundtrack",
+    "1741470": "Wingspan: European Expansion",
+    "1816700": "Wingspan: Seasonal Decorative Pack",
+    "1962870": "Wingspan: Oceania Expansion",
+    "3320750": "Wingspan - Seasonal Decorative Pack 2",
+    "3362880": "Wingspan: Asia Expansion",
+    "4677530": "Wingspan: Bird Packs Season Pass",
+    "4683500": "Wingspan Bird Pack: British Birds",
+    "988180": "Tabletopia - Wingspan"
+   }
+  },
+  "wingspan asia": {
+   "_fetched": 1791440935.9317517,
+   "results": {
+    "3362880": "Wingspan: Asia Expansion",
+    "4847570": "Wingspan Bird Pack: Additional Asian Avians"
+   }
+  }
+ }
+}

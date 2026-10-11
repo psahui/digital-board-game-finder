@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T05:53+00:00",
+ "generated": "2026-10-11T07:06+00:00",
  "country": "au",
  "top_n": 500,
  "games": [
@@ -46,7 +46,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": true
   },
   {
    "bgg_id": 342942,
@@ -102,7 +103,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13603078
+    "plays": 13616457
    },
    "steam": [
     {
@@ -137,7 +138,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 161936,
@@ -174,7 +176,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 174430,
@@ -249,7 +252,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 397598,
@@ -320,7 +324,8 @@
     }
    ],
    "vtt": [],
-   "note": "Steam DLC for Dune: Imperium - you need the base game too."
+   "note": "Steam DLC for Dune: Imperium - you need the base game too.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 316554,
@@ -396,7 +401,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 233078,
@@ -456,7 +462,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 4529
+    "plays": 4553
    },
    "steam": [
     {
@@ -491,7 +497,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 115746,
@@ -528,7 +535,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 167791,
@@ -589,7 +597,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5565419
+    "plays": 5572660
    },
    "steam": [
     {
@@ -626,7 +634,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 187645,
@@ -663,7 +672,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 162886,
@@ -739,7 +749,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 291457,
@@ -814,7 +825,8 @@
     }
    ],
    "vtt": [],
-   "note": "Jaws of the Lion is a DLC campaign inside Gloomhaven digital."
+   "note": "Jaws of the Lion is a DLC campaign inside Gloomhaven digital.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 220308,
@@ -874,7 +886,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 484659
+    "plays": 484976
    },
    "steam": [
     {
@@ -912,7 +924,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 418059,
@@ -949,7 +962,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 338960,
@@ -1020,7 +1034,8 @@
     }
    ],
    "vtt": [],
-   "note": "This is the original video game the board game is based on."
+   "note": "This is the original video game the board game is based on.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 12333,
@@ -1093,7 +1108,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 84876,
@@ -1149,7 +1165,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4532169
+    "plays": 4535321
    },
    "steam": [
     {
@@ -1187,7 +1203,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 421006,
@@ -1222,7 +1239,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 182028,
@@ -1295,7 +1313,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 295770,
@@ -1368,7 +1387,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 193738,
@@ -1406,7 +1426,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 28720,
@@ -1449,7 +1470,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": true
   },
   {
    "bgg_id": 246900,
@@ -1526,7 +1548,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 173346,
@@ -1577,11 +1600,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 14303128
+    "plays": 14309140
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 167355,
@@ -1653,7 +1677,8 @@
     }
    ],
    "vtt": [],
-   "note": "Digital adaptation of the standalone Nemesis: Lockdown."
+   "note": "Digital adaptation of the standalone Nemesis: Lockdown.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 177736,
@@ -1708,11 +1733,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 516966
+    "plays": 517233
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 169786,
@@ -1772,7 +1798,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 134954
+    "plays": 135103
    },
    "steam": [
     {
@@ -1814,7 +1840,8 @@
      "url": "https://store.steampowered.com/app/414231/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 266507,
@@ -1850,7 +1877,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 124361,
@@ -1907,7 +1935,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 56502
+    "plays": 56563
    },
    "steam": [
     {
@@ -1945,7 +1973,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 312484,
@@ -1999,7 +2028,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3379728
+    "plays": 3382228
    },
    "steam": [
     {
@@ -2035,7 +2064,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 341169,
@@ -2087,11 +2117,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 424633
+    "plays": 424845
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 373106,
@@ -2139,11 +2170,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1003938
+    "plays": 1004721
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 205637,
@@ -2184,7 +2216,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 237182,
@@ -2261,7 +2294,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 164928,
@@ -2314,7 +2348,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 88726
+    "plays": 88786
    },
    "steam": [],
    "vtt": [
@@ -2324,7 +2358,8 @@
      "url": "https://store.steampowered.com/app/1040501/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 120677,
@@ -2383,7 +2418,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 904111
+    "plays": 904316
    },
    "steam": [
     {
@@ -2421,7 +2456,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 192135,
@@ -2463,7 +2499,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 266192,
@@ -2524,7 +2561,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10491717
+    "plays": 10500601
    },
    "steam": [
     {
@@ -2572,7 +2609,8 @@
      "url": "https://store.steampowered.com/app/988180/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 96848,
@@ -2612,7 +2650,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 251247,
@@ -2664,7 +2703,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 313441
+    "plays": 313561
    },
    "steam": [
     {
@@ -2699,7 +2738,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 321608,
@@ -2753,11 +2793,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 25412
+    "plays": 25640
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 284378,
@@ -2796,7 +2837,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 521,
@@ -2864,7 +2906,8 @@
     }
    ],
    "vtt": [],
-   "note": "Physics-based digital crokinole board."
+   "note": "Physics-based digital crokinole board.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 183394,
@@ -2949,7 +2992,8 @@
      "url": "https://store.steampowered.com/app/414235/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 324856,
@@ -3004,11 +3048,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 340643
+    "plays": 340762
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 365717,
@@ -3080,7 +3125,8 @@
     }
    ],
    "vtt": [],
-   "note": "Digital version of the original Clank!, not Catacombs."
+   "note": "Digital version of the original Clank!, not Catacombs.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 199792,
@@ -3160,7 +3206,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 366013,
@@ -3220,7 +3267,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 922308
+    "plays": 922982
    },
    "steam": [
     {
@@ -3257,7 +3304,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 390092,
@@ -3294,7 +3342,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 285774,
@@ -3333,7 +3382,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 414317,
@@ -3389,11 +3439,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3346078
+    "plays": 3350874
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 247763,
@@ -3466,7 +3517,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 175914,
@@ -3507,7 +3559,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 436217,
@@ -3562,7 +3615,8 @@
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 253344,
@@ -3604,7 +3658,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 256960,
@@ -3662,11 +3717,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 92517
+    "plays": 92574
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 383179,
@@ -3722,11 +3778,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 245098
+    "plays": 245380
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 3076,
@@ -3780,11 +3837,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2912119
+    "plays": 2912653
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 184267,
@@ -3827,7 +3885,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 314040,
@@ -3866,7 +3925,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 295947,
@@ -3943,7 +4003,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 102794,
@@ -4004,7 +4065,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 119205
+    "plays": 119242
    },
    "steam": [
     {
@@ -4042,7 +4103,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 185343,
@@ -4096,11 +4158,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 52671
+    "plays": 52683
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 240980,
@@ -4145,7 +4208,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 251661,
@@ -4190,7 +4254,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 31260,
@@ -4233,7 +4298,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 231733,
@@ -4284,11 +4350,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 326978
+    "plays": 327120
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 182874,
@@ -4324,7 +4391,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 170216,
@@ -4379,7 +4447,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 105826
+    "plays": 105855
    },
    "steam": [
     {
@@ -4420,7 +4488,8 @@
      "url": "https://store.steampowered.com/app/610700/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 367966,
@@ -4458,7 +4527,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 161533,
@@ -4500,7 +4570,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 371942,
@@ -4555,11 +4626,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 636047
+    "plays": 636788
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 380607,
@@ -4596,7 +4668,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 221107,
@@ -4635,7 +4708,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 2651,
@@ -4709,7 +4783,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 255984,
@@ -4749,7 +4824,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 126163,
@@ -4803,11 +4879,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 802714
+    "plays": 802834
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 216132,
@@ -4862,11 +4939,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 384186
+    "plays": 384273
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 337627,
@@ -4907,7 +4985,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 205059,
@@ -4982,7 +5061,8 @@
     }
    ],
    "vtt": [],
-   "note": "Standalone digital game set in the Mansions of Madness world (the official Steam app is only a companion for the physical box)."
+   "note": "Standalone digital game set in the Mansions of Madness world (the official Steam app is only a companion for the physical box).",
+   "steam_delisted": false
   },
   {
    "bgg_id": 244521,
@@ -5021,7 +5101,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 413246,
@@ -5058,7 +5139,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 266810,
@@ -5109,11 +5191,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 13727
+    "plays": 13924
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 35677,
@@ -5154,7 +5237,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 124742,
@@ -5192,7 +5276,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 125153,
@@ -5231,7 +5316,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 200680,
@@ -5285,11 +5371,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1901787
+    "plays": 1902905
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 164153,
@@ -5332,7 +5419,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 366161,
@@ -5370,7 +5458,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 322289,
@@ -5423,11 +5512,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 197437
+    "plays": 197583
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 276025,
@@ -5482,11 +5572,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 96528
+    "plays": 96580
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 332772,
@@ -5539,11 +5630,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 84736
+    "plays": 84821
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 209010,
@@ -5582,7 +5674,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 277659,
@@ -5617,7 +5710,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 28143,
@@ -5675,7 +5769,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 16992729
+    "plays": 16995417
    },
    "steam": [
     {
@@ -5710,7 +5804,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 55690,
@@ -5752,7 +5847,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 284083,
@@ -5806,11 +5902,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 562393
+    "plays": 562689
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 157354,
@@ -5861,11 +5958,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 70710
+    "plays": 70743
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 230802,
@@ -5917,11 +6015,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 29018567
+    "plays": 29035107
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 93,
@@ -5972,11 +6071,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31600
+    "plays": 31615
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 159675,
@@ -6014,7 +6114,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 359871,
@@ -6053,7 +6154,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 359609,
@@ -6096,7 +6198,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 256916,
@@ -6134,7 +6237,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 201808,
@@ -6208,7 +6312,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 391137,
@@ -6264,11 +6369,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 97458
+    "plays": 97581
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 72125,
@@ -6313,7 +6419,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": true
   },
   {
    "bgg_id": 110327,
@@ -6387,7 +6494,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 191189,
@@ -6460,7 +6568,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 291453,
@@ -6534,7 +6643,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 364073,
@@ -6583,11 +6693,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1119203
+    "plays": 1120245
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 12,
@@ -6624,7 +6735,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 229853,
@@ -6676,7 +6788,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 135217
+    "plays": 135238
    },
    "steam": [
     {
@@ -6708,7 +6820,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 317985,
@@ -6760,11 +6873,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 244491
+    "plays": 244541
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 62219,
@@ -6806,7 +6920,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 225694,
@@ -6863,11 +6978,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 66482
+    "plays": 66513
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 68448,
@@ -6928,11 +7044,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 12453648
+    "plays": 12456937
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 279537,
@@ -6971,7 +7088,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 25613,
@@ -7021,7 +7139,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1217066
+    "plays": 1217461
    },
    "steam": [
     {
@@ -7057,7 +7175,8 @@
     }
    ],
    "vtt": [],
-   "note": "Digital version is of the newer edition, A New Story of Civilization."
+   "note": "Digital version is of the newer edition, A New Story of Civilization.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 217372,
@@ -7095,7 +7214,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 121921,
@@ -7138,7 +7258,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 171623,
@@ -7192,11 +7313,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 433524
+    "plays": 433631
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 410201,
@@ -7271,7 +7393,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 163068,
@@ -7308,7 +7431,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 155821,
@@ -7347,7 +7471,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 429293,
@@ -7386,7 +7511,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 37111,
@@ -7428,7 +7554,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 396790,
@@ -7482,11 +7609,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 26866
+    "plays": 26999
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 310873,
@@ -7540,7 +7668,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 141229
+    "plays": 141252
    },
    "steam": [
     {
@@ -7572,7 +7700,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 310100,
@@ -7646,7 +7775,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 271055,
@@ -7687,7 +7817,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 356080,
@@ -7726,7 +7857,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 236457,
@@ -7782,11 +7914,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87086
+    "plays": 87111
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 227935,
@@ -7822,7 +7955,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 42,
@@ -7874,11 +8008,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 49156
+    "plays": 49173
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 40834,
@@ -7949,7 +8084,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 122515,
@@ -8008,11 +8144,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 83305
+    "plays": 83307
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 170042,
@@ -8091,7 +8228,8 @@
      "url": "https://store.steampowered.com/app/931790/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 4098,
@@ -8133,7 +8271,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 146021,
@@ -8204,7 +8343,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 264220,
@@ -8275,7 +8415,8 @@
     }
    ],
    "vtt": [],
-   "note": "An open-world RPG set in the same world - not a port of the board game."
+   "note": "An open-world RPG set in the same world - not a port of the board game.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 18602,
@@ -8329,11 +8470,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 127001
+    "plays": 127008
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 73439,
@@ -8384,11 +8526,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 157786
+    "plays": 157802
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 203993,
@@ -8441,7 +8584,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 36042
+    "plays": 36095
    },
    "steam": [
     {
@@ -8475,7 +8618,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 269385,
@@ -8515,7 +8659,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": "Steam has only a free companion app that runs alongside the physical game."
+   "note": "Steam has only a free companion app that runs alongside the physical game.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 36218,
@@ -8589,7 +8734,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 43015,
@@ -8626,7 +8772,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 172386,
@@ -8662,7 +8809,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 163412,
@@ -8713,7 +8861,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3286383
+    "plays": 3287798
    },
    "steam": [
     {
@@ -8751,7 +8899,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 391163,
@@ -8806,11 +8955,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5485551
+    "plays": 5492716
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 102680,
@@ -8847,7 +8997,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 218417,
@@ -8917,7 +9068,8 @@
     }
    ],
    "vtt": [],
-   "note": "Digital version of the original Aeon's End, not this box."
+   "note": "Digital version of the original Aeon's End, not this box.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 144733,
@@ -8968,11 +9120,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 223163
+    "plays": 223194
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 12493,
@@ -9044,7 +9197,8 @@
     }
    ],
    "vtt": [],
-   "note": "The digital version is of the Fourth Edition."
+   "note": "The digital version is of the Fourth Edition.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 205896,
@@ -9085,7 +9239,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 175640,
@@ -9122,7 +9277,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 175155,
@@ -9160,7 +9316,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 400602,
@@ -9200,7 +9357,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 196340,
@@ -9249,11 +9407,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87161
+    "plays": 87185
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 254640,
@@ -9309,11 +9468,12 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 286075
+    "plays": 286215
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 325494,
@@ -9354,7 +9514,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 178900,
@@ -9436,7 +9597,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 198928,
@@ -9476,7 +9638,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 358661,
@@ -9515,7 +9678,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 233371,
@@ -9552,7 +9716,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 189932,
@@ -9588,7 +9753,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 235802,
@@ -9627,7 +9793,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 258779,
@@ -9689,11 +9856,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 395864
+    "plays": 396108
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 220877,
@@ -9734,7 +9902,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 463,
@@ -9772,7 +9941,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 172287,
@@ -9851,7 +10021,8 @@
      "url": "https://store.steampowered.com/app/414230/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 180263,
@@ -9889,7 +10060,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 304783,
@@ -9942,11 +10114,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 167203
+    "plays": 167279
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 209418,
@@ -10016,7 +10189,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 30549,
@@ -10072,11 +10246,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1560548
+    "plays": 1561357
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": true
   },
   {
    "bgg_id": 132531,
@@ -10135,7 +10310,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1082344
+    "plays": 1082506
    },
    "steam": [
     {
@@ -10172,7 +10347,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 118048,
@@ -10219,11 +10395,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 591548
+    "plays": 591686
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 147020,
@@ -10293,7 +10470,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 420033,
@@ -10332,7 +10510,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 14996,
@@ -10383,7 +10562,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3308710
+    "plays": 3311644
    },
    "steam": [
     {
@@ -10419,7 +10598,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 161970,
@@ -10472,11 +10652,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 9333
+    "plays": 9373
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 249259,
@@ -10527,11 +10708,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 565568
+    "plays": 566014
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 266524,
@@ -10586,11 +10768,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 161278
+    "plays": 161380
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 263918,
@@ -10660,7 +10843,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1725013
+    "plays": 1726275
    },
    "steam": [
     {
@@ -10693,7 +10876,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 268864,
@@ -10729,7 +10913,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": true
   },
   {
    "bgg_id": 262712,
@@ -10780,11 +10965,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1332573
+    "plays": 1332914
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 271324,
@@ -10841,11 +11027,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4301103
+    "plays": 4303622
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 77423,
@@ -10915,7 +11102,8 @@
     }
    ],
    "vtt": [],
-   "note": "Digital version is a reworked single-player take (Adventure Card Game), not a straight port."
+   "note": "Digital version is a reworked single-player take (Adventure Card Game), not a straight port.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 400366,
@@ -10968,11 +11156,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 73528
+    "plays": 73774
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 34635,
@@ -11029,7 +11218,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5953175
+    "plays": 5954459
    },
    "steam": [
     {
@@ -11067,7 +11256,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 316377,
@@ -11112,7 +11302,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 271896,
@@ -11152,7 +11343,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 274364,
@@ -11201,11 +11393,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 26307
+    "plays": 26337
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 328871,
@@ -11243,7 +11436,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 294484,
@@ -11311,7 +11505,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 148949,
@@ -11386,7 +11581,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 308765,
@@ -11439,11 +11635,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 49509
+    "plays": 49556
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 364011,
@@ -11479,7 +11676,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 82222,
@@ -11530,7 +11728,8 @@
      "url": "https://store.steampowered.com/app/468737/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 296151,
@@ -11569,7 +11768,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 146652,
@@ -11609,7 +11809,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 54043,
@@ -11658,11 +11859,12 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 2991864
+    "plays": 2992378
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 416851,
@@ -11716,11 +11918,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2513786
+    "plays": 2516648
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 375459,
@@ -11759,7 +11962,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 244522,
@@ -11829,7 +12033,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 103885,
@@ -11870,7 +12075,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 265188,
@@ -11910,7 +12116,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 127023,
@@ -11949,7 +12156,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 283948,
@@ -12001,11 +12209,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 132089
+    "plays": 132118
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 2511,
@@ -12044,7 +12253,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 281259,
@@ -12103,7 +12313,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 348706
+    "plays": 348867
    },
    "steam": [
     {
@@ -12145,7 +12355,8 @@
      "url": "https://store.steampowered.com/app/1419900/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 374173,
@@ -12181,7 +12392,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 233398,
@@ -12221,7 +12433,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 332686,
@@ -12265,7 +12478,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 350184,
@@ -12323,11 +12537,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 431821
+    "plays": 432044
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 339789,
@@ -12388,11 +12603,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 302365
+    "plays": 302638
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 283355,
@@ -12433,7 +12649,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 329082,
@@ -12468,7 +12685,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 233867,
@@ -12534,11 +12752,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3059048
+    "plays": 3060103
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 314491,
@@ -12580,7 +12799,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 43111,
@@ -12621,7 +12841,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 342070,
@@ -12661,7 +12882,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 118,
@@ -12698,7 +12920,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 188920,
@@ -12765,7 +12988,8 @@
     }
    ],
    "vtt": [],
-   "note": "This is the original video game the board game is based on."
+   "note": "This is the original video game the board game is based on.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 227224,
@@ -12838,7 +13062,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 10630,
@@ -12885,11 +13110,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 769490
+    "plays": 769856
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 199561,
@@ -12963,7 +13189,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 242302,
@@ -13018,11 +13245,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4072281
+    "plays": 4074425
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 9609,
@@ -13062,7 +13290,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 256680,
@@ -13101,7 +13330,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 367150,
@@ -13142,7 +13372,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 381248,
@@ -13200,11 +13431,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 32561
+    "plays": 33227
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 299659,
@@ -13244,7 +13476,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 104162,
@@ -13284,7 +13517,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 39463,
@@ -13326,7 +13560,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 25021,
@@ -13364,7 +13599,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 300531,
@@ -13406,7 +13642,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 155426,
@@ -13458,11 +13695,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 82803
+    "plays": 82884
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 188,
@@ -13520,11 +13758,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 93170
+    "plays": 93203
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 822,
@@ -13581,7 +13820,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15663390
+    "plays": 15669742
    },
    "steam": [
     {
@@ -13619,7 +13858,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 128882,
@@ -13665,7 +13905,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 103343,
@@ -13739,7 +13980,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 31627,
@@ -13805,7 +14047,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 148228,
@@ -13858,7 +14101,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 11101706
+    "plays": 11108179
    },
    "steam": [
     {
@@ -13896,7 +14139,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 17133,
@@ -13951,11 +14195,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 37342
+    "plays": 37346
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 287954,
@@ -14007,11 +14252,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 577225
+    "plays": 577643
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 282524,
@@ -14050,7 +14296,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 70149,
@@ -14091,7 +14338,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 171131,
@@ -14131,7 +14379,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 104006,
@@ -14170,7 +14419,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 269207,
@@ -14211,7 +14461,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 367220,
@@ -14261,11 +14512,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4390987
+    "plays": 4394509
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 385761,
@@ -14323,11 +14575,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3260192
+    "plays": 3264525
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 215,
@@ -14376,7 +14629,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 323589
+    "plays": 323790
    },
    "steam": [
     {
@@ -14442,7 +14695,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 123260,
@@ -14482,7 +14736,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 150376,
@@ -14523,7 +14778,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 14105,
@@ -14559,7 +14815,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 293014,
@@ -14614,11 +14871,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 318456
+    "plays": 318510
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 285967,
@@ -14659,7 +14917,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 241451,
@@ -14728,7 +14987,8 @@
     }
    ],
    "vtt": [],
-   "note": "Digital version of the original Aeon's End, not this box."
+   "note": "Digital version of the original Aeon's End, not this box.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 165722,
@@ -14763,7 +15023,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 7854,
@@ -14811,11 +15072,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 34732
+    "plays": 34771
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 9209,
@@ -14869,7 +15131,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17922639
+    "plays": 17932717
    },
    "steam": [
     {
@@ -14905,7 +15167,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 434654,
@@ -14950,11 +15213,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1411779
+    "plays": 1414443
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 329839,
@@ -14993,7 +15257,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 91,
@@ -15030,7 +15295,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 188834,
@@ -15077,7 +15343,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 182631,
@@ -15144,7 +15411,8 @@
     }
    ],
    "vtt": [],
-   "note": "Digital Star Realms, with Colony Wars as an add-on."
+   "note": "Digital Star Realms, with Colony Wars as an add-on.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 306735,
@@ -15178,7 +15446,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 260605,
@@ -15221,7 +15490,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 245638,
@@ -15257,7 +15527,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 223040,
@@ -15295,7 +15566,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 54998,
@@ -15336,7 +15608,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 295486,
@@ -15386,11 +15659,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 68194
+    "plays": 68203
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 126042,
@@ -15430,7 +15704,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 295895,
@@ -15486,11 +15761,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 202926
+    "plays": 203112
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 283155,
@@ -15567,7 +15843,8 @@
     }
    ],
    "vtt": [],
-   "note": "Digital version is called Quilts and Cats of Calico."
+   "note": "Digital version is called Quilts and Cats of Calico.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 224037,
@@ -15639,7 +15916,8 @@
     }
    ],
    "vtt": [],
-   "note": "Digital version is the original Codenames."
+   "note": "Digital version is the original Codenames.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 232832,
@@ -15681,7 +15959,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 351913,
@@ -15719,7 +15998,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 454103,
@@ -15761,7 +16041,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 146886,
@@ -15814,11 +16095,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 231880
+    "plays": 231922
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 21050,
@@ -15854,7 +16136,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 150145,
@@ -15913,11 +16196,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 417076
+    "plays": 417851
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 195421,
@@ -15957,7 +16241,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 3,
@@ -15993,7 +16278,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 129437,
@@ -16030,7 +16316,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 158600,
@@ -16076,11 +16363,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 219209
+    "plays": 219354
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 221194,
@@ -16118,7 +16406,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 446497,
@@ -16159,7 +16448,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 329500,
@@ -16199,7 +16489,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 192291,
@@ -16258,11 +16549,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 387010
+    "plays": 387159
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 232405,
@@ -16298,7 +16590,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 199478,
@@ -16334,7 +16627,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 19777,
@@ -16381,7 +16675,8 @@
      "url": "https://store.steampowered.com/app/468721/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 176189,
@@ -16431,7 +16726,8 @@
      "url": "https://store.steampowered.com/app/468726/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 274637,
@@ -16501,7 +16797,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 156129,
@@ -16546,7 +16843,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 176494,
@@ -16620,7 +16918,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 284189,
@@ -16661,7 +16960,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 19857,
@@ -16701,7 +17001,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 311193,
@@ -16773,7 +17074,8 @@
     }
    ],
    "vtt": [],
-   "note": "This is the original video game the board game is based on."
+   "note": "This is the original video game the board game is based on.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 270633,
@@ -16842,7 +17144,8 @@
     }
    ],
    "vtt": [],
-   "note": "Digital version of the original Aeon's End, not this box."
+   "note": "Digital version of the original Aeon's End, not this box.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 318977,
@@ -16878,7 +17181,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 156546,
@@ -16925,7 +17229,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 417197,
@@ -16964,7 +17269,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 286096,
@@ -17018,7 +17324,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 603121
+    "plays": 603483
    },
    "steam": [],
    "vtt": [
@@ -17028,7 +17334,8 @@
      "url": "https://store.steampowered.com/app/1348420/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 169426,
@@ -17104,7 +17411,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 323612,
@@ -17143,7 +17451,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 300322,
@@ -17183,7 +17492,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 224783,
@@ -17222,7 +17532,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 349067,
@@ -17262,7 +17573,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 555,
@@ -17300,7 +17612,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 297562,
@@ -17338,7 +17651,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 198994,
@@ -17409,7 +17723,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 277085,
@@ -17465,7 +17780,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 927541
+    "plays": 927811
    },
    "steam": [
     {
@@ -17499,7 +17814,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 194655,
@@ -17552,11 +17868,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 832924
+    "plays": 833084
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 228341,
@@ -17596,7 +17913,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 230253,
@@ -17665,7 +17983,8 @@
     }
    ],
    "vtt": [],
-   "note": "Digital Star Realms, with Frontiers as an add-on."
+   "note": "Digital Star Realms, with Frontiers as an add-on.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 421,
@@ -17706,7 +18025,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 400314,
@@ -17762,11 +18082,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 59269
+    "plays": 59305
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 9216,
@@ -17820,11 +18141,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5533
+    "plays": 5539
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 356123,
@@ -17885,11 +18207,12 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 837639
+    "plays": 837883
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 31481,
@@ -17929,7 +18252,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 20551,
@@ -17981,11 +18305,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5152
+    "plays": 5155
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 262211,
@@ -18027,7 +18352,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 109276,
@@ -18067,7 +18393,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 284653,
@@ -18123,11 +18450,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13222
+    "plays": 13229
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 128621,
@@ -18183,11 +18511,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 493970
+    "plays": 494150
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 244271,
@@ -18256,7 +18585,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 331106,
@@ -18297,7 +18627,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 370591,
@@ -18364,7 +18695,8 @@
     }
    ],
    "vtt": [],
-   "note": "This is the original video game the board game is based on."
+   "note": "This is the original video game the board game is based on.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 434367,
@@ -18403,7 +18735,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 204583,
@@ -18459,7 +18792,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 7153259
+    "plays": 7155205
    },
    "steam": [
     {
@@ -18495,7 +18828,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 760,
@@ -18531,7 +18865,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 318184,
@@ -18568,7 +18903,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 291572,
@@ -18611,7 +18947,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 2655,
@@ -18660,11 +18997,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1064559
+    "plays": 1064679
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": true
   },
   {
    "bgg_id": 127060,
@@ -18699,7 +19037,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 140620,
@@ -18755,11 +19094,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 76997
+    "plays": 77007
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 342810,
@@ -18796,7 +19136,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 298047,
@@ -18834,7 +19175,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 206718,
@@ -18871,7 +19213,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 246784,
@@ -18907,7 +19250,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 385529,
@@ -18961,11 +19305,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 317647
+    "plays": 317859
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 27708,
@@ -19001,7 +19346,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 350316,
@@ -19054,11 +19400,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 18150
+    "plays": 18313
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 144344,
@@ -19095,7 +19442,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 50,
@@ -19144,7 +19492,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5336329
+    "plays": 5337753
    },
    "steam": [
     {
@@ -19181,7 +19529,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 305096,
@@ -19222,7 +19571,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 333255,
@@ -19296,7 +19646,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 27833,
@@ -19369,7 +19720,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 411567,
@@ -19420,11 +19772,12 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 190370
+    "plays": 190927
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 223321,
@@ -19463,7 +19816,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 46213,
@@ -19502,7 +19856,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 257499,
@@ -19541,7 +19896,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 172,
@@ -19593,11 +19949,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 872260
+    "plays": 872381
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 139976,
@@ -19637,7 +19994,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 332800,
@@ -19673,7 +20031,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 239188,
@@ -19710,7 +20069,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 350933,
@@ -19765,11 +20125,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 288842
+    "plays": 289008
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 92828,
@@ -19812,7 +20173,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 408180,
@@ -19850,7 +20212,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 276182,
@@ -19891,7 +20254,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 108745,
@@ -19940,11 +20304,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10480534
+    "plays": 10481721
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 160477,
@@ -19990,11 +20355,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 132063
+    "plays": 132108
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 111341,
@@ -20036,7 +20402,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 384213,
@@ -20090,11 +20457,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 139953
+    "plays": 140073
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 146508,
@@ -20131,7 +20499,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 5,
@@ -20171,7 +20540,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 308119,
@@ -20224,11 +20594,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 76912
+    "plays": 76950
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 354934,
@@ -20265,7 +20636,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 129622,
@@ -20336,7 +20708,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 319966,
@@ -20373,7 +20746,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 295374,
@@ -20418,7 +20792,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 311988,
@@ -20487,7 +20862,8 @@
     }
    ],
    "vtt": [],
-   "note": "This is the original video game the board game is based on."
+   "note": "This is the original video game the board game is based on.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 302723,
@@ -20529,7 +20905,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 155068,
@@ -20568,7 +20945,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 63888,
@@ -20618,11 +20996,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2110441
+    "plays": 2111112
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 176734,
@@ -20664,7 +21043,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 66589,
@@ -20705,7 +21085,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 379078,
@@ -20758,11 +21139,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 2546
+    "plays": 2620
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 345972,
@@ -20813,11 +21195,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 74747
+    "plays": 74774
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 397385,
@@ -20872,11 +21255,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 80839
+    "plays": 80899
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 24181,
@@ -20917,7 +21301,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 47,
@@ -20954,7 +21339,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 234277,
@@ -20993,7 +21379,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 97207,
@@ -21046,11 +21433,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 20866
+    "plays": 20867
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 260180,
@@ -21093,7 +21481,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 2653,
@@ -21132,7 +21521,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 54,
@@ -21184,11 +21574,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15450
+    "plays": 15464
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 219650,
@@ -21227,7 +21618,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 38453,
@@ -21266,7 +21658,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 184921,
@@ -21320,11 +21713,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 416892
+    "plays": 417124
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 271601,
@@ -21371,7 +21765,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 209685,
@@ -21410,7 +21805,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 202426,
@@ -21453,7 +21849,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 143693,
@@ -21507,11 +21904,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17699
+    "plays": 17708
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 22545,
@@ -21553,7 +21951,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 136888,
@@ -21594,7 +21993,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 227789,
@@ -21631,7 +22031,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 301880,
@@ -21667,7 +22068,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 163967,
@@ -21714,7 +22116,8 @@
      "url": "https://store.steampowered.com/app/437590/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 245655,
@@ -21782,7 +22185,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 436126,
@@ -21824,7 +22228,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 155873,
@@ -21863,7 +22268,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 154203,
@@ -21917,11 +22323,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 19476
+    "plays": 19481
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 336382,
@@ -21960,7 +22367,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 336986,
@@ -22035,7 +22443,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 54138,
@@ -22075,7 +22484,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 181279,
@@ -22151,7 +22561,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 40692,
@@ -22207,11 +22618,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 145611
+    "plays": 145699
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": true
   },
   {
    "bgg_id": 318084,
@@ -22252,7 +22664,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 188866,
@@ -22312,11 +22725,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 8866
+    "plays": 8888
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 93260,
@@ -22353,7 +22767,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 187617,
@@ -22395,7 +22810,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 285192,
@@ -22434,7 +22850,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": "Steam has only a free companion app that runs alongside the physical game."
+   "note": "Steam has only a free companion app that runs alongside the physical game.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 246192,
@@ -22485,11 +22902,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2548007
+    "plays": 2549783
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 368173,
@@ -22543,11 +22961,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 233188
+    "plays": 233370
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 334986,
@@ -22602,11 +23021,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 764504
+    "plays": 765196
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 48726,
@@ -22647,7 +23067,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 21241,
@@ -22720,7 +23141,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 247367,
@@ -22758,7 +23180,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 59294,
@@ -22798,7 +23221,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 304420,
@@ -22837,7 +23261,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 345584,
@@ -22909,7 +23334,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 203420,
@@ -22947,7 +23373,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 172081,
@@ -23005,7 +23432,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 635198
+    "plays": 635525
    },
    "steam": [
     {
@@ -23039,7 +23466,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 274638,
@@ -23106,7 +23534,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 297030,
@@ -23146,7 +23575,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 25292,
@@ -23185,7 +23615,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 425549,
@@ -23225,7 +23656,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 219513,
@@ -23275,11 +23707,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 263818
+    "plays": 263904
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 39856,
@@ -23321,7 +23754,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 193037,
@@ -23361,7 +23795,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 172818,
@@ -23403,7 +23838,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 334590,
@@ -23452,11 +23888,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 120416
+    "plays": 120794
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 372,
@@ -23501,11 +23938,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 449534
+    "plays": 450165
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 40354,
@@ -23544,7 +23982,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 176920,
@@ -23580,7 +24019,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 77130,
@@ -23619,7 +24059,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 128271,
@@ -23675,11 +24116,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 30396
+    "plays": 30402
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 342900,
@@ -23721,7 +24163,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 552,
@@ -23771,11 +24214,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 625
+    "plays": 624
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 140934,
@@ -23826,11 +24270,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 25510
+    "plays": 25527
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 357563,
@@ -23883,11 +24328,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 694520
+    "plays": 694877
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 59959,
@@ -23928,7 +24374,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 351040,
@@ -23974,7 +24421,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 70919,
@@ -24029,11 +24477,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2765222
+    "plays": 2765513
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": true
   },
   {
    "bgg_id": 155987,
@@ -24086,11 +24535,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 213985
+    "plays": 214010
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 45315,
@@ -24130,7 +24580,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 368305,
@@ -24168,7 +24619,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 13122,
@@ -24212,7 +24664,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 8217,
@@ -24251,7 +24704,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 318182,
@@ -24287,7 +24741,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 319910,
@@ -24337,11 +24792,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17591
+    "plays": 17601
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 303057,
@@ -24379,7 +24835,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 90137,
@@ -24419,7 +24876,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 315767,
@@ -24467,7 +24925,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 246684,
@@ -24505,7 +24964,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 245934,
@@ -24542,7 +25002,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 357873,
@@ -24580,7 +25041,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 181304,
@@ -24657,7 +25119,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 199042,
@@ -24697,7 +25160,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 171,
@@ -24759,11 +25223,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1435918
+    "plays": 1436283
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 386368,
@@ -24801,7 +25266,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 195539,
@@ -24839,7 +25305,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 367498,
@@ -24879,7 +25346,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 371330,
@@ -24932,11 +25400,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 9572
+    "plays": 9628
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 119890,
@@ -25006,7 +25475,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 146439,
@@ -25074,7 +25544,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 335764,
@@ -25144,7 +25615,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 37046,
@@ -25184,7 +25656,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 41114,
@@ -25229,7 +25702,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 318243,
@@ -25276,7 +25750,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 424219,
@@ -25325,11 +25800,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 351058
+    "plays": 351622
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 365258,
@@ -25367,7 +25843,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 269210,
@@ -25408,7 +25885,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 352515,
@@ -25462,11 +25940,12 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 198417
+    "plays": 198559
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 367041,
@@ -25505,7 +25984,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 206480,
@@ -25544,7 +26024,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 385610,
@@ -25582,7 +26063,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 284742,
@@ -25620,7 +26102,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 290484,
@@ -25657,7 +26140,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 404431,
@@ -25697,7 +26181,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 25554,
@@ -25737,7 +26222,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 24480,
@@ -25777,7 +26263,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 379629,
@@ -25826,11 +26313,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 312106
+    "plays": 312267
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 177478,
@@ -25865,7 +26353,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 244711,
@@ -25919,11 +26408,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31213
+    "plays": 31228
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 260428,
@@ -25960,7 +26450,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 163745,
@@ -25999,7 +26490,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 15987,
@@ -26042,7 +26534,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 39683,
@@ -26082,7 +26575,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 234487,
@@ -26125,7 +26619,8 @@
      "url": "https://store.steampowered.com/app/1040500/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 322708,
@@ -26164,7 +26659,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": "Steam has only a free companion app that runs alongside the physical game."
+   "note": "Steam has only a free companion app that runs alongside the physical game.",
+   "steam_delisted": false
   },
   {
    "bgg_id": 381297,
@@ -26205,7 +26701,8 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 250458,
@@ -26272,7 +26769,8 @@
     }
    ],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 286751,
@@ -26331,7 +26829,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 172222
+    "plays": 172966
    },
    "steam": [],
    "vtt": [
@@ -26341,7 +26839,8 @@
      "url": "https://store.steampowered.com/app/468726/"
     }
    ],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   },
   {
    "bgg_id": 9217,
@@ -26394,11 +26893,12 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 976095
+    "plays": 976435
    },
    "steam": [],
    "vtt": [],
-   "note": null
+   "note": null,
+   "steam_delisted": false
   }
  ]
 }

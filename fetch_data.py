@@ -438,6 +438,8 @@ def main():
             g["vtt"].append({"appid": int(appid), "platform": platform,
                              "url": f"https://store.steampowered.com/app/{appid}/"})
 
+        # BGG says there's a Steam version but the store has none: usually a delisted port
+        g["steam_delisted"] = "Steam" in g.get("digital", []) and not g["steam"]
         g.pop("_alternatenames", None)
         g.pop("_videogames", None)
         if i % 20 == 0:

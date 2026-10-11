@@ -421,6 +421,7 @@ function card(g) {
     .filter(Boolean).map(esc).join('<span class="sep">·</span>');
   const where = [...g.steam.map(s => steamLine(g, s)), g.bga ? bgaLine(g.bga) : "",
     ...g.vtt.map(v => `<div class="plat"><a class="badge b-vtt" href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.platform)}</a><a class="name" href="${esc(v.url)}" target="_blank" rel="noopener">DLC on Steam</a></div>`),
+    g.steam_delisted ? `<div class="plat"><span class="badge b-soon">Steam</span><span class="also">BGG lists a Steam version, but it's not on the Steam store (usually means it was delisted).</span></div>` : "",
     hasTtsMod(g) ? `<div class="plat"><a class="badge b-mod" href="${esc(workshopUrl(g))}" target="_blank" rel="noopener" title="Fan-made Tabletop Simulator mod, listed on BGG">TTS mod</a><a class="name" href="${esc(workshopUrl(g))}" target="_blank" rel="noopener">Find it on the Steam Workshop</a><span class="badge b-plain">Community-made</span></div>` : ""].join("");
   return `<div class="card${ownsAny(g) ? " owned" : ""}">
     <a href="https://boardgamegeek.com/boardgame/${g.bgg_id}" target="_blank" rel="noopener"><img class="thumb" loading="lazy" src="${esc(g.image)}" alt=""></a>

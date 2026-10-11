@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T07:06+00:00",
+ "generated": "2026-10-11T07:09+00:00",
  "country": "au",
  "top_n": 500,
  "games": [
@@ -22620,10 +22620,45 @@
     "tutorial": true,
     "plays": 145699
    },
-   "steam": [],
+   "steam": [
+    {
+     "appid": 235620,
+     "name": "Small World",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/235620/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": 14.5,
+     "price_initial": 14.5,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "local_pvp",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "Days of Wonder"
+     ],
+     "publishers": [
+      "Days of Wonder",
+      "Twin Sails Interactive"
+     ],
+     "release": "11 Dec, 2013",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235620/header.jpg?t=1741270770",
+     "reviews": {
+      "desc": "Mixed",
+      "pct": 68,
+      "total": 1520
+     }
+    }
+   ],
    "vtt": [],
    "note": null,
-   "steam_delisted": true
+   "steam_delisted": false
   },
   {
    "bgg_id": 318084,

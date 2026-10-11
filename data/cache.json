@@ -22496,7 +22496,7 @@
    "type": "game"
   },
   "235620": {
-   "_fetched": 1791442959.2730594,
+   "_fetched": 1791702566.357338,
    "_reviews_fetched": 1791442959.5445585,
    "about": "CONTROL FANTASY RACES, SET OFF TO CONQUER NEW LANDS, OVERTHROW YOUR ENEMIES AND CLAIM THE VICTORY! In this digital adaptation of the legendary board game, dive into a world inhabited by whimsical fantasy races.",
    "coming_soon": false,
@@ -22516,11 +22516,11 @@
    "name": "Small World",
    "price": {
     "currency": "AUD",
-    "discount_percent": 80,
-    "final": 290,
-    "final_formatted": "A$ 2.90",
+    "discount_percent": 0,
+    "final": 1450,
+    "final_formatted": "A$ 14.50",
     "initial": 1450,
-    "initial_formatted": "A$ 14.50"
+    "initial_formatted": ""
    },
    "publishers": [
     "Days of Wonder",

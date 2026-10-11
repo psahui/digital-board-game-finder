@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T07:09+00:00",
+ "generated": "2026-10-11T22:01+00:00",
  "country": "au",
  "top_n": 500,
  "games": [
@@ -6930,7 +6930,7 @@
    "rank": 116,
    "rating": 7.76,
    "weight": 1.82,
-   "usersrated": 28230,
+   "usersrated": 28242,
    "categories": [
     "Party"
    ],
@@ -9421,7 +9421,7 @@
    "rank": 160,
    "rating": 7.59,
    "weight": 1.03,
-   "usersrated": 36023,
+   "usersrated": 36037,
    "categories": [
     "Party"
    ],
@@ -9524,7 +9524,7 @@
    "rank": 162,
    "rating": 7.52,
    "weight": 1.25,
-   "usersrated": 105930,
+   "usersrated": 105952,
    "categories": [
     "Party"
    ],
@@ -10886,7 +10886,7 @@
    "rank": 185,
    "rating": 7.76,
    "weight": 2.27,
-   "usersrated": 14588,
+   "usersrated": 14591,
    "categories": [
     "Wargames"
    ],
@@ -13072,7 +13072,7 @@
    "rank": 226,
    "rating": 7.53,
    "weight": 2.27,
-   "usersrated": 32215,
+   "usersrated": 32214,
    "categories": [
     "Wargames"
    ],
@@ -13570,7 +13570,7 @@
    "rank": 236,
    "rating": 7.98,
    "weight": 2.8,
-   "usersrated": 6769,
+   "usersrated": 6770,
    "categories": [
     "Wargames"
    ],
@@ -13865,10 +13865,10 @@
    "bgg_id": 128882,
    "name": "The Resistance: Avalon",
    "year": 2012,
-   "rank": 241,
+   "rank": 240,
    "rating": 7.49,
    "weight": 1.74,
-   "usersrated": 37116,
+   "usersrated": 37125,
    "categories": [
     "Party"
    ],
@@ -14788,7 +14788,7 @@
    "rank": 257,
    "rating": 7.77,
    "weight": 2.69,
-   "usersrated": 9149,
+   "usersrated": 9150,
    "categories": [
     "Wargames"
    ],
@@ -15227,7 +15227,7 @@
    "rank": 265,
    "rating": 7.59,
    "weight": 1.12,
-   "usersrated": 12849,
+   "usersrated": 12854,
    "categories": [
     "Party"
    ],
@@ -15267,7 +15267,7 @@
    "rank": 266,
    "rating": 8.07,
    "weight": 3.87,
-   "usersrated": 5752,
+   "usersrated": 5753,
    "categories": [
     "Wargames"
    ],
@@ -15305,7 +15305,7 @@
    "rank": 267,
    "rating": 7.48,
    "weight": 1.73,
-   "usersrated": 35546,
+   "usersrated": 35564,
    "categories": [
     "Party"
    ],
@@ -16109,7 +16109,7 @@
    "rank": 283,
    "rating": 7.96,
    "weight": 3.26,
-   "usersrated": 6182,
+   "usersrated": 6183,
    "categories": [
     "Wargames"
    ],
@@ -16416,7 +16416,7 @@
    "rank": 290,
    "rating": 7.77,
    "weight": 1.22,
-   "usersrated": 8115,
+   "usersrated": 8136,
    "categories": [
     "Party"
    ],
@@ -16807,7 +16807,7 @@
    "rank": 298,
    "rating": 7.41,
    "weight": 1.59,
-   "usersrated": 25534,
+   "usersrated": 25540,
    "categories": [
     "Party"
    ],
@@ -17191,7 +17191,7 @@
    "rank": 305,
    "rating": 7.75,
    "weight": 1.09,
-   "usersrated": 8012,
+   "usersrated": 8016,
    "categories": [
     "Party"
    ],
@@ -19826,7 +19826,7 @@
    "rank": 355,
    "rating": 7.38,
    "weight": 1.07,
-   "usersrated": 21114,
+   "usersrated": 21119,
    "categories": [
     "Party"
    ],
@@ -20139,7 +20139,7 @@
    "rank": 362,
    "rating": 7.38,
    "weight": 1.16,
-   "usersrated": 23255,
+   "usersrated": 23257,
    "categories": [
     "Party"
    ],
@@ -23756,7 +23756,7 @@
    "rank": 434,
    "rating": 7.18,
    "weight": 1.19,
-   "usersrated": 72282,
+   "usersrated": 72295,
    "categories": [
     "Party"
    ],
@@ -24249,7 +24249,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 624
+    "plays": 633
    },
    "steam": [],
    "vtt": [],
@@ -24419,7 +24419,7 @@
    "rank": 448,
    "rating": 7.48,
    "weight": 1.34,
-   "usersrated": 9306,
+   "usersrated": 9311,
    "categories": [
     "Party"
    ],
@@ -25520,7 +25520,7 @@
    "rank": 471,
    "rating": 7.67,
    "weight": 2.74,
-   "usersrated": 6626,
+   "usersrated": 6627,
    "categories": [
     "Wargames"
    ],
@@ -25701,7 +25701,7 @@
    "rank": 474,
    "rating": 7.19,
    "weight": 1.59,
-   "usersrated": 42966,
+   "usersrated": 42971,
    "categories": [
     "Party"
    ],
@@ -25747,7 +25747,7 @@
    "rank": 475,
    "rating": 7.51,
    "weight": 1.02,
-   "usersrated": 8399,
+   "usersrated": 8409,
    "categories": [
     "Party"
    ],

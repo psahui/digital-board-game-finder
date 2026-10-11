@@ -112,6 +112,7 @@
   .b-bga { background: var(--bga-bg); color: var(--bga-ink); }
   .b-free { background: var(--free-bg); color: var(--free-ink); }
   .b-vtt { background: var(--vtt-bg); color: var(--vtt-ink); }
+  .b-mod { background: transparent; color: var(--vtt-ink); border: 1px dashed var(--vtt-ink); }
   .b-soon { background: var(--soon-bg); color: var(--soon-ink); }
   .b-plain { background: transparent; color: var(--ink-2); border: 1px solid var(--line); text-transform: none; letter-spacing: 0; font-weight: 500; }
   .price { display: inline-flex; align-items: stretch; border-radius: 3px; overflow: hidden; font-size: 13px; }
@@ -161,6 +162,8 @@
         <label><input type="checkbox" data-f="bga" checked> Board Game Arena <span class="count" data-c="bga"></span></label>
         <label><input type="checkbox" data-f="vtt" checked> Tabletop Simulator / Tabletopia <span class="count" data-c="vtt"></span></label>
         <label><input type="checkbox" data-f="mobile" checked> iOS / Android app <span class="count" data-c="mobile"></span></label>
+        <label><input type="checkbox" data-f="ttsmod" checked> Tabletop Simulator mod (community) <span class="count" data-c="ttsmod"></span></label>
+        <label><input type="checkbox" data-f="other" checked> Other sites (Tabletopia, Yucata, VASSAL…) <span class="count" data-c="other"></span></label>
         <label><input type="checkbox" data-f="none"> Not available digitally <span class="count" data-c="none"></span></label>
       </div>
     </details>
@@ -259,7 +262,8 @@
       <h4>Notes</h4>
       <p><b>Board Game Arena Premium:</b> many BGA games are free for everyone. For Premium games, BGA's rule is that only the player who creates the table needs Premium — everyone else joins free. One subscription covers a whole group.</p>
       <p><b>Steam Remote Play Together:</b> one person owns the game and streams it; friends join from their own Steam without buying it. Only works for games with local multiplayer.</p>
-      <p><b>Tabletop Simulator / Tabletopia:</b> official DLC for those apps — a faithful virtual copy of the physical game, with no rules enforcement. Each player usually needs the base app.</p>
+      <p><b>Tabletop Simulator mods:</b> free fan-made versions on the Steam Workshop, usually not approved by the publisher, and they're sometimes taken down. Everyone needs Tabletop Simulator itself. The "TTS mod" badge comes from BGG's tag, which misses many games, so it's worth searching the Workshop for anything else too.</p>
+      <p><b>Tabletop Simulator / Tabletopia DLC:</b> official DLC for those apps — a faithful virtual copy of the physical game, with no rules enforcement. Each player usually needs the base app.</p>
       <p>Steam matches are found by name and checked by hand, so the odd miss is possible. Prices are Steam's current <span id="ccName">AUD</span> prices at the last refresh — check the store page before buying.</p>
     </div>
   </main>
@@ -281,13 +285,13 @@ const $$ = (s, el = document) => [...el.querySelectorAll(s)];
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
 const DEFAULTS = { steam: true, bga: true, vtt: true, none: false, sale: false, released: false,
-  hideOwned: false, mobile: true, q: "", themes: null, online: false, bgafree: false, remote: false, async: false,
+  hideOwned: false, mobile: true, ttsmod: true, other: true, q: "", themes: null, online: false, bgafree: false, remote: false, async: false,
   light: true, medium: true, heavy: true, players: "", fit: "", maxPrice: null, sort: "rank", cats: null };
 let S = { ...DEFAULTS };
 let DATA, GAMES = [], CATS = [], PRICE_CAP = 50, CUR = "A$";
 
 const PRESETS = {
-  sale: { ...DEFAULTS, bga: false, vtt: false, mobile: false, sale: true, sort: "discount" },
+  sale: { ...DEFAULTS, bga: false, vtt: false, mobile: false, ttsmod: false, other: false, sale: true, sort: "discount" },
   tonight: { ...DEFAULTS, online: true, released: true, sort: "rank" },
   all: { ...DEFAULTS },
 };
@@ -302,9 +306,14 @@ const ownsAny = g => g.steam.some(s => OWNED.has(s.appid));
 // ---------- derived fields
 const norm = t => t.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase();
 const MOBILE = ["Apple App Store", "Google Play"];
-const SHOWN_ELSEWHERE = ["Steam", "Board Game Arena", "Tabletop Simulator", "Tabletopia"];
+const TTS_MOD = "TableTop Simulator Mod (TTS)";
+// Steam/BGA/TTS-DLC have their own rows on the card; the TTS mod tag gets its own badge
+const SHOWN_ELSEWHERE = ["Steam", "Board Game Arena", "Tabletop Simulator", TTS_MOD];
 const isMobile = g => (g.digital || []).some(d => MOBILE.includes(d));
+const hasTtsMod = g => (g.digital || []).includes(TTS_MOD);
 const otherDigital = g => (g.digital || []).filter(d => !SHOWN_ELSEWHERE.includes(d));
+const otherSites = g => otherDigital(g).filter(d => !MOBILE.includes(d));
+const workshopUrl = g => "https://steamcommunity.com/workshop/browse/?appid=286160&browsesort=textsearch&section=readytouseitems&searchtext=" + encodeURIComponent(g.name.split(":")[0]);
 function weightClass(g) { return g.weight == null ? "medium" : g.weight < 2.25 ? "light" : g.weight <= 3.5 ? "medium" : "heavy"; }
 const liveSteam = g => g.steam.filter(s => !s.coming_soon);
 function bestSteam(g) {  // cheapest released Steam version, else first listed
@@ -326,8 +335,10 @@ function playsOnline(g) { return !!g.bga || g.vtt.length > 0 || g.steam.some(ste
 // ---------- filtering
 function visible(g) {
   const hasSteam = g.steam.length > 0, hasBga = !!g.bga, hasVtt = g.vtt.length > 0, hasMobile = isMobile(g);
-  const any = hasSteam || hasBga || hasVtt || hasMobile || otherDigital(g).length > 0;
-  if (!((S.steam && hasSteam) || (S.bga && hasBga) || (S.vtt && hasVtt) || (S.mobile && hasMobile) || (S.none && !any))) return false;
+  const hasMod = hasTtsMod(g), hasOther = otherSites(g).length > 0;
+  const any = hasSteam || hasBga || hasVtt || hasMobile || hasMod || hasOther;
+  if (!((S.steam && hasSteam) || (S.bga && hasBga) || (S.vtt && hasVtt) || (S.mobile && hasMobile)
+        || (S.ttsmod && hasMod) || (S.other && hasOther) || (S.none && !any))) return false;
   if (S.q && !norm(g.name).includes(norm(S.q))) return false;
   if (S.themes && !(g.themes || []).some(t => S.themes.includes(t))) return false;
   if (!S[weightClass(g)]) return false;
@@ -409,7 +420,8 @@ function card(g) {
   const meta = [g.year, players, time, g.weight != null ? `weight ${g.weight.toFixed(1)}/5` : "", g.rating ? `★ ${g.rating.toFixed(1)}` : "", g.categories.join(", ")]
     .filter(Boolean).map(esc).join('<span class="sep">·</span>');
   const where = [...g.steam.map(s => steamLine(g, s)), g.bga ? bgaLine(g.bga) : "",
-    ...g.vtt.map(v => `<div class="plat"><a class="badge b-vtt" href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.platform)}</a><a class="name" href="${esc(v.url)}" target="_blank" rel="noopener">DLC on Steam</a></div>`)].join("");
+    ...g.vtt.map(v => `<div class="plat"><a class="badge b-vtt" href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.platform)}</a><a class="name" href="${esc(v.url)}" target="_blank" rel="noopener">DLC on Steam</a></div>`),
+    hasTtsMod(g) ? `<div class="plat"><a class="badge b-mod" href="${esc(workshopUrl(g))}" target="_blank" rel="noopener" title="Fan-made Tabletop Simulator mod, listed on BGG">TTS mod</a><a class="name" href="${esc(workshopUrl(g))}" target="_blank" rel="noopener">Find it on the Steam Workshop</a><span class="badge b-plain">Community-made</span></div>` : ""].join("");
   return `<div class="card${ownsAny(g) ? " owned" : ""}">
     <a href="https://boardgamegeek.com/boardgame/${g.bgg_id}" target="_blank" rel="noopener"><img class="thumb" loading="lazy" src="${esc(g.image)}" alt=""></a>
     <div class="body">
@@ -470,13 +482,15 @@ function readUrl() {
 
 function counts() {
   $("[data-c=owned]") && ($("[data-c=owned]").textContent = OWNED.size || "");
-  const c = { steam: 0, bga: 0, vtt: 0, mobile: 0, none: 0, sale: 0, light: 0, medium: 0, heavy: 0 };
+  const c = { steam: 0, bga: 0, vtt: 0, mobile: 0, ttsmod: 0, other: 0, none: 0, sale: 0, light: 0, medium: 0, heavy: 0 };
   for (const g of GAMES) {
     if (g.steam.length) c.steam++;
     if (g.bga) c.bga++;
     if (g.vtt.length) c.vtt++;
     if (isMobile(g)) c.mobile++;
-    if (!g.steam.length && !g.bga && !g.vtt.length && !isMobile(g) && !otherDigital(g).length) c.none++;
+    if (hasTtsMod(g)) c.ttsmod++;
+    if (otherSites(g).length) c.other++;
+    if (!g.steam.length && !g.bga && !g.vtt.length && !isMobile(g) && !hasTtsMod(g) && !otherDigital(g).length) c.none++;
     if (g.steam.some(s => s.discount > 0)) c.sale++;
     c[weightClass(g)]++;
   }

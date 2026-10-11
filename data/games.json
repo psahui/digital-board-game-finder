@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T21:48+00:00",
+ "generated": "2026-10-11T05:53+00:00",
  "country": "au",
  "top_n": 500,
  "games": [
@@ -452,7 +452,7 @@
      5,
      6
     ],
-    "avg_minutes": 232,
+    "avg_minutes": 233,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
@@ -1704,7 +1704,7 @@
      3,
      4
     ],
-    "avg_minutes": 65,
+    "avg_minutes": 66,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -3000,7 +3000,7 @@
      4,
      5
     ],
-    "avg_minutes": 35,
+    "avg_minutes": 36,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -3658,7 +3658,7 @@
      4,
      5
     ],
-    "avg_minutes": 35,
+    "avg_minutes": 36,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -5802,7 +5802,7 @@
      4,
      5
     ],
-    "avg_minutes": 34,
+    "avg_minutes": 33,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -5857,7 +5857,7 @@
      3,
      4
     ],
-    "avg_minutes": 43,
+    "avg_minutes": 44,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -6756,7 +6756,7 @@
      3,
      4
     ],
-    "avg_minutes": 36,
+    "avg_minutes": 37,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -7536,7 +7536,7 @@
      3,
      4
     ],
-    "avg_minutes": 47,
+    "avg_minutes": 46,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -7870,7 +7870,7 @@
      3,
      4
     ],
-    "avg_minutes": 34,
+    "avg_minutes": 33,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -8004,7 +8004,7 @@
      5,
      6
     ],
-    "avg_minutes": 77,
+    "avg_minutes": 78,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -8325,7 +8325,7 @@
      4,
      5
     ],
-    "avg_minutes": 37,
+    "avg_minutes": 36,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -8380,7 +8380,7 @@
      3,
      4
     ],
-    "avg_minutes": 54,
+    "avg_minutes": 52,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -8437,7 +8437,7 @@
      3,
      4
     ],
-    "avg_minutes": 35,
+    "avg_minutes": 36,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -9305,7 +9305,7 @@
      6,
      7
     ],
-    "avg_minutes": 25,
+    "avg_minutes": 26,
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
@@ -10468,7 +10468,7 @@
      3,
      4
     ],
-    "avg_minutes": 40,
+    "avg_minutes": 41,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -11025,7 +11025,7 @@
      4,
      5
     ],
-    "avg_minutes": 19,
+    "avg_minutes": 20,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -11997,7 +11997,7 @@
      3,
      4
     ],
-    "avg_minutes": 38,
+    "avg_minutes": 39,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -13196,7 +13196,7 @@
      4,
      5
     ],
-    "avg_minutes": 58,
+    "avg_minutes": 59,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
@@ -13454,7 +13454,7 @@
      4,
      5
     ],
-    "avg_minutes": 33,
+    "avg_minutes": 34,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -13516,7 +13516,7 @@
     "players": [
      2
     ],
-    "avg_minutes": 34,
+    "avg_minutes": 33,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -13947,7 +13947,7 @@
      5,
      6
     ],
-    "avg_minutes": 76,
+    "avg_minutes": 74,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -14807,7 +14807,7 @@
     "players": [
      2
     ],
-    "avg_minutes": 17,
+    "avg_minutes": 16,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -15382,7 +15382,7 @@
      3,
      4
     ],
-    "avg_minutes": 41,
+    "avg_minutes": 42,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -17816,7 +17816,7 @@
      3,
      4
     ],
-    "avg_minutes": 62,
+    "avg_minutes": 64,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -18388,7 +18388,9 @@
     4
    ],
    "blurb": "Control conglomerates of companies driving Japan’s economy.",
-   "digital": [],
+   "digital": [
+    "TableTop Simulator Mod (TTS)"
+   ],
    "image": "https://cf.geekdo-images.com/bOs_Um4cUUOpKnypCMykJA__square200/img/KeA5fm9luwQ0EyMJPh1IXaaEU4Y=/200x200/filters:strip_icc()/pic8844519.png",
    "maxplayers": 4,
    "maxplaytime": 120,
@@ -18955,7 +18957,7 @@
      3,
      4
     ],
-    "avg_minutes": 23,
+    "avg_minutes": 22,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -21178,7 +21180,7 @@
      3,
      4
     ],
-    "avg_minutes": 71,
+    "avg_minutes": 72,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -21501,7 +21503,7 @@
      3,
      4
     ],
-    "avg_minutes": 39,
+    "avg_minutes": 40,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -21911,7 +21913,7 @@
      3,
      4
     ],
-    "avg_minutes": 47,
+    "avg_minutes": 48,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -23446,7 +23448,7 @@
     "players": [
      1
     ],
-    "avg_minutes": 28,
+    "avg_minutes": 27,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -23769,7 +23771,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 624
+    "plays": 625
    },
    "steam": [],
    "vtt": [],
@@ -24331,7 +24333,7 @@
     "players": [
      2
     ],
-    "avg_minutes": 54,
+    "avg_minutes": 55,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
@@ -25913,7 +25915,7 @@
      3,
      4
     ],
-    "avg_minutes": 48,
+    "avg_minutes": 50,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,

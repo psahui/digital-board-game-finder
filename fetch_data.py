@@ -242,6 +242,7 @@ def core(name):
     return re.sub(r"\s+", " ", s).strip()
 
 
+TTS_MOD_TAG = "TableTop Simulator Mod (TTS)"  # BGG's family name for community TTS mods
 BOARDISH = re.compile(r"board|card game|tabletop|deck-?build|award-winning|adaptation|digital (version|edition)", re.I)
 VTT_PREFIX =re.compile(r"^(tabletop simulator|tabletopia)\s*[-:–]\s*", re.I)
 EXPANSION_HINT = re.compile(r"\s[-:]\s|\bexpansion\b|\bdlc\b|\bsoundtrack\b|\bpack\b", re.I)
@@ -387,6 +388,7 @@ def main():
     top_n, cc = config.get("top_n", 100), config.get("country", "au")
     overrides = {str(k): v for k, v in config.get("steam_overrides", {}).items()}
     notes = {str(k): v for k, v in config.get("steam_notes", {}).items()}
+    tts_extra = {str(k) for k in config.get("tts_mod_extra", {})}
     extra_vtt = {str(k): v for k, v in config.get("vtt_overrides", {}).items()}
     DATA.mkdir(exist_ok=True)
     cache = load_cache()
@@ -407,6 +409,8 @@ def main():
         g["bga"] = bga.get(g["bgg_id"])
         g["steam"], g["vtt"] = [], []
         g["note"] = notes.get(key)
+        if key in tts_extra and TTS_MOD_TAG not in g.get("digital", []):
+            g["digital"] = sorted(g.get("digital", []) + [TTS_MOD_TAG])
 
         best, vtt = find_steam(g, cache, cc)
         if key in overrides:

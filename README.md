@@ -58,6 +58,9 @@ Everything editable lives in `config.json`:
   (`boardgamegeek.com/boardgame/167791/...` → `"167791"`).
 - `steam_notes` — BGG id → a one-line caveat shown on the card ("DLC — needs
   the base game", "adaptation of the sequel", …).
+- `tts_mod_extra` — BGG id → name of games that have a community Tabletop
+  Simulator mod but lack BGG's "TableTop Simulator Mod (TTS)" tag (BGG's tag
+  misses many). Adds the "TTS mod" badge, which links to a Workshop search.
 - `vtt_overrides` — BGG id → list of `[appid, name]` Tabletop Simulator /
   Tabletopia DLCs, when the automatic search misses one.
 

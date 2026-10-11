@@ -226,5 +226,8 @@
     "182631": "Digital Star Realms, with Colony Wars as an add-on.",
     "230253": "Digital Star Realms, with Frontiers as an add-on."
   },
-  "vtt_overrides": {}
+  "vtt_overrides": {},
+  "tts_mod_extra": {
+    "434367": "Nippon: Zaibatsu"
+  }
 }

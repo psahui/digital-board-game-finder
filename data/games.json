@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T22:01+00:00",
+ "generated": "2026-10-13T00:44+00:00",
  "country": "au",
  "top_n": 500,
  "games": [
@@ -103,7 +103,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13616457
+    "plays": 13630665
    },
    "steam": [
     {
@@ -458,11 +458,11 @@
      5,
      6
     ],
-    "avg_minutes": 233,
+    "avg_minutes": 235,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 4553
+    "plays": 4577
    },
    "steam": [
     {
@@ -507,7 +507,7 @@
    "rank": 8,
    "rating": 8.55,
    "weight": 4.23,
-   "usersrated": 25637,
+   "usersrated": 25650,
    "categories": [
     "Thematic",
     "Wargames"
@@ -597,7 +597,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5572660
+    "plays": 5580268
    },
    "steam": [
     {
@@ -644,7 +644,7 @@
    "rank": 10,
    "rating": 8.42,
    "weight": 3.75,
-   "usersrated": 36941,
+   "usersrated": 36962,
    "categories": [
     "Thematic"
    ],
@@ -882,11 +882,11 @@
      3,
      4
     ],
-    "avg_minutes": 61,
+    "avg_minutes": 62,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 484976
+    "plays": 485339
    },
    "steam": [
     {
@@ -1165,7 +1165,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4535321
+    "plays": 4538666
    },
    "steam": [
     {
@@ -1596,11 +1596,11 @@
     "players": [
      2
     ],
-    "avg_minutes": 9,
+    "avg_minutes": 10,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 14309140
+    "plays": 14315695
    },
    "steam": [],
    "vtt": [],
@@ -1614,7 +1614,7 @@
    "rank": 25,
    "rating": 8.24,
    "weight": 3.49,
-   "usersrated": 38399,
+   "usersrated": 38428,
    "categories": [
     "Thematic"
    ],
@@ -1733,7 +1733,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 517233
+    "plays": 517497
    },
    "steam": [],
    "vtt": [],
@@ -1798,7 +1798,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 135103
+    "plays": 135277
    },
    "steam": [
     {
@@ -1848,9 +1848,9 @@
    "name": "Clank! Legacy: Acquisitions Incorporated",
    "year": 2019,
    "rank": 28,
-   "rating": 8.49,
+   "rating": 8.48,
    "weight": 2.74,
-   "usersrated": 11602,
+   "usersrated": 11612,
    "categories": [
     "Thematic"
    ],
@@ -1931,11 +1931,11 @@
      4,
      5
     ],
-    "avg_minutes": 48,
+    "avg_minutes": 49,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 56563
+    "plays": 56646
    },
    "steam": [
     {
@@ -2024,11 +2024,11 @@
      3,
      4
     ],
-    "avg_minutes": 28,
+    "avg_minutes": 29,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3382228
+    "plays": 3384817
    },
    "steam": [
     {
@@ -2117,7 +2117,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 424845
+    "plays": 425049
    },
    "steam": [],
    "vtt": [],
@@ -2131,7 +2131,7 @@
    "rank": 32,
    "rating": 8.11,
    "weight": 2.04,
-   "usersrated": 35010,
+   "usersrated": 35124,
    "categories": [
     "Thematic",
     "Family"
@@ -2170,7 +2170,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1004721
+    "plays": 1005695
    },
    "steam": [],
    "vtt": [],
@@ -2184,7 +2184,7 @@
    "rank": 33,
    "rating": 8.12,
    "weight": 3.57,
-   "usersrated": 48307,
+   "usersrated": 48323,
    "categories": [
     "Thematic",
     "Customizable"
@@ -2348,7 +2348,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 88786
+    "plays": 88876
    },
    "steam": [],
    "vtt": [
@@ -2418,7 +2418,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 904316
+    "plays": 904479
    },
    "steam": [
     {
@@ -2561,7 +2561,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10500601
+    "plays": 10510061
    },
    "steam": [
     {
@@ -2699,11 +2699,11 @@
      3,
      4
     ],
-    "avg_minutes": 51,
+    "avg_minutes": 52,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 313561
+    "plays": 313710
    },
    "steam": [
     {
@@ -2793,7 +2793,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 25640
+    "plays": 25854
    },
    "steam": [],
    "vtt": [],
@@ -2847,7 +2847,7 @@
    "rank": 43,
    "rating": 8.07,
    "weight": 1.23,
-   "usersrated": 21597,
+   "usersrated": 21601,
    "categories": [
     "Family"
    ],
@@ -3048,7 +3048,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 340762
+    "plays": 340920
    },
    "steam": [],
    "vtt": [],
@@ -3216,7 +3216,7 @@
    "rank": 48,
    "rating": 7.99,
    "weight": 2.2,
-   "usersrated": 43590,
+   "usersrated": 43625,
    "categories": [
     "Family"
    ],
@@ -3267,7 +3267,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 922982
+    "plays": 923690
    },
    "steam": [
     {
@@ -3314,7 +3314,7 @@
    "rank": 49,
    "rating": 8.6,
    "weight": 2.55,
-   "usersrated": 7277,
+   "usersrated": 7284,
    "categories": [
     "Family"
    ],
@@ -3392,7 +3392,7 @@
    "rank": 51,
    "rating": 8.03,
    "weight": 2.01,
-   "usersrated": 33407,
+   "usersrated": 33462,
    "categories": [
     "Family",
     "Abstract"
@@ -3439,7 +3439,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3350874
+    "plays": 3356196
    },
    "steam": [],
    "vtt": [],
@@ -3569,7 +3569,7 @@
    "rank": 54,
    "rating": 8.34,
    "weight": 3.11,
-   "usersrated": 12088,
+   "usersrated": 12194,
    "categories": [
     "Thematic"
    ],
@@ -3625,7 +3625,7 @@
    "rank": 55,
    "rating": 8.18,
    "weight": 2.49,
-   "usersrated": 17501,
+   "usersrated": 17525,
    "categories": [
     "Thematic"
    ],
@@ -3717,7 +3717,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 92574
+    "plays": 92620
    },
    "steam": [],
    "vtt": [],
@@ -3778,7 +3778,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 245380
+    "plays": 245649
    },
    "steam": [],
    "vtt": [],
@@ -3837,7 +3837,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2912653
+    "plays": 2913179
    },
    "steam": [],
    "vtt": [],
@@ -3935,7 +3935,7 @@
    "rank": 61,
    "rating": 7.88,
    "weight": 1.84,
-   "usersrated": 57515,
+   "usersrated": 57540,
    "categories": [
     "Family",
     "Abstract"
@@ -4061,11 +4061,11 @@
      6,
      7
     ],
-    "avg_minutes": 53,
+    "avg_minutes": 52,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 119242
+    "plays": 119290
    },
    "steam": [
     {
@@ -4158,7 +4158,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 52683
+    "plays": 52704
    },
    "steam": [],
    "vtt": [],
@@ -4215,10 +4215,10 @@
    "bgg_id": 251661,
    "name": "Oathsworn: Into the Deepwood",
    "year": 2022,
-   "rank": 64,
+   "rank": 65,
    "rating": 8.74,
    "weight": 3.69,
-   "usersrated": 7083,
+   "usersrated": 7090,
    "categories": [
     "Thematic"
    ],
@@ -4350,7 +4350,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 327120
+    "plays": 327267
    },
    "steam": [],
    "vtt": [],
@@ -4447,7 +4447,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 105855
+    "plays": 105891
    },
    "steam": [
     {
@@ -4626,7 +4626,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 636788
+    "plays": 637510
    },
    "steam": [],
    "vtt": [],
@@ -4793,7 +4793,7 @@
    "rank": 76,
    "rating": 8.08,
    "weight": 3.26,
-   "usersrated": 16408,
+   "usersrated": 16429,
    "categories": [
     "Thematic"
    ],
@@ -4879,7 +4879,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 802834
+    "plays": 802945
    },
    "steam": [],
    "vtt": [],
@@ -4935,11 +4935,11 @@
      3,
      4
     ],
-    "avg_minutes": 31,
+    "avg_minutes": 30,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 384273
+    "plays": 384380
    },
    "steam": [],
    "vtt": [],
@@ -4995,7 +4995,7 @@
    "rank": 80,
    "rating": 7.91,
    "weight": 2.69,
-   "usersrated": 40871,
+   "usersrated": 40894,
    "categories": [
     "Thematic"
    ],
@@ -5071,7 +5071,7 @@
    "rank": 81,
    "rating": 7.8,
    "weight": 1.94,
-   "usersrated": 60410,
+   "usersrated": 60428,
    "categories": [
     "Family"
    ],
@@ -5111,7 +5111,7 @@
    "rank": 82,
    "rating": 8.03,
    "weight": 2.01,
-   "usersrated": 15862,
+   "usersrated": 15900,
    "categories": [
     "Family"
    ],
@@ -5191,7 +5191,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 13924
+    "plays": 14153
    },
    "steam": [],
    "vtt": [],
@@ -5371,7 +5371,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1902905
+    "plays": 1904056
    },
    "steam": [],
    "vtt": [],
@@ -5385,7 +5385,7 @@
    "rank": 88,
    "rating": 7.95,
    "weight": 3.3,
-   "usersrated": 26170,
+   "usersrated": 26175,
    "categories": [
     "Thematic"
    ],
@@ -5508,11 +5508,11 @@
      3,
      4
     ],
-    "avg_minutes": 47,
+    "avg_minutes": 48,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 197583
+    "plays": 197786
    },
    "steam": [],
    "vtt": [],
@@ -5572,7 +5572,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 96580
+    "plays": 96628
    },
    "steam": [],
    "vtt": [],
@@ -5630,7 +5630,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 84821
+    "plays": 84902
    },
    "steam": [],
    "vtt": [],
@@ -5683,8 +5683,8 @@
    "year": 2021,
    "rank": 94,
    "rating": 8.21,
-   "weight": 2.75,
-   "usersrated": 12034,
+   "weight": 2.76,
+   "usersrated": 12066,
    "categories": [
     "Thematic"
    ],
@@ -5769,7 +5769,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 16995417
+    "plays": 16997958
    },
    "steam": [
     {
@@ -5814,7 +5814,7 @@
    "rank": 96,
    "rating": 8.47,
    "weight": 4.28,
-   "usersrated": 10527,
+   "usersrated": 10532,
    "categories": [
     "Thematic"
    ],
@@ -5857,7 +5857,7 @@
    "rank": 97,
    "rating": 7.75,
    "weight": 1.97,
-   "usersrated": 49589,
+   "usersrated": 49598,
    "categories": [
     "Family"
    ],
@@ -5898,11 +5898,11 @@
      4,
      5
     ],
-    "avg_minutes": 33,
+    "avg_minutes": 29,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 562689
+    "plays": 563195
    },
    "steam": [],
    "vtt": [],
@@ -5958,7 +5958,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 70743
+    "plays": 70784
    },
    "steam": [],
    "vtt": [],
@@ -5972,7 +5972,7 @@
    "rank": 99,
    "rating": 7.71,
    "weight": 1.77,
-   "usersrated": 111312,
+   "usersrated": 111357,
    "categories": [
     "Family",
     "Abstract"
@@ -6015,7 +6015,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 29035107
+    "plays": 29053168
    },
    "steam": [],
    "vtt": [],
@@ -6067,12 +6067,56 @@
      4,
      5
     ],
-    "avg_minutes": 63,
+    "avg_minutes": 62,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31615
+    "plays": 31628
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 359609,
+   "name": "Arkham Horror: The Card Game (Revised Core Set)",
+   "year": 2021,
+   "rank": 101,
+   "rating": 8.56,
+   "weight": 3.74,
+   "usersrated": 6072,
+   "categories": [
+    "Thematic",
+    "Customizable"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 174,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "Revised core set repackages the original with support for 1-4p.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/RdCWCXPnBGSxoOhk5Hkq_g__square200/img/lsI0qDjkqZj6nijPqp4tZY3fH7U=/200x200/filters:strip_icc()/pic6530423.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 45,
+   "themes": [
+    "Adventure",
+    "Card Game",
+    "Collectible Components",
+    "Exploration",
+    "Fantasy",
+    "Horror",
+    "Novel-based"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -6150,50 +6194,6 @@
    "themes": [
     "Science Fiction",
     "Space Exploration"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 359609,
-   "name": "Arkham Horror: The Card Game (Revised Core Set)",
-   "year": 2021,
-   "rank": 103,
-   "rating": 8.56,
-   "weight": 3.74,
-   "usersrated": 6062,
-   "categories": [
-    "Thematic",
-    "Customizable"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 174,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "Revised core set repackages the original with support for 1-4p.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/RdCWCXPnBGSxoOhk5Hkq_g__square200/img/lsI0qDjkqZj6nijPqp4tZY3fH7U=/200x200/filters:strip_icc()/pic6530423.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 180,
-   "minplayers": 1,
-   "minplaytime": 45,
-   "themes": [
-    "Adventure",
-    "Card Game",
-    "Collectible Components",
-    "Exploration",
-    "Fantasy",
-    "Horror",
-    "Novel-based"
    ],
    "bga": null,
    "steam": [],
@@ -6369,7 +6369,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 97581
+    "plays": 97721
    },
    "steam": [],
    "vtt": [],
@@ -6578,7 +6578,7 @@
    "rank": 110,
    "rating": 7.77,
    "weight": 1.4,
-   "usersrated": 29784,
+   "usersrated": 29797,
    "categories": [
     "Family"
    ],
@@ -6693,7 +6693,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1120245
+    "plays": 1121466
    },
    "steam": [],
    "vtt": [],
@@ -6788,7 +6788,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 135238
+    "plays": 135268
    },
    "steam": [
     {
@@ -6869,11 +6869,11 @@
      3,
      4
     ],
-    "avg_minutes": 37,
+    "avg_minutes": 36,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 244541
+    "plays": 244588
    },
    "steam": [],
    "vtt": [],
@@ -6974,11 +6974,11 @@
      7,
      8
     ],
-    "avg_minutes": 40,
+    "avg_minutes": 41,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 66513
+    "plays": 66543
    },
    "steam": [],
    "vtt": [],
@@ -7044,7 +7044,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 12456937
+    "plays": 12460430
    },
    "steam": [],
    "vtt": [],
@@ -7139,7 +7139,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1217461
+    "plays": 1217870
    },
    "steam": [
     {
@@ -7185,7 +7185,7 @@
    "rank": 120,
    "rating": 7.72,
    "weight": 1.94,
-   "usersrated": 33841,
+   "usersrated": 33860,
    "categories": [
     "Family"
    ],
@@ -7224,7 +7224,7 @@
    "rank": 121,
    "rating": 7.72,
    "weight": 3.83,
-   "usersrated": 47199,
+   "usersrated": 47211,
    "categories": [
     "Thematic"
    ],
@@ -7313,7 +7313,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 433631
+    "plays": 433754
    },
    "steam": [],
    "vtt": [],
@@ -7481,7 +7481,7 @@
    "rank": 126,
    "rating": 7.99,
    "weight": 1.91,
-   "usersrated": 11642,
+   "usersrated": 11669,
    "categories": [
     "Family"
    ],
@@ -7521,7 +7521,7 @@
    "rank": 127,
    "rating": 7.73,
    "weight": 3.25,
-   "usersrated": 37814,
+   "usersrated": 37819,
    "categories": [
     "Thematic"
    ],
@@ -7609,7 +7609,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 26999
+    "plays": 27141
    },
    "steam": [],
    "vtt": [],
@@ -7664,11 +7664,11 @@
      3,
      4
     ],
-    "avg_minutes": 46,
+    "avg_minutes": 45,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 141252
+    "plays": 141283
    },
    "steam": [
     {
@@ -7710,7 +7710,7 @@
    "rank": 130,
    "rating": 8.23,
    "weight": 3.92,
-   "usersrated": 8727,
+   "usersrated": 8746,
    "categories": [
     "Thematic"
    ],
@@ -7826,8 +7826,8 @@
    "year": 2025,
    "rank": 132,
    "rating": 8.94,
-   "weight": 4.09,
-   "usersrated": 4454,
+   "weight": 4.1,
+   "usersrated": 4466,
    "categories": [
     "Thematic"
    ],
@@ -7914,7 +7914,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87111
+    "plays": 87155
    },
    "steam": [],
    "vtt": [],
@@ -8004,11 +8004,11 @@
      3,
      4
     ],
-    "avg_minutes": 33,
+    "avg_minutes": 34,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 49173
+    "plays": 49196
    },
    "steam": [],
    "vtt": [],
@@ -8140,11 +8140,11 @@
      5,
      6
     ],
-    "avg_minutes": 78,
+    "avg_minutes": 76,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 83307
+    "plays": 83314
    },
    "steam": [],
    "vtt": [],
@@ -8281,7 +8281,7 @@
    "rank": 140,
    "rating": 7.74,
    "weight": 3.32,
-   "usersrated": 39442,
+   "usersrated": 39451,
    "categories": [
     "Thematic"
    ],
@@ -8353,7 +8353,7 @@
    "rank": 141,
    "rating": 8.02,
    "weight": 3.37,
-   "usersrated": 14288,
+   "usersrated": 14293,
    "categories": [
     "Thematic"
    ],
@@ -8470,7 +8470,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 127008
+    "plays": 127023
    },
    "steam": [],
    "vtt": [],
@@ -8526,7 +8526,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 157802
+    "plays": 157815
    },
    "steam": [],
    "vtt": [],
@@ -8584,7 +8584,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 36095
+    "plays": 36128
    },
    "steam": [
     {
@@ -8628,7 +8628,7 @@
    "rank": 145,
    "rating": 7.89,
    "weight": 2.7,
-   "usersrated": 18747,
+   "usersrated": 18756,
    "categories": [
     "Thematic"
    ],
@@ -8819,7 +8819,7 @@
    "rank": 149,
    "rating": 7.58,
    "weight": 1.6,
-   "usersrated": 75199,
+   "usersrated": 75214,
    "categories": [
     "Family",
     "Abstract"
@@ -8861,7 +8861,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3287798
+    "plays": 3289325
    },
    "steam": [
     {
@@ -8955,7 +8955,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5492716
+    "plays": 5500228
    },
    "steam": [],
    "vtt": [],
@@ -9120,7 +9120,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 223194
+    "plays": 223219
    },
    "steam": [],
    "vtt": [],
@@ -9403,11 +9403,11 @@
      3,
      4
     ],
-    "avg_minutes": 65,
+    "avg_minutes": 66,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87185
+    "plays": 87204
    },
    "steam": [],
    "vtt": [],
@@ -9468,7 +9468,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 286215
+    "plays": 286382
    },
    "steam": [],
    "vtt": [],
@@ -9480,9 +9480,9 @@
    "name": "ISS Vanguard",
    "year": 2022,
    "rank": 161,
-   "rating": 8.33,
+   "rating": 8.32,
    "weight": 3.67,
-   "usersrated": 7270,
+   "usersrated": 7278,
    "categories": [
     "Thematic"
    ],
@@ -9852,11 +9852,11 @@
      5,
      6
     ],
-    "avg_minutes": 30,
+    "avg_minutes": 31,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 396108
+    "plays": 396386
    },
    "steam": [],
    "vtt": [],
@@ -10031,7 +10031,7 @@
    "rank": 172,
    "rating": 7.72,
    "weight": 2.9,
-   "usersrated": 23285,
+   "usersrated": 23288,
    "categories": [
     "Thematic"
    ],
@@ -10114,7 +10114,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 167279
+    "plays": 167382
    },
    "steam": [],
    "vtt": [],
@@ -10246,7 +10246,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1561357
+    "plays": 1562137
    },
    "steam": [],
    "vtt": [],
@@ -10310,7 +10310,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1082506
+    "plays": 1082655
    },
    "steam": [
     {
@@ -10395,8 +10395,48 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 591686
+    "plays": 591843
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 420033,
+   "name": "Vantage",
+   "year": 2025,
+   "rank": 178,
+   "rating": 8.15,
+   "weight": 2.34,
+   "usersrated": 8025,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    1,
+    2
+   ],
+   "player_votes": 450,
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "blurb": "Explore an entire planet's open world from a first-person perspective.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/M0e9l-SHH2H4RMSAcnsDgg__square200/img/AFfSFufAeHUbnKONFYGAZO7VIMs=/200x200/filters:strip_icc()/pic8658546.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 120,
+   "themes": [
+    "Adventure",
+    "Exploration",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -10474,134 +10514,6 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 420033,
-   "name": "Vantage",
-   "year": 2025,
-   "rank": 179,
-   "rating": 8.15,
-   "weight": 2.34,
-   "usersrated": 7965,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    1,
-    2
-   ],
-   "player_votes": 450,
-   "rec_players": [
-    1,
-    2,
-    3
-   ],
-   "blurb": "Explore an entire planet's open world from a first-person perspective.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/M0e9l-SHH2H4RMSAcnsDgg__square200/img/AFfSFufAeHUbnKONFYGAZO7VIMs=/200x200/filters:strip_icc()/pic8658546.jpg",
-   "maxplayers": 6,
-   "maxplaytime": 180,
-   "minplayers": 1,
-   "minplaytime": 120,
-   "themes": [
-    "Adventure",
-    "Exploration",
-    "Fantasy",
-    "Science Fiction"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 14996,
-   "name": "Ticket to Ride: Europe",
-   "year": 2005,
-   "rank": 180,
-   "rating": 7.52,
-   "weight": 1.92,
-   "usersrated": 86752,
-   "categories": [
-    "Family"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 1205,
-   "rec_players": [
-    2,
-    3,
-    4,
-    5
-   ],
-   "blurb": "Build train routes across Europe in this sequel to the hit family board game.",
-   "digital": [
-    "Board Game Arena"
-   ],
-   "image": "https://cf.geekdo-images.com/EQJZDO1Jq8KL-HxmWLwL-Q__square200/img/57UisWMU6B8z4rB2WWWycIyJ00U=/200x200/filters:strip_icc()/pic9580918.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 60,
-   "minplayers": 2,
-   "minplaytime": 30,
-   "themes": [
-    "Trains"
-   ],
-   "bga": {
-    "slug": "tickettorideeurope",
-    "name": "Ticket to Ride: Europe",
-    "url": "https://boardgamearena.com/gamepanel?game=tickettorideeurope",
-    "premium": true,
-    "status": "public",
-    "players": [
-     2,
-     3,
-     4,
-     5
-    ],
-    "avg_minutes": 11,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 3311644
-   },
-   "steam": [
-    {
-     "appid": 2477010,
-     "name": "Ticket to Ride®",
-     "dlc": false,
-     "url": "https://store.steampowered.com/app/2477010/",
-     "confidence": 0.85,
-     "is_free": false,
-     "price": 16.99,
-     "price_initial": 16.99,
-     "discount": 0,
-     "currency": "AUD",
-     "mp": [
-      "crossplay",
-      "local_pvp",
-      "online_pvp"
-     ],
-     "developers": [
-      "Marmalade Game Studio Ltd"
-     ],
-     "publishers": [
-      "Marmalade Game Studio Ltd"
-     ],
-     "release": "14 Nov, 2023",
-     "coming_soon": false,
-     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2477010/5326a4dae5f0b16f71bb67ecc046e6ff896ede5f/header_alt_assets_9.jpg?t=1791453902",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 70,
-      "total": 1190
-     }
-    }
-   ],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 161970,
    "name": "Alchemists",
    "year": 2014,
@@ -10652,9 +10564,97 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 9373
+    "plays": 9406
    },
    "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 14996,
+   "name": "Ticket to Ride: Europe",
+   "year": 2005,
+   "rank": 181,
+   "rating": 7.52,
+   "weight": 1.92,
+   "usersrated": 86767,
+   "categories": [
+    "Family"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 1205,
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "blurb": "Build train routes across Europe in this sequel to the hit family board game.",
+   "digital": [
+    "Board Game Arena"
+   ],
+   "image": "https://cf.geekdo-images.com/EQJZDO1Jq8KL-HxmWLwL-Q__square200/img/57UisWMU6B8z4rB2WWWycIyJ00U=/200x200/filters:strip_icc()/pic9580918.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "themes": [
+    "Trains"
+   ],
+   "bga": {
+    "slug": "tickettorideeurope",
+    "name": "Ticket to Ride: Europe",
+    "url": "https://boardgamearena.com/gamepanel?game=tickettorideeurope",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 11,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 3315108
+   },
+   "steam": [
+    {
+     "appid": 2477010,
+     "name": "Ticket to Ride®",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/2477010/",
+     "confidence": 0.85,
+     "is_free": false,
+     "price": 16.99,
+     "price_initial": 16.99,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [
+      "crossplay",
+      "local_pvp",
+      "online_pvp"
+     ],
+     "developers": [
+      "Marmalade Game Studio Ltd"
+     ],
+     "publishers": [
+      "Marmalade Game Studio Ltd"
+     ],
+     "release": "14 Nov, 2023",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2477010/5326a4dae5f0b16f71bb67ecc046e6ff896ede5f/header_alt_assets_9.jpg?t=1791453902",
+     "reviews": {
+      "desc": "Mostly Positive",
+      "pct": 70,
+      "total": 1190
+     }
+    }
+   ],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -10704,11 +10704,11 @@
      2,
      4
     ],
-    "avg_minutes": 14,
+    "avg_minutes": 15,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 566014
+    "plays": 566449
    },
    "steam": [],
    "vtt": [],
@@ -10722,7 +10722,7 @@
    "rank": 183,
    "rating": 7.61,
    "weight": 2.13,
-   "usersrated": 31242,
+   "usersrated": 31250,
    "categories": [
     "Family"
    ],
@@ -10768,7 +10768,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 161380
+    "plays": 161508
    },
    "steam": [],
    "vtt": [],
@@ -10782,7 +10782,7 @@
    "rank": 184,
    "rating": 7.55,
    "weight": 1.89,
-   "usersrated": 37089,
+   "usersrated": 37104,
    "categories": [
     "Family"
    ],
@@ -10843,7 +10843,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1726275
+    "plays": 1727657
    },
    "steam": [
     {
@@ -10886,7 +10886,7 @@
    "rank": 185,
    "rating": 7.76,
    "weight": 2.27,
-   "usersrated": 14591,
+   "usersrated": 14594,
    "categories": [
     "Wargames"
    ],
@@ -10965,7 +10965,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1332914
+    "plays": 1333337
    },
    "steam": [],
    "vtt": [],
@@ -11027,7 +11027,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4303622
+    "plays": 4306706
    },
    "steam": [],
    "vtt": [],
@@ -11156,7 +11156,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 73774
+    "plays": 74085
    },
    "steam": [],
    "vtt": [],
@@ -11218,7 +11218,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5954459
+    "plays": 5955880
    },
    "steam": [
     {
@@ -11312,7 +11312,7 @@
    "rank": 192,
    "rating": 7.75,
    "weight": 2.6,
-   "usersrated": 15601,
+   "usersrated": 15613,
    "categories": [
     "Thematic"
    ],
@@ -11389,11 +11389,11 @@
     "players": [
      2
     ],
-    "avg_minutes": 29,
+    "avg_minutes": 28,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 26337
+    "plays": 26357
    },
    "steam": [],
    "vtt": [],
@@ -11631,11 +11631,11 @@
      3,
      4
     ],
-    "avg_minutes": 43,
+    "avg_minutes": 45,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 49556
+    "plays": 49584
    },
    "steam": [],
    "vtt": [],
@@ -11778,7 +11778,7 @@
    "rank": 201,
    "rating": 7.75,
    "weight": 2.71,
-   "usersrated": 13841,
+   "usersrated": 13843,
    "categories": [
     "Thematic"
    ],
@@ -11819,7 +11819,7 @@
    "rank": 202,
    "rating": 7.48,
    "weight": 1.46,
-   "usersrated": 59174,
+   "usersrated": 59191,
    "categories": [
     "Family"
    ],
@@ -11859,66 +11859,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 2992378
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 416851,
-   "name": "Castle Combo",
-   "year": 2024,
-   "rank": 203,
-   "rating": 7.67,
-   "weight": 1.73,
-   "usersrated": 16683,
-   "categories": [
-    "Family"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 350,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Combine medieval villagers and castle dwellers to score points.",
-   "digital": [
-    "Board Game Arena",
-    "Game Park",
-    "TableTop Simulator Mod (TTS)",
-    "Tabletopia"
-   ],
-   "image": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__square200/img/ffjAFgvd7XZQT0KLRsql4zl4bYc=/200x200/filters:strip_icc()/pic8250341.png",
-   "maxplayers": 5,
-   "maxplaytime": 25,
-   "minplayers": 2,
-   "minplaytime": 10,
-   "themes": [
-    "Card Game",
-    "Medieval"
-   ],
-   "bga": {
-    "slug": "castlecombo",
-    "name": "Castle Combo",
-    "url": "https://boardgamearena.com/gamepanel?game=castlecombo",
-    "premium": true,
-    "status": "public",
-    "players": [
-     2,
-     3,
-     4,
-     5
-    ],
-    "avg_minutes": 8,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 2516648
+    "plays": 2992995
    },
    "steam": [],
    "vtt": [],
@@ -11966,13 +11907,72 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 416851,
+   "name": "Castle Combo",
+   "year": 2024,
+   "rank": 204,
+   "rating": 7.67,
+   "weight": 1.73,
+   "usersrated": 16721,
+   "categories": [
+    "Family"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 350,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Combine medieval villagers and castle dwellers to score points.",
+   "digital": [
+    "Board Game Arena",
+    "Game Park",
+    "TableTop Simulator Mod (TTS)",
+    "Tabletopia"
+   ],
+   "image": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__square200/img/ffjAFgvd7XZQT0KLRsql4zl4bYc=/200x200/filters:strip_icc()/pic8250341.png",
+   "maxplayers": 5,
+   "maxplaytime": 25,
+   "minplayers": 2,
+   "minplaytime": 10,
+   "themes": [
+    "Card Game",
+    "Medieval"
+   ],
+   "bga": {
+    "slug": "castlecombo",
+    "name": "Castle Combo",
+    "url": "https://boardgamearena.com/gamepanel?game=castlecombo",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 8,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 2519919
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 244522,
    "name": "That's Pretty Clever!",
    "year": 2018,
    "rank": 205,
    "rating": 7.55,
    "weight": 1.85,
-   "usersrated": 28520,
+   "usersrated": 28526,
    "categories": [
     "Family"
    ],
@@ -12043,7 +12043,7 @@
    "rank": 206,
    "rating": 7.62,
    "weight": 2.49,
-   "usersrated": 25603,
+   "usersrated": 25604,
    "categories": [
     "Wargames",
     "Customizable"
@@ -12205,11 +12205,11 @@
      3,
      4
     ],
-    "avg_minutes": 39,
+    "avg_minutes": 38,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 132118
+    "plays": 132157
    },
    "steam": [],
    "vtt": [],
@@ -12223,7 +12223,7 @@
    "rank": 210,
    "rating": 7.6,
    "weight": 2.66,
-   "usersrated": 22996,
+   "usersrated": 23007,
    "categories": [
     "Thematic"
    ],
@@ -12313,7 +12313,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 348867
+    "plays": 349050
    },
    "steam": [
     {
@@ -12533,11 +12533,11 @@
      5,
      6
     ],
-    "avg_minutes": 33,
+    "avg_minutes": 34,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 432044
+    "plays": 432290
    },
    "steam": [],
    "vtt": [],
@@ -12548,10 +12548,10 @@
    "bgg_id": 339789,
    "name": "Welcome to the Moon",
    "year": 2021,
-   "rank": 216,
+   "rank": 215,
    "rating": 7.84,
    "weight": 2.46,
-   "usersrated": 9855,
+   "usersrated": 9872,
    "categories": [
     "Thematic",
     "Family"
@@ -12603,7 +12603,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 302638
+    "plays": 303023
    },
    "steam": [],
    "vtt": [],
@@ -12695,7 +12695,7 @@
    "rank": 219,
    "rating": 7.5,
    "weight": 1.84,
-   "usersrated": 35320,
+   "usersrated": 35332,
    "categories": [
     "Family"
    ],
@@ -12752,7 +12752,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3060103
+    "plays": 3061256
    },
    "steam": [],
    "vtt": [],
@@ -12851,7 +12851,7 @@
    "rank": 222,
    "rating": 7.88,
    "weight": 1.95,
-   "usersrated": 8849,
+   "usersrated": 8868,
    "categories": [
     "Thematic"
    ],
@@ -12930,7 +12930,7 @@
    "rank": 224,
    "rating": 7.75,
    "weight": 3.33,
-   "usersrated": 14727,
+   "usersrated": 14732,
    "categories": [
     "Thematic"
    ],
@@ -13072,7 +13072,7 @@
    "rank": 226,
    "rating": 7.53,
    "weight": 2.27,
-   "usersrated": 32214,
+   "usersrated": 32217,
    "categories": [
     "Wargames"
    ],
@@ -13110,7 +13110,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 769856
+    "plays": 770236
    },
    "steam": [],
    "vtt": [],
@@ -13124,7 +13124,7 @@
    "rank": 227,
    "rating": 7.47,
    "weight": 1.92,
-   "usersrated": 48984,
+   "usersrated": 48996,
    "categories": [
     "Family",
     "Abstract"
@@ -13199,7 +13199,7 @@
    "rank": 228,
    "rating": 7.54,
    "weight": 2.14,
-   "usersrated": 24142,
+   "usersrated": 24154,
    "categories": [
     "Family"
    ],
@@ -13245,8 +13245,48 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4074425
+    "plays": 4076788
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 256680,
+   "name": "Return to Dark Tower",
+   "year": 2022,
+   "rank": 229,
+   "rating": 8.19,
+   "weight": 2.66,
+   "usersrated": 6118,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 116,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "Cooperative or competitive strategy game pitting heroes against an ominous Tower.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/sd0acHeHj9RE-daXPC7pEg__square200/img/cR97UDcXdnExxbY4CuBqEytqTgc=/200x200/filters:strip_icc()/pic5153383.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 100,
+   "themes": [
+    "Adventure",
+    "Electronic",
+    "Fantasy",
+    "Fighting"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -13256,10 +13296,10 @@
    "bgg_id": 9609,
    "name": "War of the Ring",
    "year": 2004,
-   "rank": 229,
+   "rank": 230,
    "rating": 7.78,
    "weight": 3.85,
-   "usersrated": 11009,
+   "usersrated": 11011,
    "categories": [
     "Thematic",
     "Wargames"
@@ -13294,95 +13334,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 256680,
-   "name": "Return to Dark Tower",
-   "year": 2022,
-   "rank": 230,
-   "rating": 8.19,
-   "weight": 2.66,
-   "usersrated": 6105,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 116,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "Cooperative or competitive strategy game pitting heroes against an ominous Tower.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/sd0acHeHj9RE-daXPC7pEg__square200/img/cR97UDcXdnExxbY4CuBqEytqTgc=/200x200/filters:strip_icc()/pic5153383.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 120,
-   "minplayers": 1,
-   "minplaytime": 100,
-   "themes": [
-    "Adventure",
-    "Electronic",
-    "Fantasy",
-    "Fighting"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 367150,
-   "name": "Dune: War for Arrakis",
-   "year": 2024,
-   "rank": 231,
-   "rating": 8.47,
-   "weight": 3.65,
-   "usersrated": 4486,
-   "categories": [
-    "Thematic",
-    "Wargames"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 126,
-   "rec_players": [
-    2,
-    4
-   ],
-   "blurb": "Fight for control of Arrakis and its precious Spice.",
-   "digital": [
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/b_Uo-x3szhupSWeQdw5bdg__square200/img/bB-dTEQv0Z5NGNCPkXK7JqTgJPU=/200x200/filters:strip_icc()/pic7088918.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 120,
-   "minplayers": 1,
-   "minplaytime": 120,
-   "themes": [
-    "Dice",
-    "Movies / TV / Radio theme",
-    "Novel-based",
-    "Science Fiction",
-    "Wargame"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 381248,
    "name": "Nemesis: Retaliation",
    "year": 2025,
-   "rank": 232,
+   "rank": 231,
    "rating": 8.64,
    "weight": 3.77,
-   "usersrated": 4433,
+   "usersrated": 4475,
    "categories": [
     "Thematic"
    ],
@@ -13431,8 +13389,50 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 33227
+    "plays": 33912
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 367150,
+   "name": "Dune: War for Arrakis",
+   "year": 2024,
+   "rank": 232,
+   "rating": 8.48,
+   "weight": 3.65,
+   "usersrated": 4498,
+   "categories": [
+    "Thematic",
+    "Wargames"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 126,
+   "rec_players": [
+    2,
+    4
+   ],
+   "blurb": "Fight for control of Arrakis and its precious Spice.",
+   "digital": [
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/b_Uo-x3szhupSWeQdw5bdg__square200/img/bB-dTEQv0Z5NGNCPkXK7JqTgJPU=/200x200/filters:strip_icc()/pic7088918.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 120,
+   "themes": [
+    "Dice",
+    "Movies / TV / Radio theme",
+    "Novel-based",
+    "Science Fiction",
+    "Wargame"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -13486,7 +13486,7 @@
    "rank": 234,
    "rating": 7.6,
    "weight": 3.22,
-   "usersrated": 26132,
+   "usersrated": 26135,
    "categories": [
     "Thematic"
    ],
@@ -13695,7 +13695,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 82884
+    "plays": 82978
    },
    "steam": [],
    "vtt": [],
@@ -13758,105 +13758,9 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 93203
+    "plays": 93232
    },
    "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 822,
-   "name": "Carcassonne",
-   "year": 2000,
-   "rank": 240,
-   "rating": 7.42,
-   "weight": 1.88,
-   "usersrated": 141852,
-   "categories": [
-    "Family"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 2808,
-   "rec_players": [
-    2,
-    3,
-    4,
-    5
-   ],
-   "blurb": "Shape the medieval French landscape, claiming cities, monasteries, roads, and farms.",
-   "digital": [
-    "Apple App Store",
-    "Board Game Arena",
-    "BrettspielWelt",
-    "Google Play",
-    "Steam",
-    "VASSAL"
-   ],
-   "image": "https://cf.geekdo-images.com/peUgu3A20LRmAXAMyDQfpQ__square200/img/2spDfunmsck0NXjMz6eeZmMN7xw=/200x200/filters:strip_icc()/pic8621446.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 45,
-   "minplayers": 2,
-   "minplaytime": 30,
-   "themes": [
-    "Medieval",
-    "Territory Building"
-   ],
-   "bga": {
-    "slug": "carcassonne",
-    "name": "Carcassonne",
-    "url": "https://boardgamearena.com/gamepanel?game=carcassonne",
-    "premium": true,
-    "status": "public",
-    "players": [
-     2,
-     3,
-     4,
-     5
-    ],
-    "avg_minutes": 15,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 15669742
-   },
-   "steam": [
-    {
-     "appid": 598810,
-     "name": "Carcassonne - Tiles & Tactics",
-     "dlc": false,
-     "url": "https://store.steampowered.com/app/598810/",
-     "confidence": 0.85,
-     "is_free": false,
-     "price": 14.5,
-     "price_initial": 14.5,
-     "discount": 0,
-     "currency": "AUD",
-     "mp": [
-      "async",
-      "crossplay",
-      "local_pvp",
-      "online_pvp",
-      "remote_play"
-     ],
-     "developers": [
-      "Artefacts Studio"
-     ],
-     "publishers": [
-      "Twin Sails Interactive"
-     ],
-     "release": "29 Nov, 2017",
-     "coming_soon": false,
-     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598810/header.jpg?t=1758125330",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 84,
-      "total": 2810
-     }
-    }
-   ],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -13904,6 +13808,102 @@
    ],
    "bga": null,
    "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 822,
+   "name": "Carcassonne",
+   "year": 2000,
+   "rank": 241,
+   "rating": 7.42,
+   "weight": 1.88,
+   "usersrated": 141890,
+   "categories": [
+    "Family"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 2808,
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "blurb": "Shape the medieval French landscape, claiming cities, monasteries, roads, and farms.",
+   "digital": [
+    "Apple App Store",
+    "Board Game Arena",
+    "BrettspielWelt",
+    "Google Play",
+    "Steam",
+    "VASSAL"
+   ],
+   "image": "https://cf.geekdo-images.com/peUgu3A20LRmAXAMyDQfpQ__square200/img/2spDfunmsck0NXjMz6eeZmMN7xw=/200x200/filters:strip_icc()/pic8621446.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 45,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "themes": [
+    "Medieval",
+    "Territory Building"
+   ],
+   "bga": {
+    "slug": "carcassonne",
+    "name": "Carcassonne",
+    "url": "https://boardgamearena.com/gamepanel?game=carcassonne",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 15,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 15676833
+   },
+   "steam": [
+    {
+     "appid": 598810,
+     "name": "Carcassonne - Tiles & Tactics",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/598810/",
+     "confidence": 0.85,
+     "is_free": false,
+     "price": 14.5,
+     "price_initial": 14.5,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "crossplay",
+      "local_pvp",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "Artefacts Studio"
+     ],
+     "publishers": [
+      "Twin Sails Interactive"
+     ],
+     "release": "29 Nov, 2017",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598810/header.jpg?t=1758125330",
+     "reviews": {
+      "desc": "Very Positive",
+      "pct": 84,
+      "total": 2810
+     }
+    }
+   ],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -13990,7 +13990,7 @@
    "rank": 243,
    "rating": 7.62,
    "weight": 1.97,
-   "usersrated": 15302,
+   "usersrated": 15306,
    "categories": [
     "Family"
    ],
@@ -14057,7 +14057,7 @@
    "rank": 244,
    "rating": 7.42,
    "weight": 1.77,
-   "usersrated": 91795,
+   "usersrated": 91821,
    "categories": [
     "Family"
    ],
@@ -14101,7 +14101,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 11108179
+    "plays": 11114935
    },
    "steam": [
     {
@@ -14191,11 +14191,11 @@
      5,
      6
     ],
-    "avg_minutes": 74,
+    "avg_minutes": 76,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 37346
+    "plays": 37355
    },
    "steam": [],
    "vtt": [],
@@ -14209,7 +14209,7 @@
    "rank": 246,
    "rating": 7.56,
    "weight": 2.08,
-   "usersrated": 19855,
+   "usersrated": 19862,
    "categories": [
     "Family",
     "Abstract"
@@ -14252,7 +14252,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 577643
+    "plays": 578079
    },
    "steam": [],
    "vtt": [],
@@ -14266,7 +14266,7 @@
    "rank": 247,
    "rating": 7.58,
    "weight": 2.02,
-   "usersrated": 20410,
+   "usersrated": 20426,
    "categories": [
     "Thematic",
     "Family"
@@ -14348,7 +14348,7 @@
    "rank": 249,
    "rating": 7.5,
    "weight": 2.21,
-   "usersrated": 24185,
+   "usersrated": 24197,
    "categories": [
     "Thematic",
     "Party"
@@ -14471,7 +14471,7 @@
    "rank": 252,
    "rating": 7.51,
    "weight": 1.49,
-   "usersrated": 24702,
+   "usersrated": 24730,
    "categories": [
     "Family"
    ],
@@ -14512,7 +14512,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4394509
+    "plays": 4398095
    },
    "steam": [],
    "vtt": [],
@@ -14526,7 +14526,7 @@
    "rank": 253,
    "rating": 7.54,
    "weight": 1.95,
-   "usersrated": 19861,
+   "usersrated": 19888,
    "categories": [
     "Family"
    ],
@@ -14575,7 +14575,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3264525
+    "plays": 3269199
    },
    "steam": [],
    "vtt": [],
@@ -14629,7 +14629,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 323790
+    "plays": 324002
    },
    "steam": [
     {
@@ -14746,7 +14746,7 @@
    "rank": 256,
    "rating": 7.44,
    "weight": 3.01,
-   "usersrated": 49176,
+   "usersrated": 49189,
    "categories": [
     "Thematic"
    ],
@@ -14788,7 +14788,7 @@
    "rank": 257,
    "rating": 7.77,
    "weight": 2.69,
-   "usersrated": 9150,
+   "usersrated": 9152,
    "categories": [
     "Wargames"
    ],
@@ -14871,7 +14871,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 318510
+    "plays": 318569
    },
    "steam": [],
    "vtt": [],
@@ -14997,7 +14997,7 @@
    "rank": 261,
    "rating": 7.62,
    "weight": 1.05,
-   "usersrated": 12588,
+   "usersrated": 12593,
    "categories": [
     "Family",
     "Party"
@@ -15072,7 +15072,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 34771
+    "plays": 34805
    },
    "steam": [],
    "vtt": [],
@@ -15086,7 +15086,7 @@
    "rank": 263,
    "rating": 7.38,
    "weight": 1.82,
-   "usersrated": 99720,
+   "usersrated": 99744,
    "categories": [
     "Family"
    ],
@@ -15131,7 +15131,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17932717
+    "plays": 17943510
    },
    "steam": [
     {
@@ -15176,8 +15176,8 @@
    "year": 2025,
    "rank": 264,
    "rating": 7.84,
-   "weight": 1.49,
-   "usersrated": 8152,
+   "weight": 1.5,
+   "usersrated": 8178,
    "categories": [
     "Family"
    ],
@@ -15213,7 +15213,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1414443
+    "plays": 1417223
    },
    "steam": [],
    "vtt": [],
@@ -15450,50 +15450,6 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 260605,
-   "name": "Camel Up (Second Edition)",
-   "year": 2018,
-   "rank": 270,
-   "rating": 7.53,
-   "weight": 1.51,
-   "usersrated": 18645,
-   "categories": [
-    "Family",
-    "Party"
-   ],
-   "best_players": [
-    5,
-    6
-   ],
-   "player_votes": 252,
-   "rec_players": [
-    3,
-    4,
-    5,
-    6,
-    7,
-    8
-   ],
-   "blurb": "Place your bets and bend the odds in this crazy camel-stacking race!",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/qnR2V3YsW963_JaVznBjsw__square200/img/ZVprjLeqEVe3XCSV1qItMnvp1Ls=/200x200/filters:strip_icc()/pic8584959.jpg",
-   "maxplayers": 8,
-   "maxplaytime": 45,
-   "minplayers": 3,
-   "minplaytime": 30,
-   "themes": [
-    "Animals",
-    "Arabian",
-    "Dice",
-    "Racing"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 245638,
    "name": "Coimbra",
    "year": 2018,
@@ -15531,13 +15487,57 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 260605,
+   "name": "Camel Up (Second Edition)",
+   "year": 2018,
+   "rank": 271,
+   "rating": 7.53,
+   "weight": 1.51,
+   "usersrated": 18657,
+   "categories": [
+    "Family",
+    "Party"
+   ],
+   "best_players": [
+    5,
+    6
+   ],
+   "player_votes": 252,
+   "rec_players": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "blurb": "Place your bets and bend the odds in this crazy camel-stacking race!",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/qnR2V3YsW963_JaVznBjsw__square200/img/ZVprjLeqEVe3XCSV1qItMnvp1Ls=/200x200/filters:strip_icc()/pic8584959.jpg",
+   "maxplayers": 8,
+   "maxplaytime": 45,
+   "minplayers": 3,
+   "minplaytime": 30,
+   "themes": [
+    "Animals",
+    "Arabian",
+    "Dice",
+    "Racing"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 223040,
    "name": "Fantasy Realms",
    "year": 2017,
    "rank": 272,
    "rating": 7.5,
    "weight": 1.82,
-   "usersrated": 18831,
+   "usersrated": 18838,
    "categories": [
     "Family"
    ],
@@ -15659,7 +15659,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 68203
+    "plays": 68213
    },
    "steam": [],
    "vtt": [],
@@ -15761,7 +15761,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 203112
+    "plays": 203328
    },
    "steam": [],
    "vtt": [],
@@ -15775,7 +15775,7 @@
    "rank": 277,
    "rating": 7.47,
    "weight": 2.2,
-   "usersrated": 24137,
+   "usersrated": 24145,
    "categories": [
     "Family",
     "Abstract"
@@ -15853,7 +15853,7 @@
    "rank": 278,
    "rating": 7.4,
    "weight": 1.36,
-   "usersrated": 27273,
+   "usersrated": 27282,
    "categories": [
     "Family",
     "Party"
@@ -16007,8 +16007,8 @@
    "year": 2025,
    "rank": 281,
    "rating": 7.75,
-   "weight": 1.19,
-   "usersrated": 9637,
+   "weight": 1.18,
+   "usersrated": 9742,
    "categories": [
     "Family",
     "Party"
@@ -16095,7 +16095,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 231922
+    "plays": 231963
    },
    "steam": [],
    "vtt": [],
@@ -16146,7 +16146,7 @@
    "rank": 284,
    "rating": 7.53,
    "weight": 1.73,
-   "usersrated": 16479,
+   "usersrated": 16490,
    "categories": [
     "Family"
    ],
@@ -16196,7 +16196,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 417851
+    "plays": 418812
    },
    "steam": [],
    "vtt": [],
@@ -16210,7 +16210,7 @@
    "rank": 285,
    "rating": 7.63,
    "weight": 2.9,
-   "usersrated": 11270,
+   "usersrated": 11275,
    "categories": [
     "Thematic"
    ],
@@ -16287,8 +16287,8 @@
    "year": 2012,
    "rank": 287,
    "rating": 7.52,
-   "weight": 2.43,
-   "usersrated": 23487,
+   "weight": 2.44,
+   "usersrated": 23493,
    "categories": [
     "Thematic"
    ],
@@ -16326,7 +16326,7 @@
    "rank": 288,
    "rating": 7.45,
    "weight": 1.67,
-   "usersrated": 21814,
+   "usersrated": 21821,
    "categories": [
     "Family"
    ],
@@ -16363,7 +16363,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 219354
+    "plays": 219463
    },
    "steam": [],
    "vtt": [],
@@ -16499,7 +16499,7 @@
    "rank": 292,
    "rating": 7.37,
    "weight": 1.33,
-   "usersrated": 41015,
+   "usersrated": 41024,
    "categories": [
     "Family"
    ],
@@ -16549,7 +16549,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 387159
+    "plays": 387334
    },
    "steam": [],
    "vtt": [],
@@ -16563,7 +16563,7 @@
    "rank": 293,
    "rating": 7.59,
    "weight": 2.85,
-   "usersrated": 13289,
+   "usersrated": 13294,
    "categories": [
     "Thematic"
    ],
@@ -16600,7 +16600,7 @@
    "rank": 294,
    "rating": 7.47,
    "weight": 1.71,
-   "usersrated": 20110,
+   "usersrated": 20114,
    "categories": [
     "Family"
    ],
@@ -16627,6 +16627,57 @@
    "bga": null,
    "steam": [],
    "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 176189,
+   "name": "Zombicide: Black Plague",
+   "year": 2015,
+   "rank": 295,
+   "rating": 7.6,
+   "weight": 2.47,
+   "usersrated": 17561,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    3
+   ],
+   "player_votes": 253,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "blurb": "Work together to kill zombies in the Middle Ages! Then kill more zombies!",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/kVHuMBxmathfnq42XINBQg__square200/img/ee3wtillIA0XWA4uvvGnON5Abt0=/200x200/filters:strip_icc()/pic2482309.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "themes": [
+    "Adventure",
+    "Fantasy",
+    "Fighting",
+    "Horror",
+    "Medieval",
+    "Miniatures",
+    "Zombies"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [
+    {
+     "appid": 468726,
+     "platform": "Tabletop Simulator",
+     "url": "https://store.steampowered.com/app/468726/"
+    }
+   ],
    "note": null,
    "steam_delisted": false
   },
@@ -16673,57 +16724,6 @@
      "appid": 468721,
      "platform": "Tabletop Simulator",
      "url": "https://store.steampowered.com/app/468721/"
-    }
-   ],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 176189,
-   "name": "Zombicide: Black Plague",
-   "year": 2015,
-   "rank": 296,
-   "rating": 7.6,
-   "weight": 2.47,
-   "usersrated": 17556,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    3
-   ],
-   "player_votes": 253,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6
-   ],
-   "blurb": "Work together to kill zombies in the Middle Ages! Then kill more zombies!",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/kVHuMBxmathfnq42XINBQg__square200/img/ee3wtillIA0XWA4uvvGnON5Abt0=/200x200/filters:strip_icc()/pic2482309.jpg",
-   "maxplayers": 6,
-   "maxplaytime": 180,
-   "minplayers": 1,
-   "minplaytime": 60,
-   "themes": [
-    "Adventure",
-    "Fantasy",
-    "Fighting",
-    "Horror",
-    "Medieval",
-    "Miniatures",
-    "Zombies"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [
-    {
-     "appid": 468726,
-     "platform": "Tabletop Simulator",
-     "url": "https://store.steampowered.com/app/468726/"
     }
    ],
    "note": null,
@@ -17154,7 +17154,7 @@
    "rank": 304,
    "rating": 7.44,
    "weight": 1.11,
-   "usersrated": 20299,
+   "usersrated": 20308,
    "categories": [
     "Family"
    ],
@@ -17324,7 +17324,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 603483
+    "plays": 603822
    },
    "steam": [],
    "vtt": [
@@ -17733,7 +17733,7 @@
    "rank": 316,
    "rating": 7.5,
    "weight": 1.13,
-   "usersrated": 16911,
+   "usersrated": 16923,
    "categories": [
     "Family",
     "Party"
@@ -17780,7 +17780,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 927811
+    "plays": 928099
    },
    "steam": [
     {
@@ -17868,7 +17868,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 833084
+    "plays": 833283
    },
    "steam": [],
    "vtt": [],
@@ -18082,7 +18082,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 59305
+    "plays": 59370
    },
    "steam": [],
    "vtt": [],
@@ -18141,7 +18141,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5539
+    "plays": 5547
    },
    "steam": [],
    "vtt": [],
@@ -18207,49 +18207,8 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 837883
+    "plays": 838168
    },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 31481,
-   "name": "Galaxy Trucker",
-   "year": 2007,
-   "rank": 323,
-   "rating": 7.32,
-   "weight": 2.33,
-   "usersrated": 35990,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 469,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Prepare for unknown dangers by building the best spaceship possible.",
-   "digital": [
-    "Google Play"
-   ],
-   "image": "https://cf.geekdo-images.com/gLFt1Kif5Cfag505_COYYw__square200/img/TTY71cECWdhIwn4wcazrMJNDEBA=/200x200/filters:strip_icc()/pic3926631.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 60,
-   "minplayers": 2,
-   "minplaytime": 60,
-   "themes": [
-    "Real-time",
-    "Science Fiction",
-    "Space Exploration",
-    "Transportation"
-   ],
-   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -18301,11 +18260,11 @@
      4,
      5
     ],
-    "avg_minutes": 87,
+    "avg_minutes": 95,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5155
+    "plays": 5160
    },
    "steam": [],
    "vtt": [],
@@ -18348,6 +18307,47 @@
     "Fantasy",
     "Fighting",
     "Video Game Theme"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 31481,
+   "name": "Galaxy Trucker",
+   "year": 2007,
+   "rank": 326,
+   "rating": 7.32,
+   "weight": 2.33,
+   "usersrated": 36001,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 469,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Prepare for unknown dangers by building the best spaceship possible.",
+   "digital": [
+    "Google Play"
+   ],
+   "image": "https://cf.geekdo-images.com/gLFt1Kif5Cfag505_COYYw__square200/img/TTY71cECWdhIwn4wcazrMJNDEBA=/200x200/filters:strip_icc()/pic3926631.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "themes": [
+    "Real-time",
+    "Science Fiction",
+    "Space Exploration",
+    "Transportation"
    ],
    "bga": null,
    "steam": [],
@@ -18450,7 +18450,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13229
+    "plays": 13236
    },
    "steam": [],
    "vtt": [],
@@ -18507,11 +18507,11 @@
      5,
      6
     ],
-    "avg_minutes": 41,
+    "avg_minutes": 42,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 494150
+    "plays": 494358
    },
    "steam": [],
    "vtt": [],
@@ -18525,7 +18525,7 @@
    "rank": 330,
    "rating": 8.03,
    "weight": 2.17,
-   "usersrated": 5607,
+   "usersrated": 5608,
    "categories": [
     "Family"
    ],
@@ -18589,55 +18589,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 331106,
-   "name": "The Witcher: Old World",
-   "year": 2023,
-   "rank": 331,
-   "rating": 7.88,
-   "weight": 2.88,
-   "usersrated": 9342,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    2,
-    3
-   ],
-   "player_votes": 472,
-   "rec_players": [
-    1,
-    2,
-    3
-   ],
-   "blurb": "Explore the Continent, upgrade your skills, and fight monsters/witchers for trophies.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/tQVVSXcmYLvAoI28cp-2Tg__square200/img/-x51X_wpW7TT5FlqnxPtG0EMhY4=/200x200/filters:strip_icc()/pic5974859.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 150,
-   "minplayers": 1,
-   "minplaytime": 90,
-   "themes": [
-    "Adventure",
-    "Fantasy",
-    "Fighting",
-    "Novel-based",
-    "Travel",
-    "Video Game Theme"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 370591,
    "name": "Dorfromantik: The Board Game",
    "year": 2022,
-   "rank": 332,
+   "rank": 331,
    "rating": 7.58,
    "weight": 1.63,
-   "usersrated": 11921,
+   "usersrated": 11928,
    "categories": [
     "Family"
    ],
@@ -18699,6 +18657,48 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 331106,
+   "name": "The Witcher: Old World",
+   "year": 2023,
+   "rank": 332,
+   "rating": 7.88,
+   "weight": 2.88,
+   "usersrated": 9353,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    2,
+    3
+   ],
+   "player_votes": 472,
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "blurb": "Explore the Continent, upgrade your skills, and fight monsters/witchers for trophies.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/tQVVSXcmYLvAoI28cp-2Tg__square200/img/-x51X_wpW7TT5FlqnxPtG0EMhY4=/200x200/filters:strip_icc()/pic5974859.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "themes": [
+    "Adventure",
+    "Fantasy",
+    "Fighting",
+    "Novel-based",
+    "Travel",
+    "Video Game Theme"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 434367,
    "name": "Nippon: Zaibatsu",
    "year": 2026,
@@ -18745,7 +18745,7 @@
    "rank": 334,
    "rating": 7.29,
    "weight": 1.24,
-   "usersrated": 53859,
+   "usersrated": 53866,
    "categories": [
     "Family"
    ],
@@ -18792,7 +18792,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 7155205
+    "plays": 7157244
    },
    "steam": [
     {
@@ -18997,7 +18997,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1064679
+    "plays": 1064796
    },
    "steam": [],
    "vtt": [],
@@ -19090,11 +19090,11 @@
      4,
      5
     ],
-    "avg_minutes": 37,
+    "avg_minutes": 38,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 77007
+    "plays": 77024
    },
    "steam": [],
    "vtt": [],
@@ -19146,7 +19146,7 @@
    "rank": 342,
    "rating": 7.53,
    "weight": 1.85,
-   "usersrated": 13613,
+   "usersrated": 13617,
    "categories": [
     "Family"
    ],
@@ -19305,7 +19305,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 317859
+    "plays": 318079
    },
    "steam": [],
    "vtt": [],
@@ -19400,7 +19400,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 18313
+    "plays": 18476
    },
    "steam": [],
    "vtt": [],
@@ -19452,7 +19452,7 @@
    "rank": 349,
    "rating": 7.26,
    "weight": 1.47,
-   "usersrated": 51636,
+   "usersrated": 51647,
    "categories": [
     "Family"
    ],
@@ -19492,7 +19492,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5337753
+    "plays": 5339363
    },
    "steam": [
     {
@@ -19533,55 +19533,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 305096,
-   "name": "Endless Winter: Paleoamericans",
-   "year": 2022,
-   "rank": 351,
-   "rating": 7.61,
-   "weight": 3.32,
-   "usersrated": 10209,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    3
-   ],
-   "player_votes": 280,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "Settle new lands, grow your population, and build megaliths - in an endless winter.",
-   "digital": [
-    "TableTop Simulator Mod (TTS)",
-    "Tabletopia"
-   ],
-   "image": "https://cf.geekdo-images.com/TFX_awTwbJxoG74GtRHytw__square200/img/8z2vIk0V5T5fj6LyUfU-eRn84jU=/200x200/filters:strip_icc()/pic5624523.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 120,
-   "minplayers": 1,
-   "minplaytime": 60,
-   "themes": [
-    "Adventure",
-    "Prehistoric",
-    "Territory Building"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 333255,
    "name": "Keep the Heroes Out!",
    "year": 2022,
-   "rank": 351,
+   "rank": 350,
    "rating": 7.88,
-   "weight": 2.49,
-   "usersrated": 6613,
+   "weight": 2.5,
+   "usersrated": 6641,
    "categories": [
     "Thematic"
    ],
@@ -19645,6 +19603,48 @@
      }
     }
    ],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 305096,
+   "name": "Endless Winter: Paleoamericans",
+   "year": 2022,
+   "rank": 351,
+   "rating": 7.61,
+   "weight": 3.32,
+   "usersrated": 10209,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    3
+   ],
+   "player_votes": 280,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "Settle new lands, grow your population, and build megaliths - in an endless winter.",
+   "digital": [
+    "TableTop Simulator Mod (TTS)",
+    "Tabletopia"
+   ],
+   "image": "https://cf.geekdo-images.com/TFX_awTwbJxoG74GtRHytw__square200/img/8z2vIk0V5T5fj6LyUfU-eRn84jU=/200x200/filters:strip_icc()/pic5624523.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "themes": [
+    "Adventure",
+    "Prehistoric",
+    "Territory Building"
+   ],
+   "bga": null,
+   "steam": [],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -19730,7 +19730,7 @@
    "rank": 353,
    "rating": 7.55,
    "weight": 1.59,
-   "usersrated": 10778,
+   "usersrated": 10809,
    "categories": [
     "Family"
    ],
@@ -19772,7 +19772,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 190927
+    "plays": 191390
    },
    "steam": [],
    "vtt": [],
@@ -19786,7 +19786,7 @@
    "rank": 354,
    "rating": 7.59,
    "weight": 2.74,
-   "usersrated": 11583,
+   "usersrated": 11585,
    "categories": [
     "Thematic"
    ],
@@ -19866,7 +19866,7 @@
    "rank": 356,
    "rating": 7.68,
    "weight": 3.38,
-   "usersrated": 11270,
+   "usersrated": 11275,
    "categories": [
     "Thematic"
    ],
@@ -19906,7 +19906,7 @@
    "rank": 357,
    "rating": 7.27,
    "weight": 1.25,
-   "usersrated": 34876,
+   "usersrated": 34883,
    "categories": [
     "Family"
    ],
@@ -19949,7 +19949,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 872381
+    "plays": 872574
    },
    "steam": [],
    "vtt": [],
@@ -20035,44 +20035,6 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 239188,
-   "name": "Chronicles of Crime",
-   "year": 2018,
-   "rank": 359,
-   "rating": 7.52,
-   "weight": 2.06,
-   "usersrated": 25216,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 398,
-   "rec_players": [
-    1,
-    2,
-    3
-   ],
-   "blurb": "Lay out the case, interrogate suspects, and investigate crime scenes with your phone.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/1BMyuEwK0zV9005oYinYLw__square200/img/_28Az4VY7N8mxmQqEERw1p8KgZ8=/200x200/filters:strip_icc()/pic4317519.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 90,
-   "minplayers": 1,
-   "minplaytime": 60,
-   "themes": [
-    "Adventure",
-    "Deduction",
-    "Murder / Mystery"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 350933,
    "name": "The Guild of Merchant Explorers",
    "year": 2022,
@@ -20125,8 +20087,46 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 289008
+    "plays": 289217
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 239188,
+   "name": "Chronicles of Crime",
+   "year": 2018,
+   "rank": 361,
+   "rating": 7.52,
+   "weight": 2.06,
+   "usersrated": 25222,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 398,
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "blurb": "Lay out the case, interrogate suspects, and investigate crime scenes with your phone.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/1BMyuEwK0zV9005oYinYLw__square200/img/_28Az4VY7N8mxmQqEERw1p8KgZ8=/200x200/filters:strip_icc()/pic4317519.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "themes": [
+    "Adventure",
+    "Deduction",
+    "Murder / Mystery"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -20304,7 +20304,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10481721
+    "plays": 10482985
    },
    "steam": [],
    "vtt": [],
@@ -20355,7 +20355,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 132108
+    "plays": 132176
    },
    "steam": [],
    "vtt": [],
@@ -20457,7 +20457,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 140073
+    "plays": 140202
    },
    "steam": [],
    "vtt": [],
@@ -20471,7 +20471,7 @@
    "rank": 369,
    "rating": 7.34,
    "weight": 2.58,
-   "usersrated": 28929,
+   "usersrated": 28935,
    "categories": [
     "Thematic"
    ],
@@ -20590,11 +20590,11 @@
      3,
      4
     ],
-    "avg_minutes": 34,
+    "avg_minutes": 33,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 76950
+    "plays": 77006
    },
    "steam": [],
    "vtt": [],
@@ -20646,7 +20646,7 @@
    "rank": 373,
    "rating": 7.23,
    "weight": 1.18,
-   "usersrated": 72456,
+   "usersrated": 72467,
    "categories": [
     "Family"
    ],
@@ -20756,7 +20756,7 @@
    "rank": 375,
    "rating": 7.5,
    "weight": 1.96,
-   "usersrated": 10814,
+   "usersrated": 10818,
    "categories": [
     "Family"
    ],
@@ -20869,10 +20869,10 @@
    "bgg_id": 302723,
    "name": "Forgotten Waters",
    "year": 2020,
-   "rank": 377,
+   "rank": 376,
    "rating": 7.71,
    "weight": 2.09,
-   "usersrated": 7196,
+   "usersrated": 7208,
    "categories": [
     "Thematic"
    ],
@@ -20901,46 +20901,6 @@
     "Nautical",
     "Pirates",
     "Travel"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 155068,
-   "name": "Arcadia Quest",
-   "year": 2014,
-   "rank": 378,
-   "rating": 7.58,
-   "weight": 2.53,
-   "usersrated": 10851,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 192,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Fight against rival guilds and monsters in a campaign to reclaim the city of Arcadia.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/8qyLCqvdZkSpT2lEbwVpeg__square200/img/6cJ8HhUgCdq7uhHRIJ_yydPhc_0=/200x200/filters:strip_icc()/pic2305263.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 60,
-   "minplayers": 2,
-   "minplaytime": 60,
-   "themes": [
-    "Adventure",
-    "Exploration",
-    "Fantasy",
-    "Fighting",
-    "Miniatures"
    ],
    "bga": null,
    "steam": [],
@@ -20996,8 +20956,48 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2111112
+    "plays": 2111834
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 155068,
+   "name": "Arcadia Quest",
+   "year": 2014,
+   "rank": 379,
+   "rating": 7.58,
+   "weight": 2.53,
+   "usersrated": 10851,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 192,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Fight against rival guilds and monsters in a campaign to reclaim the city of Arcadia.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/8qyLCqvdZkSpT2lEbwVpeg__square200/img/6cJ8HhUgCdq7uhHRIJ_yydPhc_0=/200x200/filters:strip_icc()/pic2305263.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "themes": [
+    "Adventure",
+    "Exploration",
+    "Fantasy",
+    "Fighting",
+    "Miniatures"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -21135,67 +21135,11 @@
      4,
      5
     ],
-    "avg_minutes": 70,
+    "avg_minutes": 71,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 2620
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 345972,
-   "name": "Cat in the Box: Deluxe Edition",
-   "year": 2022,
-   "rank": 383,
-   "rating": 7.42,
-   "weight": 2.05,
-   "usersrated": 13406,
-   "categories": [
-    "Family"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 247,
-   "rec_players": [
-    3,
-    4,
-    5
-   ],
-   "blurb": "Win tricks without knowing the colour of your cards until you play them.",
-   "digital": [
-    "Board Game Arena"
-   ],
-   "image": "https://cf.geekdo-images.com/M1gT_9LjNqUzAx3RAqdGRQ__square200/img/mA_6p9nRdUlGMJCw0Y0xVtYfJvc=/200x200/filters:strip_icc()/pic6731829.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 40,
-   "minplayers": 2,
-   "minplaytime": 20,
-   "themes": [
-    "Animals",
-    "Card Game"
-   ],
-   "bga": {
-    "slug": "catinthebox",
-    "name": "Cat in the Box: Deluxe Edition",
-    "url": "https://boardgamearena.com/gamepanel?game=catinthebox",
-    "premium": true,
-    "status": "public",
-    "players": [
-     2,
-     3,
-     4,
-     5
-    ],
-    "avg_minutes": 16,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 74774
+    "plays": 2720
    },
    "steam": [],
    "vtt": [],
@@ -21255,7 +21199,63 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 80899
+    "plays": 80959
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 345972,
+   "name": "Cat in the Box: Deluxe Edition",
+   "year": 2022,
+   "rank": 384,
+   "rating": 7.42,
+   "weight": 2.05,
+   "usersrated": 13410,
+   "categories": [
+    "Family"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 247,
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "blurb": "Win tricks without knowing the colour of your cards until you play them.",
+   "digital": [
+    "Board Game Arena"
+   ],
+   "image": "https://cf.geekdo-images.com/M1gT_9LjNqUzAx3RAqdGRQ__square200/img/mA_6p9nRdUlGMJCw0Y0xVtYfJvc=/200x200/filters:strip_icc()/pic6731829.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 40,
+   "minplayers": 2,
+   "minplaytime": 20,
+   "themes": [
+    "Animals",
+    "Card Game"
+   ],
+   "bga": {
+    "slug": "catinthebox",
+    "name": "Cat in the Box: Deluxe Edition",
+    "url": "https://boardgamearena.com/gamepanel?game=catinthebox",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 16,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 74797
    },
    "steam": [],
    "vtt": [],
@@ -21429,11 +21429,11 @@
      3,
      4
     ],
-    "avg_minutes": 59,
+    "avg_minutes": 62,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 20867
+    "plays": 20871
    },
    "steam": [],
    "vtt": [],
@@ -21444,10 +21444,10 @@
    "bgg_id": 260180,
    "name": "Project L",
    "year": 2020,
-   "rank": 389,
+   "rank": 388,
    "rating": 7.44,
    "weight": 1.56,
-   "usersrated": 13687,
+   "usersrated": 13693,
    "categories": [
     "Family",
     "Abstract"
@@ -21491,7 +21491,7 @@
    "rank": 390,
    "rating": 7.3,
    "weight": 1.7,
-   "usersrated": 28159,
+   "usersrated": 28161,
    "categories": [
     "Family"
    ],
@@ -21574,7 +21574,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15464
+    "plays": 15474
    },
    "steam": [],
    "vtt": [],
@@ -21588,7 +21588,7 @@
    "rank": 392,
    "rating": 8.97,
    "weight": 3.29,
-   "usersrated": 2642,
+   "usersrated": 2647,
    "categories": [
     "Thematic"
    ],
@@ -21626,9 +21626,9 @@
    "name": "Space Alert",
    "year": 2008,
    "rank": 393,
-   "rating": 7.37,
+   "rating": 7.38,
    "weight": 2.97,
-   "usersrated": 16615,
+   "usersrated": 16617,
    "categories": [
     "Thematic"
    ],
@@ -21713,7 +21713,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 417124
+    "plays": 417431
    },
    "steam": [],
    "vtt": [],
@@ -21727,7 +21727,7 @@
    "rank": 395,
    "rating": 7.77,
    "weight": 2.17,
-   "usersrated": 6903,
+   "usersrated": 6922,
    "categories": [
     "Thematic",
     "Party"
@@ -21775,7 +21775,7 @@
    "rank": 396,
    "rating": 7.29,
    "weight": 1.8,
-   "usersrated": 28016,
+   "usersrated": 28019,
    "categories": [
     "Family"
    ],
@@ -21900,11 +21900,11 @@
      3,
      4
     ],
-    "avg_minutes": 40,
+    "avg_minutes": 39,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17708
+    "plays": 17714
    },
    "steam": [],
    "vtt": [],
@@ -22126,7 +22126,7 @@
    "rank": 404,
    "rating": 7.67,
    "weight": 2.26,
-   "usersrated": 7341,
+   "usersrated": 7350,
    "categories": [
     "Thematic"
    ],
@@ -22319,11 +22319,11 @@
      3,
      4
     ],
-    "avg_minutes": 48,
+    "avg_minutes": 49,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 19481
+    "plays": 19496
    },
    "steam": [],
    "vtt": [],
@@ -22337,7 +22337,7 @@
    "rank": 408,
    "rating": 7.96,
    "weight": 2.01,
-   "usersrated": 4874,
+   "usersrated": 4877,
    "categories": [
     "Family"
    ],
@@ -22494,7 +22494,7 @@
    "rank": 411,
    "rating": 7.39,
    "weight": 3.28,
-   "usersrated": 15690,
+   "usersrated": 15693,
    "categories": [
     "Thematic"
    ],
@@ -22618,7 +22618,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 145699
+    "plays": 145803
    },
    "steam": [
     {
@@ -22760,7 +22760,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 8888
+    "plays": 8920
    },
    "steam": [],
    "vtt": [],
@@ -22812,7 +22812,7 @@
    "rank": 416,
    "rating": 7.78,
    "weight": 3.3,
-   "usersrated": 5866,
+   "usersrated": 5871,
    "categories": [
     "Thematic",
     "Wargames"
@@ -22855,7 +22855,7 @@
    "rank": 417,
    "rating": 7.64,
    "weight": 1.92,
-   "usersrated": 10259,
+   "usersrated": 10264,
    "categories": [
     "Thematic"
    ],
@@ -22937,7 +22937,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2549783
+    "plays": 2551646
    },
    "steam": [],
    "vtt": [],
@@ -22951,7 +22951,7 @@
    "rank": 419,
    "rating": 7.56,
    "weight": 2.26,
-   "usersrated": 8233,
+   "usersrated": 8241,
    "categories": [
     "Family"
    ],
@@ -22996,7 +22996,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 233370
+    "plays": 233575
    },
    "steam": [],
    "vtt": [],
@@ -23056,7 +23056,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 765196
+    "plays": 765963
    },
    "steam": [],
    "vtt": [],
@@ -23379,7 +23379,7 @@
    "rank": 427,
    "rating": 7.4,
    "weight": 2.54,
-   "usersrated": 12293,
+   "usersrated": 12297,
    "categories": [
     "Thematic"
    ],
@@ -23418,7 +23418,7 @@
    "rank": 428,
    "rating": 7.4,
    "weight": 2.31,
-   "usersrated": 12813,
+   "usersrated": 12821,
    "categories": [
     "Thematic",
     "Family"
@@ -23463,11 +23463,11 @@
      3,
      4
     ],
-    "avg_minutes": 23,
+    "avg_minutes": 22,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 635525
+    "plays": 635874
    },
    "steam": [
     {
@@ -23614,46 +23614,6 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 25292,
-   "name": "Merchants & Marauders",
-   "year": 2010,
-   "rank": 431,
-   "rating": 7.38,
-   "weight": 3.26,
-   "usersrated": 14835,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 349,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Live the life of an influential merchant or a dreaded pirate in the Caribbean.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/RmKYojYHmV8X-ebtNgaz-g__square200/img/RqgM2uk_l7kiK34RnK0uezyiLUE=/200x200/filters:strip_icc()/pic738119.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 180,
-   "minplayers": 2,
-   "minplaytime": 180,
-   "themes": [
-    "Adventure",
-    "Fighting",
-    "Nautical",
-    "Pirates",
-    "Transportation"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 425549,
    "name": "Moon Colony Bloodbath",
    "year": 2025,
@@ -23695,13 +23655,53 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 25292,
+   "name": "Merchants & Marauders",
+   "year": 2010,
+   "rank": 432,
+   "rating": 7.38,
+   "weight": 3.26,
+   "usersrated": 14837,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 349,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Live the life of an influential merchant or a dreaded pirate in the Caribbean.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/RmKYojYHmV8X-ebtNgaz-g__square200/img/RqgM2uk_l7kiK34RnK0uezyiLUE=/200x200/filters:strip_icc()/pic738119.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 180,
+   "minplayers": 2,
+   "minplaytime": 180,
+   "themes": [
+    "Adventure",
+    "Fighting",
+    "Nautical",
+    "Pirates",
+    "Transportation"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 219513,
    "name": "Bärenpark",
    "year": 2017,
    "rank": 433,
    "rating": 7.27,
    "weight": 1.66,
-   "usersrated": 21249,
+   "usersrated": 21255,
    "categories": [
     "Family"
    ],
@@ -23738,11 +23738,11 @@
      3,
      4
     ],
-    "avg_minutes": 19,
+    "avg_minutes": 20,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 263904
+    "plays": 263999
    },
    "steam": [],
    "vtt": [],
@@ -23799,7 +23799,7 @@
    "rank": 435,
    "rating": 7.5,
    "weight": 3.33,
-   "usersrated": 10663,
+   "usersrated": 10666,
    "categories": [
     "Thematic"
    ],
@@ -23919,11 +23919,11 @@
     "players": [
      1
     ],
-    "avg_minutes": 27,
+    "avg_minutes": 26,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 120794
+    "plays": 121178
    },
    "steam": [],
    "vtt": [],
@@ -23937,7 +23937,7 @@
    "rank": 438,
    "rating": 7.35,
    "weight": 1.67,
-   "usersrated": 14634,
+   "usersrated": 14641,
    "categories": [
     "Family"
    ],
@@ -23973,7 +23973,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 450165
+    "plays": 450793
    },
    "steam": [],
    "vtt": [],
@@ -24098,6 +24098,49 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 342900,
+   "name": "Earthborne Rangers",
+   "year": 2023,
+   "rank": 442,
+   "rating": 8.04,
+   "weight": 3.5,
+   "usersrated": 4600,
+   "categories": [
+    "Thematic",
+    "Customizable"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 190,
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "blurb": "Explore the wilderness of the far future as rangers of a wondrous mountain valley.",
+   "digital": [
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/EVfMwPiHmxDUvY32BbghBg__square200/img/BzfEEBzbXRa1lHm-5dc3ls6wuHU=/200x200/filters:strip_icc()/pic7378384.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 240,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "themes": [
+    "Adventure",
+    "Card Game",
+    "Environmental",
+    "Exploration",
+    "Science Fiction"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 128271,
    "name": "Ginkgopolis",
    "year": 2012,
@@ -24151,51 +24194,8 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 30402
+    "plays": 30414
    },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 342900,
-   "name": "Earthborne Rangers",
-   "year": 2023,
-   "rank": 443,
-   "rating": 8.04,
-   "weight": 3.49,
-   "usersrated": 4580,
-   "categories": [
-    "Thematic",
-    "Customizable"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 190,
-   "rec_players": [
-    1,
-    2,
-    3
-   ],
-   "blurb": "Explore the wilderness of the far future as rangers of a wondrous mountain valley.",
-   "digital": [
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/EVfMwPiHmxDUvY32BbghBg__square200/img/BzfEEBzbXRa1lHm-5dc3ls6wuHU=/200x200/filters:strip_icc()/pic7378384.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 240,
-   "minplayers": 1,
-   "minplaytime": 60,
-   "themes": [
-    "Adventure",
-    "Card Game",
-    "Environmental",
-    "Exploration",
-    "Science Fiction"
-   ],
-   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -24245,67 +24245,11 @@
      4,
      5
     ],
-    "avg_minutes": 59,
+    "avg_minutes": 58,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 633
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 140934,
-   "name": "Arboretum",
-   "year": 2015,
-   "rank": 445,
-   "rating": 7.24,
-   "weight": 2.11,
-   "usersrated": 24248,
-   "categories": [
-    "Family"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 444,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Build the Arboretum of your dreams, and prevent your rival from building theirs.",
-   "digital": [
-    "Board Game Arena",
-    "VASSAL"
-   ],
-   "image": "https://cf.geekdo-images.com/XYOn10oXBrDqHySf0jvnyQ__square200/img/xkHLpXlwBH0JEcBgIHLZfhcUCzQ=/200x200/filters:strip_icc()/pic4172124.png",
-   "maxplayers": 4,
-   "maxplaytime": 30,
-   "minplayers": 2,
-   "minplaytime": 30,
-   "themes": [
-    "Card Game",
-    "Number"
-   ],
-   "bga": {
-    "slug": "arboretum",
-    "name": "Arboretum",
-    "url": "https://boardgamearena.com/gamepanel?game=arboretum",
-    "premium": true,
-    "status": "public",
-    "players": [
-     2,
-     3,
-     4
-    ],
-    "avg_minutes": 25,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 25527
+    "plays": 644
    },
    "steam": [],
    "vtt": [],
@@ -24316,10 +24260,10 @@
    "bgg_id": 357563,
    "name": "Akropolis",
    "year": 2022,
-   "rank": 446,
+   "rank": 445,
    "rating": 7.45,
    "weight": 1.82,
-   "usersrated": 10888,
+   "usersrated": 10892,
    "categories": [
     "Family"
    ],
@@ -24363,7 +24307,63 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 694877
+    "plays": 695342
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 140934,
+   "name": "Arboretum",
+   "year": 2015,
+   "rank": 446,
+   "rating": 7.24,
+   "weight": 2.11,
+   "usersrated": 24260,
+   "categories": [
+    "Family"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 444,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Build the Arboretum of your dreams, and prevent your rival from building theirs.",
+   "digital": [
+    "Board Game Arena",
+    "VASSAL"
+   ],
+   "image": "https://cf.geekdo-images.com/XYOn10oXBrDqHySf0jvnyQ__square200/img/xkHLpXlwBH0JEcBgIHLZfhcUCzQ=/200x200/filters:strip_icc()/pic4172124.png",
+   "maxplayers": 4,
+   "maxplaytime": 30,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "themes": [
+    "Card Game",
+    "Number"
+   ],
+   "bga": {
+    "slug": "arboretum",
+    "name": "Arboretum",
+    "url": "https://boardgamearena.com/gamepanel?game=arboretum",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 25,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 25541
    },
    "steam": [],
    "vtt": [],
@@ -24466,7 +24466,7 @@
    "rank": 449,
    "rating": 7.2,
    "weight": 1.97,
-   "usersrated": 48563,
+   "usersrated": 48569,
    "categories": [
     "Family"
    ],
@@ -24512,7 +24512,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2765513
+    "plays": 2765860
    },
    "steam": [],
    "vtt": [],
@@ -24566,11 +24566,11 @@
      4,
      5
     ],
-    "avg_minutes": 20,
+    "avg_minutes": 21,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 214010
+    "plays": 214043
    },
    "steam": [],
    "vtt": [],
@@ -24823,11 +24823,11 @@
     "players": [
      2
     ],
-    "avg_minutes": 55,
+    "avg_minutes": 56,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17601
+    "plays": 17611
    },
    "steam": [],
    "vtt": [],
@@ -24866,47 +24866,6 @@
     "Aviation / Flight",
     "Economic",
     "Transportation"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 90137,
-   "name": "Blood Bowl: Team Manager – The Card Game",
-   "year": 2011,
-   "rank": 458,
-   "rating": 7.4,
-   "weight": 2.35,
-   "usersrated": 11881,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 255,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Coach your “fantasy” football team and gather most fans to win.",
-   "digital": [
-    "VASSAL"
-   ],
-   "image": "https://cf.geekdo-images.com/45THq8eYHMqv3wEfckUVmQ__square200/img/8T5mhqZIIGO2MraVMgUpPLSpzn8=/200x200/filters:strip_icc()/pic1222746.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 120,
-   "minplayers": 2,
-   "minplaytime": 60,
-   "themes": [
-    "Card Game",
-    "Fantasy",
-    "Fighting",
-    "Sports"
    ],
    "bga": null,
    "steam": [],
@@ -25003,6 +24962,47 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 90137,
+   "name": "Blood Bowl: Team Manager – The Card Game",
+   "year": 2011,
+   "rank": 460,
+   "rating": 7.4,
+   "weight": 2.35,
+   "usersrated": 11883,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 255,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Coach your “fantasy” football team and gather most fans to win.",
+   "digital": [
+    "VASSAL"
+   ],
+   "image": "https://cf.geekdo-images.com/45THq8eYHMqv3wEfckUVmQ__square200/img/8T5mhqZIIGO2MraVMgUpPLSpzn8=/200x200/filters:strip_icc()/pic1222746.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "themes": [
+    "Card Game",
+    "Fantasy",
+    "Fighting",
+    "Sports"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 245934,
    "name": "Carpe Diem",
    "year": 2018,
@@ -25083,10 +25083,10 @@
    "bgg_id": 181304,
    "name": "Mysterium",
    "year": 2015,
-   "rank": 462,
+   "rank": 463,
    "rating": 7.19,
    "weight": 1.89,
-   "usersrated": 49907,
+   "usersrated": 49931,
    "categories": [
     "Thematic",
     "Family"
@@ -25158,47 +25158,6 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 199042,
-   "name": "Harry Potter: Hogwarts Battle",
-   "year": 2016,
-   "rank": 464,
-   "rating": 7.33,
-   "weight": 2.09,
-   "usersrated": 22384,
-   "categories": [
-    "Thematic",
-    "Family"
-   ],
-   "best_players": [
-    2,
-    4
-   ],
-   "player_votes": 399,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Battle for the fate of the Wizarding World over your 7 years at Hogwarts.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/ugYBvYxyWyx8_BqaFKZlGw__square200/img/1EMU8brKYpsRNF-Tr_f6ha1CZUA=/200x200/filters:strip_icc()/pic3518231.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 60,
-   "minplayers": 2,
-   "minplaytime": 30,
-   "themes": [
-    "Card Game",
-    "Fantasy",
-    "Movies / TV / Radio theme",
-    "Novel-based"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 171,
    "name": "Chess",
    "year": 1475,
@@ -25258,7 +25217,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1436283
+    "plays": 1436638
    },
    "steam": [],
    "vtt": [],
@@ -25297,6 +25256,47 @@
     "Ancient",
     "City Building",
     "Religious"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 199042,
+   "name": "Harry Potter: Hogwarts Battle",
+   "year": 2016,
+   "rank": 466,
+   "rating": 7.33,
+   "weight": 2.08,
+   "usersrated": 22404,
+   "categories": [
+    "Thematic",
+    "Family"
+   ],
+   "best_players": [
+    2,
+    4
+   ],
+   "player_votes": 399,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Battle for the fate of the Wizarding World over your 7 years at Hogwarts.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/ugYBvYxyWyx8_BqaFKZlGw__square200/img/1EMU8brKYpsRNF-Tr_f6ha1CZUA=/200x200/filters:strip_icc()/pic3518231.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "themes": [
+    "Card Game",
+    "Fantasy",
+    "Movies / TV / Radio theme",
+    "Novel-based"
    ],
    "bga": null,
    "steam": [],
@@ -25435,7 +25435,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 9628
+    "plays": 9707
    },
    "steam": [],
    "vtt": [],
@@ -25514,75 +25514,6 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 146439,
-   "name": "BattleLore: Second Edition",
-   "year": 2013,
-   "rank": 471,
-   "rating": 7.67,
-   "weight": 2.74,
-   "usersrated": 6627,
-   "categories": [
-    "Wargames"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 90,
-   "rec_players": [
-    2
-   ],
-   "blurb": "Fantasy Command & Colors spiced up with magic.",
-   "digital": [
-    "Steam",
-    "VASSAL"
-   ],
-   "image": "https://cf.geekdo-images.com/CWlHT1QMeB9hXaPcjE7cyw__square200/img/E23rkRjCTNgK4b5DCSe82_KaggQ=/200x200/filters:strip_icc()/pic1854807.jpg",
-   "maxplayers": 2,
-   "maxplaytime": 90,
-   "minplayers": 2,
-   "minplaytime": 45,
-   "themes": [
-    "Fantasy",
-    "Miniatures",
-    "Wargame"
-   ],
-   "bga": null,
-   "steam": [
-    {
-     "appid": 348400,
-     "name": "BattleLore: Command",
-     "dlc": false,
-     "url": "https://store.steampowered.com/app/348400/",
-     "confidence": 0.85,
-     "is_free": false,
-     "price": 10.25,
-     "price_initial": 10.25,
-     "discount": 0,
-     "currency": "AUD",
-     "mp": [
-      "crossplay"
-     ],
-     "developers": [
-      "Fantasy Flight Games"
-     ],
-     "publishers": [
-      "Fantasy Flight Publishing, Inc."
-     ],
-     "release": "31 Mar, 2015",
-     "coming_soon": false,
-     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348400/header.jpg?t=1573493862",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 66,
-      "total": 122
-     }
-    }
-   ],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 335764,
    "name": "Unmatched: Battle of Legends, Volume Two",
    "year": 2021,
@@ -25646,6 +25577,75 @@
       "desc": "Mostly Positive",
       "pct": 73,
       "total": 290
+     }
+    }
+   ],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 146439,
+   "name": "BattleLore: Second Edition",
+   "year": 2013,
+   "rank": 472,
+   "rating": 7.67,
+   "weight": 2.74,
+   "usersrated": 6630,
+   "categories": [
+    "Wargames"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 90,
+   "rec_players": [
+    2
+   ],
+   "blurb": "Fantasy Command & Colors spiced up with magic.",
+   "digital": [
+    "Steam",
+    "VASSAL"
+   ],
+   "image": "https://cf.geekdo-images.com/CWlHT1QMeB9hXaPcjE7cyw__square200/img/E23rkRjCTNgK4b5DCSe82_KaggQ=/200x200/filters:strip_icc()/pic1854807.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 45,
+   "themes": [
+    "Fantasy",
+    "Miniatures",
+    "Wargame"
+   ],
+   "bga": null,
+   "steam": [
+    {
+     "appid": 348400,
+     "name": "BattleLore: Command",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/348400/",
+     "confidence": 0.85,
+     "is_free": false,
+     "price": 10.25,
+     "price_initial": 10.25,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [
+      "crossplay"
+     ],
+     "developers": [
+      "Fantasy Flight Games"
+     ],
+     "publishers": [
+      "Fantasy Flight Publishing, Inc."
+     ],
+     "release": "31 Mar, 2015",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348400/header.jpg?t=1573493862",
+     "reviews": {
+      "desc": "Mixed",
+      "pct": 66,
+      "total": 122
      }
     }
    ],
@@ -25835,7 +25835,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 351622
+    "plays": 352266
    },
    "steam": [],
    "vtt": [],
@@ -25882,55 +25882,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 269210,
-   "name": "Twice as Clever!",
-   "year": 2019,
-   "rank": 478,
-   "rating": 7.41,
-   "weight": 2.27,
-   "usersrated": 10427,
-   "categories": [
-    "Family"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 149,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "Roll colorful dice, choosing just one each roll to combo bonuses and points!",
-   "digital": [
-    "Apple App Store",
-    "BrettspielWelt",
-    "Google Play"
-   ],
-   "image": "https://cf.geekdo-images.com/5F4jkBIAbtkLJXOtvBjh3g__square200/img/ZCRTk86ywtADayCjyCkMMLBglGI=/200x200/filters:strip_icc()/pic8014068.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 30,
-   "minplayers": 1,
-   "minplaytime": 30,
-   "themes": [
-    "Dice",
-    "Number"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 352515,
    "name": "Trio",
    "year": 2021,
-   "rank": 479,
+   "rank": 478,
    "rating": 7.39,
    "weight": 1.07,
-   "usersrated": 12723,
+   "usersrated": 12736,
    "categories": [
     "Family"
    ],
@@ -25975,8 +25933,50 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 198559
+    "plays": 198808
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 269210,
+   "name": "Twice as Clever!",
+   "year": 2019,
+   "rank": 479,
+   "rating": 7.41,
+   "weight": 2.27,
+   "usersrated": 10428,
+   "categories": [
+    "Family"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 149,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "Roll colorful dice, choosing just one each roll to combo bonuses and points!",
+   "digital": [
+    "Apple App Store",
+    "BrettspielWelt",
+    "Google Play"
+   ],
+   "image": "https://cf.geekdo-images.com/5F4jkBIAbtkLJXOtvBjh3g__square200/img/ZCRTk86ywtADayCjyCkMMLBglGI=/200x200/filters:strip_icc()/pic8014068.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 30,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "themes": [
+    "Dice",
+    "Number"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -26147,7 +26147,7 @@
    "rank": 484,
    "rating": 8.04,
    "weight": 3.29,
-   "usersrated": 3996,
+   "usersrated": 4003,
    "categories": [
     "Thematic"
    ],
@@ -26308,7 +26308,7 @@
    "rank": 488,
    "rating": 7.47,
    "weight": 1.91,
-   "usersrated": 8827,
+   "usersrated": 8833,
    "categories": [
     "Family"
    ],
@@ -26348,7 +26348,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 312267
+    "plays": 312465
    },
    "steam": [],
    "vtt": [],
@@ -26443,7 +26443,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31228
+    "plays": 31248
    },
    "steam": [],
    "vtt": [],
@@ -26495,7 +26495,7 @@
    "rank": 492,
    "rating": 7.8,
    "weight": 3.16,
-   "usersrated": 5746,
+   "usersrated": 5747,
    "categories": [
     "Thematic",
     "Wargames"
@@ -26535,7 +26535,7 @@
    "rank": 493,
    "rating": 7.24,
    "weight": 3.59,
-   "usersrated": 40559,
+   "usersrated": 40565,
    "categories": [
     "Thematic"
    ],
@@ -26658,46 +26658,6 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 322708,
-   "name": "Descent: Legends of the Dark",
-   "year": 2021,
-   "rank": 496,
-   "rating": 7.88,
-   "weight": 2.69,
-   "usersrated": 5985,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 163,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "An app-driven dungeon crawl set in the world of Terrinoth.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/Q96PxRVbrDxS9_4ZPTJtHQ__square200/img/3s0xRaYaVrndT0wdLdFwZODjkpo=/200x200/filters:strip_icc()/pic5941333.png",
-   "maxplayers": 4,
-   "maxplaytime": 180,
-   "minplayers": 1,
-   "minplaytime": 120,
-   "themes": [
-    "Adventure",
-    "Fantasy",
-    "Fighting",
-    "Miniatures"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": "Steam has only a free companion app that runs alongside the physical game.",
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 381297,
    "name": "Unmatched Adventures: Tales to Amaze",
    "year": 2023,
@@ -26737,6 +26697,46 @@
    "steam": [],
    "vtt": [],
    "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 322708,
+   "name": "Descent: Legends of the Dark",
+   "year": 2021,
+   "rank": 497,
+   "rating": 7.88,
+   "weight": 2.69,
+   "usersrated": 5988,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 163,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "An app-driven dungeon crawl set in the world of Terrinoth.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/Q96PxRVbrDxS9_4ZPTJtHQ__square200/img/3s0xRaYaVrndT0wdLdFwZODjkpo=/200x200/filters:strip_icc()/pic5941333.png",
+   "maxplayers": 4,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 120,
+   "themes": [
+    "Adventure",
+    "Fantasy",
+    "Fighting",
+    "Miniatures"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": "Steam has only a free companion app that runs alongside the physical game.",
    "steam_delisted": false
   },
   {
@@ -26808,72 +26808,57 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 286751,
-   "name": "Zombicide: 2nd Edition",
-   "year": 2021,
+   "bgg_id": 422732,
+   "name": "Agent Avenue",
+   "year": 2024,
    "rank": 498,
-   "rating": 7.89,
-   "weight": 2.37,
-   "usersrated": 5749,
+   "rating": 7.51,
+   "weight": 1.2,
+   "usersrated": 7828,
    "categories": [
-    "Thematic"
+    "Family"
    ],
    "best_players": [
-    3
+    2
    ],
-   "player_votes": 142,
    "rec_players": [
-    1,
     2,
-    3,
-    4,
-    5,
-    6
+    4
    ],
-   "blurb": "The ultimate zombie game made reality. Don't get surrounded!",
-   "digital": [
-    "Board Game Arena"
-   ],
-   "image": "https://cf.geekdo-images.com/81AiTz4hp4TlnzeCMqQMAw__square200/img/2A08H34rkeAWKst9jhQSjQ4P9Zg=/200x200/filters:strip_icc()/pic6091316.jpg",
-   "maxplayers": 6,
-   "maxplaytime": 60,
-   "minplayers": 1,
-   "minplaytime": 60,
+   "player_votes": 162,
    "themes": [
-    "Fighting",
-    "Horror",
-    "Miniatures",
-    "Science Fiction",
-    "Zombies"
+    "Animals",
+    "Bluffing",
+    "Card Game",
+    "Spies / Secret Agents"
    ],
+   "digital": [
+    "Board Game Arena",
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "minplayers": 2,
+   "maxplayers": 4,
+   "minplaytime": 10,
+   "maxplaytime": 20,
+   "blurb": "Retired spies in a suburban neighborhood race to discover each other's secrets.",
+   "image": "https://cf.geekdo-images.com/qC5YwZANir1Cmg6d-1UUpQ__square200/img/YdFXR2LS0JRGuCoqll9bGb_DmWU=/200x200/filters:strip_icc()/pic8427963.png",
    "bga": {
-    "slug": "zombicidesecondedition",
-    "name": "Zombicide 2nd Edition",
-    "url": "https://boardgamearena.com/gamepanel?game=zombicidesecondedition",
+    "slug": "agentavenue",
+    "name": "Agent Avenue",
+    "url": "https://boardgamearena.com/gamepanel?game=agentavenue",
     "premium": true,
     "status": "public",
     "players": [
-     1,
-     2,
-     3,
-     4,
-     5,
-     6
+     2
     ],
-    "avg_minutes": 51,
+    "avg_minutes": 4,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 172966
+    "plays": 349539
    },
    "steam": [],
-   "vtt": [
-    {
-     "appid": 468726,
-     "platform": "Tabletop Simulator",
-     "url": "https://store.steampowered.com/app/468726/"
-    }
-   ],
+   "vtt": [],
    "note": null,
    "steam_delisted": false
   },
@@ -26928,7 +26913,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 976435
+    "plays": 976809
    },
    "steam": [],
    "vtt": [],

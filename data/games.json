@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T21:13+00:00",
+ "generated": "2026-10-17T20:39+00:00",
  "country": "au",
  "top_n": 500,
  "games": [
@@ -10,7 +10,7 @@
    "rank": 1,
    "rating": 8.56,
    "weight": 3.86,
-   "usersrated": 60584,
+   "usersrated": 60606,
    "categories": [
     "Strategy"
    ],
@@ -56,7 +56,7 @@
    "rank": 2,
    "rating": 8.54,
    "weight": 3.8,
-   "usersrated": 63567,
+   "usersrated": 63603,
    "categories": [
     "Strategy"
    ],
@@ -103,7 +103,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13686340
+    "plays": 13701282
    },
    "steam": [
     {
@@ -148,7 +148,7 @@
    "rank": 3,
    "rating": 8.5,
    "weight": 2.83,
-   "usersrated": 57914,
+   "usersrated": 57923,
    "categories": [
     "Strategy",
     "Thematic"
@@ -186,7 +186,7 @@
    "rank": 4,
    "rating": 8.53,
    "weight": 3.92,
-   "usersrated": 67855,
+   "usersrated": 67865,
    "categories": [
     "Strategy",
     "Thematic"
@@ -262,7 +262,7 @@
    "rank": 5,
    "rating": 8.7,
    "weight": 3.53,
-   "usersrated": 20626,
+   "usersrated": 20659,
    "categories": [
     "Strategy"
    ],
@@ -334,7 +334,7 @@
    "rank": 6,
    "rating": 8.41,
    "weight": 3.08,
-   "usersrated": 60128,
+   "usersrated": 60149,
    "categories": [
     "Strategy"
    ],
@@ -411,7 +411,7 @@
    "rank": 7,
    "rating": 8.56,
    "weight": 4.37,
-   "usersrated": 29160,
+   "usersrated": 29165,
    "categories": [
     "Strategy",
     "Thematic"
@@ -458,11 +458,11 @@
      5,
      6
     ],
-    "avg_minutes": 231,
+    "avg_minutes": 229,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 4676
+    "plays": 4771
    },
    "steam": [
     {
@@ -545,7 +545,7 @@
    "rank": 9,
    "rating": 8.33,
    "weight": 3.27,
-   "usersrated": 115364,
+   "usersrated": 115380,
    "categories": [
     "Strategy"
    ],
@@ -597,7 +597,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5602416
+    "plays": 5617638
    },
    "steam": [
     {
@@ -682,7 +682,7 @@
    "rank": 11,
    "rating": 8.34,
    "weight": 4.08,
-   "usersrated": 65025,
+   "usersrated": 65044,
    "categories": [
     "Strategy"
    ],
@@ -759,7 +759,7 @@
    "rank": 12,
    "rating": 8.35,
    "weight": 3.64,
-   "usersrated": 42134,
+   "usersrated": 42145,
    "categories": [
     "Strategy",
     "Thematic"
@@ -835,7 +835,7 @@
    "rank": 13,
    "rating": 8.35,
    "weight": 4.4,
-   "usersrated": 31954,
+   "usersrated": 31956,
    "categories": [
     "Strategy"
    ],
@@ -882,11 +882,11 @@
      3,
      4
     ],
-    "avg_minutes": 64,
+    "avg_minutes": 65,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 486711
+    "plays": 487023
    },
    "steam": [
     {
@@ -934,7 +934,7 @@
    "rank": 14,
    "rating": 8.41,
    "weight": 3.84,
-   "usersrated": 22593,
+   "usersrated": 22630,
    "categories": [
     "Strategy"
    ],
@@ -972,7 +972,7 @@
    "rank": 15,
    "rating": 8.61,
    "weight": 2.91,
-   "usersrated": 14672,
+   "usersrated": 14695,
    "categories": [
     "Strategy"
    ],
@@ -1044,7 +1044,7 @@
    "rank": 16,
    "rating": 8.23,
    "weight": 3.61,
-   "usersrated": 52532,
+   "usersrated": 52540,
    "categories": [
     "Strategy",
     "Wargames"
@@ -1118,7 +1118,7 @@
    "rank": 17,
    "rating": 8.16,
    "weight": 2.97,
-   "usersrated": 70779,
+   "usersrated": 70784,
    "categories": [
     "Strategy"
    ],
@@ -1165,7 +1165,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4551588
+    "plays": 4554935
    },
    "steam": [
     {
@@ -1213,7 +1213,7 @@
    "rank": 18,
    "rating": 8.35,
    "weight": 2.07,
-   "usersrated": 22522,
+   "usersrated": 22554,
    "categories": [
     "Strategy"
    ],
@@ -1323,7 +1323,7 @@
    "rank": 20,
    "rating": 8.72,
    "weight": 4.41,
-   "usersrated": 10609,
+   "usersrated": 10617,
    "categories": [
     "Strategy",
     "Thematic"
@@ -1397,7 +1397,7 @@
    "rank": 21,
    "rating": 8.14,
    "weight": 3.7,
-   "usersrated": 44228,
+   "usersrated": 44229,
    "categories": [
     "Strategy"
    ],
@@ -1436,7 +1436,7 @@
    "rank": 22,
    "rating": 8.2,
    "weight": 3.84,
-   "usersrated": 27828,
+   "usersrated": 27829,
    "categories": [
     "Strategy"
    ],
@@ -1480,7 +1480,7 @@
    "rank": 23,
    "rating": 8.38,
    "weight": 3.67,
-   "usersrated": 17976,
+   "usersrated": 17980,
    "categories": [
     "Strategy"
    ],
@@ -1558,7 +1558,7 @@
    "rank": 24,
    "rating": 8.07,
    "weight": 2.23,
-   "usersrated": 110953,
+   "usersrated": 110976,
    "categories": [
     "Strategy"
    ],
@@ -1600,7 +1600,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 14342215
+    "plays": 14348949
    },
    "steam": [],
    "vtt": [],
@@ -1687,7 +1687,7 @@
    "rank": 26,
    "rating": 8.16,
    "weight": 3.87,
-   "usersrated": 34306,
+   "usersrated": 34309,
    "categories": [
     "Strategy"
    ],
@@ -1733,7 +1733,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 518597
+    "plays": 518893
    },
    "steam": [],
    "vtt": [],
@@ -1747,7 +1747,7 @@
    "rank": 27,
    "rating": 8.09,
    "weight": 3.45,
-   "usersrated": 94876,
+   "usersrated": 94895,
    "categories": [
     "Strategy"
    ],
@@ -1798,7 +1798,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 135729
+    "plays": 136047
    },
    "steam": [
     {
@@ -1887,7 +1887,7 @@
    "rank": 29,
    "rating": 8.07,
    "weight": 2.98,
-   "usersrated": 46549,
+   "usersrated": 46564,
    "categories": [
     "Strategy"
    ],
@@ -1935,7 +1935,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 56870
+    "plays": 57036
    },
    "steam": [
     {
@@ -1983,7 +1983,7 @@
    "rank": 30,
    "rating": 8.08,
    "weight": 2.93,
-   "usersrated": 59197,
+   "usersrated": 59212,
    "categories": [
     "Strategy"
    ],
@@ -2028,7 +2028,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3395824
+    "plays": 3398660
    },
    "steam": [
     {
@@ -2074,7 +2074,7 @@
    "rank": 31,
    "rating": 8.26,
    "weight": 3.7,
-   "usersrated": 18764,
+   "usersrated": 18770,
    "categories": [
     "Strategy"
    ],
@@ -2117,7 +2117,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 425890
+    "plays": 426110
    },
    "steam": [],
    "vtt": [],
@@ -2170,7 +2170,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1008109
+    "plays": 1009672
    },
    "steam": [],
    "vtt": [],
@@ -2226,7 +2226,7 @@
    "rank": 34,
    "rating": 8.07,
    "weight": 3.84,
-   "usersrated": 66530,
+   "usersrated": 66552,
    "categories": [
     "Strategy",
     "Wargames"
@@ -2304,7 +2304,7 @@
    "rank": 35,
    "rating": 8.05,
    "weight": 3.01,
-   "usersrated": 36277,
+   "usersrated": 36284,
    "categories": [
     "Strategy"
    ],
@@ -2344,11 +2344,11 @@
      4,
      5
     ],
-    "avg_minutes": 71,
+    "avg_minutes": 72,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 89086
+    "plays": 89230
    },
    "steam": [],
    "vtt": [
@@ -2368,7 +2368,7 @@
    "rank": 36,
    "rating": 8.03,
    "weight": 3.97,
-   "usersrated": 51475,
+   "usersrated": 51481,
    "categories": [
     "Strategy"
    ],
@@ -2418,7 +2418,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 905080
+    "plays": 905230
    },
    "steam": [
     {
@@ -2466,7 +2466,7 @@
    "rank": 37,
    "rating": 8.27,
    "weight": 3.87,
-   "usersrated": 17609,
+   "usersrated": 17619,
    "categories": [
     "Strategy",
     "Thematic"
@@ -2509,7 +2509,7 @@
    "rank": 38,
    "rating": 7.99,
    "weight": 2.48,
-   "usersrated": 115998,
+   "usersrated": 116023,
    "categories": [
     "Strategy",
     "Family"
@@ -2561,7 +2561,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10547670
+    "plays": 10557626
    },
    "steam": [
     {
@@ -2619,7 +2619,7 @@
    "rank": 39,
    "rating": 8.08,
    "weight": 4.38,
-   "usersrated": 35470,
+   "usersrated": 35468,
    "categories": [
     "Strategy",
     "Thematic"
@@ -2660,7 +2660,7 @@
    "rank": 40,
    "rating": 8.13,
    "weight": 4.12,
-   "usersrated": 22376,
+   "usersrated": 22385,
    "categories": [
     "Strategy"
    ],
@@ -2703,7 +2703,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 314319
+    "plays": 314482
    },
    "steam": [
     {
@@ -2748,7 +2748,7 @@
    "rank": 41,
    "rating": 8.35,
    "weight": 4.26,
-   "usersrated": 13092,
+   "usersrated": 13099,
    "categories": [
     "Strategy"
    ],
@@ -2793,7 +2793,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 26433
+    "plays": 26840
    },
    "steam": [],
    "vtt": [],
@@ -2916,7 +2916,7 @@
    "rank": 44,
    "rating": 7.95,
    "weight": 2.9,
-   "usersrated": 56139,
+   "usersrated": 56151,
    "categories": [
     "Strategy"
    ],
@@ -3002,7 +3002,7 @@
    "rank": 45,
    "rating": 8.03,
    "weight": 2.06,
-   "usersrated": 26829,
+   "usersrated": 26847,
    "categories": [
     "Strategy",
     "Family"
@@ -3048,7 +3048,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 341465
+    "plays": 341600
    },
    "steam": [],
    "vtt": [],
@@ -3062,7 +3062,7 @@
    "rank": 46,
    "rating": 8.23,
    "weight": 2.5,
-   "usersrated": 15575,
+   "usersrated": 15594,
    "categories": [
     "Strategy"
    ],
@@ -3135,7 +3135,7 @@
    "rank": 47,
    "rating": 7.97,
    "weight": 2.84,
-   "usersrated": 70388,
+   "usersrated": 70406,
    "categories": [
     "Strategy",
     "Family"
@@ -3267,7 +3267,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 925739
+    "plays": 927174
    },
    "steam": [
     {
@@ -3439,7 +3439,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3371570
+    "plays": 3381958
    },
    "steam": [],
    "vtt": [],
@@ -3453,7 +3453,7 @@
    "rank": 52,
    "rating": 8.03,
    "weight": 4.18,
-   "usersrated": 23654,
+   "usersrated": 23661,
    "categories": [
     "Strategy"
    ],
@@ -3495,7 +3495,7 @@
    "rank": 53,
    "rating": 8.04,
    "weight": 3.59,
-   "usersrated": 23517,
+   "usersrated": 23516,
    "categories": [
     "Strategy"
    ],
@@ -3668,7 +3668,7 @@
    "rank": 56,
    "rating": 8.11,
    "weight": 3.84,
-   "usersrated": 18180,
+   "usersrated": 18186,
    "categories": [
     "Strategy"
    ],
@@ -3713,11 +3713,11 @@
      4,
      5
     ],
-    "avg_minutes": 36,
+    "avg_minutes": 37,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 92805
+    "plays": 92938
    },
    "steam": [],
    "vtt": [],
@@ -3731,7 +3731,7 @@
    "rank": 57,
    "rating": 8.42,
    "weight": 4.27,
-   "usersrated": 9007,
+   "usersrated": 9011,
    "categories": [
     "Strategy"
    ],
@@ -3778,7 +3778,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 246761
+    "plays": 247047
    },
    "steam": [],
    "vtt": [],
@@ -3792,7 +3792,7 @@
    "rank": 58,
    "rating": 7.9,
    "weight": 3.27,
-   "usersrated": 74862,
+   "usersrated": 74869,
    "categories": [
     "Strategy"
    ],
@@ -3837,7 +3837,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2915344
+    "plays": 2915927
    },
    "steam": [],
    "vtt": [],
@@ -3851,7 +3851,7 @@
    "rank": 59,
    "rating": 8.16,
    "weight": 4.62,
-   "usersrated": 15348,
+   "usersrated": 15347,
    "categories": [
     "Strategy"
    ],
@@ -3895,7 +3895,7 @@
    "rank": 60,
    "rating": 8.33,
    "weight": 3.19,
-   "usersrated": 9785,
+   "usersrated": 9787,
    "categories": [
     "Strategy",
     "Thematic"
@@ -4061,11 +4061,11 @@
      6,
      7
     ],
-    "avg_minutes": 52,
+    "avg_minutes": 51,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 119470
+    "plays": 119508
    },
    "steam": [
     {
@@ -4113,7 +4113,7 @@
    "rank": 63,
    "rating": 8.03,
    "weight": 3.99,
-   "usersrated": 22006,
+   "usersrated": 22012,
    "categories": [
     "Strategy"
    ],
@@ -4154,11 +4154,11 @@
      3,
      4
     ],
-    "avg_minutes": 62,
+    "avg_minutes": 63,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 52802
+    "plays": 52831
    },
    "steam": [],
    "vtt": [],
@@ -4172,7 +4172,7 @@
    "rank": 64,
    "rating": 8.33,
    "weight": 3.02,
-   "usersrated": 12600,
+   "usersrated": 12619,
    "categories": [
     "Strategy",
     "Party"
@@ -4264,7 +4264,7 @@
    "rank": 66,
    "rating": 7.85,
    "weight": 3.64,
-   "usersrated": 77378,
+   "usersrated": 77382,
    "categories": [
     "Strategy"
    ],
@@ -4308,7 +4308,7 @@
    "rank": 67,
    "rating": 8.07,
    "weight": 3.12,
-   "usersrated": 18963,
+   "usersrated": 18969,
    "categories": [
     "Strategy",
     "Thematic"
@@ -4350,7 +4350,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 327907
+    "plays": 328050
    },
    "steam": [],
    "vtt": [],
@@ -4364,7 +4364,7 @@
    "rank": 68,
    "rating": 7.96,
    "weight": 3.19,
-   "usersrated": 25749,
+   "usersrated": 25753,
    "categories": [
     "Strategy"
    ],
@@ -4401,7 +4401,7 @@
    "rank": 69,
    "rating": 7.89,
    "weight": 2.88,
-   "usersrated": 52528,
+   "usersrated": 52534,
    "categories": [
     "Strategy"
    ],
@@ -4447,7 +4447,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 106037
+    "plays": 106064
    },
    "steam": [
     {
@@ -4498,7 +4498,7 @@
    "rank": 70,
    "rating": 8.21,
    "weight": 2.93,
-   "usersrated": 11931,
+   "usersrated": 11950,
    "categories": [
     "Strategy"
    ],
@@ -4537,7 +4537,7 @@
    "rank": 71,
    "rating": 8.16,
    "weight": 4.56,
-   "usersrated": 13165,
+   "usersrated": 13167,
    "categories": [
     "Strategy"
    ],
@@ -4580,7 +4580,7 @@
    "rank": 72,
    "rating": 7.97,
    "weight": 3.08,
-   "usersrated": 24686,
+   "usersrated": 24708,
    "categories": [
     "Strategy"
    ],
@@ -4626,7 +4626,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 639997
+    "plays": 641866
    },
    "steam": [],
    "vtt": [],
@@ -4640,7 +4640,7 @@
    "rank": 73,
    "rating": 8.44,
    "weight": 4.0,
-   "usersrated": 7501,
+   "usersrated": 7502,
    "categories": [
     "Strategy"
    ],
@@ -4678,7 +4678,7 @@
    "rank": 74,
    "rating": 8.01,
    "weight": 3.25,
-   "usersrated": 18509,
+   "usersrated": 18513,
    "categories": [
     "Strategy",
     "Thematic"
@@ -4717,8 +4717,8 @@
    "year": 2004,
    "rank": 75,
    "rating": 7.8,
-   "weight": 3.25,
-   "usersrated": 70233,
+   "weight": 3.24,
+   "usersrated": 70239,
    "categories": [
     "Strategy"
    ],
@@ -4834,7 +4834,7 @@
    "rank": 77,
    "rating": 7.84,
    "weight": 3.66,
-   "usersrated": 42955,
+   "usersrated": 42959,
    "categories": [
     "Strategy"
    ],
@@ -4879,7 +4879,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 803392
+    "plays": 803517
    },
    "steam": [],
    "vtt": [],
@@ -4893,7 +4893,7 @@
    "rank": 78,
    "rating": 8.5,
    "weight": 4.62,
-   "usersrated": 7503,
+   "usersrated": 7513,
    "categories": [
     "Strategy"
    ],
@@ -4935,7 +4935,7 @@
    "rank": 79,
    "rating": 7.94,
    "weight": 3.47,
-   "usersrated": 23294,
+   "usersrated": 23299,
    "categories": [
     "Strategy"
    ],
@@ -4981,7 +4981,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 384831
+    "plays": 384923
    },
    "steam": [],
    "vtt": [],
@@ -5149,7 +5149,7 @@
    "rank": 83,
    "rating": 7.95,
    "weight": 3.7,
-   "usersrated": 21046,
+   "usersrated": 21051,
    "categories": [
     "Strategy"
    ],
@@ -5191,7 +5191,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 14805
+    "plays": 15213
    },
    "steam": [],
    "vtt": [],
@@ -5205,7 +5205,7 @@
    "rank": 84,
    "rating": 7.83,
    "weight": 3.71,
-   "usersrated": 34201,
+   "usersrated": 34200,
    "categories": [
     "Strategy"
    ],
@@ -5286,7 +5286,7 @@
    "rank": 86,
    "rating": 7.95,
    "weight": 3.45,
-   "usersrated": 21811,
+   "usersrated": 21812,
    "categories": [
     "Strategy"
    ],
@@ -5331,7 +5331,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1908356
+    "plays": 1909394
    },
    "steam": [],
    "vtt": [],
@@ -5345,7 +5345,7 @@
    "rank": 87,
    "rating": 8.0,
    "weight": 4.21,
-   "usersrated": 16789,
+   "usersrated": 16790,
    "categories": [
     "Strategy"
    ],
@@ -5466,9 +5466,9 @@
    "name": "Darwin's Journey",
    "year": 2023,
    "rank": 90,
-   "rating": 8.09,
+   "rating": 8.08,
    "weight": 3.91,
-   "usersrated": 12935,
+   "usersrated": 12947,
    "categories": [
     "Strategy"
    ],
@@ -5508,11 +5508,11 @@
      3,
      4
     ],
-    "avg_minutes": 47,
+    "avg_minutes": 48,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 198302
+    "plays": 198619
    },
    "steam": [],
    "vtt": [],
@@ -5526,7 +5526,7 @@
    "rank": 91,
    "rating": 7.93,
    "weight": 3.92,
-   "usersrated": 19004,
+   "usersrated": 19005,
    "categories": [
     "Strategy"
    ],
@@ -5572,7 +5572,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 96757
+    "plays": 96842
    },
    "steam": [],
    "vtt": [],
@@ -5586,7 +5586,7 @@
    "rank": 92,
    "rating": 8.04,
    "weight": 3.46,
-   "usersrated": 13484,
+   "usersrated": 13489,
    "categories": [
     "Strategy"
    ],
@@ -5630,7 +5630,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 85139
+    "plays": 85302
    },
    "steam": [],
    "vtt": [],
@@ -5644,7 +5644,7 @@
    "rank": 93,
    "rating": 7.94,
    "weight": 2.45,
-   "usersrated": 18546,
+   "usersrated": 18548,
    "categories": [
     "Strategy",
     "Thematic"
@@ -5720,7 +5720,7 @@
    "rank": 95,
    "rating": 7.74,
    "weight": 2.99,
-   "usersrated": 59530,
+   "usersrated": 59534,
    "categories": [
     "Strategy"
    ],
@@ -5769,7 +5769,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 17010654
+    "plays": 17013954
    },
    "steam": [
     {
@@ -5902,7 +5902,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 563655
+    "plays": 563816
    },
    "steam": [],
    "vtt": [],
@@ -5916,7 +5916,7 @@
    "rank": 98,
    "rating": 7.76,
    "weight": 2.84,
-   "usersrated": 45809,
+   "usersrated": 45808,
    "categories": [
     "Strategy"
    ],
@@ -5958,7 +5958,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 70906
+    "plays": 71012
    },
    "steam": [],
    "vtt": [],
@@ -6015,7 +6015,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 29124738
+    "plays": 29143030
    },
    "steam": [],
    "vtt": [],
@@ -6029,7 +6029,7 @@
    "rank": 100,
    "rating": 7.77,
    "weight": 2.93,
-   "usersrated": 33746,
+   "usersrated": 33750,
    "categories": [
     "Strategy"
    ],
@@ -6071,7 +6071,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31676
+    "plays": 31682
    },
    "steam": [],
    "vtt": [],
@@ -6129,7 +6129,7 @@
    "rank": 102,
    "rating": 8.25,
    "weight": 3.01,
-   "usersrated": 7853,
+   "usersrated": 7855,
    "categories": [
     "Strategy"
    ],
@@ -6168,7 +6168,7 @@
    "rank": 103,
    "rating": 8.02,
    "weight": 3.85,
-   "usersrated": 12670,
+   "usersrated": 12673,
    "categories": [
     "Strategy"
    ],
@@ -6201,13 +6201,53 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 359871,
+   "name": "Arcs",
+   "year": 2024,
+   "rank": 104,
+   "rating": 7.98,
+   "weight": 3.45,
+   "usersrated": 19022,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    3,
+    4
+   ],
+   "player_votes": 605,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Rule the galaxy with your court, fleet, and cities.",
+   "digital": [
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__square200/img/zXO9E8jCgpkdRq2PVHUlI7xy8Zc=/200x200/filters:strip_icc()/pic8145530.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "themes": [
+    "Science Fiction",
+    "Space Exploration"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 201808,
    "name": "Clank!: A Deck-Building Adventure",
    "year": 2016,
-   "rank": 104,
+   "rank": 105,
    "rating": 7.76,
    "weight": 2.23,
-   "usersrated": 48223,
+   "usersrated": 48231,
    "categories": [
     "Strategy",
     "Family"
@@ -6276,53 +6316,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 359871,
-   "name": "Arcs",
-   "year": 2024,
-   "rank": 105,
-   "rating": 7.98,
-   "weight": 3.45,
-   "usersrated": 19005,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    3,
-    4
-   ],
-   "player_votes": 605,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Rule the galaxy with your court, fleet, and cities.",
-   "digital": [
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__square200/img/zXO9E8jCgpkdRq2PVHUlI7xy8Zc=/200x200/filters:strip_icc()/pic8145530.png",
-   "maxplayers": 4,
-   "maxplaytime": 120,
-   "minplayers": 2,
-   "minplaytime": 60,
-   "themes": [
-    "Science Fiction",
-    "Space Exploration"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 391137,
    "name": "Galactic Cruise",
    "year": 2025,
    "rank": 106,
    "rating": 8.28,
    "weight": 3.98,
-   "usersrated": 8226,
+   "usersrated": 8238,
    "categories": [
     "Strategy"
    ],
@@ -6369,7 +6369,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 98140
+    "plays": 98430
    },
    "steam": [],
    "vtt": [],
@@ -6383,7 +6383,7 @@
    "rank": 107,
    "rating": 7.82,
    "weight": 3.71,
-   "usersrated": 29118,
+   "usersrated": 29116,
    "categories": [
     "Strategy"
    ],
@@ -6429,7 +6429,7 @@
    "rank": 108,
    "rating": 7.73,
    "weight": 2.45,
-   "usersrated": 59705,
+   "usersrated": 59708,
    "categories": [
     "Strategy"
    ],
@@ -6504,7 +6504,7 @@
    "rank": 109,
    "rating": 7.86,
    "weight": 2.8,
-   "usersrated": 24468,
+   "usersrated": 24473,
    "categories": [
     "Strategy"
    ],
@@ -6578,7 +6578,7 @@
    "rank": 110,
    "rating": 7.88,
    "weight": 2.05,
-   "usersrated": 20757,
+   "usersrated": 20777,
    "categories": [
     "Strategy",
     "Family"
@@ -6618,7 +6618,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1124667
+    "plays": 1126902
    },
    "steam": [],
    "vtt": [],
@@ -6707,7 +6707,7 @@
    "rank": 112,
    "rating": 7.72,
    "weight": 2.3,
-   "usersrated": 33153,
+   "usersrated": 33162,
    "categories": [
     "Strategy"
    ],
@@ -6745,7 +6745,7 @@
    "rank": 113,
    "rating": 7.83,
    "weight": 3.78,
-   "usersrated": 22365,
+   "usersrated": 22367,
    "categories": [
     "Strategy"
    ],
@@ -6788,7 +6788,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 135370
+    "plays": 135394
    },
    "steam": [
     {
@@ -6830,7 +6830,7 @@
    "rank": 114,
    "rating": 7.86,
    "weight": 3.15,
-   "usersrated": 17988,
+   "usersrated": 17996,
    "categories": [
     "Strategy"
    ],
@@ -6873,7 +6873,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 244827
+    "plays": 244890
    },
    "steam": [],
    "vtt": [],
@@ -6887,7 +6887,7 @@
    "rank": 115,
    "rating": 7.8,
    "weight": 4.04,
-   "usersrated": 22609,
+   "usersrated": 22611,
    "categories": [
     "Strategy"
    ],
@@ -6974,11 +6974,11 @@
      7,
      8
     ],
-    "avg_minutes": 41,
+    "avg_minutes": 40,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 66655
+    "plays": 66698
    },
    "steam": [],
    "vtt": [],
@@ -6992,7 +6992,7 @@
    "rank": 117,
    "rating": 7.66,
    "weight": 2.31,
-   "usersrated": 113942,
+   "usersrated": 113963,
    "categories": [
     "Strategy",
     "Family"
@@ -7044,7 +7044,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 12473321
+    "plays": 12476552
    },
    "steam": [],
    "vtt": [],
@@ -7056,9 +7056,9 @@
    "name": "The Search for Planet X",
    "year": 2020,
    "rank": 118,
-   "rating": 7.88,
+   "rating": 7.89,
    "weight": 2.42,
-   "usersrated": 16160,
+   "usersrated": 16166,
    "categories": [
     "Strategy"
    ],
@@ -7098,7 +7098,7 @@
    "rank": 119,
    "rating": 7.82,
    "weight": 4.18,
-   "usersrated": 19884,
+   "usersrated": 19882,
    "categories": [
     "Strategy"
    ],
@@ -7139,7 +7139,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1219381
+    "plays": 1219738
    },
    "steam": [
     {
@@ -7268,7 +7268,7 @@
    "rank": 122,
    "rating": 7.76,
    "weight": 3.18,
-   "usersrated": 26502,
+   "usersrated": 26504,
    "categories": [
     "Strategy"
    ],
@@ -7313,7 +7313,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 434189
+    "plays": 434313
    },
    "steam": [],
    "vtt": [],
@@ -7327,7 +7327,7 @@
    "rank": 123,
    "rating": 7.94,
    "weight": 2.83,
-   "usersrated": 17237,
+   "usersrated": 17255,
    "categories": [
     "Strategy"
    ],
@@ -7403,7 +7403,7 @@
    "rank": 124,
    "rating": 7.97,
    "weight": 4.27,
-   "usersrated": 12941,
+   "usersrated": 12943,
    "categories": [
     "Strategy"
    ],
@@ -7441,7 +7441,7 @@
    "rank": 125,
    "rating": 7.82,
    "weight": 2.95,
-   "usersrated": 23644,
+   "usersrated": 23647,
    "categories": [
     "Strategy"
    ],
@@ -7564,7 +7564,7 @@
    "rank": 128,
    "rating": 8.11,
    "weight": 4.19,
-   "usersrated": 9101,
+   "usersrated": 9109,
    "categories": [
     "Strategy"
    ],
@@ -7609,8 +7609,48 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 27548
+    "plays": 27812
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 356080,
+   "name": "The Elder Scrolls: Betrayal of the Second Era",
+   "year": 2025,
+   "rank": 129,
+   "rating": 8.94,
+   "weight": 4.1,
+   "usersrated": 4488,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 204,
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "blurb": "Upgrade your character and gear up to explore the many regions of Tamriel.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/1boSR6Gvi_melhbRhxdAUw__square200/img/yMXkgl7ZiClbRR2Gox5PGpNnBVI=/200x200/filters:strip_icc()/pic8332880.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 240,
+   "minplayers": 1,
+   "minplaytime": 120,
+   "themes": [
+    "Adventure",
+    "Dice",
+    "Exploration",
+    "Fantasy",
+    "Video Game Theme"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -7620,10 +7660,10 @@
    "bgg_id": 310873,
    "name": "Carnegie",
    "year": 2022,
-   "rank": 129,
+   "rank": 130,
    "rating": 7.95,
    "weight": 3.82,
-   "usersrated": 12304,
+   "usersrated": 12313,
    "categories": [
     "Strategy"
    ],
@@ -7668,7 +7708,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 141422
+    "plays": 141458
    },
    "steam": [
     {
@@ -7699,46 +7739,6 @@
      }
     }
    ],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 356080,
-   "name": "The Elder Scrolls: Betrayal of the Second Era",
-   "year": 2025,
-   "rank": 129,
-   "rating": 8.94,
-   "weight": 4.1,
-   "usersrated": 4488,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 204,
-   "rec_players": [
-    1,
-    2,
-    3
-   ],
-   "blurb": "Upgrade your character and gear up to explore the many regions of Tamriel.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/1boSR6Gvi_melhbRhxdAUw__square200/img/yMXkgl7ZiClbRR2Gox5PGpNnBVI=/200x200/filters:strip_icc()/pic8332880.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 240,
-   "minplayers": 1,
-   "minplaytime": 120,
-   "themes": [
-    "Adventure",
-    "Dice",
-    "Exploration",
-    "Fantasy",
-    "Video Game Theme"
-   ],
-   "bga": null,
-   "steam": [],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -7825,7 +7825,7 @@
    "rank": 132,
    "rating": 8.1,
    "weight": 3.24,
-   "usersrated": 9770,
+   "usersrated": 9772,
    "categories": [
     "Strategy"
    ],
@@ -7867,7 +7867,7 @@
    "rank": 133,
    "rating": 7.7,
    "weight": 2.76,
-   "usersrated": 33089,
+   "usersrated": 33095,
    "categories": [
     "Strategy"
    ],
@@ -7914,7 +7914,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87265
+    "plays": 87285
    },
    "steam": [],
    "vtt": [],
@@ -7928,7 +7928,7 @@
    "rank": 134,
    "rating": 8.03,
    "weight": 3.05,
-   "usersrated": 11061,
+   "usersrated": 11071,
    "categories": [
     "Strategy"
    ],
@@ -7965,7 +7965,7 @@
    "rank": 135,
    "rating": 7.71,
    "weight": 3.47,
-   "usersrated": 30208,
+   "usersrated": 30211,
    "categories": [
     "Strategy"
    ],
@@ -8004,11 +8004,11 @@
      3,
      4
     ],
-    "avg_minutes": 34,
+    "avg_minutes": 35,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 49308
+    "plays": 49325
    },
    "steam": [],
    "vtt": [],
@@ -8020,9 +8020,9 @@
    "name": "Dominion: Intrigue",
    "year": 2009,
    "rank": 136,
-   "rating": 7.68,
+   "rating": 7.69,
    "weight": 2.41,
-   "usersrated": 34866,
+   "usersrated": 34867,
    "categories": [
     "Strategy"
    ],
@@ -8094,7 +8094,7 @@
    "rank": 137,
    "rating": 7.71,
    "weight": 3.33,
-   "usersrated": 24876,
+   "usersrated": 24877,
    "categories": [
     "Strategy"
    ],
@@ -8144,8 +8144,51 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 83373
+    "plays": 83462
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 4098,
+   "name": "Age of Steam",
+   "year": 2002,
+   "rank": 138,
+   "rating": 7.88,
+   "weight": 3.86,
+   "usersrated": 12902,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    4,
+    5
+   ],
+   "player_votes": 210,
+   "rec_players": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "blurb": "Outperform your railroad rivals with shares, auctions, track-building, and deliveries",
+   "digital": [
+    "VASSAL"
+   ],
+   "image": "https://cf.geekdo-images.com/gBPzZsgm9nrUYVfdK216NA__square200/img/8l0m91vfx3S9zbAwuqB0q5BXxm4=/200x200/filters:strip_icc()/pic4557340.png",
+   "maxplayers": 6,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 120,
+   "themes": [
+    "Economic",
+    "Post-Napoleonic",
+    "Trains",
+    "Transportation"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -8155,10 +8198,10 @@
    "bgg_id": 170042,
    "name": "Raiders of the North Sea",
    "year": 2015,
-   "rank": 138,
+   "rank": 139,
    "rating": 7.72,
    "weight": 2.57,
-   "usersrated": 26804,
+   "usersrated": 26805,
    "categories": [
     "Strategy"
    ],
@@ -8228,49 +8271,6 @@
      "url": "https://store.steampowered.com/app/931790/"
     }
    ],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 4098,
-   "name": "Age of Steam",
-   "year": 2002,
-   "rank": 139,
-   "rating": 7.88,
-   "weight": 3.86,
-   "usersrated": 12899,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    4,
-    5
-   ],
-   "player_votes": 210,
-   "rec_players": [
-    3,
-    4,
-    5,
-    6
-   ],
-   "blurb": "Outperform your railroad rivals with shares, auctions, track-building, and deliveries",
-   "digital": [
-    "VASSAL"
-   ],
-   "image": "https://cf.geekdo-images.com/gBPzZsgm9nrUYVfdK216NA__square200/img/8l0m91vfx3S9zbAwuqB0q5BXxm4=/200x200/filters:strip_icc()/pic4557340.png",
-   "maxplayers": 6,
-   "maxplaytime": 120,
-   "minplayers": 1,
-   "minplaytime": 120,
-   "themes": [
-    "Economic",
-    "Post-Napoleonic",
-    "Trains",
-    "Transportation"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
    "note": null,
    "steam_delisted": false
   },
@@ -8425,7 +8425,7 @@
    "rank": 142,
    "rating": 7.7,
    "weight": 3.79,
-   "usersrated": 30013,
+   "usersrated": 30015,
    "categories": [
     "Strategy"
    ],
@@ -8466,11 +8466,11 @@
      4,
      5
     ],
-    "avg_minutes": 36,
+    "avg_minutes": 37,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 127086
+    "plays": 127096
    },
    "steam": [],
    "vtt": [],
@@ -8484,7 +8484,7 @@
    "rank": 143,
    "rating": 7.7,
    "weight": 3.37,
-   "usersrated": 25347,
+   "usersrated": 25349,
    "categories": [
     "Strategy"
    ],
@@ -8526,7 +8526,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 157870
+    "plays": 157889
    },
    "steam": [],
    "vtt": [],
@@ -8540,7 +8540,7 @@
    "rank": 144,
    "rating": 7.82,
    "weight": 3.3,
-   "usersrated": 15726,
+   "usersrated": 15734,
    "categories": [
     "Strategy"
    ],
@@ -8584,7 +8584,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 36269
+    "plays": 36362
    },
    "steam": [
     {
@@ -8669,7 +8669,7 @@
    "rank": 146,
    "rating": 7.6,
    "weight": 2.34,
-   "usersrated": 97577,
+   "usersrated": 97586,
    "categories": [
     "Strategy"
    ],
@@ -8742,9 +8742,9 @@
    "name": "Hansa Teutonica",
    "year": 2009,
    "rank": 147,
-   "rating": 7.76,
+   "rating": 7.75,
    "weight": 3.09,
-   "usersrated": 17607,
+   "usersrated": 17606,
    "categories": [
     "Strategy"
    ],
@@ -8782,7 +8782,7 @@
    "rank": 148,
    "rating": 7.83,
    "weight": 3.89,
-   "usersrated": 13988,
+   "usersrated": 13989,
    "categories": [
     "Strategy"
    ],
@@ -8861,7 +8861,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3295233
+    "plays": 3296745
    },
    "steam": [
     {
@@ -8909,7 +8909,7 @@
    "rank": 150,
    "rating": 7.73,
    "weight": 2.22,
-   "usersrated": 23282,
+   "usersrated": 23311,
    "categories": [
     "Strategy",
     "Family"
@@ -8955,7 +8955,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5521517
+    "plays": 5536088
    },
    "steam": [],
    "vtt": [],
@@ -8969,7 +8969,7 @@
    "rank": 151,
    "rating": 7.74,
    "weight": 3.62,
-   "usersrated": 19072,
+   "usersrated": 19074,
    "categories": [
     "Strategy"
    ],
@@ -9007,7 +9007,7 @@
    "rank": 152,
    "rating": 8.22,
    "weight": 2.93,
-   "usersrated": 6808,
+   "usersrated": 6809,
    "categories": [
     "Strategy"
    ],
@@ -9078,7 +9078,7 @@
    "rank": 153,
    "rating": 7.72,
    "weight": 3.4,
-   "usersrated": 19044,
+   "usersrated": 19045,
    "categories": [
     "Strategy"
    ],
@@ -9120,7 +9120,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 223275
+    "plays": 223294
    },
    "steam": [],
    "vtt": [],
@@ -9207,7 +9207,7 @@
    "rank": 155,
    "rating": 7.75,
    "weight": 3.3,
-   "usersrated": 23609,
+   "usersrated": 23613,
    "categories": [
     "Strategy"
    ],
@@ -9249,7 +9249,7 @@
    "rank": 156,
    "rating": 8.04,
    "weight": 3.99,
-   "usersrated": 8160,
+   "usersrated": 8161,
    "categories": [
     "Strategy"
    ],
@@ -9287,7 +9287,7 @@
    "rank": 157,
    "rating": 8.17,
    "weight": 4.27,
-   "usersrated": 6769,
+   "usersrated": 6776,
    "categories": [
     "Strategy"
    ],
@@ -9367,7 +9367,7 @@
    "rank": 159,
    "rating": 7.78,
    "weight": 3.27,
-   "usersrated": 14115,
+   "usersrated": 14116,
    "categories": [
     "Strategy"
    ],
@@ -9403,11 +9403,11 @@
      3,
      4
     ],
-    "avg_minutes": 67,
+    "avg_minutes": 66,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87265
+    "plays": 87281
    },
    "steam": [],
    "vtt": [],
@@ -9464,11 +9464,11 @@
      6,
      7
     ],
-    "avg_minutes": 25,
+    "avg_minutes": 26,
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 286762
+    "plays": 286863
    },
    "steam": [],
    "vtt": [],
@@ -9607,7 +9607,7 @@
    "rank": 163,
    "rating": 7.87,
    "weight": 2.59,
-   "usersrated": 11966,
+   "usersrated": 11968,
    "categories": [
     "Strategy"
    ],
@@ -9648,7 +9648,7 @@
    "rank": 164,
    "rating": 8.23,
    "weight": 3.74,
-   "usersrated": 6717,
+   "usersrated": 6724,
    "categories": [
     "Strategy"
    ],
@@ -9688,7 +9688,7 @@
    "rank": 165,
    "rating": 7.75,
    "weight": 2.59,
-   "usersrated": 16386,
+   "usersrated": 16387,
    "categories": [
     "Strategy"
    ],
@@ -9726,7 +9726,7 @@
    "rank": 166,
    "rating": 7.92,
    "weight": 2.56,
-   "usersrated": 11070,
+   "usersrated": 11071,
    "categories": [
     "Strategy"
    ],
@@ -9763,7 +9763,7 @@
    "rank": 167,
    "rating": 8.65,
    "weight": 4.03,
-   "usersrated": 4171,
+   "usersrated": 4172,
    "categories": [
     "Strategy",
     "Thematic"
@@ -9803,7 +9803,7 @@
    "rank": 168,
    "rating": 7.75,
    "weight": 2.25,
-   "usersrated": 14951,
+   "usersrated": 14956,
    "categories": [
     "Strategy"
    ],
@@ -9856,7 +9856,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 397114
+    "plays": 397580
    },
    "steam": [],
    "vtt": [],
@@ -9909,7 +9909,7 @@
    "rank": 170,
    "rating": 7.72,
    "weight": 2.9,
-   "usersrated": 16354,
+   "usersrated": 16358,
    "categories": [
     "Strategy"
    ],
@@ -9951,7 +9951,7 @@
    "rank": 171,
    "rating": 7.7,
    "weight": 2.62,
-   "usersrated": 18973,
+   "usersrated": 18977,
    "categories": [
     "Strategy"
    ],
@@ -10114,7 +10114,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 167843
+    "plays": 167931
    },
    "steam": [],
    "vtt": [],
@@ -10128,7 +10128,7 @@
    "rank": 174,
    "rating": 7.82,
    "weight": 2.17,
-   "usersrated": 13252,
+   "usersrated": 13261,
    "categories": [
     "Strategy"
    ],
@@ -10199,7 +10199,7 @@
    "rank": 175,
    "rating": 7.51,
    "weight": 2.39,
-   "usersrated": 136617,
+   "usersrated": 136635,
    "categories": [
     "Strategy",
     "Family"
@@ -10246,7 +10246,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1565487
+    "plays": 1566274
    },
    "steam": [],
    "vtt": [],
@@ -10300,7 +10300,7 @@
    "rank": 177,
    "rating": 7.56,
    "weight": 2.78,
-   "usersrated": 33873,
+   "usersrated": 33878,
    "categories": [
     "Strategy"
    ],
@@ -10350,7 +10350,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1083305
+    "plays": 1083484
    },
    "steam": [
     {
@@ -10397,7 +10397,7 @@
    "rank": 178,
    "rating": 7.58,
    "weight": 2.34,
-   "usersrated": 27169,
+   "usersrated": 27174,
    "categories": [
     "Strategy"
    ],
@@ -10435,7 +10435,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 592387
+    "plays": 592524
    },
    "steam": [],
    "vtt": [],
@@ -10449,7 +10449,7 @@
    "rank": 179,
    "rating": 7.55,
    "weight": 1.91,
-   "usersrated": 48532,
+   "usersrated": 48534,
    "categories": [
     "Strategy"
    ],
@@ -10520,7 +10520,7 @@
    "rank": 180,
    "rating": 7.64,
    "weight": 3.92,
-   "usersrated": 24718,
+   "usersrated": 24721,
    "categories": [
     "Strategy"
    ],
@@ -10564,7 +10564,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 9497
+    "plays": 9556
    },
    "steam": [],
    "vtt": [],
@@ -10620,7 +10620,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3324603
+    "plays": 3331150
    },
    "steam": [
     {
@@ -10708,7 +10708,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 568337
+    "plays": 568789
    },
    "steam": [],
    "vtt": [],
@@ -10768,7 +10768,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 161939
+    "plays": 162054
    },
    "steam": [],
    "vtt": [],
@@ -10843,7 +10843,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1732188
+    "plays": 1735114
    },
    "steam": [
     {
@@ -10923,7 +10923,7 @@
    "rank": 186,
    "rating": 7.6,
    "weight": 2.66,
-   "usersrated": 26252,
+   "usersrated": 26258,
    "categories": [
     "Strategy"
    ],
@@ -10965,7 +10965,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1334816
+    "plays": 1335199
    },
    "steam": [],
    "vtt": [],
@@ -10973,61 +10973,57 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 271324,
-   "name": "It's a Wonderful World",
-   "year": 2019,
+   "bgg_id": 400366,
+   "name": "Wondrous Creatures",
+   "year": 2024,
    "rank": 187,
-   "rating": 7.62,
-   "weight": 2.32,
-   "usersrated": 23865,
+   "rating": 8.03,
+   "weight": 3.03,
+   "usersrated": 7747,
    "categories": [
     "Strategy"
    ],
    "best_players": [
-    4
+    2,
+    3
    ],
-   "player_votes": 454,
+   "player_votes": 206,
    "rec_players": [
     1,
     2,
-    3,
-    4,
-    5
+    3
    ],
-   "blurb": "Draft yourself the ‘perfect’ dystopia, complete projects and churn out resources.",
+   "blurb": "Build the best reserve in the world for 100+ fantastic creatures!",
    "digital": [
     "Board Game Arena",
-    "Game Park"
+    "TableTop Simulator Mod (TTS)",
+    "Tabletopia"
    ],
-   "image": "https://cf.geekdo-images.com/od4vDTdXGPSVc-kjLqM11w__square200/img/Sb4GPFGBqJhmGdn5jW8rzCgYiG0=/200x200/filters:strip_icc()/pic4651175.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 45,
+   "image": "https://cf.geekdo-images.com/3ue_3La0WYopTSDER3shUA__square200/img/wT9jBshPIZ9mAOBnJ-ssHQk-B_Q=/200x200/filters:strip_icc()/pic8389014.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 80,
    "minplayers": 1,
-   "minplaytime": 45,
+   "minplaytime": 40,
    "themes": [
-    "Card Game",
-    "Civilization",
-    "Economic",
-    "Science Fiction"
+    "Fantasy"
    ],
    "bga": {
-    "slug": "itsawonderfulworld",
-    "name": "It's a Wonderful World",
-    "url": "https://boardgamearena.com/gamepanel?game=itsawonderfulworld",
+    "slug": "wondrouscreatures",
+    "name": "Wondrous Creatures",
+    "url": "https://boardgamearena.com/gamepanel?game=wondrouscreatures",
     "premium": true,
     "status": "public",
     "players": [
      1,
      2,
      3,
-     4,
-     5
+     4
     ],
-    "avg_minutes": 14,
+    "avg_minutes": 52,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4318293
+    "plays": 75484
    },
    "steam": [],
    "vtt": [],
@@ -11106,57 +11102,61 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 400366,
-   "name": "Wondrous Creatures",
-   "year": 2024,
+   "bgg_id": 271324,
+   "name": "It's a Wonderful World",
+   "year": 2019,
    "rank": 189,
-   "rating": 8.02,
-   "weight": 3.03,
-   "usersrated": 7728,
+   "rating": 7.62,
+   "weight": 2.32,
+   "usersrated": 23877,
    "categories": [
     "Strategy"
    ],
    "best_players": [
-    2,
-    3
+    4
    ],
-   "player_votes": 206,
+   "player_votes": 454,
    "rec_players": [
     1,
     2,
-    3
+    3,
+    4,
+    5
    ],
-   "blurb": "Build the best reserve in the world for 100+ fantastic creatures!",
+   "blurb": "Draft yourself the ‘perfect’ dystopia, complete projects and churn out resources.",
    "digital": [
     "Board Game Arena",
-    "TableTop Simulator Mod (TTS)",
-    "Tabletopia"
+    "Game Park"
    ],
-   "image": "https://cf.geekdo-images.com/3ue_3La0WYopTSDER3shUA__square200/img/wT9jBshPIZ9mAOBnJ-ssHQk-B_Q=/200x200/filters:strip_icc()/pic8389014.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 80,
+   "image": "https://cf.geekdo-images.com/od4vDTdXGPSVc-kjLqM11w__square200/img/Sb4GPFGBqJhmGdn5jW8rzCgYiG0=/200x200/filters:strip_icc()/pic4651175.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 45,
    "minplayers": 1,
-   "minplaytime": 40,
+   "minplaytime": 45,
    "themes": [
-    "Fantasy"
+    "Card Game",
+    "Civilization",
+    "Economic",
+    "Science Fiction"
    ],
    "bga": {
-    "slug": "wondrouscreatures",
-    "name": "Wondrous Creatures",
-    "url": "https://boardgamearena.com/gamepanel?game=wondrouscreatures",
+    "slug": "itsawonderfulworld",
+    "name": "It's a Wonderful World",
+    "url": "https://boardgamearena.com/gamepanel?game=itsawonderfulworld",
     "premium": true,
     "status": "public",
     "players": [
      1,
      2,
      3,
-     4
+     4,
+     5
     ],
-    "avg_minutes": 52,
+    "avg_minutes": 14,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 74927
+    "plays": 4321095
    },
    "steam": [],
    "vtt": [],
@@ -11170,7 +11170,7 @@
    "rank": 190,
    "rating": 7.51,
    "weight": 2.45,
-   "usersrated": 56357,
+   "usersrated": 56362,
    "categories": [
     "Strategy",
     "Family"
@@ -11218,7 +11218,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5961171
+    "plays": 5962462
    },
    "steam": [
     {
@@ -11266,7 +11266,7 @@
    "rank": 191,
    "rating": 7.82,
    "weight": 2.27,
-   "usersrated": 12716,
+   "usersrated": 12724,
    "categories": [
     "Strategy",
     "Family"
@@ -11353,7 +11353,7 @@
    "rank": 193,
    "rating": 7.7,
    "weight": 2.3,
-   "usersrated": 14694,
+   "usersrated": 14696,
    "categories": [
     "Strategy"
    ],
@@ -11393,7 +11393,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 26459
+    "plays": 26491
    },
    "steam": [],
    "vtt": [],
@@ -11407,7 +11407,7 @@
    "rank": 194,
    "rating": 7.63,
    "weight": 2.93,
-   "usersrated": 21626,
+   "usersrated": 21635,
    "categories": [
     "Strategy"
    ],
@@ -11446,7 +11446,7 @@
    "rank": 195,
    "rating": 7.91,
    "weight": 1.97,
-   "usersrated": 9940,
+   "usersrated": 9944,
    "categories": [
     "Strategy"
    ],
@@ -11515,7 +11515,7 @@
    "rank": 196,
    "rating": 7.53,
    "weight": 2.59,
-   "usersrated": 34060,
+   "usersrated": 34065,
    "categories": [
     "Strategy"
    ],
@@ -11591,7 +11591,7 @@
    "rank": 197,
    "rating": 7.83,
    "weight": 3.72,
-   "usersrated": 10780,
+   "usersrated": 10783,
    "categories": [
     "Strategy"
    ],
@@ -11635,7 +11635,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 49665
+    "plays": 49736
    },
    "steam": [],
    "vtt": [],
@@ -11738,7 +11738,7 @@
    "rank": 200,
    "rating": 7.79,
    "weight": 3.46,
-   "usersrated": 11809,
+   "usersrated": 11811,
    "categories": [
     "Strategy"
    ],
@@ -11819,7 +11819,7 @@
    "rank": 202,
    "rating": 8.42,
    "weight": 4.43,
-   "usersrated": 4667,
+   "usersrated": 4669,
    "categories": [
     "Strategy"
    ],
@@ -11904,7 +11904,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2529944
+    "plays": 2537164
    },
    "steam": [],
    "vtt": [],
@@ -11958,7 +11958,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 2995121
+    "plays": 2995601
    },
    "steam": [],
    "vtt": [],
@@ -12079,94 +12079,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 127023,
-   "name": "Kemet",
-   "year": 2012,
-   "rank": 207,
-   "rating": 7.62,
-   "weight": 3.01,
-   "usersrated": 20244,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    4,
-    5
-   ],
-   "player_votes": 316,
-   "rec_players": [
-    3,
-    4,
-    5
-   ],
-   "blurb": "Play as warring Egyptian Gods and build the most powerful army to dominate Egypt.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/RmZjhy7_6REp8IaXh9Zqwg__square200/img/0USgPWRmHdqDv0CnAOv0jfN3Ms0=/200x200/filters:strip_icc()/pic3979527.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 120,
-   "minplayers": 2,
-   "minplaytime": 90,
-   "themes": [
-    "Ancient",
-    "Fantasy",
-    "Mythology",
-    "Wargame"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 265188,
-   "name": "Glen More II: Chronicles",
-   "year": 2019,
-   "rank": 208,
-   "rating": 7.85,
-   "weight": 3.0,
-   "usersrated": 9685,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    3
-   ],
-   "player_votes": 199,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Expand your Scottish clan by trading livestock, making whisky and gaining landmarks.",
-   "digital": [
-    "Tabletopia"
-   ],
-   "image": "https://cf.geekdo-images.com/sMRuph3HFUcaSpJZihGZKw__square200/img/XrVpgm8LMnjGBS0IKcWdh9pP1xo=/200x200/filters:strip_icc()/pic5841874.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 120,
-   "minplayers": 2,
-   "minplaytime": 90,
-   "themes": [
-    "City Building",
-    "Economic",
-    "Farming",
-    "Territory Building"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 283948,
    "name": "Marco Polo II: In the Service of the Khan",
    "year": 2019,
-   "rank": 209,
+   "rank": 207,
    "rating": 7.91,
    "weight": 3.38,
-   "usersrated": 8508,
+   "usersrated": 8512,
    "categories": [
     "Strategy"
    ],
@@ -12205,12 +12124,93 @@
      3,
      4
     ],
-    "avg_minutes": 39,
+    "avg_minutes": 38,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 132292
+    "plays": 132320
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 265188,
+   "name": "Glen More II: Chronicles",
+   "year": 2019,
+   "rank": 208,
+   "rating": 7.85,
+   "weight": 3.0,
+   "usersrated": 9687,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    3
+   ],
+   "player_votes": 199,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Expand your Scottish clan by trading livestock, making whisky and gaining landmarks.",
+   "digital": [
+    "Tabletopia"
+   ],
+   "image": "https://cf.geekdo-images.com/sMRuph3HFUcaSpJZihGZKw__square200/img/XrVpgm8LMnjGBS0IKcWdh9pP1xo=/200x200/filters:strip_icc()/pic5841874.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 90,
+   "themes": [
+    "City Building",
+    "Economic",
+    "Farming",
+    "Territory Building"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 127023,
+   "name": "Kemet",
+   "year": 2012,
+   "rank": 209,
+   "rating": 7.62,
+   "weight": 3.01,
+   "usersrated": 20244,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    4,
+    5
+   ],
+   "player_votes": 316,
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "blurb": "Play as warring Egyptian Gods and build the most powerful army to dominate Egypt.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/RmZjhy7_6REp8IaXh9Zqwg__square200/img/0USgPWRmHdqDv0CnAOv0jfN3Ms0=/200x200/filters:strip_icc()/pic3979527.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 90,
+   "themes": [
+    "Ancient",
+    "Fantasy",
+    "Mythology",
+    "Wargame"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -12263,7 +12263,7 @@
    "rank": 211,
    "rating": 7.82,
    "weight": 2.05,
-   "usersrated": 11549,
+   "usersrated": 11555,
    "categories": [
     "Strategy"
    ],
@@ -12300,7 +12300,7 @@
    "rank": 212,
    "rating": 7.6,
    "weight": 2.37,
-   "usersrated": 25756,
+   "usersrated": 25760,
    "categories": [
     "Strategy",
     "Family"
@@ -12350,7 +12350,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 349671
+    "plays": 349788
    },
    "steam": [
     {
@@ -12443,7 +12443,7 @@
    "rank": 214,
    "rating": 7.61,
    "weight": 2.91,
-   "usersrated": 22112,
+   "usersrated": 22124,
    "categories": [
     "Strategy"
    ],
@@ -12492,7 +12492,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 433172
+    "plays": 433404
    },
    "steam": [],
    "vtt": [],
@@ -12558,8 +12558,50 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 303943
+    "plays": 304505
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 283355,
+   "name": "Dune",
+   "year": 2019,
+   "rank": 216,
+   "rating": 7.91,
+   "weight": 3.98,
+   "usersrated": 11136,
+   "categories": [
+    "Strategy",
+    "Thematic"
+   ],
+   "best_players": [
+    6
+   ],
+   "player_votes": 291,
+   "rec_players": [
+    5,
+    6
+   ],
+   "blurb": "Wildly different factions vie for control of Arrakis through alliance and treachery.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/2fgPg6Be--w97zoycObUgg__square200/img/NWqx5GlJXleAeaHR3PJWTwdzWcU=/200x200/filters:strip_icc()/pic4815198.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 180,
+   "minplayers": 2,
+   "minplaytime": 120,
+   "themes": [
+    "Bluffing",
+    "Fighting",
+    "Negotiation",
+    "Novel-based",
+    "Political",
+    "Science Fiction",
+    "Wargame"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -12569,10 +12611,10 @@
    "bgg_id": 332686,
    "name": "John Company: Second Edition",
    "year": 2022,
-   "rank": 216,
+   "rank": 217,
    "rating": 8.22,
    "weight": 4.45,
-   "usersrated": 5773,
+   "usersrated": 5774,
    "categories": [
     "Strategy",
     "Thematic"
@@ -12611,55 +12653,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 283355,
-   "name": "Dune",
-   "year": 2019,
-   "rank": 217,
-   "rating": 7.91,
-   "weight": 3.98,
-   "usersrated": 11135,
-   "categories": [
-    "Strategy",
-    "Thematic"
-   ],
-   "best_players": [
-    6
-   ],
-   "player_votes": 291,
-   "rec_players": [
-    5,
-    6
-   ],
-   "blurb": "Wildly different factions vie for control of Arrakis through alliance and treachery.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/2fgPg6Be--w97zoycObUgg__square200/img/NWqx5GlJXleAeaHR3PJWTwdzWcU=/200x200/filters:strip_icc()/pic4815198.jpg",
-   "maxplayers": 6,
-   "maxplaytime": 180,
-   "minplayers": 2,
-   "minplaytime": 120,
-   "themes": [
-    "Bluffing",
-    "Fighting",
-    "Negotiation",
-    "Novel-based",
-    "Political",
-    "Science Fiction",
-    "Wargame"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 329082,
    "name": "Radlands",
    "year": 2021,
    "rank": 218,
    "rating": 7.73,
    "weight": 2.26,
-   "usersrated": 14768,
+   "usersrated": 14775,
    "categories": [
     "Strategy"
    ],
@@ -12752,7 +12752,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3065430
+    "plays": 3066395
    },
    "steam": [],
    "vtt": [],
@@ -12766,7 +12766,7 @@
    "rank": 220,
    "rating": 7.7,
    "weight": 2.25,
-   "usersrated": 14283,
+   "usersrated": 14287,
    "categories": [
     "Strategy",
     "Family"
@@ -12809,7 +12809,7 @@
    "rank": 222,
    "rating": 7.66,
    "weight": 3.19,
-   "usersrated": 16241,
+   "usersrated": 16243,
    "categories": [
     "Strategy",
     "Thematic"
@@ -12892,7 +12892,7 @@
    "rank": 223,
    "rating": 7.53,
    "weight": 2.27,
-   "usersrated": 25890,
+   "usersrated": 25893,
    "categories": [
     "Strategy"
    ],
@@ -12992,13 +12992,76 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 381248,
+   "name": "Nemesis: Retaliation",
+   "year": 2025,
+   "rank": 225,
+   "rating": 8.64,
+   "weight": 3.77,
+   "usersrated": 4510,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    4,
+    5
+   ],
+   "player_votes": 109,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "blurb": "Highly trained marines enter an alien nest with strict orders and advanced tools.",
+   "digital": [
+    "Board Game Arena"
+   ],
+   "image": "https://cf.geekdo-images.com/bt-s6gbhhI46VSIgsxyOIw__square200/img/F27371MTLL4Rvw8ksH2y9q8Um2g=/200x200/filters:strip_icc()/pic7375234.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 120,
+   "themes": [
+    "Exploration",
+    "Fighting",
+    "Horror",
+    "Miniatures",
+    "Science Fiction"
+   ],
+   "bga": {
+    "slug": "nemesisretaliation",
+    "name": "Nemesis: Retaliation",
+    "url": "https://boardgamearena.com/gamepanel?game=nemesisretaliation",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 59,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": false,
+    "plays": 37172
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 227224,
    "name": "The Red Cathedral",
    "year": 2020,
-   "rank": 225,
+   "rank": 226,
    "rating": 7.65,
    "weight": 2.81,
-   "usersrated": 16020,
+   "usersrated": 16022,
    "categories": [
     "Strategy"
    ],
@@ -13066,69 +13129,6 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 381248,
-   "name": "Nemesis: Retaliation",
-   "year": 2025,
-   "rank": 225,
-   "rating": 8.64,
-   "weight": 3.77,
-   "usersrated": 4510,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    4,
-    5
-   ],
-   "player_votes": 109,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4,
-    5
-   ],
-   "blurb": "Highly trained marines enter an alien nest with strict orders and advanced tools.",
-   "digital": [
-    "Board Game Arena"
-   ],
-   "image": "https://cf.geekdo-images.com/bt-s6gbhhI46VSIgsxyOIw__square200/img/F27371MTLL4Rvw8ksH2y9q8Um2g=/200x200/filters:strip_icc()/pic7375234.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 180,
-   "minplayers": 1,
-   "minplaytime": 120,
-   "themes": [
-    "Exploration",
-    "Fighting",
-    "Horror",
-    "Miniatures",
-    "Science Fiction"
-   ],
-   "bga": {
-    "slug": "nemesisretaliation",
-    "name": "Nemesis: Retaliation",
-    "url": "https://boardgamearena.com/gamepanel?game=nemesisretaliation",
-    "premium": true,
-    "status": "public",
-    "players": [
-     1,
-     2,
-     3,
-     4,
-     5
-    ],
-    "avg_minutes": 59,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": false,
-    "plays": 35951
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 10630,
    "name": "Memoir '44",
    "year": 2004,
@@ -13173,7 +13173,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 771792
+    "plays": 772219
    },
    "steam": [],
    "vtt": [],
@@ -13308,7 +13308,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4086348
+    "plays": 4088882
    },
    "steam": [],
    "vtt": [],
@@ -13445,7 +13445,7 @@
    "rank": 233,
    "rating": 8.26,
    "weight": 3.75,
-   "usersrated": 5239,
+   "usersrated": 5243,
    "categories": [
     "Strategy"
    ],
@@ -13527,7 +13527,7 @@
    "rank": 235,
    "rating": 7.51,
    "weight": 2.58,
-   "usersrated": 35258,
+   "usersrated": 35262,
    "categories": [
     "Strategy",
     "Thematic"
@@ -13609,7 +13609,7 @@
    "rank": 237,
    "rating": 7.64,
    "weight": 2.66,
-   "usersrated": 16623,
+   "usersrated": 16632,
    "categories": [
     "Strategy",
     "Thematic"
@@ -13652,7 +13652,7 @@
    "rank": 238,
    "rating": 7.5,
    "weight": 2.65,
-   "usersrated": 28199,
+   "usersrated": 28200,
    "categories": [
     "Strategy"
    ],
@@ -13691,11 +13691,11 @@
      4,
      5
     ],
-    "avg_minutes": 34,
+    "avg_minutes": 35,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 83224
+    "plays": 83386
    },
    "steam": [],
    "vtt": [],
@@ -13758,7 +13758,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 93346
+    "plays": 93393
    },
    "steam": [],
    "vtt": [],
@@ -13867,7 +13867,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15704313
+    "plays": 15711054
    },
    "steam": [
     {
@@ -13915,7 +13915,7 @@
    "rank": 242,
    "rating": 7.53,
    "weight": 3.73,
-   "usersrated": 37325,
+   "usersrated": 37332,
    "categories": [
     "Strategy"
    ],
@@ -14101,7 +14101,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 11139035
+    "plays": 11145210
    },
    "steam": [
     {
@@ -14149,7 +14149,7 @@
    "rank": 245,
    "rating": 7.66,
    "weight": 3.02,
-   "usersrated": 12644,
+   "usersrated": 12646,
    "categories": [
     "Strategy"
    ],
@@ -14191,11 +14191,11 @@
      5,
      6
     ],
-    "avg_minutes": 74,
+    "avg_minutes": 73,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 37395
+    "plays": 37405
    },
    "steam": [],
    "vtt": [],
@@ -14252,7 +14252,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 579299
+    "plays": 580088
    },
    "steam": [],
    "vtt": [],
@@ -14306,7 +14306,7 @@
    "rank": 248,
    "rating": 7.67,
    "weight": 3.89,
-   "usersrated": 11704,
+   "usersrated": 11707,
    "categories": [
     "Strategy"
    ],
@@ -14389,7 +14389,7 @@
    "rank": 250,
    "rating": 7.48,
    "weight": 3.06,
-   "usersrated": 24611,
+   "usersrated": 24612,
    "categories": [
     "Strategy"
    ],
@@ -14429,7 +14429,7 @@
    "rank": 251,
    "rating": 7.57,
    "weight": 2.69,
-   "usersrated": 17482,
+   "usersrated": 17493,
    "categories": [
     "Strategy"
    ],
@@ -14512,7 +14512,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4412350
+    "plays": 4415889
    },
    "steam": [],
    "vtt": [],
@@ -14575,7 +14575,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3283418
+    "plays": 3293655
    },
    "steam": [],
    "vtt": [],
@@ -14589,7 +14589,7 @@
    "rank": 254,
    "rating": 7.57,
    "weight": 2.34,
-   "usersrated": 17088,
+   "usersrated": 17090,
    "categories": [
     "Strategy"
    ],
@@ -14629,7 +14629,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 324858
+    "plays": 325059
    },
    "steam": [
     {
@@ -14705,7 +14705,7 @@
    "rank": 255,
    "rating": 7.45,
    "weight": 2.76,
-   "usersrated": 26707,
+   "usersrated": 26710,
    "categories": [
     "Strategy"
    ],
@@ -14825,7 +14825,7 @@
    "rank": 258,
    "rating": 7.72,
    "weight": 3.13,
-   "usersrated": 11921,
+   "usersrated": 11930,
    "categories": [
     "Strategy"
    ],
@@ -14867,7 +14867,7 @@
    "rank": 259,
    "rating": 7.55,
    "weight": 2.12,
-   "usersrated": 16588,
+   "usersrated": 16594,
    "categories": [
     "Strategy",
     "Family"
@@ -14913,7 +14913,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 318808
+    "plays": 318866
    },
    "steam": [],
    "vtt": [],
@@ -14924,10 +14924,10 @@
    "bgg_id": 241451,
    "name": "Aeon's End: Legacy",
    "year": 2019,
-   "rank": 260,
+   "rank": 261,
    "rating": 8.02,
    "weight": 2.87,
-   "usersrated": 5984,
+   "usersrated": 5985,
    "categories": [
     "Strategy"
    ],
@@ -15072,7 +15072,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 34907
+    "plays": 34984
    },
    "steam": [],
    "vtt": [],
@@ -15131,7 +15131,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17985484
+    "plays": 17996372
    },
    "steam": [
     {
@@ -15213,7 +15213,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1426017
+    "plays": 1431779
    },
    "steam": [],
    "vtt": [],
@@ -15353,7 +15353,7 @@
    "rank": 268,
    "rating": 7.77,
    "weight": 1.87,
-   "usersrated": 8914,
+   "usersrated": 8915,
    "categories": [
     "Strategy"
    ],
@@ -15421,7 +15421,7 @@
    "rank": 269,
    "rating": 7.59,
    "weight": 2.39,
-   "usersrated": 14357,
+   "usersrated": 14360,
    "categories": [
     "Strategy"
    ],
@@ -15453,10 +15453,10 @@
    "bgg_id": 245638,
    "name": "Coimbra",
    "year": 2018,
-   "rank": 271,
+   "rank": 270,
    "rating": 7.59,
    "weight": 3.24,
-   "usersrated": 13123,
+   "usersrated": 13126,
    "categories": [
     "Strategy"
    ],
@@ -15534,10 +15534,10 @@
    "bgg_id": 54998,
    "name": "Cyclades",
    "year": 2009,
-   "rank": 272,
+   "rank": 273,
    "rating": 7.49,
    "weight": 2.82,
-   "usersrated": 22973,
+   "usersrated": 22975,
    "categories": [
     "Strategy"
    ],
@@ -15618,7 +15618,7 @@
    "rank": 274,
    "rating": 7.56,
    "weight": 1.99,
-   "usersrated": 13736,
+   "usersrated": 13744,
    "categories": [
     "Strategy",
     "Family"
@@ -15659,7 +15659,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 68279
+    "plays": 68305
    },
    "steam": [],
    "vtt": [],
@@ -15673,7 +15673,7 @@
    "rank": 275,
    "rating": 7.59,
    "weight": 3.54,
-   "usersrated": 12721,
+   "usersrated": 12723,
    "categories": [
     "Strategy"
    ],
@@ -15711,10 +15711,10 @@
    "bgg_id": 295895,
    "name": "Distilled",
    "year": 2023,
-   "rank": 276,
+   "rank": 277,
    "rating": 7.74,
    "weight": 3.03,
-   "usersrated": 9403,
+   "usersrated": 9411,
    "categories": [
     "Strategy"
    ],
@@ -15761,7 +15761,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 203862
+    "plays": 204252
    },
    "steam": [],
    "vtt": [],
@@ -15968,8 +15968,8 @@
    "year": 2022,
    "rank": 280,
    "rating": 7.85,
-   "weight": 3.39,
-   "usersrated": 7213,
+   "weight": 3.38,
+   "usersrated": 7214,
    "categories": [
     "Strategy"
    ],
@@ -16008,7 +16008,7 @@
    "rank": 281,
    "rating": 7.57,
    "weight": 1.72,
-   "usersrated": 14464,
+   "usersrated": 14467,
    "categories": [
     "Strategy",
     "Family"
@@ -16091,11 +16091,11 @@
      3,
      4
     ],
-    "avg_minutes": 37,
+    "avg_minutes": 36,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 232133
+    "plays": 232171
    },
    "steam": [],
    "vtt": [],
@@ -16196,7 +16196,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 421588
+    "plays": 423343
    },
    "steam": [],
    "vtt": [],
@@ -16251,7 +16251,7 @@
    "rank": 286,
    "rating": 7.48,
    "weight": 2.44,
-   "usersrated": 17323,
+   "usersrated": 17325,
    "categories": [
     "Strategy"
    ],
@@ -16363,7 +16363,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 219959
+    "plays": 220137
    },
    "steam": [],
    "vtt": [],
@@ -16377,7 +16377,7 @@
    "rank": 290,
    "rating": 7.52,
    "weight": 3.05,
-   "usersrated": 17344,
+   "usersrated": 17348,
    "categories": [
     "Strategy"
    ],
@@ -16458,7 +16458,7 @@
    "rank": 291,
    "rating": 7.87,
    "weight": 4.02,
-   "usersrated": 7190,
+   "usersrated": 7202,
    "categories": [
     "Strategy"
    ],
@@ -16549,7 +16549,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 387901
+    "plays": 388057
    },
    "steam": [],
    "vtt": [],
@@ -16730,10 +16730,96 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 417197,
+   "name": "Rebirth",
+   "year": 2024,
+   "rank": 297,
+   "rating": 7.77,
+   "weight": 1.97,
+   "usersrated": 8096,
+   "categories": [
+    "Strategy",
+    "Family"
+   ],
+   "best_players": [
+    3
+   ],
+   "player_votes": 172,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Rebuild old lands in a lush, hopeful future.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/tyv6lPMlyU7YIUztlILQYQ__square200/img/bpCif3K4iTLK4r90STx9Ykea6FI=/200x200/filters:strip_icc()/pic8587890.png",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 45,
+   "themes": [
+    "Environmental",
+    "Fantasy",
+    "Farming",
+    "Science Fiction"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 156129,
+   "name": "Deception: Murder in Hong Kong",
+   "year": 2014,
+   "rank": 298,
+   "rating": 7.41,
+   "weight": 1.59,
+   "usersrated": 25544,
+   "categories": [
+    "Party"
+   ],
+   "best_players": [
+    6,
+    7,
+    8
+   ],
+   "player_votes": 322,
+   "rec_players": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "blurb": "Interpret forensic evidence to solve a murder. Beware, the murderer may be among you!",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/1COY3oeK9aN2_XNimKaNww__square200/img/SCK4YkeazQhC-_B2k7xFCZ0stPw=/200x200/filters:strip_icc()/pic3033330.jpg",
+   "maxplayers": 12,
+   "maxplaytime": 20,
+   "minplayers": 4,
+   "minplaytime": 20,
+   "themes": [
+    "Bluffing",
+    "Deduction",
+    "Murder / Mystery",
+    "Party Game"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 274637,
    "name": "Unmatched: Battle of Legends, Volume One",
    "year": 2019,
-   "rank": 297,
+   "rank": 299,
    "rating": 7.67,
    "weight": 1.96,
    "usersrated": 11266,
@@ -16801,59 +16887,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 156129,
-   "name": "Deception: Murder in Hong Kong",
-   "year": 2014,
-   "rank": 298,
-   "rating": 7.41,
-   "weight": 1.59,
-   "usersrated": 25544,
-   "categories": [
-    "Party"
-   ],
-   "best_players": [
-    6,
-    7,
-    8
-   ],
-   "player_votes": 322,
-   "rec_players": [
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
-   ],
-   "blurb": "Interpret forensic evidence to solve a murder. Beware, the murderer may be among you!",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/1COY3oeK9aN2_XNimKaNww__square200/img/SCK4YkeazQhC-_B2k7xFCZ0stPw=/200x200/filters:strip_icc()/pic3033330.jpg",
-   "maxplayers": 12,
-   "maxplaytime": 20,
-   "minplayers": 4,
-   "minplaytime": 20,
-   "themes": [
-    "Bluffing",
-    "Deduction",
-    "Murder / Mystery",
-    "Party Game"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 176494,
    "name": "Isle of Skye: From Chieftain to King",
    "year": 2015,
-   "rank": 299,
+   "rank": 300,
    "rating": 7.38,
    "weight": 2.26,
-   "usersrated": 27548,
+   "usersrated": 27549,
    "categories": [
     "Strategy",
     "Family"
@@ -16925,10 +16965,10 @@
    "bgg_id": 284189,
    "name": "Foundations of Rome",
    "year": 2022,
-   "rank": 300,
+   "rank": 301,
    "rating": 8.02,
    "weight": 2.02,
-   "usersrated": 5419,
+   "usersrated": 5420,
    "categories": [
     "Strategy"
    ],
@@ -16956,46 +16996,6 @@
     "Ancient",
     "City Building",
     "Economic"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 417197,
-   "name": "Rebirth",
-   "year": 2024,
-   "rank": 301,
-   "rating": 7.77,
-   "weight": 1.97,
-   "usersrated": 8059,
-   "categories": [
-    "Strategy",
-    "Family"
-   ],
-   "best_players": [
-    3
-   ],
-   "player_votes": 172,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Rebuild old lands in a lush, hopeful future.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/tyv6lPMlyU7YIUztlILQYQ__square200/img/bpCif3K4iTLK4r90STx9Ykea6FI=/200x200/filters:strip_icc()/pic8587890.png",
-   "maxplayers": 4,
-   "maxplaytime": 60,
-   "minplayers": 2,
-   "minplaytime": 45,
-   "themes": [
-    "Environmental",
-    "Fantasy",
-    "Farming",
-    "Science Fiction"
    ],
    "bga": null,
    "steam": [],
@@ -17051,7 +17051,7 @@
    "rank": 303,
    "rating": 7.69,
    "weight": 3.13,
-   "usersrated": 9222,
+   "usersrated": 9224,
    "categories": [
     "Strategy"
    ],
@@ -17124,7 +17124,7 @@
    "rank": 304,
    "rating": 8.47,
    "weight": 2.96,
-   "usersrated": 3551,
+   "usersrated": 3553,
    "categories": [
     "Strategy"
    ],
@@ -17279,7 +17279,7 @@
    "rank": 307,
    "rating": 7.43,
    "weight": 2.98,
-   "usersrated": 23334,
+   "usersrated": 23338,
    "categories": [
     "Strategy"
    ],
@@ -17324,7 +17324,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 605085
+    "plays": 605486
    },
    "steam": [],
    "vtt": [
@@ -17344,7 +17344,7 @@
    "rank": 308,
    "rating": 7.41,
    "weight": 2.42,
-   "usersrated": 22821,
+   "usersrated": 22824,
    "categories": [
     "Strategy"
    ],
@@ -17415,53 +17415,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 323612,
-   "name": "Bitoku",
-   "year": 2021,
-   "rank": 309,
-   "rating": 7.77,
-   "weight": 3.76,
-   "usersrated": 8237,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    3
-   ],
-   "player_votes": 235,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "Become the next great spirit of the forest, exploring it and helping lost souls.",
-   "digital": [
-    "Tabletopia"
-   ],
-   "image": "https://cf.geekdo-images.com/sMP4YfVfwv6vvh_y7EcXzA__square200/img/LVw0Y8Ec6OISFXSaPtMkcD-aoSM=/200x200/filters:strip_icc()/pic6182978.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 120,
-   "minplayers": 1,
-   "minplaytime": 120,
-   "themes": [
-    "Fantasy",
-    "Mythology"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 300322,
    "name": "Hallertau",
    "year": 2020,
-   "rank": 310,
+   "rank": 309,
    "rating": 7.81,
    "weight": 3.29,
-   "usersrated": 7115,
+   "usersrated": 7116,
    "categories": [
     "Strategy"
    ],
@@ -17496,13 +17456,53 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 323612,
+   "name": "Bitoku",
+   "year": 2021,
+   "rank": 310,
+   "rating": 7.76,
+   "weight": 3.77,
+   "usersrated": 8241,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    3
+   ],
+   "player_votes": 235,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "Become the next great spirit of the forest, exploring it and helping lost souls.",
+   "digital": [
+    "Tabletopia"
+   ],
+   "image": "https://cf.geekdo-images.com/sMP4YfVfwv6vvh_y7EcXzA__square200/img/LVw0Y8Ec6OISFXSaPtMkcD-aoSM=/200x200/filters:strip_icc()/pic6182978.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 120,
+   "themes": [
+    "Fantasy",
+    "Mythology"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 224783,
    "name": "Vindication",
    "year": 2018,
    "rank": 311,
    "rating": 7.75,
    "weight": 3.11,
-   "usersrated": 8453,
+   "usersrated": 8455,
    "categories": [
     "Strategy"
    ],
@@ -17622,7 +17622,7 @@
    "rank": 314,
    "rating": 7.89,
    "weight": 3.2,
-   "usersrated": 6420,
+   "usersrated": 6423,
    "categories": [
     "Strategy"
    ],
@@ -17661,7 +17661,7 @@
    "rank": 315,
    "rating": 7.49,
    "weight": 1.85,
-   "usersrated": 20207,
+   "usersrated": 20211,
    "categories": [
     "Strategy"
    ],
@@ -17780,7 +17780,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 929205
+    "plays": 929494
    },
    "steam": [
     {
@@ -17868,7 +17868,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 833981
+    "plays": 834194
    },
    "steam": [],
    "vtt": [],
@@ -17882,7 +17882,7 @@
    "rank": 318,
    "rating": 7.63,
    "weight": 3.34,
-   "usersrated": 9882,
+   "usersrated": 9884,
    "categories": [
     "Strategy"
    ],
@@ -17923,7 +17923,7 @@
    "rank": 319,
    "rating": 7.9,
    "weight": 1.88,
-   "usersrated": 6422,
+   "usersrated": 6423,
    "categories": [
     "Strategy"
    ],
@@ -17993,7 +17993,7 @@
    "rank": 320,
    "rating": 7.87,
    "weight": 4.16,
-   "usersrated": 6062,
+   "usersrated": 6063,
    "categories": [
     "Strategy"
    ],
@@ -18035,7 +18035,7 @@
    "rank": 321,
    "rating": 7.64,
    "weight": 3.02,
-   "usersrated": 9758,
+   "usersrated": 9764,
    "categories": [
     "Strategy"
    ],
@@ -18082,8 +18082,48 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 59534
+    "plays": 59631
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 434367,
+   "name": "Nippon: Zaibatsu",
+   "year": 2026,
+   "rank": 322,
+   "rating": 8.5,
+   "weight": 3.62,
+   "usersrated": 3340,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 123,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "Control conglomerates of companies driving Japan’s economy.",
+   "digital": [
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/bOs_Um4cUUOpKnypCMykJA__square200/img/KeA5fm9luwQ0EyMJPh1IXaaEU4Y=/200x200/filters:strip_icc()/pic8844519.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "themes": [
+    "Economic",
+    "Industry / Manufacturing"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -18093,10 +18133,10 @@
    "bgg_id": 262211,
    "name": "Cloudspire",
    "year": 2019,
-   "rank": 322,
+   "rank": 323,
    "rating": 8.18,
    "weight": 4.4,
-   "usersrated": 4636,
+   "usersrated": 4639,
    "categories": [
     "Strategy"
    ],
@@ -18136,7 +18176,7 @@
    "bgg_id": 9216,
    "name": "Goa",
    "year": 2004,
-   "rank": 323,
+   "rank": 324,
    "rating": 7.54,
    "weight": 3.36,
    "usersrated": 12050,
@@ -18180,11 +18220,11 @@
      3,
      4
     ],
-    "avg_minutes": 63,
+    "avg_minutes": 64,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5568
+    "plays": 5579
    },
    "steam": [],
    "vtt": [],
@@ -18195,10 +18235,10 @@
    "bgg_id": 356123,
    "name": "Turing Machine",
    "year": 2022,
-   "rank": 324,
+   "rank": 325,
    "rating": 7.59,
    "weight": 2.53,
-   "usersrated": 11026,
+   "usersrated": 11037,
    "categories": [
     "Strategy"
    ],
@@ -18250,64 +18290,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 839397
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 20551,
-   "name": "Shogun",
-   "year": 2006,
-   "rank": 325,
-   "rating": 7.5,
-   "weight": 3.36,
-   "usersrated": 14710,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    4,
-    5
-   ],
-   "player_votes": 273,
-   "rec_players": [
-    3,
-    4,
-    5
-   ],
-   "blurb": "Gain control of medieval Japan by amassing troops and sending them out to battles.",
-   "digital": [
-    "Board Game Arena"
-   ],
-   "image": "https://cf.geekdo-images.com/j6UzppDoJv9tKHQl-pWpIw__square200/img/q8C8xN1i9acsXGIZB8HcouxWa3Q=/200x200/filters:strip_icc()/pic3336315.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 120,
-   "minplayers": 3,
-   "minplaytime": 90,
-   "themes": [
-    "Economic",
-    "Medieval",
-    "Territory Building"
-   ],
-   "bga": {
-    "slug": "shogun",
-    "name": "Shogun",
-    "url": "https://boardgamearena.com/gamepanel?game=shogun",
-    "premium": false,
-    "status": "public",
-    "players": [
-     3,
-     4,
-     5
-    ],
-    "avg_minutes": 98,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 5175
+    "plays": 839711
    },
    "steam": [],
    "vtt": [],
@@ -18356,41 +18339,57 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 109276,
-   "name": "Kanban: Driver's Edition",
-   "year": 2014,
+   "bgg_id": 20551,
+   "name": "Shogun",
+   "year": 2006,
    "rank": 327,
-   "rating": 7.78,
-   "weight": 4.35,
-   "usersrated": 7161,
+   "rating": 7.5,
+   "weight": 3.36,
+   "usersrated": 14713,
    "categories": [
     "Strategy"
    ],
    "best_players": [
-    3,
-    4
+    4,
+    5
    ],
-   "player_votes": 145,
+   "player_votes": 273,
    "rec_players": [
-    2,
     3,
-    4
+    4,
+    5
    ],
-   "blurb": "Car-factory workers optimise and innovate to stand out at the big board meeting.",
+   "blurb": "Gain control of medieval Japan by amassing troops and sending them out to battles.",
    "digital": [
-    "Boiteajeux",
-    "Tabletopia"
+    "Board Game Arena"
    ],
-   "image": "https://cf.geekdo-images.com/rzSmS-GD8_pGl9bWo07FWQ__square200/img/ExKg1yZ_YIJrEXsui27lGQaI3c0=/200x200/filters:strip_icc()/pic5638431.jpg",
-   "maxplayers": 4,
+   "image": "https://cf.geekdo-images.com/j6UzppDoJv9tKHQl-pWpIw__square200/img/q8C8xN1i9acsXGIZB8HcouxWa3Q=/200x200/filters:strip_icc()/pic3336315.jpg",
+   "maxplayers": 5,
    "maxplaytime": 120,
-   "minplayers": 2,
+   "minplayers": 3,
    "minplaytime": 90,
    "themes": [
     "Economic",
-    "Industry / Manufacturing"
+    "Medieval",
+    "Territory Building"
    ],
-   "bga": null,
+   "bga": {
+    "slug": "shogun",
+    "name": "Shogun",
+    "url": "https://boardgamearena.com/gamepanel?game=shogun",
+    "premium": false,
+    "status": "public",
+    "players": [
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 98,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 5178
+   },
    "steam": [],
    "vtt": [],
    "note": null,
@@ -18403,7 +18402,7 @@
    "rank": 328,
    "rating": 7.47,
    "weight": 2.95,
-   "usersrated": 15804,
+   "usersrated": 15802,
    "categories": [
     "Strategy"
    ],
@@ -18450,8 +18449,49 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 495010
+    "plays": 495150
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 109276,
+   "name": "Kanban: Driver's Edition",
+   "year": 2014,
+   "rank": 329,
+   "rating": 7.77,
+   "weight": 4.35,
+   "usersrated": 7162,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    3,
+    4
+   ],
+   "player_votes": 145,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Car-factory workers optimise and innovate to stand out at the big board meeting.",
+   "digital": [
+    "Boiteajeux",
+    "Tabletopia"
+   ],
+   "image": "https://cf.geekdo-images.com/rzSmS-GD8_pGl9bWo07FWQ__square200/img/ExKg1yZ_YIJrEXsui27lGQaI3c0=/200x200/filters:strip_icc()/pic5638431.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 90,
+   "themes": [
+    "Economic",
+    "Industry / Manufacturing"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -18461,10 +18501,10 @@
    "bgg_id": 284653,
    "name": "Mind MGMT: The Psychic Espionage “Game”",
    "year": 2021,
-   "rank": 329,
+   "rank": 330,
    "rating": 7.77,
    "weight": 2.89,
-   "usersrated": 7556,
+   "usersrated": 7560,
    "categories": [
     "Strategy"
    ],
@@ -18511,48 +18551,8 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13262
+    "plays": 13271
    },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 434367,
-   "name": "Nippon: Zaibatsu",
-   "year": 2026,
-   "rank": 330,
-   "rating": 8.49,
-   "weight": 3.62,
-   "usersrated": 3326,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 123,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "Control conglomerates of companies driving Japan’s economy.",
-   "digital": [
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/bOs_Um4cUUOpKnypCMykJA__square200/img/KeA5fm9luwQ0EyMJPh1IXaaEU4Y=/200x200/filters:strip_icc()/pic8844519.png",
-   "maxplayers": 4,
-   "maxplaytime": 120,
-   "minplayers": 1,
-   "minplaytime": 60,
-   "themes": [
-    "Economic",
-    "Industry / Manufacturing"
-   ],
-   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -18792,7 +18792,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 7165033
+    "plays": 7167017
    },
    "steam": [
     {
@@ -18838,7 +18838,7 @@
    "rank": 335,
    "rating": 7.41,
    "weight": 1.89,
-   "usersrated": 18418,
+   "usersrated": 18421,
    "categories": [
     "Strategy"
    ],
@@ -18915,7 +18915,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1065224
+    "plays": 1065345
    },
    "steam": [],
    "vtt": [],
@@ -18929,7 +18929,7 @@
    "rank": 337,
    "rating": 7.68,
    "weight": 3.63,
-   "usersrated": 9100,
+   "usersrated": 9101,
    "categories": [
     "Strategy"
    ],
@@ -18967,7 +18967,7 @@
    "rank": 338,
    "rating": 8.06,
    "weight": 3.45,
-   "usersrated": 4631,
+   "usersrated": 4634,
    "categories": [
     "Strategy"
    ],
@@ -19005,7 +19005,7 @@
    "rank": 339,
    "rating": 7.7,
    "weight": 4.13,
-   "usersrated": 9785,
+   "usersrated": 9790,
    "categories": [
     "Strategy",
     "Thematic"
@@ -19085,7 +19085,7 @@
    "rank": 341,
    "rating": 7.43,
    "weight": 3.32,
-   "usersrated": 16714,
+   "usersrated": 16716,
    "categories": [
     "Strategy"
    ],
@@ -19128,11 +19128,11 @@
      4,
      5
     ],
-    "avg_minutes": 36,
+    "avg_minutes": 35,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 77073
+    "plays": 77082
    },
    "steam": [],
    "vtt": [],
@@ -19185,7 +19185,7 @@
    "rank": 343,
    "rating": 7.46,
    "weight": 2.11,
-   "usersrated": 14940,
+   "usersrated": 14943,
    "categories": [
     "Strategy"
    ],
@@ -19223,7 +19223,7 @@
    "rank": 344,
    "rating": 7.42,
    "weight": 2.26,
-   "usersrated": 17632,
+   "usersrated": 17635,
    "categories": [
     "Strategy",
     "Family"
@@ -19260,7 +19260,7 @@
    "rank": 345,
    "rating": 7.59,
    "weight": 2.14,
-   "usersrated": 10619,
+   "usersrated": 10628,
    "categories": [
     "Strategy",
     "Family"
@@ -19305,7 +19305,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 318808
+    "plays": 319319
    },
    "steam": [],
    "vtt": [],
@@ -19356,7 +19356,7 @@
    "rank": 347,
    "rating": 7.76,
    "weight": 3.81,
-   "usersrated": 7095,
+   "usersrated": 7098,
    "categories": [
     "Strategy"
    ],
@@ -19396,11 +19396,11 @@
      3,
      4
     ],
-    "avg_minutes": 52,
+    "avg_minutes": 51,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 18942
+    "plays": 19235
    },
    "steam": [],
    "vtt": [],
@@ -19414,7 +19414,7 @@
    "rank": 348,
    "rating": 7.58,
    "weight": 3.09,
-   "usersrated": 9651,
+   "usersrated": 9652,
    "categories": [
     "Strategy"
    ],
@@ -19492,7 +19492,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5344971
+    "plays": 5346444
    },
    "steam": [
     {
@@ -19614,7 +19614,7 @@
    "rank": 351,
    "rating": 7.61,
    "weight": 3.32,
-   "usersrated": 10214,
+   "usersrated": 10218,
    "categories": [
     "Strategy"
    ],
@@ -19772,7 +19772,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 192894
+    "plays": 193992
    },
    "steam": [],
    "vtt": [],
@@ -19949,7 +19949,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 873282
+    "plays": 873450
    },
    "steam": [],
    "vtt": [],
@@ -19963,7 +19963,7 @@
    "rank": 358,
    "rating": 8.01,
    "weight": 3.94,
-   "usersrated": 4763,
+   "usersrated": 4773,
    "categories": [
     "Strategy"
    ],
@@ -20002,7 +20002,7 @@
    "rank": 359,
    "rating": 8.02,
    "weight": 2.59,
-   "usersrated": 5064,
+   "usersrated": 5065,
    "categories": [
     "Strategy",
     "Customizable"
@@ -20039,7 +20039,7 @@
    "rank": 360,
    "rating": 7.83,
    "weight": 3.14,
-   "usersrated": 6961,
+   "usersrated": 6962,
    "categories": [
     "Strategy",
     "Thematic"
@@ -20080,7 +20080,7 @@
    "rank": 361,
    "rating": 7.61,
    "weight": 2.05,
-   "usersrated": 8689,
+   "usersrated": 8691,
    "categories": [
     "Strategy",
     "Family"
@@ -20126,7 +20126,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 289816
+    "plays": 290239
    },
    "steam": [],
    "vtt": [],
@@ -20222,7 +20222,7 @@
    "rank": 364,
    "rating": 8.13,
    "weight": 3.44,
-   "usersrated": 4273,
+   "usersrated": 4274,
    "categories": [
     "Strategy"
    ],
@@ -20292,7 +20292,7 @@
    "rank": 365,
    "rating": 7.33,
    "weight": 2.78,
-   "usersrated": 26716,
+   "usersrated": 26715,
    "categories": [
     "Strategy"
    ],
@@ -20332,7 +20332,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10488187
+    "plays": 10489579
    },
    "steam": [],
    "vtt": [],
@@ -20346,7 +20346,7 @@
    "rank": 366,
    "rating": 7.84,
    "weight": 3.69,
-   "usersrated": 5570,
+   "usersrated": 5571,
    "categories": [
     "Strategy"
    ],
@@ -20377,6 +20377,65 @@
     "Transportation"
    ],
    "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 384213,
+   "name": "Fromage",
+   "year": 2024,
+   "rank": 367,
+   "rating": 7.68,
+   "weight": 2.37,
+   "usersrated": 7591,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 141,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "Cheesemakers compete to run the most prosperous creamery in France.",
+   "digital": [
+    "Board Game Arena",
+    "TableTop Simulator Mod (TTS)",
+    "Tabletopia"
+   ],
+   "image": "https://cf.geekdo-images.com/h87Ft6qXbzwPifN7WGnx2Q__square200/img/qhGvEMr6w4aTMjbf6_CDqfLYQAA=/200x200/filters:strip_icc()/pic7452200.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 45,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "themes": [
+    "Economic",
+    "Farming"
+   ],
+   "bga": {
+    "slug": "fromage",
+    "name": "Fromage",
+    "url": "https://boardgamearena.com/gamepanel?game=fromage",
+    "premium": true,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 19,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 140952
+   },
    "steam": [],
    "vtt": [],
    "note": null,
@@ -20426,66 +20485,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 132375
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 384213,
-   "name": "Fromage",
-   "year": 2024,
-   "rank": 368,
-   "rating": 7.68,
-   "weight": 2.37,
-   "usersrated": 7575,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 141,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "Cheesemakers compete to run the most prosperous creamery in France.",
-   "digital": [
-    "Board Game Arena",
-    "TableTop Simulator Mod (TTS)",
-    "Tabletopia"
-   ],
-   "image": "https://cf.geekdo-images.com/h87Ft6qXbzwPifN7WGnx2Q__square200/img/qhGvEMr6w4aTMjbf6_CDqfLYQAA=/200x200/filters:strip_icc()/pic7452200.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 45,
-   "minplayers": 1,
-   "minplaytime": 30,
-   "themes": [
-    "Economic",
-    "Farming"
-   ],
-   "bga": {
-    "slug": "fromage",
-    "name": "Fromage",
-    "url": "https://boardgamearena.com/gamepanel?game=fromage",
-    "premium": true,
-    "status": "public",
-    "players": [
-     1,
-     2,
-     3,
-     4
-    ],
-    "avg_minutes": 20,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 140625
+    "plays": 132419
    },
    "steam": [],
    "vtt": [],
@@ -20537,7 +20537,7 @@
    "rank": 370,
    "rating": 7.36,
    "weight": 2.49,
-   "usersrated": 22446,
+   "usersrated": 22447,
    "categories": [
     "Strategy"
    ],
@@ -20578,7 +20578,7 @@
    "rank": 371,
    "rating": 8.37,
    "weight": 4.65,
-   "usersrated": 3371,
+   "usersrated": 3372,
    "categories": [
     "Strategy"
    ],
@@ -20618,11 +20618,11 @@
      3,
      4
     ],
-    "avg_minutes": 33,
+    "avg_minutes": 34,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 77174
+    "plays": 77293
    },
    "steam": [],
    "vtt": [],
@@ -20636,7 +20636,7 @@
    "rank": 372,
    "rating": 8.07,
    "weight": 2.88,
-   "usersrated": 4409,
+   "usersrated": 4411,
    "categories": [
     "Strategy",
     "Thematic"
@@ -20746,7 +20746,7 @@
    "rank": 374,
    "rating": 7.58,
    "weight": 2.16,
-   "usersrated": 8923,
+   "usersrated": 8922,
    "categories": [
     "Strategy"
    ],
@@ -20827,10 +20827,10 @@
    "bgg_id": 311988,
    "name": "Frostpunk: The Board Game",
    "year": 2022,
-   "rank": 377,
+   "rank": 376,
    "rating": 8.11,
    "weight": 4.41,
-   "usersrated": 4802,
+   "usersrated": 4808,
    "categories": [
     "Strategy",
     "Thematic"
@@ -20977,13 +20977,68 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 63888,
+   "name": "Innovation",
+   "year": 2010,
+   "rank": 379,
+   "rating": 7.33,
+   "weight": 2.78,
+   "usersrated": 21008,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 608,
+   "rec_players": [
+    2,
+    3
+   ],
+   "blurb": "Guide your civilization with inventions from the stone age through to the modern era.",
+   "digital": [
+    "Board Game Arena",
+    "Yucata"
+   ],
+   "image": "https://cf.geekdo-images.com/l4fVXtRnhKMf5UPn78rEdg__square200/img/P0JjqKHQArPsVseeNvtqnom5Tn8=/200x200/filters:strip_icc()/pic8792317.png",
+   "maxplayers": 5,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 20,
+   "themes": [
+    "Card Game",
+    "Civilization"
+   ],
+   "bga": {
+    "slug": "innovation",
+    "name": "Innovation",
+    "url": "https://boardgamearena.com/gamepanel?game=innovation",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 16,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 2115786
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 379078,
    "name": "Expeditions",
    "year": 2023,
-   "rank": 379,
+   "rank": 380,
    "rating": 7.62,
-   "weight": 3.06,
-   "usersrated": 9004,
+   "weight": 3.07,
+   "usersrated": 9016,
    "categories": [
     "Strategy"
    ],
@@ -21027,62 +21082,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 2951
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 63888,
-   "name": "Innovation",
-   "year": 2010,
-   "rank": 380,
-   "rating": 7.33,
-   "weight": 2.78,
-   "usersrated": 20998,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 608,
-   "rec_players": [
-    2,
-    3
-   ],
-   "blurb": "Guide your civilization with inventions from the stone age through to the modern era.",
-   "digital": [
-    "Board Game Arena",
-    "Yucata"
-   ],
-   "image": "https://cf.geekdo-images.com/l4fVXtRnhKMf5UPn78rEdg__square200/img/P0JjqKHQArPsVseeNvtqnom5Tn8=/200x200/filters:strip_icc()/pic8792317.png",
-   "maxplayers": 5,
-   "maxplaytime": 60,
-   "minplayers": 2,
-   "minplaytime": 20,
-   "themes": [
-    "Card Game",
-    "Civilization"
-   ],
-   "bga": {
-    "slug": "innovation",
-    "name": "Innovation",
-    "url": "https://boardgamearena.com/gamepanel?game=innovation",
-    "premium": false,
-    "status": "public",
-    "players": [
-     2,
-     3,
-     4
-    ],
-    "avg_minutes": 16,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 2114977
+    "plays": 3096
    },
    "steam": [],
    "vtt": [],
@@ -21094,7 +21094,7 @@
    "name": "The Manhattan Project: Energy Empire",
    "year": 2016,
    "rank": 381,
-   "rating": 7.71,
+   "rating": 7.72,
    "weight": 3.05,
    "usersrated": 6680,
    "categories": [
@@ -21181,7 +21181,7 @@
    "rank": 383,
    "rating": 7.93,
    "weight": 2.88,
-   "usersrated": 4935,
+   "usersrated": 4940,
    "categories": [
     "Strategy"
    ],
@@ -21227,7 +21227,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 81169
+    "plays": 81295
    },
    "steam": [],
    "vtt": [],
@@ -21283,7 +21283,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 74868
+    "plays": 74934
    },
    "steam": [],
    "vtt": [],
@@ -21297,7 +21297,7 @@
    "rank": 385,
    "rating": 7.58,
    "weight": 3.56,
-   "usersrated": 9051,
+   "usersrated": 9052,
    "categories": [
     "Strategy"
    ],
@@ -21333,40 +21333,96 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 234277,
-   "name": "Nusfjord",
-   "year": 2017,
+   "bgg_id": 47,
+   "name": "Chinatown",
+   "year": 1999,
+   "rank": 386,
+   "rating": 7.44,
+   "weight": 2.23,
+   "usersrated": 12567,
+   "categories": [
+    "Strategy",
+    "Family"
+   ],
+   "best_players": [
+    5
+   ],
+   "player_votes": 228,
+   "rec_players": [
+    4,
+    5
+   ],
+   "blurb": "Negotiate and build the most successful business in all of Chinatown!",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/o23NBqu_LBRAtRaVoOBBhQ__square200/img/zRx0iOV4dctVeeXVo2Zq-YDQukI=/200x200/filters:strip_icc()/pic403442.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 60,
+   "minplayers": 3,
+   "minplaytime": 60,
+   "themes": [
+    "Economic",
+    "Negotiation",
+    "Territory Building"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 97207,
+   "name": "Dungeon Petz",
+   "year": 2011,
    "rank": 387,
-   "rating": 7.63,
-   "weight": 2.88,
-   "usersrated": 7558,
+   "rating": 7.38,
+   "weight": 3.63,
+   "usersrated": 15685,
    "categories": [
     "Strategy"
    ],
    "best_players": [
-    1,
-    3
+    4
    ],
-   "player_votes": 236,
+   "player_votes": 243,
    "rec_players": [
-    1,
     2,
     3,
-    4,
-    5
+    4
    ],
-   "blurb": "Use your three workers to clear trees, build a harbor, and fish in northern Norway.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/nKYqNPEE94Zk_q5Vtk527w__square200/img/AdzZuXm7OUQ-wB3oa0ni7qiQmVI=/200x200/filters:strip_icc()/pic3729070.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 100,
-   "minplayers": 1,
-   "minplaytime": 20,
+   "blurb": "Raise monstrous pets and sell them to demanding Dungeon Lords for fame and fortune.",
+   "digital": [
+    "Board Game Arena",
+    "Boiteajeux",
+    "Tabletopia"
+   ],
+   "image": "https://cf.geekdo-images.com/7JjAm9RM8E2pbu5KCCbsTQ__square200/img/u7VHukKnrd-2PJMQdM34eV9_eJo=/200x200/filters:strip_icc()/pic1103979.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 90,
    "themes": [
-    "Economic",
-    "Nautical"
+    "Animals",
+    "Fantasy",
+    "Humor"
    ],
-   "bga": null,
+   "bga": {
+    "slug": "dungeonpetz",
+    "name": "Dungeon Petz",
+    "url": "https://boardgamearena.com/gamepanel?game=dungeonpetz",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 63,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 20890
+   },
    "steam": [],
    "vtt": [],
    "note": null,
@@ -21417,94 +21473,38 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 97207,
-   "name": "Dungeon Petz",
-   "year": 2011,
-   "rank": 388,
-   "rating": 7.38,
-   "weight": 3.63,
-   "usersrated": 15686,
+   "bgg_id": 234277,
+   "name": "Nusfjord",
+   "year": 2017,
+   "rank": 389,
+   "rating": 7.63,
+   "weight": 2.88,
+   "usersrated": 7560,
    "categories": [
     "Strategy"
    ],
    "best_players": [
-    4
+    1,
+    3
    ],
-   "player_votes": 243,
+   "player_votes": 236,
    "rec_players": [
+    1,
     2,
     3,
-    4
-   ],
-   "blurb": "Raise monstrous pets and sell them to demanding Dungeon Lords for fame and fortune.",
-   "digital": [
-    "Board Game Arena",
-    "Boiteajeux",
-    "Tabletopia"
-   ],
-   "image": "https://cf.geekdo-images.com/7JjAm9RM8E2pbu5KCCbsTQ__square200/img/u7VHukKnrd-2PJMQdM34eV9_eJo=/200x200/filters:strip_icc()/pic1103979.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 90,
-   "minplayers": 2,
-   "minplaytime": 90,
-   "themes": [
-    "Animals",
-    "Fantasy",
-    "Humor"
-   ],
-   "bga": {
-    "slug": "dungeonpetz",
-    "name": "Dungeon Petz",
-    "url": "https://boardgamearena.com/gamepanel?game=dungeonpetz",
-    "premium": false,
-    "status": "public",
-    "players": [
-     2,
-     3,
-     4
-    ],
-    "avg_minutes": 63,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 20887
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 47,
-   "name": "Chinatown",
-   "year": 1999,
-   "rank": 389,
-   "rating": 7.44,
-   "weight": 2.23,
-   "usersrated": 12567,
-   "categories": [
-    "Strategy",
-    "Family"
-   ],
-   "best_players": [
-    5
-   ],
-   "player_votes": 228,
-   "rec_players": [
     4,
     5
    ],
-   "blurb": "Negotiate and build the most successful business in all of Chinatown!",
+   "blurb": "Use your three workers to clear trees, build a harbor, and fish in northern Norway.",
    "digital": [],
-   "image": "https://cf.geekdo-images.com/o23NBqu_LBRAtRaVoOBBhQ__square200/img/zRx0iOV4dctVeeXVo2Zq-YDQukI=/200x200/filters:strip_icc()/pic403442.jpg",
+   "image": "https://cf.geekdo-images.com/nKYqNPEE94Zk_q5Vtk527w__square200/img/AdzZuXm7OUQ-wB3oa0ni7qiQmVI=/200x200/filters:strip_icc()/pic3729070.jpg",
    "maxplayers": 5,
-   "maxplaytime": 60,
-   "minplayers": 3,
-   "minplaytime": 60,
+   "maxplaytime": 100,
+   "minplayers": 1,
+   "minplaytime": 20,
    "themes": [
     "Economic",
-    "Negotiation",
-    "Territory Building"
+    "Nautical"
    ],
    "bga": null,
    "steam": [],
@@ -21599,7 +21599,7 @@
    "rank": 392,
    "rating": 7.32,
    "weight": 2.78,
-   "usersrated": 21655,
+   "usersrated": 21659,
    "categories": [
     "Strategy"
    ],
@@ -21642,7 +21642,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15492
+    "plays": 15505
    },
    "steam": [],
    "vtt": [],
@@ -21744,7 +21744,7 @@
    "rank": 395,
    "rating": 7.4,
    "weight": 2.3,
-   "usersrated": 15207,
+   "usersrated": 15209,
    "categories": [
     "Strategy",
     "Family"
@@ -21789,7 +21789,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 418604
+    "plays": 418912
    },
    "steam": [],
    "vtt": [],
@@ -21841,9 +21841,9 @@
    "name": "Sidereal Confluence",
    "year": 2017,
    "rank": 397,
-   "rating": 7.76,
+   "rating": 7.75,
    "weight": 3.55,
-   "usersrated": 6429,
+   "usersrated": 6430,
    "categories": [
     "Strategy"
    ],
@@ -21887,7 +21887,7 @@
    "rank": 398,
    "rating": 7.4,
    "weight": 2.95,
-   "usersrated": 12896,
+   "usersrated": 12897,
    "categories": [
     "Strategy"
    ],
@@ -21932,8 +21932,50 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17742
+    "plays": 17753
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 136888,
+   "name": "Bruges",
+   "year": 2013,
+   "rank": 399,
+   "rating": 7.42,
+   "weight": 2.75,
+   "usersrated": 12360,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    3
+   ],
+   "player_votes": 200,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Vie for influence, manage threats, build, and employ the unique denizens of the city!",
+   "digital": [
+    "BrettspielWelt",
+    "Yucata"
+   ],
+   "image": "https://cf.geekdo-images.com/A8JeebUT3mu4zUmYs9clDQ__square200/img/83uNWvAHPho9fHuPYFayXa0agy8=/200x200/filters:strip_icc()/pic1652004.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "themes": [
+    "Card Game",
+    "City Building",
+    "Economic",
+    "Renaissance"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -21943,7 +21985,7 @@
    "bgg_id": 22545,
    "name": "Age of Empires III: The Age of Discovery",
    "year": 2007,
-   "rank": 399,
+   "rank": 400,
    "rating": 7.5,
    "weight": 3.12,
    "usersrated": 10509,
@@ -21975,48 +22017,6 @@
     "Exploration",
     "Renaissance",
     "Video Game Theme"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 136888,
-   "name": "Bruges",
-   "year": 2013,
-   "rank": 400,
-   "rating": 7.42,
-   "weight": 2.75,
-   "usersrated": 12358,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    3
-   ],
-   "player_votes": 200,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Vie for influence, manage threats, build, and employ the unique denizens of the city!",
-   "digital": [
-    "BrettspielWelt",
-    "Yucata"
-   ],
-   "image": "https://cf.geekdo-images.com/A8JeebUT3mu4zUmYs9clDQ__square200/img/83uNWvAHPho9fHuPYFayXa0agy8=/200x200/filters:strip_icc()/pic1652004.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 60,
-   "minplayers": 2,
-   "minplaytime": 60,
-   "themes": [
-    "Card Game",
-    "City Building",
-    "Economic",
-    "Renaissance"
    ],
    "bga": null,
    "steam": [],
@@ -22069,7 +22069,7 @@
    "rank": 402,
    "rating": 7.69,
    "weight": 2.77,
-   "usersrated": 7226,
+   "usersrated": 7229,
    "categories": [
     "Strategy"
    ],
@@ -22175,7 +22175,7 @@
    "rank": 404,
    "rating": 7.32,
    "weight": 2.15,
-   "usersrated": 22434,
+   "usersrated": 22441,
    "categories": [
     "Strategy"
    ],
@@ -22223,7 +22223,7 @@
    "rank": 405,
    "rating": 7.66,
    "weight": 2.3,
-   "usersrated": 8055,
+   "usersrated": 8066,
    "categories": [
     "Strategy",
     "Family"
@@ -22347,11 +22347,11 @@
      3,
      4
     ],
-    "avg_minutes": 51,
+    "avg_minutes": 50,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 19535
+    "plays": 19553
    },
    "steam": [],
    "vtt": [],
@@ -22405,7 +22405,7 @@
    "rank": 409,
    "rating": 7.36,
    "weight": 2.19,
-   "usersrated": 22495,
+   "usersrated": 22512,
    "categories": [
     "Strategy",
     "Family"
@@ -22481,7 +22481,7 @@
    "rank": 410,
    "rating": 7.63,
    "weight": 3.49,
-   "usersrated": 7379,
+   "usersrated": 7380,
    "categories": [
     "Strategy"
    ],
@@ -22599,7 +22599,7 @@
    "rank": 412,
    "rating": 7.19,
    "weight": 2.35,
-   "usersrated": 75506,
+   "usersrated": 75513,
    "categories": [
     "Strategy",
     "Family"
@@ -22646,7 +22646,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 146051
+    "plays": 146211
    },
    "steam": [
     {
@@ -22737,7 +22737,7 @@
    "rank": 414,
    "rating": 7.52,
    "weight": 2.33,
-   "usersrated": 9901,
+   "usersrated": 9903,
    "categories": [
     "Strategy",
     "Family"
@@ -22788,7 +22788,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 9003
+    "plays": 9031
    },
    "steam": [],
    "vtt": [],
@@ -22802,7 +22802,7 @@
    "rank": 415,
    "rating": 7.47,
    "weight": 2.52,
-   "usersrated": 11175,
+   "usersrated": 11176,
    "categories": [
     "Strategy",
     "Customizable"
@@ -22920,10 +22920,10 @@
    "bgg_id": 246192,
    "name": "Gizmos",
    "year": 2018,
-   "rank": 419,
+   "rank": 418,
    "rating": 7.36,
    "weight": 2.07,
-   "usersrated": 15203,
+   "usersrated": 15206,
    "categories": [
     "Strategy",
     "Family"
@@ -22965,7 +22965,67 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2558738
+    "plays": 2560594
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 334986,
+   "name": "Daybreak",
+   "year": 2023,
+   "rank": 419,
+   "rating": 7.67,
+   "weight": 2.88,
+   "usersrated": 6921,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 182,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "Cooperatively decarbonize the planet and create resilient societies.",
+   "digital": [
+    "Board Game Arena",
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/YU8rm_FMnKHS2GPDFvLb6g__square200/img/mRN8KhjtP3AeTwR6wj9wxGzVwqE=/200x200/filters:strip_icc()/pic7068528.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "themes": [
+    "Card Game",
+    "Economic",
+    "Educational",
+    "Environmental"
+   ],
+   "bga": {
+    "slug": "daybreak",
+    "name": "Daybreak",
+    "url": "https://boardgamearena.com/gamepanel?game=daybreak",
+    "premium": false,
+    "status": "public",
+    "players": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 20,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 769894
    },
    "steam": [],
    "vtt": [],
@@ -23024,67 +23084,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 234197
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 334986,
-   "name": "Daybreak",
-   "year": 2023,
-   "rank": 420,
-   "rating": 7.67,
-   "weight": 2.88,
-   "usersrated": 6910,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 182,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "Cooperatively decarbonize the planet and create resilient societies.",
-   "digital": [
-    "Board Game Arena",
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/YU8rm_FMnKHS2GPDFvLb6g__square200/img/mRN8KhjtP3AeTwR6wj9wxGzVwqE=/200x200/filters:strip_icc()/pic7068528.png",
-   "maxplayers": 4,
-   "maxplaytime": 120,
-   "minplayers": 1,
-   "minplaytime": 60,
-   "themes": [
-    "Card Game",
-    "Economic",
-    "Educational",
-    "Environmental"
-   ],
-   "bga": {
-    "slug": "daybreak",
-    "name": "Daybreak",
-    "url": "https://boardgamearena.com/gamepanel?game=daybreak",
-    "premium": false,
-    "status": "public",
-    "players": [
-     1,
-     2,
-     3,
-     4
-    ],
-    "avg_minutes": 20,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 769118
+    "plays": 234698
    },
    "steam": [],
    "vtt": [],
@@ -23134,52 +23134,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 247367,
-   "name": "Air, Land, & Sea",
-   "year": 2019,
-   "rank": 422,
-   "rating": 7.44,
-   "weight": 1.74,
-   "usersrated": 11108,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 82,
-   "rec_players": [
-    2
-   ],
-   "blurb": "Submit orders on three fronts to outwit and outmatch your military opponent.",
-   "digital": [
-    "Tabletopia"
-   ],
-   "image": "https://cf.geekdo-images.com/3wpYeNwO7k_yjpIN7IQwaw__square200/img/mlKjafVmzsa0ueWUDTMcBpiFtTU=/200x200/filters:strip_icc()/pic4387681.jpg",
-   "maxplayers": 2,
-   "maxplaytime": 20,
-   "minplayers": 2,
-   "minplaytime": 20,
-   "themes": [
-    "Animals",
-    "Card Game",
-    "Print & Play",
-    "World War II"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 425549,
    "name": "Moon Colony Bloodbath",
    "year": 2025,
-   "rank": 423,
+   "rank": 422,
    "rating": 7.63,
    "weight": 2.15,
-   "usersrated": 7420,
+   "usersrated": 7461,
    "categories": [
     "Strategy"
    ],
@@ -23214,13 +23175,52 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 247367,
+   "name": "Air, Land, & Sea",
+   "year": 2019,
+   "rank": 423,
+   "rating": 7.44,
+   "weight": 1.74,
+   "usersrated": 11111,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 82,
+   "rec_players": [
+    2
+   ],
+   "blurb": "Submit orders on three fronts to outwit and outmatch your military opponent.",
+   "digital": [
+    "Tabletopia"
+   ],
+   "image": "https://cf.geekdo-images.com/3wpYeNwO7k_yjpIN7IQwaw__square200/img/mlKjafVmzsa0ueWUDTMcBpiFtTU=/200x200/filters:strip_icc()/pic4387681.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 20,
+   "minplayers": 2,
+   "minplaytime": 20,
+   "themes": [
+    "Animals",
+    "Card Game",
+    "Print & Play",
+    "World War II"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 21241,
    "name": "Neuroshima Hex",
    "year": 2006,
    "rank": 424,
    "rating": 7.38,
    "weight": 2.61,
-   "usersrated": 15869,
+   "usersrated": 15868,
    "categories": [
     "Strategy"
    ],
@@ -23414,7 +23414,7 @@
    "rank": 428,
    "rating": 7.54,
    "weight": 1.93,
-   "usersrated": 9529,
+   "usersrated": 9533,
    "categories": [
     "Strategy",
     "Family"
@@ -23536,7 +23536,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 637420
+    "plays": 637741
    },
    "steam": [
     {
@@ -23580,7 +23580,7 @@
    "rank": 430,
    "rating": 7.89,
    "weight": 1.94,
-   "usersrated": 5239,
+   "usersrated": 5240,
    "categories": [
     "Strategy"
    ],
@@ -23648,7 +23648,7 @@
    "rank": 431,
    "rating": 7.66,
    "weight": 4.07,
-   "usersrated": 6842,
+   "usersrated": 6843,
    "categories": [
     "Strategy"
    ],
@@ -23770,7 +23770,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 264379
+    "plays": 264479
    },
    "steam": [],
    "vtt": [],
@@ -23784,7 +23784,7 @@
    "rank": 434,
    "rating": 7.75,
    "weight": 1.85,
-   "usersrated": 5802,
+   "usersrated": 5813,
    "categories": [
     "Strategy",
     "Family"
@@ -23824,7 +23824,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 122128
+    "plays": 122547
    },
    "steam": [],
    "vtt": [],
@@ -23922,7 +23922,7 @@
    "rank": 437,
    "rating": 7.34,
    "weight": 2.52,
-   "usersrated": 17248,
+   "usersrated": 17249,
    "categories": [
     "Strategy",
     "Thematic"
@@ -24001,7 +24001,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 452724
+    "plays": 453983
    },
    "steam": [],
    "vtt": [],
@@ -24055,7 +24055,7 @@
    "rank": 440,
    "rating": 7.38,
    "weight": 2.22,
-   "usersrated": 12553,
+   "usersrated": 12554,
    "categories": [
     "Strategy"
    ],
@@ -24169,10 +24169,65 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 552,
+   "name": "Bus",
+   "year": 1999,
+   "rank": 443,
+   "rating": 7.71,
+   "weight": 3.03,
+   "usersrated": 5725,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 133,
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "blurb": "Expand your bus line and maybe bend time in this worker placement classic!",
+   "digital": [
+    "Board Game Arena",
+    "Online Board Gamers"
+   ],
+   "image": "https://cf.geekdo-images.com/EI6jGtH3CLqLiI9pfW0pTA__square200/img/S8eRYpsBEJhqKD9bj654zm0kc7I=/200x200/filters:strip_icc()/pic8179997.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 3,
+   "minplaytime": 120,
+   "themes": [
+    "Transportation"
+   ],
+   "bga": {
+    "slug": "bus",
+    "name": "Bus",
+    "url": "https://boardgamearena.com/gamepanel?game=bus",
+    "premium": false,
+    "status": "beta",
+    "players": [
+     3,
+     4,
+     5
+    ],
+    "avg_minutes": 64,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": false,
+    "plays": 692
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 128271,
    "name": "Ginkgopolis",
    "year": 2012,
-   "rank": 443,
+   "rank": 444,
    "rating": 7.48,
    "weight": 2.9,
    "usersrated": 9038,
@@ -24222,62 +24277,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 30453
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 552,
-   "name": "Bus",
-   "year": 1999,
-   "rank": 444,
-   "rating": 7.71,
-   "weight": 3.03,
-   "usersrated": 5720,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 133,
-   "rec_players": [
-    3,
-    4,
-    5
-   ],
-   "blurb": "Expand your bus line and maybe bend time in this worker placement classic!",
-   "digital": [
-    "Board Game Arena",
-    "Online Board Gamers"
-   ],
-   "image": "https://cf.geekdo-images.com/EI6jGtH3CLqLiI9pfW0pTA__square200/img/S8eRYpsBEJhqKD9bj654zm0kc7I=/200x200/filters:strip_icc()/pic8179997.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 120,
-   "minplayers": 3,
-   "minplaytime": 120,
-   "themes": [
-    "Transportation"
-   ],
-   "bga": {
-    "slug": "bus",
-    "name": "Bus",
-    "url": "https://boardgamearena.com/gamepanel?game=bus",
-    "premium": false,
-    "status": "beta",
-    "players": [
-     3,
-     4,
-     5
-    ],
-    "avg_minutes": 62,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": false,
-    "plays": 688
+    "plays": 30457
    },
    "steam": [],
    "vtt": [],
@@ -24335,7 +24335,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 697027
+    "plays": 697367
    },
    "steam": [],
    "vtt": [],
@@ -24391,7 +24391,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 25601
+    "plays": 25639
    },
    "steam": [],
    "vtt": [],
@@ -24405,7 +24405,7 @@
    "rank": 447,
    "rating": 7.33,
    "weight": 2.64,
-   "usersrated": 17178,
+   "usersrated": 17180,
    "categories": [
     "Strategy",
     "Thematic"
@@ -24447,7 +24447,7 @@
    "rank": 448,
    "rating": 8.04,
    "weight": 3.7,
-   "usersrated": 4655,
+   "usersrated": 4675,
    "categories": [
     "Strategy"
    ],
@@ -24532,7 +24532,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2767091
+    "plays": 2767392
    },
    "steam": [],
    "vtt": [],
@@ -24587,13 +24587,52 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 368305,
+   "name": "Life of the Amazonia",
+   "year": 2023,
+   "rank": 451,
+   "rating": 8.07,
+   "weight": 2.86,
+   "usersrated": 3941,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 128,
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "blurb": "Build your very own thriving jungle by discovering various wild animals.",
+   "digital": [
+    "Tabletopia"
+   ],
+   "image": "https://cf.geekdo-images.com/lRk6_QqYHNM0Bb-6pFK7Jg__square200/img/2CXDOuZd6dhxhaPrbiQ_uIdK3DM=/200x200/filters:strip_icc()/pic7002853.png",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "themes": [
+    "Animals",
+    "Puzzle"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 155987,
    "name": "Abyss",
    "year": 2014,
-   "rank": 451,
+   "rank": 452,
    "rating": 7.32,
    "weight": 2.32,
-   "usersrated": 17069,
+   "usersrated": 17071,
    "categories": [
     "Strategy"
    ],
@@ -24637,47 +24676,8 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 214207
+    "plays": 214251
    },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 368305,
-   "name": "Life of the Amazonia",
-   "year": 2023,
-   "rank": 452,
-   "rating": 8.07,
-   "weight": 2.86,
-   "usersrated": 3935,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 128,
-   "rec_players": [
-    1,
-    2,
-    3
-   ],
-   "blurb": "Build your very own thriving jungle by discovering various wild animals.",
-   "digital": [
-    "Tabletopia"
-   ],
-   "image": "https://cf.geekdo-images.com/lRk6_QqYHNM0Bb-6pFK7Jg__square200/img/2CXDOuZd6dhxhaPrbiQ_uIdK3DM=/200x200/filters:strip_icc()/pic7002853.png",
-   "maxplayers": 4,
-   "maxplaytime": 150,
-   "minplayers": 1,
-   "minplaytime": 60,
-   "themes": [
-    "Animals",
-    "Puzzle"
-   ],
-   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -24847,52 +24847,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 303057,
-   "name": "Pan Am",
-   "year": 2020,
-   "rank": 457,
-   "rating": 7.52,
-   "weight": 2.41,
-   "usersrated": 8647,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    3,
-    4
-   ],
-   "player_votes": 204,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Triumph in the golden age of air travel.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/Dkd1DKelqroYz21llrqJ_A__square200/img/_TWFYZkXlhTNorVwQcva0ApTWOQ=/200x200/filters:strip_icc()/pic5252922.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 60,
-   "minplayers": 2,
-   "minplaytime": 60,
-   "themes": [
-    "Aviation / Flight",
-    "Economic",
-    "Transportation"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 319910,
    "name": "Pagan: Fate of Roanoke",
    "year": 2022,
-   "rank": 458,
+   "rank": 457,
    "rating": 7.84,
    "weight": 3.04,
-   "usersrated": 5237,
+   "usersrated": 5239,
    "categories": [
     "Strategy",
     "Customizable"
@@ -24929,12 +24890,51 @@
     "players": [
      2
     ],
-    "avg_minutes": 59,
+    "avg_minutes": 57,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17648
+    "plays": 17674
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 303057,
+   "name": "Pan Am",
+   "year": 2020,
+   "rank": 458,
+   "rating": 7.52,
+   "weight": 2.41,
+   "usersrated": 8647,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    3,
+    4
+   ],
+   "player_votes": 204,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Triumph in the golden age of air travel.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/Dkd1DKelqroYz21llrqJ_A__square200/img/_TWFYZkXlhTNorVwQcva0ApTWOQ=/200x200/filters:strip_icc()/pic5252922.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "themes": [
+    "Aviation / Flight",
+    "Economic",
+    "Transportation"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -24947,7 +24947,7 @@
    "rank": 459,
    "rating": 7.69,
    "weight": 1.98,
-   "usersrated": 6217,
+   "usersrated": 6219,
    "categories": [
     "Strategy",
     "Family"
@@ -25037,7 +25037,7 @@
    "rank": 461,
    "rating": 7.55,
    "weight": 2.81,
-   "usersrated": 7537,
+   "usersrated": 7540,
    "categories": [
     "Strategy"
    ],
@@ -25076,7 +25076,7 @@
    "rank": 462,
    "rating": 7.49,
    "weight": 2.54,
-   "usersrated": 8979,
+   "usersrated": 8982,
    "categories": [
     "Strategy"
    ],
@@ -25186,6 +25186,64 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 371330,
+   "name": "Luthier",
+   "year": 2025,
+   "rank": 464,
+   "rating": 8.14,
+   "weight": 3.83,
+   "usersrated": 3637,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    3
+   ],
+   "player_votes": 118,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "Craft musical instruments for patrons through worker placement and hidden bidding.",
+   "digital": [
+    "Board Game Arena",
+    "Tabletopia"
+   ],
+   "image": "https://cf.geekdo-images.com/NNOCMpxKchQb_ByLmvDfRQ__square200/img/B8ioeObiPYH0DgMwSgeoFis0bW4=/200x200/filters:strip_icc()/pic8145392.png",
+   "maxplayers": 4,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "themes": [
+    "Age of Reason",
+    "Industry / Manufacturing",
+    "Music"
+   ],
+   "bga": {
+    "slug": "luthier",
+    "name": "Luthier",
+    "url": "https://boardgamearena.com/gamepanel?game=luthier",
+    "premium": true,
+    "status": "beta",
+    "players": [
+     2,
+     3,
+     4
+    ],
+    "avg_minutes": 77,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 10085
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 171,
    "name": "Chess",
    "year": 1475,
@@ -25245,7 +25303,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1438027
+    "plays": 1438349
    },
    "steam": [],
    "vtt": [],
@@ -25256,10 +25314,10 @@
    "bgg_id": 386368,
    "name": "Ezra and Nehemiah",
    "year": 2024,
-   "rank": 465,
+   "rank": 466,
    "rating": 8.12,
    "weight": 3.85,
-   "usersrated": 3634,
+   "usersrated": 3638,
    "categories": [
     "Strategy"
    ],
@@ -25286,64 +25344,6 @@
     "Religious"
    ],
    "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 371330,
-   "name": "Luthier",
-   "year": 2025,
-   "rank": 466,
-   "rating": 8.14,
-   "weight": 3.82,
-   "usersrated": 3624,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    3
-   ],
-   "player_votes": 118,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "Craft musical instruments for patrons through worker placement and hidden bidding.",
-   "digital": [
-    "Board Game Arena",
-    "Tabletopia"
-   ],
-   "image": "https://cf.geekdo-images.com/NNOCMpxKchQb_ByLmvDfRQ__square200/img/B8ioeObiPYH0DgMwSgeoFis0bW4=/200x200/filters:strip_icc()/pic8145392.png",
-   "maxplayers": 4,
-   "maxplaytime": 150,
-   "minplayers": 1,
-   "minplaytime": 90,
-   "themes": [
-    "Age of Reason",
-    "Industry / Manufacturing",
-    "Music"
-   ],
-   "bga": {
-    "slug": "luthier",
-    "name": "Luthier",
-    "url": "https://boardgamearena.com/gamepanel?game=luthier",
-    "premium": true,
-    "status": "beta",
-    "players": [
-     2,
-     3,
-     4
-    ],
-    "avg_minutes": 77,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 9946
-   },
    "steam": [],
    "vtt": [],
    "note": null,
@@ -25391,52 +25391,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 195539,
-   "name": "The Godfather: Corleone's Empire",
-   "year": 2017,
-   "rank": 468,
-   "rating": 7.53,
-   "weight": 2.64,
-   "usersrated": 8683,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 181,
-   "rec_players": [
-    2,
-    3,
-    4,
-    5
-   ],
-   "blurb": "Reach the top of the cut-throat mob world...all others sleep with the fishes.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/umGE4fOLYylHloIvw5bitA__square200/img/J_Qz8wApM2V9tIqwPZTOeQ55n0U=/200x200/filters:strip_icc()/pic3364797.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 90,
-   "minplayers": 2,
-   "minplaytime": 60,
-   "themes": [
-    "Economic",
-    "Mafia",
-    "Movies / TV / Radio theme"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 367498,
    "name": "Horizons of Spirit Island",
    "year": 2022,
-   "rank": 469,
+   "rank": 468,
    "rating": 8.11,
    "weight": 3.57,
-   "usersrated": 3655,
+   "usersrated": 3661,
    "categories": [
     "Strategy"
    ],
@@ -25471,10 +25432,103 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 195539,
+   "name": "The Godfather: Corleone's Empire",
+   "year": 2017,
+   "rank": 469,
+   "rating": 7.53,
+   "weight": 2.64,
+   "usersrated": 8686,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 181,
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "blurb": "Reach the top of the cut-throat mob world...all others sleep with the fishes.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/umGE4fOLYylHloIvw5bitA__square200/img/J_Qz8wApM2V9tIqwPZTOeQ55n0U=/200x200/filters:strip_icc()/pic3364797.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "themes": [
+    "Economic",
+    "Mafia",
+    "Movies / TV / Radio theme"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 424219,
+   "name": "Zenith",
+   "year": 2025,
+   "rank": 470,
+   "rating": 7.97,
+   "weight": 2.32,
+   "usersrated": 4390,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 96,
+   "rec_players": [
+    2,
+    4
+   ],
+   "blurb": "Players struggle to get control of the Solar System.",
+   "digital": [
+    "Board Game Arena",
+    "Game Park",
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/NvE9BcCiYXhYT2iV61C6kA__square200/img/T7H3uWrEZxngmETSISjxdHARiGM=/200x200/filters:strip_icc()/pic8855575.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 35,
+   "minplayers": 2,
+   "minplaytime": 25,
+   "themes": [
+    "Card Game",
+    "Science Fiction"
+   ],
+   "bga": {
+    "slug": "zenith",
+    "name": "Zenith",
+    "url": "https://boardgamearena.com/gamepanel?game=zenith",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2
+    ],
+    "avg_minutes": 21,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 355500
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 119890,
    "name": "Agricola: All Creatures Big and Small",
    "year": 2012,
-   "rank": 470,
+   "rank": 471,
    "rating": 7.32,
    "weight": 2.35,
    "usersrated": 14342,
@@ -25545,10 +25599,10 @@
    "bgg_id": 335764,
    "name": "Unmatched: Battle of Legends, Volume Two",
    "year": 2021,
-   "rank": 471,
+   "rank": 472,
    "rating": 8.19,
    "weight": 2.08,
-   "usersrated": 3663,
+   "usersrated": 3665,
    "categories": [
     "Strategy"
    ],
@@ -25682,67 +25736,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 424219,
-   "name": "Zenith",
-   "year": 2025,
-   "rank": 473,
-   "rating": 7.97,
-   "weight": 2.33,
-   "usersrated": 4377,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 96,
-   "rec_players": [
-    2,
-    4
-   ],
-   "blurb": "Players struggle to get control of the Solar System.",
-   "digital": [
-    "Board Game Arena",
-    "Game Park",
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/NvE9BcCiYXhYT2iV61C6kA__square200/img/T7H3uWrEZxngmETSISjxdHARiGM=/200x200/filters:strip_icc()/pic8855575.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 35,
-   "minplayers": 2,
-   "minplaytime": 25,
-   "themes": [
-    "Card Game",
-    "Science Fiction"
-   ],
-   "bga": {
-    "slug": "zenith",
-    "name": "Zenith",
-    "url": "https://boardgamearena.com/gamepanel?game=zenith",
-    "premium": true,
-    "status": "public",
-    "players": [
-     2
-    ],
-    "avg_minutes": 21,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 354270
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 37046,
    "name": "Ghost Stories",
    "year": 2008,
    "rank": 474,
    "rating": 7.25,
    "weight": 2.9,
-   "usersrated": 21965,
+   "usersrated": 21964,
    "categories": [
     "Strategy",
     "Thematic"
@@ -25877,7 +25877,7 @@
    "rank": 477,
    "rating": 7.6,
    "weight": 2.26,
-   "usersrated": 7300,
+   "usersrated": 7307,
    "categories": [
     "Strategy",
     "Family"
@@ -25916,7 +25916,7 @@
    "rank": 478,
    "rating": 8.01,
    "weight": 4.13,
-   "usersrated": 3924,
+   "usersrated": 3927,
    "categories": [
     "Strategy"
    ],
@@ -25942,6 +25942,46 @@
    "themes": [
     "Arabian",
     "Medieval"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 206480,
+   "name": "Imperial Struggle",
+   "year": 2020,
+   "rank": 479,
+   "rating": 8.21,
+   "weight": 4.08,
+   "usersrated": 3487,
+   "categories": [
+    "Strategy",
+    "Wargames"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 71,
+   "rec_players": [
+    2
+   ],
+   "blurb": "France and Britain clash globally over trade, influence and territory in the 1700s.",
+   "digital": [
+    "Rally the Troops",
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/FTE7dxVd4jQaIwwRcCQcRw__square200/img/IJj1cZpfIc0n6Ac6ylaPsod1uUM=/200x200/filters:strip_icc()/pic5291148.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 240,
+   "minplayers": 2,
+   "minplaytime": 120,
+   "themes": [
+    "Age of Reason",
+    "American Revolutionary War",
+    "Wargame"
    ],
    "bga": null,
    "steam": [],
@@ -25984,46 +26024,6 @@
    "themes": [
     "Dice",
     "Number"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 206480,
-   "name": "Imperial Struggle",
-   "year": 2020,
-   "rank": 480,
-   "rating": 8.21,
-   "weight": 4.08,
-   "usersrated": 3485,
-   "categories": [
-    "Strategy",
-    "Wargames"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 71,
-   "rec_players": [
-    2
-   ],
-   "blurb": "France and Britain clash globally over trade, influence and territory in the 1700s.",
-   "digital": [
-    "Rally the Troops",
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/FTE7dxVd4jQaIwwRcCQcRw__square200/img/IJj1cZpfIc0n6Ac6ylaPsod1uUM=/200x200/filters:strip_icc()/pic5291148.jpg",
-   "maxplayers": 2,
-   "maxplaytime": 240,
-   "minplayers": 2,
-   "minplaytime": 120,
-   "themes": [
-    "Age of Reason",
-    "American Revolutionary War",
-    "Wargame"
    ],
    "bga": null,
    "steam": [],
@@ -26083,7 +26083,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 199394
+    "plays": 199545
    },
    "steam": [],
    "vtt": [],
@@ -26094,10 +26094,10 @@
    "bgg_id": 404431,
    "name": "Men-Nefer",
    "year": 2024,
-   "rank": 482,
-   "rating": 8.15,
+   "rank": 481,
+   "rating": 8.14,
    "weight": 3.69,
-   "usersrated": 3522,
+   "usersrated": 3530,
    "categories": [
     "Strategy"
    ],
@@ -26138,7 +26138,7 @@
    "rank": 483,
    "rating": 7.74,
    "weight": 3.33,
-   "usersrated": 5714,
+   "usersrated": 5719,
    "categories": [
     "Strategy"
    ],
@@ -26215,7 +26215,7 @@
    "rank": 485,
    "rating": 7.49,
    "weight": 2.74,
-   "usersrated": 9059,
+   "usersrated": 9062,
    "categories": [
     "Strategy",
     "Family"
@@ -26254,7 +26254,7 @@
    "rank": 486,
    "rating": 7.31,
    "weight": 2.74,
-   "usersrated": 13888,
+   "usersrated": 13889,
    "categories": [
     "Strategy"
    ],
@@ -26295,7 +26295,7 @@
    "rank": 487,
    "rating": 7.25,
    "weight": 2.81,
-   "usersrated": 18547,
+   "usersrated": 18548,
    "categories": [
     "Strategy"
    ],
@@ -26376,7 +26376,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 313143
+    "plays": 313287
    },
    "steam": [],
    "vtt": [],
@@ -26389,7 +26389,7 @@
    "year": 2015,
    "rank": 489,
    "rating": 7.58,
-   "weight": 3.06,
+   "weight": 3.05,
    "usersrated": 7020,
    "categories": [
     "Strategy"
@@ -26426,7 +26426,7 @@
    "rank": 490,
    "rating": 7.49,
    "weight": 3.37,
-   "usersrated": 8154,
+   "usersrated": 8157,
    "categories": [
     "Strategy"
    ],
@@ -26467,11 +26467,11 @@
      3,
      4
     ],
-    "avg_minutes": 47,
+    "avg_minutes": 45,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31310
+    "plays": 31352
    },
    "steam": [],
    "vtt": [],
@@ -26557,6 +26557,47 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 424981,
+   "name": "Eternal Decks",
+   "year": 2025,
+   "rank": 493,
+   "rating": 8.19,
+   "weight": 2.85,
+   "usersrated": 3341,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 95,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "Can you solve each stage before your deck runs out?",
+   "digital": [
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/Bo6QYIQWzRRcn7KyO3AIPg__square200/img/lMisyX6fUky0XQ6hWnHroY4L0Uk=/200x200/filters:strip_icc()/pic8512516.png",
+   "maxplayers": 4,
+   "maxplaytime": 40,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "themes": [
+    "Card Game",
+    "Mythology",
+    "Puzzle"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 15987,
    "name": "Arkham Horror",
    "year": 2005,
@@ -26604,7 +26645,7 @@
    "bgg_id": 39683,
    "name": "At the Gates of Loyang",
    "year": 2009,
-   "rank": 494,
+   "rank": 496,
    "rating": 7.35,
    "weight": 3.11,
    "usersrated": 11765,
@@ -26638,91 +26679,6 @@
    "bga": null,
    "steam": [],
    "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 424981,
-   "name": "Eternal Decks",
-   "year": 2025,
-   "rank": 495,
-   "rating": 8.19,
-   "weight": 2.85,
-   "usersrated": 3328,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 95,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "Can you solve each stage before your deck runs out?",
-   "digital": [
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/Bo6QYIQWzRRcn7KyO3AIPg__square200/img/lMisyX6fUky0XQ6hWnHroY4L0Uk=/200x200/filters:strip_icc()/pic8512516.png",
-   "maxplayers": 4,
-   "maxplaytime": 40,
-   "minplayers": 1,
-   "minplaytime": 30,
-   "themes": [
-    "Card Game",
-    "Mythology",
-    "Puzzle"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 234487,
-   "name": "Altiplano",
-   "year": 2017,
-   "rank": 496,
-   "rating": 7.42,
-   "weight": 3.29,
-   "usersrated": 9824,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    3
-   ],
-   "player_votes": 192,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Bag building in the highlands of Peru.",
-   "digital": [
-    "Tabletopia"
-   ],
-   "image": "https://cf.geekdo-images.com/hgUDu_oG0uhnOWX4WM2vXA__square200/img/7ffvJ1UWnoZblQazXZAprLj2DGg=/200x200/filters:strip_icc()/pic4070329.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 120,
-   "minplayers": 2,
-   "minplaytime": 60,
-   "themes": [
-    "Economic"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [
-    {
-     "appid": 1040500,
-     "platform": "Tabletopia",
-     "url": "https://store.steampowered.com/app/1040500/"
-    }
-   ],
    "note": null,
    "steam_delisted": false
   },
@@ -26767,13 +26723,57 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 234487,
+   "name": "Altiplano",
+   "year": 2017,
+   "rank": 498,
+   "rating": 7.42,
+   "weight": 3.29,
+   "usersrated": 9825,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    3
+   ],
+   "player_votes": 192,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Bag building in the highlands of Peru.",
+   "digital": [
+    "Tabletopia"
+   ],
+   "image": "https://cf.geekdo-images.com/hgUDu_oG0uhnOWX4WM2vXA__square200/img/7ffvJ1UWnoZblQazXZAprLj2DGg=/200x200/filters:strip_icc()/pic4070329.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "themes": [
+    "Economic"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [
+    {
+     "appid": 1040500,
+     "platform": "Tabletopia",
+     "url": "https://store.steampowered.com/app/1040500/"
+    }
+   ],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 381297,
    "name": "Unmatched Adventures: Tales to Amaze",
    "year": 2023,
-   "rank": 497,
+   "rank": 499,
    "rating": 7.93,
    "weight": 2.34,
-   "usersrated": 4578,
+   "usersrated": 4577,
    "categories": [
     "Strategy",
     "Family"
@@ -26856,7 +26856,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 351043
+    "plays": 352292
    },
    "steam": [],
    "vtt": [],
@@ -26920,7 +26920,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 176039
+    "plays": 177562
    },
    "steam": [],
    "vtt": [

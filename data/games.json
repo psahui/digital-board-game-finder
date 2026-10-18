@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T20:39+00:00",
+ "generated": "2026-10-18T20:47+00:00",
  "country": "au",
  "top_n": 500,
  "games": [
@@ -103,7 +103,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13701282
+    "plays": 13715192
    },
    "steam": [
     {
@@ -458,11 +458,11 @@
      5,
      6
     ],
-    "avg_minutes": 229,
+    "avg_minutes": 233,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 4771
+    "plays": 4811
    },
    "steam": [
     {
@@ -597,7 +597,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5617638
+    "plays": 5625060
    },
    "steam": [
     {
@@ -886,7 +886,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 487023
+    "plays": 487371
    },
    "steam": [
     {
@@ -1165,7 +1165,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4554935
+    "plays": 4558210
    },
    "steam": [
     {
@@ -1600,7 +1600,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 14348949
+    "plays": 14354736
    },
    "steam": [],
    "vtt": [],
@@ -1729,11 +1729,11 @@
      3,
      4
     ],
-    "avg_minutes": 66,
+    "avg_minutes": 67,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 518893
+    "plays": 519114
    },
    "steam": [],
    "vtt": [],
@@ -1798,7 +1798,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 136047
+    "plays": 136190
    },
    "steam": [
     {
@@ -1935,7 +1935,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 57036
+    "plays": 57117
    },
    "steam": [
     {
@@ -2028,7 +2028,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3398660
+    "plays": 3401187
    },
    "steam": [
     {
@@ -2113,11 +2113,11 @@
      3,
      4
     ],
-    "avg_minutes": 52,
+    "avg_minutes": 53,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 426110
+    "plays": 426333
    },
    "steam": [],
    "vtt": [],
@@ -2170,7 +2170,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1009672
+    "plays": 1010395
    },
    "steam": [],
    "vtt": [],
@@ -2344,11 +2344,11 @@
      4,
      5
     ],
-    "avg_minutes": 72,
+    "avg_minutes": 73,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 89230
+    "plays": 89300
    },
    "steam": [],
    "vtt": [
@@ -2418,7 +2418,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 905230
+    "plays": 905396
    },
    "steam": [
     {
@@ -2561,7 +2561,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10557626
+    "plays": 10567241
    },
    "steam": [
     {
@@ -2703,7 +2703,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 314482
+    "plays": 314632
    },
    "steam": [
     {
@@ -2789,11 +2789,11 @@
      3,
      4
     ],
-    "avg_minutes": 98,
+    "avg_minutes": 99,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 26840
+    "plays": 27030
    },
    "steam": [],
    "vtt": [],
@@ -3048,7 +3048,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 341600
+    "plays": 341759
    },
    "steam": [],
    "vtt": [],
@@ -3267,7 +3267,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 927174
+    "plays": 927812
    },
    "steam": [
     {
@@ -3352,7 +3352,7 @@
    "rank": 50,
    "rating": 8.11,
    "weight": 2.97,
-   "usersrated": 28427,
+   "usersrated": 28441,
    "categories": [
     "Customizable"
    ],
@@ -3439,7 +3439,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3381958
+    "plays": 3386793
    },
    "steam": [],
    "vtt": [],
@@ -3717,7 +3717,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 92938
+    "plays": 92984
    },
    "steam": [],
    "vtt": [],
@@ -3778,7 +3778,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 247047
+    "plays": 247277
    },
    "steam": [],
    "vtt": [],
@@ -3837,7 +3837,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2915927
+    "plays": 2916395
    },
    "steam": [],
    "vtt": [],
@@ -4061,11 +4061,11 @@
      6,
      7
     ],
-    "avg_minutes": 51,
+    "avg_minutes": 52,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 119508
+    "plays": 119540
    },
    "steam": [
     {
@@ -4158,7 +4158,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 52831
+    "plays": 52863
    },
    "steam": [],
    "vtt": [],
@@ -4350,7 +4350,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 328050
+    "plays": 328198
    },
    "steam": [],
    "vtt": [],
@@ -4443,11 +4443,11 @@
      4,
      5
     ],
-    "avg_minutes": 50,
+    "avg_minutes": 51,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 106064
+    "plays": 106096
    },
    "steam": [
     {
@@ -4626,7 +4626,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 641866
+    "plays": 642688
    },
    "steam": [],
    "vtt": [],
@@ -4879,7 +4879,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 803517
+    "plays": 803613
    },
    "steam": [],
    "vtt": [],
@@ -4981,7 +4981,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 384923
+    "plays": 385026
    },
    "steam": [],
    "vtt": [],
@@ -5187,11 +5187,11 @@
      3,
      4
     ],
-    "avg_minutes": 52,
+    "avg_minutes": 53,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 15213
+    "plays": 15414
    },
    "steam": [],
    "vtt": [],
@@ -5247,7 +5247,7 @@
    "rank": 85,
    "rating": 7.89,
    "weight": 3.42,
-   "usersrated": 31477,
+   "usersrated": 31478,
    "categories": [
     "Customizable"
    ],
@@ -5331,7 +5331,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1909394
+    "plays": 1910642
    },
    "steam": [],
    "vtt": [],
@@ -5512,7 +5512,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 198619
+    "plays": 198768
    },
    "steam": [],
    "vtt": [],
@@ -5568,11 +5568,11 @@
      3,
      4
     ],
-    "avg_minutes": 60,
+    "avg_minutes": 61,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 96842
+    "plays": 96895
    },
    "steam": [],
    "vtt": [],
@@ -5630,7 +5630,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 85302
+    "plays": 85372
    },
    "steam": [],
    "vtt": [],
@@ -5769,7 +5769,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 17013954
+    "plays": 17016759
    },
    "steam": [
     {
@@ -5902,7 +5902,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 563816
+    "plays": 563994
    },
    "steam": [],
    "vtt": [],
@@ -5958,7 +5958,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 71012
+    "plays": 71060
    },
    "steam": [],
    "vtt": [],
@@ -6015,7 +6015,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 29143030
+    "plays": 29160287
    },
    "steam": [],
    "vtt": [],
@@ -6071,7 +6071,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31682
+    "plays": 31692
    },
    "steam": [],
    "vtt": [],
@@ -6365,11 +6365,11 @@
      3,
      4
     ],
-    "avg_minutes": 60,
+    "avg_minutes": 61,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 98430
+    "plays": 98556
    },
    "steam": [],
    "vtt": [],
@@ -6614,11 +6614,11 @@
     "players": [
      2
     ],
-    "avg_minutes": 20,
+    "avg_minutes": 21,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1126902
+    "plays": 1128123
    },
    "steam": [],
    "vtt": [],
@@ -6784,11 +6784,11 @@
      3,
      4
     ],
-    "avg_minutes": 37,
+    "avg_minutes": 38,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 135394
+    "plays": 135425
    },
    "steam": [
     {
@@ -6869,11 +6869,11 @@
      3,
      4
     ],
-    "avg_minutes": 36,
+    "avg_minutes": 37,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 244890
+    "plays": 244947
    },
    "steam": [],
    "vtt": [],
@@ -6930,7 +6930,7 @@
    "rank": 116,
    "rating": 7.76,
    "weight": 1.82,
-   "usersrated": 28266,
+   "usersrated": 28277,
    "categories": [
     "Party"
    ],
@@ -6978,7 +6978,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 66698
+    "plays": 66738
    },
    "steam": [],
    "vtt": [],
@@ -7044,7 +7044,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 12476552
+    "plays": 12479418
    },
    "steam": [],
    "vtt": [],
@@ -7139,7 +7139,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1219738
+    "plays": 1220100
    },
    "steam": [
     {
@@ -7309,11 +7309,11 @@
      3,
      4
     ],
-    "avg_minutes": 21,
+    "avg_minutes": 22,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 434313
+    "plays": 434438
    },
    "steam": [],
    "vtt": [],
@@ -7605,11 +7605,11 @@
      3,
      4
     ],
-    "avg_minutes": 81,
+    "avg_minutes": 82,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 27812
+    "plays": 27927
    },
    "steam": [],
    "vtt": [],
@@ -7704,11 +7704,11 @@
      3,
      4
     ],
-    "avg_minutes": 44,
+    "avg_minutes": 43,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 141458
+    "plays": 141502
    },
    "steam": [
     {
@@ -7914,7 +7914,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87285
+    "plays": 87308
    },
    "steam": [],
    "vtt": [],
@@ -8008,7 +8008,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 49325
+    "plays": 49357
    },
    "steam": [],
    "vtt": [],
@@ -8144,7 +8144,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 83462
+    "plays": 83469
    },
    "steam": [],
    "vtt": [],
@@ -8470,7 +8470,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 127096
+    "plays": 127105
    },
    "steam": [],
    "vtt": [],
@@ -8522,11 +8522,11 @@
      3,
      4
     ],
-    "avg_minutes": 50,
+    "avg_minutes": 51,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 157889
+    "plays": 157901
    },
    "steam": [],
    "vtt": [],
@@ -8584,7 +8584,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 36362
+    "plays": 36398
    },
    "steam": [
     {
@@ -8861,7 +8861,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3296745
+    "plays": 3298192
    },
    "steam": [
     {
@@ -8955,7 +8955,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5536088
+    "plays": 5543248
    },
    "steam": [],
    "vtt": [],
@@ -9120,7 +9120,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 223294
+    "plays": 223311
    },
    "steam": [],
    "vtt": [],
@@ -9403,11 +9403,11 @@
      3,
      4
     ],
-    "avg_minutes": 66,
+    "avg_minutes": 67,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87281
+    "plays": 87293
    },
    "steam": [],
    "vtt": [],
@@ -9421,7 +9421,7 @@
    "rank": 160,
    "rating": 7.59,
    "weight": 1.03,
-   "usersrated": 36052,
+   "usersrated": 36068,
    "categories": [
     "Party"
    ],
@@ -9468,7 +9468,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 286863
+    "plays": 287016
    },
    "steam": [],
    "vtt": [],
@@ -9524,7 +9524,7 @@
    "rank": 162,
    "rating": 7.52,
    "weight": 1.25,
-   "usersrated": 105983,
+   "usersrated": 106023,
    "categories": [
     "Party"
    ],
@@ -9852,11 +9852,11 @@
      5,
      6
     ],
-    "avg_minutes": 30,
+    "avg_minutes": 31,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 397580
+    "plays": 397809
    },
    "steam": [],
    "vtt": [],
@@ -9870,7 +9870,7 @@
    "rank": 169,
    "rating": 7.6,
    "weight": 3.29,
-   "usersrated": 43638,
+   "usersrated": 43650,
    "categories": [
     "Customizable"
    ],
@@ -10114,7 +10114,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 167931
+    "plays": 167993
    },
    "steam": [],
    "vtt": [],
@@ -10246,7 +10246,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1566274
+    "plays": 1567049
    },
    "steam": [],
    "vtt": [],
@@ -10346,11 +10346,11 @@
      4,
      5
     ],
-    "avg_minutes": 12,
+    "avg_minutes": 13,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1083484
+    "plays": 1083664
    },
    "steam": [
     {
@@ -10435,7 +10435,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 592524
+    "plays": 592663
    },
    "steam": [],
    "vtt": [],
@@ -10560,11 +10560,11 @@
      3,
      4
     ],
-    "avg_minutes": 41,
+    "avg_minutes": 42,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 9556
+    "plays": 9576
    },
    "steam": [],
    "vtt": [],
@@ -10620,7 +10620,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3331150
+    "plays": 3334202
    },
    "steam": [
     {
@@ -10666,7 +10666,7 @@
    "rank": 182,
    "rating": 7.82,
    "weight": 2.32,
-   "usersrated": 12859,
+   "usersrated": 12862,
    "categories": [
     "Abstract"
    ],
@@ -10708,7 +10708,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 568789
+    "plays": 569155
    },
    "steam": [],
    "vtt": [],
@@ -10768,7 +10768,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 162054
+    "plays": 162150
    },
    "steam": [],
    "vtt": [],
@@ -10843,7 +10843,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1735114
+    "plays": 1736432
    },
    "steam": [
     {
@@ -10965,7 +10965,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1335199
+    "plays": 1335566
    },
    "steam": [],
    "vtt": [],
@@ -11023,7 +11023,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 75484
+    "plays": 75766
    },
    "steam": [],
    "vtt": [],
@@ -11037,7 +11037,7 @@
    "rank": 188,
    "rating": 7.66,
    "weight": 3.22,
-   "usersrated": 25237,
+   "usersrated": 25236,
    "categories": [
     "Customizable"
    ],
@@ -11156,7 +11156,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4321095
+    "plays": 4323571
    },
    "steam": [],
    "vtt": [],
@@ -11218,7 +11218,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5962462
+    "plays": 5963703
    },
    "steam": [
     {
@@ -11393,7 +11393,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 26491
+    "plays": 26522
    },
    "steam": [],
    "vtt": [],
@@ -11635,7 +11635,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 49736
+    "plays": 49755
    },
    "steam": [],
    "vtt": [],
@@ -11904,7 +11904,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2537164
+    "plays": 2540481
    },
    "steam": [],
    "vtt": [],
@@ -11958,7 +11958,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 2995601
+    "plays": 2996069
    },
    "steam": [],
    "vtt": [],
@@ -12124,11 +12124,11 @@
      3,
      4
     ],
-    "avg_minutes": 38,
+    "avg_minutes": 39,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 132320
+    "plays": 132365
    },
    "steam": [],
    "vtt": [],
@@ -12350,7 +12350,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 349788
+    "plays": 349928
    },
    "steam": [
     {
@@ -12492,7 +12492,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 433404
+    "plays": 433618
    },
    "steam": [],
    "vtt": [],
@@ -12558,7 +12558,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 304505
+    "plays": 304753
    },
    "steam": [],
    "vtt": [],
@@ -12752,7 +12752,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3066395
+    "plays": 3067326
    },
    "steam": [],
    "vtt": [],
@@ -13043,11 +13043,11 @@
      4,
      5
     ],
-    "avg_minutes": 59,
+    "avg_minutes": 60,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 37172
+    "plays": 37739
    },
    "steam": [],
    "vtt": [],
@@ -13173,7 +13173,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 772219
+    "plays": 772560
    },
    "steam": [],
    "vtt": [],
@@ -13308,7 +13308,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4088882
+    "plays": 4091377
    },
    "steam": [],
    "vtt": [],
@@ -13695,7 +13695,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 83386
+    "plays": 83448
    },
    "steam": [],
    "vtt": [],
@@ -13709,7 +13709,7 @@
    "rank": 239,
    "rating": 7.66,
    "weight": 3.92,
-   "usersrated": 18575,
+   "usersrated": 18577,
    "categories": [
     "Abstract"
    ],
@@ -13758,7 +13758,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 93393
+    "plays": 93436
    },
    "steam": [],
    "vtt": [],
@@ -13772,7 +13772,7 @@
    "rank": 240,
    "rating": 7.49,
    "weight": 1.74,
-   "usersrated": 37135,
+   "usersrated": 37142,
    "categories": [
     "Party"
    ],
@@ -13867,7 +13867,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15711054
+    "plays": 15717298
    },
    "steam": [
     {
@@ -14101,7 +14101,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 11145210
+    "plays": 11151688
    },
    "steam": [
     {
@@ -14195,7 +14195,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 37405
+    "plays": 37411
    },
    "steam": [],
    "vtt": [],
@@ -14252,7 +14252,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 580088
+    "plays": 580410
    },
    "steam": [],
    "vtt": [],
@@ -14512,7 +14512,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4415889
+    "plays": 4419335
    },
    "steam": [],
    "vtt": [],
@@ -14575,7 +14575,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3293655
+    "plays": 3298209
    },
    "steam": [],
    "vtt": [],
@@ -14629,7 +14629,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 325059
+    "plays": 325225
    },
    "steam": [
     {
@@ -14913,7 +14913,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 318866
+    "plays": 318941
    },
    "steam": [],
    "vtt": [],
@@ -15027,59 +15027,6 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 7854,
-   "name": "YINSH",
-   "year": 2003,
-   "rank": 262,
-   "rating": 7.7,
-   "weight": 2.62,
-   "usersrated": 10169,
-   "categories": [
-    "Abstract"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 88,
-   "rec_players": [
-    2
-   ],
-   "blurb": "Move rings over pieces to flip them, creating rows of five in your color.",
-   "digital": [
-    "Board Game Arena",
-    "BoardSpace",
-    "Boiteajeux",
-    "BrettspielWelt"
-   ],
-   "image": "https://cf.geekdo-images.com/a9Dco_g83IUWxrpxsw8ibw__square200/img/CcnGlMdLlCCHl4xYxrAH7fSuB-o=/200x200/filters:strip_icc()/pic2844830.png",
-   "maxplayers": 2,
-   "maxplaytime": 60,
-   "minplayers": 2,
-   "minplaytime": 30,
-   "themes": [
-    "Abstract Strategy"
-   ],
-   "bga": {
-    "slug": "yinsh",
-    "name": "YINSH",
-    "url": "https://boardgamearena.com/gamepanel?game=yinsh",
-    "premium": false,
-    "status": "public",
-    "players": [
-     2
-    ],
-    "avg_minutes": 16,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 34984
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 9209,
    "name": "Ticket to Ride",
    "year": 2004,
@@ -15131,7 +15078,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17996372
+    "plays": 18007168
    },
    "steam": [
     {
@@ -15166,6 +15113,59 @@
      }
     }
    ],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 7854,
+   "name": "YINSH",
+   "year": 2003,
+   "rank": 263,
+   "rating": 7.7,
+   "weight": 2.62,
+   "usersrated": 10171,
+   "categories": [
+    "Abstract"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 88,
+   "rec_players": [
+    2
+   ],
+   "blurb": "Move rings over pieces to flip them, creating rows of five in your color.",
+   "digital": [
+    "Board Game Arena",
+    "BoardSpace",
+    "Boiteajeux",
+    "BrettspielWelt"
+   ],
+   "image": "https://cf.geekdo-images.com/a9Dco_g83IUWxrpxsw8ibw__square200/img/CcnGlMdLlCCHl4xYxrAH7fSuB-o=/200x200/filters:strip_icc()/pic2844830.png",
+   "maxplayers": 2,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "themes": [
+    "Abstract Strategy"
+   ],
+   "bga": {
+    "slug": "yinsh",
+    "name": "YINSH",
+    "url": "https://boardgamearena.com/gamepanel?game=yinsh",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2
+    ],
+    "avg_minutes": 16,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 35021
+   },
+   "steam": [],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -15213,7 +15213,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1431779
+    "plays": 1434364
    },
    "steam": [],
    "vtt": [],
@@ -15227,7 +15227,7 @@
    "rank": 265,
    "rating": 7.59,
    "weight": 1.12,
-   "usersrated": 12878,
+   "usersrated": 12894,
    "categories": [
     "Party"
    ],
@@ -15305,7 +15305,7 @@
    "rank": 267,
    "rating": 7.48,
    "weight": 1.73,
-   "usersrated": 35581,
+   "usersrated": 35604,
    "categories": [
     "Party"
    ],
@@ -15655,11 +15655,11 @@
      3,
      4
     ],
-    "avg_minutes": 42,
+    "avg_minutes": 44,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 68305
+    "plays": 68315
    },
    "steam": [],
    "vtt": [],
@@ -15761,7 +15761,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 204252
+    "plays": 204455
    },
    "steam": [],
    "vtt": [],
@@ -16095,7 +16095,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 232171
+    "plays": 232222
    },
    "steam": [],
    "vtt": [],
@@ -16196,7 +16196,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 423343
+    "plays": 424199
    },
    "steam": [],
    "vtt": [],
@@ -16320,6 +16320,48 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 446497,
+   "name": "Hot Streak",
+   "year": 2025,
+   "rank": 288,
+   "rating": 7.77,
+   "weight": 1.23,
+   "usersrated": 8214,
+   "categories": [
+    "Party"
+   ],
+   "best_players": [
+    5,
+    6
+   ],
+   "player_votes": 118,
+   "rec_players": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "blurb": "Which mascot will cross the finish line first? Who will be DQ'd?",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/co36SqyPYlM1QwVW6XSwyQ__square200/img/kSF8iE1KZFu_mHpCmyGReNAaYb0=/200x200/filters:strip_icc()/pic8933083.jpg",
+   "maxplayers": 8,
+   "maxplaytime": 20,
+   "minplayers": 2,
+   "minplaytime": 20,
+   "themes": [
+    "Humor",
+    "Party Game",
+    "Racing"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 158600,
    "name": "Hanamikoji",
    "year": 2013,
@@ -16363,7 +16405,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 220137
+    "plays": 220283
    },
    "steam": [],
    "vtt": [],
@@ -16402,48 +16444,6 @@
     "Animals",
     "Economic",
     "Science Fiction"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 446497,
-   "name": "Hot Streak",
-   "year": 2025,
-   "rank": 290,
-   "rating": 7.77,
-   "weight": 1.22,
-   "usersrated": 8180,
-   "categories": [
-    "Party"
-   ],
-   "best_players": [
-    5,
-    6
-   ],
-   "player_votes": 118,
-   "rec_players": [
-    3,
-    4,
-    5,
-    6,
-    7,
-    8
-   ],
-   "blurb": "Which mascot will cross the finish line first? Who will be DQ'd?",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/co36SqyPYlM1QwVW6XSwyQ__square200/img/kSF8iE1KZFu_mHpCmyGReNAaYb0=/200x200/filters:strip_icc()/pic8933083.jpg",
-   "maxplayers": 8,
-   "maxplaytime": 20,
-   "minplayers": 2,
-   "minplaytime": 20,
-   "themes": [
-    "Humor",
-    "Party Game",
-    "Racing"
    ],
    "bga": null,
    "steam": [],
@@ -16549,7 +16549,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 388057
+    "plays": 388232
    },
    "steam": [],
    "vtt": [],
@@ -16774,9 +16774,9 @@
    "name": "Deception: Murder in Hong Kong",
    "year": 2014,
    "rank": 298,
-   "rating": 7.41,
+   "rating": 7.42,
    "weight": 1.59,
-   "usersrated": 25544,
+   "usersrated": 25552,
    "categories": [
     "Party"
    ],
@@ -17231,7 +17231,7 @@
    "rank": 306,
    "rating": 7.75,
    "weight": 1.09,
-   "usersrated": 8022,
+   "usersrated": 8023,
    "categories": [
     "Party"
    ],
@@ -17324,7 +17324,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 605486
+    "plays": 605796
    },
    "steam": [],
    "vtt": [
@@ -17542,7 +17542,7 @@
    "rank": 312,
    "rating": 8.44,
    "weight": 3.61,
-   "usersrated": 3941,
+   "usersrated": 3942,
    "categories": [
     "Customizable"
    ],
@@ -17780,7 +17780,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 929494
+    "plays": 929803
    },
    "steam": [
     {
@@ -17868,7 +17868,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 834194
+    "plays": 834389
    },
    "steam": [],
    "vtt": [],
@@ -18078,11 +18078,11 @@
      4,
      5
     ],
-    "avg_minutes": 62,
+    "avg_minutes": 63,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 59631
+    "plays": 59682
    },
    "steam": [],
    "vtt": [],
@@ -18224,7 +18224,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5579
+    "plays": 5586
    },
    "steam": [],
    "vtt": [],
@@ -18290,7 +18290,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 839711
+    "plays": 840030
    },
    "steam": [],
    "vtt": [],
@@ -18388,7 +18388,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5178
+    "plays": 5179
    },
    "steam": [],
    "vtt": [],
@@ -18449,7 +18449,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 495150
+    "plays": 495331
    },
    "steam": [],
    "vtt": [],
@@ -18547,11 +18547,11 @@
      4,
      5
     ],
-    "avg_minutes": 23,
+    "avg_minutes": 22,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13271
+    "plays": 13277
    },
    "steam": [],
    "vtt": [],
@@ -18792,7 +18792,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 7167017
+    "plays": 7169080
    },
    "steam": [
     {
@@ -18869,60 +18869,6 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 2655,
-   "name": "Hive",
-   "year": 2001,
-   "rank": 336,
-   "rating": 7.31,
-   "weight": 2.31,
-   "usersrated": 40887,
-   "categories": [
-    "Abstract"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 347,
-   "rec_players": [
-    2
-   ],
-   "blurb": "Use your insects to trap your opponent's Queen Bee in this board-less abstract game.",
-   "digital": [
-    "Board Game Arena",
-    "BoardSpace",
-    "Google Play",
-    "Steam"
-   ],
-   "image": "https://cf.geekdo-images.com/fQe85tsBZoH6ibPnm1k1UA__square200/img/fnjhJ8bLeF_PXhcmrBmKtdiUxyY=/200x200/filters:strip_icc()/pic791151.jpg",
-   "maxplayers": 2,
-   "maxplaytime": 20,
-   "minplayers": 2,
-   "minplaytime": 20,
-   "themes": [
-    "Abstract Strategy",
-    "Animals"
-   ],
-   "bga": {
-    "slug": "hive",
-    "name": "Hive",
-    "url": "https://boardgamearena.com/gamepanel?game=hive",
-    "premium": false,
-    "status": "public",
-    "players": [
-     2
-    ],
-    "avg_minutes": 15,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 1065345
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": true
-  },
-  {
    "bgg_id": 318184,
    "name": "Imperium: Classics",
    "year": 2021,
@@ -18959,6 +18905,60 @@
    "vtt": [],
    "note": null,
    "steam_delisted": false
+  },
+  {
+   "bgg_id": 2655,
+   "name": "Hive",
+   "year": 2001,
+   "rank": 337,
+   "rating": 7.31,
+   "weight": 2.31,
+   "usersrated": 40898,
+   "categories": [
+    "Abstract"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 347,
+   "rec_players": [
+    2
+   ],
+   "blurb": "Use your insects to trap your opponent's Queen Bee in this board-less abstract game.",
+   "digital": [
+    "Board Game Arena",
+    "BoardSpace",
+    "Google Play",
+    "Steam"
+   ],
+   "image": "https://cf.geekdo-images.com/fQe85tsBZoH6ibPnm1k1UA__square200/img/fnjhJ8bLeF_PXhcmrBmKtdiUxyY=/200x200/filters:strip_icc()/pic791151.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 20,
+   "minplayers": 2,
+   "minplaytime": 20,
+   "themes": [
+    "Abstract Strategy",
+    "Animals"
+   ],
+   "bga": {
+    "slug": "hive",
+    "name": "Hive",
+    "url": "https://boardgamearena.com/gamepanel?game=hive",
+    "premium": false,
+    "status": "public",
+    "players": [
+     2
+    ],
+    "avg_minutes": 14,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 1065473
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": true
   },
   {
    "bgg_id": 342810,
@@ -19128,11 +19128,11 @@
      4,
      5
     ],
-    "avg_minutes": 35,
+    "avg_minutes": 36,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 77082
+    "plays": 77090
    },
    "steam": [],
    "vtt": [],
@@ -19305,7 +19305,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 319319
+    "plays": 319519
    },
    "steam": [],
    "vtt": [],
@@ -19400,7 +19400,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 19235
+    "plays": 19346
    },
    "steam": [],
    "vtt": [],
@@ -19492,7 +19492,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5346444
+    "plays": 5347784
    },
    "steam": [
     {
@@ -19772,7 +19772,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 193992
+    "plays": 194598
    },
    "steam": [],
    "vtt": [],
@@ -19826,7 +19826,7 @@
    "rank": 355,
    "rating": 7.38,
    "weight": 1.07,
-   "usersrated": 21128,
+   "usersrated": 21137,
    "categories": [
     "Party"
    ],
@@ -19949,7 +19949,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 873450
+    "plays": 873629
    },
    "steam": [],
    "vtt": [],
@@ -20126,7 +20126,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 290239
+    "plays": 290419
    },
    "steam": [],
    "vtt": [],
@@ -20332,7 +20332,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10489579
+    "plays": 10490712
    },
    "steam": [],
    "vtt": [],
@@ -20434,7 +20434,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 140952
+    "plays": 141132
    },
    "steam": [],
    "vtt": [],
@@ -20445,10 +20445,10 @@
    "bgg_id": 160477,
    "name": "Onitama",
    "year": 2014,
-   "rank": 367,
+   "rank": 368,
    "rating": 7.33,
    "weight": 1.66,
-   "usersrated": 25353,
+   "usersrated": 25354,
    "categories": [
     "Abstract"
    ],
@@ -20485,7 +20485,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 132419
+    "plays": 132467
    },
    "steam": [],
    "vtt": [],
@@ -20618,11 +20618,11 @@
      3,
      4
     ],
-    "avg_minutes": 34,
+    "avg_minutes": 35,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 77293
+    "plays": 77335
    },
    "steam": [],
    "vtt": [],
@@ -21024,7 +21024,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2115786
+    "plays": 2116426
    },
    "steam": [],
    "vtt": [],
@@ -21082,7 +21082,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 3096
+    "plays": 3150
    },
    "steam": [],
    "vtt": [],
@@ -21227,7 +21227,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 81295
+    "plays": 81356
    },
    "steam": [],
    "vtt": [],
@@ -21283,7 +21283,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 74934
+    "plays": 74964
    },
    "steam": [],
    "vtt": [],
@@ -21421,7 +21421,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 20890
+    "plays": 20894
    },
    "steam": [],
    "vtt": [],
@@ -21638,11 +21638,11 @@
      3,
      4
     ],
-    "avg_minutes": 80,
+    "avg_minutes": 78,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15505
+    "plays": 15512
    },
    "steam": [],
    "vtt": [],
@@ -21789,7 +21789,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 418912
+    "plays": 419185
    },
    "steam": [],
    "vtt": [],
@@ -21928,11 +21928,11 @@
      3,
      4
     ],
-    "avg_minutes": 35,
+    "avg_minutes": 36,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17753
+    "plays": 17758
    },
    "steam": [],
    "vtt": [],
@@ -22351,7 +22351,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 19553
+    "plays": 19564
    },
    "steam": [],
    "vtt": [],
@@ -22646,7 +22646,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 146211
+    "plays": 146320
    },
    "steam": [
     {
@@ -22788,7 +22788,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 9031
+    "plays": 9061
    },
    "steam": [],
    "vtt": [],
@@ -22965,7 +22965,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2560594
+    "plays": 2562196
    },
    "steam": [],
    "vtt": [],
@@ -23025,7 +23025,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 769894
+    "plays": 770558
    },
    "steam": [],
    "vtt": [],
@@ -23084,7 +23084,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 234698
+    "plays": 234923
    },
    "steam": [],
    "vtt": [],
@@ -23536,7 +23536,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 637741
+    "plays": 638087
    },
    "steam": [
     {
@@ -23770,7 +23770,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 264479
+    "plays": 264564
    },
    "steam": [],
    "vtt": [],
@@ -23824,51 +23824,8 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 122547
+    "plays": 122670
    },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 39856,
-   "name": "Dixit",
-   "year": 2008,
-   "rank": 434,
-   "rating": 7.18,
-   "weight": 1.19,
-   "usersrated": 72311,
-   "categories": [
-    "Party"
-   ],
-   "best_players": [
-    5,
-    6
-   ],
-   "player_votes": 946,
-   "rec_players": [
-    4,
-    5,
-    6,
-    7
-   ],
-   "blurb": "Give the perfect clue so most (not all) players guess the right surreal image card.",
-   "digital": [
-    "Boiteajeux",
-    "VASSAL"
-   ],
-   "image": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__square200/img/ktQHsr6NDb8LY0wEf2iqwGJ9JzQ=/200x200/filters:strip_icc()/pic6738336.jpg",
-   "maxplayers": 6,
-   "maxplaytime": 30,
-   "minplayers": 3,
-   "minplaytime": 30,
-   "themes": [
-    "Card Game",
-    "Humor",
-    "Party Game"
-   ],
-   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -23908,6 +23865,49 @@
     "Mature / Adult",
     "Science Fiction",
     "Zombies"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 39856,
+   "name": "Dixit",
+   "year": 2008,
+   "rank": 436,
+   "rating": 7.18,
+   "weight": 1.19,
+   "usersrated": 72326,
+   "categories": [
+    "Party"
+   ],
+   "best_players": [
+    5,
+    6
+   ],
+   "player_votes": 946,
+   "rec_players": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "blurb": "Give the perfect clue so most (not all) players guess the right surreal image card.",
+   "digital": [
+    "Boiteajeux",
+    "VASSAL"
+   ],
+   "image": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__square200/img/ktQHsr6NDb8LY0wEf2iqwGJ9JzQ=/200x200/filters:strip_icc()/pic6738336.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 30,
+   "minplayers": 3,
+   "minplaytime": 30,
+   "themes": [
+    "Card Game",
+    "Humor",
+    "Party Game"
    ],
    "bga": null,
    "steam": [],
@@ -24001,7 +24001,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 453983
+    "plays": 454543
    },
    "steam": [],
    "vtt": [],
@@ -24216,7 +24216,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 692
+    "plays": 699
    },
    "steam": [],
    "vtt": [],
@@ -24277,7 +24277,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 30457
+    "plays": 30465
    },
    "steam": [],
    "vtt": [],
@@ -24335,7 +24335,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 697367
+    "plays": 697738
    },
    "steam": [],
    "vtt": [],
@@ -24391,7 +24391,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 25639
+    "plays": 25651
    },
    "steam": [],
    "vtt": [],
@@ -24532,7 +24532,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2767392
+    "plays": 2767688
    },
    "steam": [],
    "vtt": [],
@@ -24546,7 +24546,7 @@
    "rank": 450,
    "rating": 7.48,
    "weight": 1.34,
-   "usersrated": 9316,
+   "usersrated": 9329,
    "categories": [
     "Party"
    ],
@@ -24676,7 +24676,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 214251
+    "plays": 214294
    },
    "steam": [],
    "vtt": [],
@@ -24890,11 +24890,11 @@
     "players": [
      2
     ],
-    "avg_minutes": 57,
+    "avg_minutes": 58,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17674
+    "plays": 17685
    },
    "steam": [],
    "vtt": [],
@@ -25236,7 +25236,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10085
+    "plays": 10161
    },
    "steam": [],
    "vtt": [],
@@ -25247,10 +25247,10 @@
    "bgg_id": 171,
    "name": "Chess",
    "year": 1475,
-   "rank": 464,
+   "rank": 465,
    "rating": 7.24,
    "weight": 3.64,
-   "usersrated": 41164,
+   "usersrated": 41172,
    "categories": [
     "Abstract"
    ],
@@ -25303,7 +25303,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1438349
+    "plays": 1438710
    },
    "steam": [],
    "vtt": [],
@@ -25517,7 +25517,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 355500
+    "plays": 355994
    },
    "steam": [],
    "vtt": [],
@@ -25783,7 +25783,7 @@
    "rank": 475,
    "rating": 7.52,
    "weight": 1.02,
-   "usersrated": 8425,
+   "usersrated": 8449,
    "categories": [
     "Party"
    ],
@@ -25831,7 +25831,7 @@
    "rank": 476,
    "rating": 7.19,
    "weight": 1.59,
-   "usersrated": 42978,
+   "usersrated": 42979,
    "categories": [
     "Party"
    ],
@@ -26083,7 +26083,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 199545
+    "plays": 199721
    },
    "steam": [],
    "vtt": [],
@@ -26376,7 +26376,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 313287
+    "plays": 313446
    },
    "steam": [],
    "vtt": [],
@@ -26471,7 +26471,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31352
+    "plays": 31370
    },
    "steam": [],
    "vtt": [],
@@ -26856,7 +26856,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 352292
+    "plays": 352788
    },
    "steam": [],
    "vtt": [],
@@ -26920,7 +26920,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 177562
+    "plays": 178260
    },
    "steam": [],
    "vtt": [

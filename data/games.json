@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T21:46+00:00",
+ "generated": "2026-10-22T21:46+00:00",
  "country": "au",
  "top_n": 500,
  "games": [
@@ -103,7 +103,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13760103
+    "plays": 13774759
    },
    "steam": [
     {
@@ -132,8 +132,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438990/header.jpg?t=1767897183",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 95,
-      "total": 929
+      "total": 933,
+      "pct": 95
      }
     }
    ],
@@ -246,8 +246,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/header.jpg?t=1788792171",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 82,
-      "total": 16184
+      "total": 16198,
+      "pct": 82
      }
     }
    ],
@@ -318,8 +318,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598200/186f696f0a7ccc27463c5f68851287dd0496a7e4/header.jpg?t=1781022072",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 89,
-      "total": 62
+      "total": 62,
+      "pct": 89
      }
     }
    ],
@@ -395,8 +395,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689500/header.jpg?t=1781022179",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 94,
-      "total": 4454
+      "total": 4464,
+      "pct": 94
      }
     }
    ],
@@ -458,11 +458,11 @@
      5,
      6
     ],
-    "avg_minutes": 232,
+    "avg_minutes": 230,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 4938
+    "plays": 4978
    },
    "steam": [
     {
@@ -491,8 +491,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669430/5efb05cd759c238d171fee702119573f1c0251ea/header.jpg?t=1781194020",
      "reviews": {
       "desc": "No user reviews",
-      "pct": null,
-      "total": 0
+      "total": 0,
+      "pct": null
      }
     }
    ],
@@ -597,7 +597,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5648770
+    "plays": 5656340
    },
    "steam": [
     {
@@ -628,8 +628,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/800270/header.jpg?t=1769091240",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 70,
-      "total": 7278
+      "total": 7284,
+      "pct": 70
      }
     }
    ],
@@ -743,8 +743,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1236720/header.jpg?t=1781204150",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 92,
-      "total": 1712
+      "total": 1719,
+      "pct": 92
      }
     }
    ],
@@ -819,8 +819,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/header.jpg?t=1788792171",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 82,
-      "total": 16184
+      "total": 16198,
+      "pct": 82
      }
     }
    ],
@@ -882,11 +882,11 @@
      3,
      4
     ],
-    "avg_minutes": 65,
+    "avg_minutes": 66,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 488682
+    "plays": 489126
    },
    "steam": [
     {
@@ -918,8 +918,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1516400/header.jpg?t=1642691527",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 80,
-      "total": 364
+      "total": 364,
+      "pct": 80
      }
     }
    ],
@@ -1028,8 +1028,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg?t=1774015376",
      "reviews": {
       "desc": "Overwhelmingly Positive",
-      "pct": 97,
-      "total": 219466
+      "total": 219640,
+      "pct": 97
      }
     }
    ],
@@ -1102,8 +1102,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406290/header.jpg?t=1647893895",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 86,
-      "total": 2996
+      "total": 2998,
+      "pct": 86
      }
     }
    ],
@@ -1165,7 +1165,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4569135
+    "plays": 4572642
    },
    "steam": [
     {
@@ -1197,8 +1197,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903040/header.jpg?t=1704802634",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 81,
-      "total": 282
+      "total": 282,
+      "pct": 81
      }
     }
    ],
@@ -1307,8 +1307,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758370/header.jpg?t=1762427088",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 91,
-      "total": 2348
+      "total": 2351,
+      "pct": 91
      }
     }
    ],
@@ -1380,9 +1380,9 @@
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347080/c6c09a8eb1a0fac5ac8e0d2ea0a228c8303d8967/header.jpg?t=1792089974",
      "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 72,
-      "total": 1004
+      "desc": "Mixed",
+      "total": 1116,
+      "pct": 70
      }
     }
    ],
@@ -1478,11 +1478,11 @@
      3,
      4
     ],
-    "avg_minutes": 65,
+    "avg_minutes": 64,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 4272
+    "plays": 4501
    },
    "steam": [],
    "vtt": [],
@@ -1558,8 +1558,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290350/header.jpg?t=1750831008",
      "reviews": {
       "desc": "Mixed",
-      "pct": 56,
-      "total": 105
+      "total": 105,
+      "pct": 56
      }
     }
    ],
@@ -1616,7 +1616,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 14375260
+    "plays": 14382190
    },
    "steam": [],
    "vtt": [],
@@ -1687,8 +1687,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915550/header.jpg?t=1724323885",
      "reviews": {
       "desc": "Mixed",
-      "pct": 67,
-      "total": 826
+      "total": 827,
+      "pct": 67
      }
     }
    ],
@@ -1749,7 +1749,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 520106
+    "plays": 520436
    },
    "steam": [],
    "vtt": [],
@@ -1814,7 +1814,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 136666
+    "plays": 136826
    },
    "steam": [
     {
@@ -1844,8 +1844,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718560/header.jpg?t=1752320013",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 89,
-      "total": 3823
+      "total": 3824,
+      "pct": 89
      }
     }
    ],
@@ -1951,7 +1951,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 57381
+    "plays": 57465
    },
    "steam": [
     {
@@ -1983,8 +1983,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1450330/a192c66f78fcc0247e625af8a4e0672de25fc2cf/header.jpg?t=1773923584",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 82,
-      "total": 188
+      "total": 188,
+      "pct": 82
      }
     }
    ],
@@ -2044,7 +2044,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3409644
+    "plays": 3412540
    },
    "steam": [
     {
@@ -2074,8 +2074,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387300/74ea3bb77923aab6697adb688211857f7834e258/header.jpg?t=1790661771",
      "reviews": {
       "desc": "No user reviews",
-      "pct": null,
-      "total": 0
+      "total": 0,
+      "pct": null
      }
     }
    ],
@@ -2133,7 +2133,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 427093
+    "plays": 427335
    },
    "steam": [],
    "vtt": [],
@@ -2186,7 +2186,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1012877
+    "plays": 1013641
    },
    "steam": [],
    "vtt": [],
@@ -2304,8 +2304,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/header.jpg?t=1767902987",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 90,
-      "total": 5627
+      "total": 5635,
+      "pct": 90
      }
     }
    ],
@@ -2364,7 +2364,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 89521
+    "plays": 89587
    },
    "steam": [],
    "vtt": [
@@ -2434,7 +2434,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 905882
+    "plays": 906046
    },
    "steam": [
     {
@@ -2466,8 +2466,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628900/header.jpg?t=1611672526",
      "reviews": {
       "desc": "Mixed",
-      "pct": 62,
-      "total": 270
+      "total": 270,
+      "pct": 62
      }
     }
    ],
@@ -2577,7 +2577,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10596982
+    "plays": 10606666
    },
    "steam": [
     {
@@ -2613,8 +2613,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/header.jpg?t=1789657608",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 94,
-      "total": 12095
+      "total": 12116,
+      "pct": 94
      }
     }
    ],
@@ -2719,7 +2719,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 315077
+    "plays": 315243
    },
    "steam": [
     {
@@ -2748,8 +2748,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2879570/header.jpg?t=1772463569",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 81,
-      "total": 101
+      "total": 102,
+      "pct": 81
      }
     }
    ],
@@ -2809,7 +2809,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 27594
+    "plays": 27784
    },
    "steam": [],
    "vtt": [],
@@ -2915,9 +2915,9 @@
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628460/c2c89b28dd0d6cd2a37a9e2d35d6aa99203149e0/header.jpg?t=1788042089",
      "reviews": {
-      "desc": "4 user reviews",
-      "pct": 100,
-      "total": 4
+      "desc": "5 user reviews",
+      "total": 5,
+      "pct": 100
      }
     }
    ],
@@ -2996,8 +2996,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325800/header.jpg?t=1728984183",
      "reviews": {
       "desc": "Mixed",
-      "pct": 70,
-      "total": 241
+      "total": 243,
+      "pct": 70
      }
     }
    ],
@@ -3064,7 +3064,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 342212
+    "plays": 342364
    },
    "steam": [],
    "vtt": [],
@@ -3135,8 +3135,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1722870/ed76a3e3ba468f4f7c3dd8d49b36f905534660c9/header_alt_assets_1.jpg?t=1773855162",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 92,
-      "total": 595
+      "total": 596,
+      "pct": 92
      }
     }
    ],
@@ -3216,8 +3216,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1722840/header.jpg?t=1778777751",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 90,
-      "total": 738
+      "total": 740,
+      "pct": 90
      }
     }
    ],
@@ -3283,7 +3283,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 929897
+    "plays": 930606
    },
    "steam": [
     {
@@ -3314,8 +3314,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898550/cb581d6ebfbbe5b56e1eb7e0cd5da24957cc7f94/header.jpg?t=1792154293",
      "reviews": {
       "desc": "No user reviews",
-      "pct": null,
-      "total": 0
+      "total": 0,
+      "pct": null
      }
     }
    ],
@@ -3455,7 +3455,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3403135
+    "plays": 3408420
    },
    "steam": [],
    "vtt": [],
@@ -3625,8 +3625,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2182320/header.jpg?t=1779720716",
      "reviews": {
       "desc": "No user reviews",
-      "pct": null,
-      "total": 0
+      "total": 0,
+      "pct": null
      }
     }
    ],
@@ -3729,11 +3729,11 @@
      4,
      5
     ],
-    "avg_minutes": 54,
+    "avg_minutes": 53,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 93168
+    "plays": 93241
    },
    "steam": [],
    "vtt": [],
@@ -3794,7 +3794,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 248130
+    "plays": 248391
    },
    "steam": [],
    "vtt": [],
@@ -3853,7 +3853,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2917976
+    "plays": 2918486
    },
    "steam": [],
    "vtt": [],
@@ -4013,8 +4013,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438970/header.jpg?t=1767897466",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 98,
-      "total": 232
+      "total": 232,
+      "pct": 98
      }
     }
    ],
@@ -4081,7 +4081,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 119739
+    "plays": 119794
    },
    "steam": [
     {
@@ -4113,8 +4113,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216750/3b8343bd98f30ee3eed4c83a5a9c9b7f33ea2c8e/header.jpg?t=1745825594",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 76,
-      "total": 25
+      "total": 25,
+      "pct": 76
      }
     }
    ],
@@ -4170,11 +4170,11 @@
      3,
      4
     ],
-    "avg_minutes": 60,
+    "avg_minutes": 62,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 52934
+    "plays": 52959
    },
    "steam": [],
    "vtt": [],
@@ -4403,7 +4403,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 328758
+    "plays": 328958
    },
    "steam": [],
    "vtt": [],
@@ -4502,7 +4502,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 106211
+    "plays": 106245
    },
    "steam": [
     {
@@ -4531,8 +4531,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015930/header.jpg?t=1760950360",
      "reviews": {
       "desc": "Mixed",
-      "pct": 56,
-      "total": 841
+      "total": 841,
+      "pct": 56
      }
     }
    ],
@@ -4642,7 +4642,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 645433
+    "plays": 646339
    },
    "steam": [],
    "vtt": [],
@@ -4793,8 +4793,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983910/header.jpg?t=1786374417",
      "reviews": {
       "desc": "Mixed",
-      "pct": 54,
-      "total": 68
+      "total": 68,
+      "pct": 54
      }
     }
    ],
@@ -4895,7 +4895,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 803967
+    "plays": 804073
    },
    "steam": [],
    "vtt": [],
@@ -4997,7 +4997,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 385407
+    "plays": 385512
    },
    "steam": [],
    "vtt": [],
@@ -5071,8 +5071,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840210/header.jpg?t=1741270543",
      "reviews": {
       "desc": "Mixed",
-      "pct": 63,
-      "total": 718
+      "total": 718,
+      "pct": 63
      }
     }
    ],
@@ -5207,7 +5207,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 16083
+    "plays": 16273
    },
    "steam": [],
    "vtt": [],
@@ -5347,7 +5347,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1914103
+    "plays": 1915261
    },
    "steam": [],
    "vtt": [],
@@ -5524,11 +5524,11 @@
      3,
      4
     ],
-    "avg_minutes": 48,
+    "avg_minutes": 47,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 199176
+    "plays": 199323
    },
    "steam": [],
    "vtt": [],
@@ -5584,11 +5584,11 @@
      3,
      4
     ],
-    "avg_minutes": 59,
+    "avg_minutes": 58,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 97051
+    "plays": 97107
    },
    "steam": [],
    "vtt": [],
@@ -5646,7 +5646,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 85614
+    "plays": 85702
    },
    "steam": [],
    "vtt": [],
@@ -5785,7 +5785,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 17026473
+    "plays": 17029754
    },
    "steam": [
     {
@@ -5814,8 +5814,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/579940/header.jpg?t=1573172455",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 93,
-      "total": 456
+      "total": 458,
+      "pct": 93
      }
     }
    ],
@@ -5918,7 +5918,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 564286
+    "plays": 564384
    },
    "steam": [],
    "vtt": [],
@@ -5974,7 +5974,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 71189
+    "plays": 71237
    },
    "steam": [],
    "vtt": [],
@@ -6031,7 +6031,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 29215244
+    "plays": 29233562
    },
    "steam": [],
    "vtt": [],
@@ -6087,7 +6087,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31727
+    "plays": 31739
    },
    "steam": [],
    "vtt": [],
@@ -6231,7 +6231,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 99027
+    "plays": 99175
    },
    "steam": [],
    "vtt": [],
@@ -6343,8 +6343,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1722870/ed76a3e3ba468f4f7c3dd8d49b36f905534660c9/header_alt_assets_1.jpg?t=1773855162",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 92,
-      "total": 595
+      "total": 596,
+      "pct": 92
      }
     }
    ],
@@ -6504,8 +6504,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/644390/header.jpg?t=1647889655",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 94,
-      "total": 1660
+      "total": 1660,
+      "pct": 94
      }
     }
    ],
@@ -6578,8 +6578,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063580/header.jpg?t=1781206045",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 81,
-      "total": 505
+      "total": 504,
+      "pct": 81
      }
     }
    ],
@@ -6634,7 +6634,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1131781
+    "plays": 1132987
    },
    "steam": [],
    "vtt": [],
@@ -6707,8 +6707,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933490/header.jpg?t=1756973037",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 81,
-      "total": 78
+      "total": 78,
+      "pct": 81
      }
     }
    ],
@@ -6804,7 +6804,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 135510
+    "plays": 135533
    },
    "steam": [
     {
@@ -6830,8 +6830,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000450/4692e3dec7eaa1b126103c9548447720b9d5a1b3/header.jpg?t=1773395076",
      "reviews": {
       "desc": "No user reviews",
-      "pct": null,
-      "total": 0
+      "total": 0,
+      "pct": null
      }
     }
    ],
@@ -6889,7 +6889,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 245157
+    "plays": 245219
    },
    "steam": [],
    "vtt": [],
@@ -6946,7 +6946,7 @@
    "rank": 116,
    "rating": 7.76,
    "weight": 1.82,
-   "usersrated": 28297,
+   "usersrated": 28302,
    "categories": [
     "Party"
    ],
@@ -6990,11 +6990,11 @@
      7,
      8
     ],
-    "avg_minutes": 41,
+    "avg_minutes": 40,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 66848
+    "plays": 66877
    },
    "steam": [],
    "vtt": [],
@@ -7060,7 +7060,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 12489233
+    "plays": 12492486
    },
    "steam": [],
    "vtt": [],
@@ -7155,7 +7155,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1221309
+    "plays": 1221728
    },
    "steam": [
     {
@@ -7185,8 +7185,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758370/header.jpg?t=1762427088",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 91,
-      "total": 2348
+      "total": 2351,
+      "pct": 91
      }
     }
    ],
@@ -7329,7 +7329,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 434784
+    "plays": 434905
    },
    "steam": [],
    "vtt": [],
@@ -7403,8 +7403,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339080/69cf01816994dfceaa78cf9eaaf759d0940c5f43/header.jpg?t=1789635022",
      "reviews": {
       "desc": "No user reviews",
-      "pct": null,
-      "total": 0
+      "total": 0,
+      "pct": null
      }
     }
    ],
@@ -7665,7 +7665,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 28332
+    "plays": 28466
    },
    "steam": [],
    "vtt": [],
@@ -7724,7 +7724,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 141610
+    "plays": 141647
    },
    "steam": [
     {
@@ -7750,8 +7750,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3297500/header.jpg?t=1744191146",
      "reviews": {
       "desc": "8 user reviews",
-      "pct": 38,
-      "total": 8
+      "total": 8,
+      "pct": 38
      }
     }
    ],
@@ -7825,8 +7825,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915550/header.jpg?t=1724323885",
      "reviews": {
       "desc": "Mixed",
-      "pct": 67,
-      "total": 826
+      "total": 827,
+      "pct": 67
      }
     }
    ],
@@ -7930,7 +7930,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87386
+    "plays": 87410
    },
    "steam": [],
    "vtt": [],
@@ -8024,7 +8024,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 49422
+    "plays": 49442
    },
    "steam": [],
    "vtt": [],
@@ -8094,8 +8094,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131620/header.jpg?t=1738861920",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 87,
-      "total": 2292
+      "total": 2297,
+      "pct": 87
      }
     }
    ],
@@ -8156,11 +8156,11 @@
      5,
      6
     ],
-    "avg_minutes": 35,
+    "avg_minutes": 34,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 83499
+    "plays": 83503
    },
    "steam": [],
    "vtt": [],
@@ -8275,8 +8275,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965600/header.jpg?t=1767902947",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 86,
-      "total": 265
+      "total": 265,
+      "pct": 86
      }
     }
    ],
@@ -8353,8 +8353,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4089610/262ae63597088078a93cc340bce851c26ba92687/header.jpg?t=1776102309",
      "reviews": {
       "desc": "No user reviews",
-      "pct": null,
-      "total": 0
+      "total": 0,
+      "pct": null
      }
     }
    ],
@@ -8425,8 +8425,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/5660590ed7a97a0e2dddf20fd7a83379e23b7231/header.jpg?t=1791896782",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 88,
-      "total": 36189
+      "total": 36330,
+      "pct": 88
      }
     }
    ],
@@ -8482,11 +8482,11 @@
      4,
      5
     ],
-    "avg_minutes": 36,
+    "avg_minutes": 35,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 127152
+    "plays": 127162
    },
    "steam": [],
    "vtt": [],
@@ -8542,7 +8542,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 157945
+    "plays": 157958
    },
    "steam": [],
    "vtt": [],
@@ -8600,7 +8600,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 36536
+    "plays": 36571
    },
    "steam": [
     {
@@ -8628,8 +8628,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1034540/header.jpg?t=1685018130",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 73,
-      "total": 94
+      "total": 94,
+      "pct": 73
      }
     }
    ],
@@ -8744,8 +8744,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131620/header.jpg?t=1738861920",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 87,
-      "total": 2292
+      "total": 2297,
+      "pct": 87
      }
     }
    ],
@@ -8877,7 +8877,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3303024
+    "plays": 3304582
    },
    "steam": [
     {
@@ -8909,8 +8909,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/528250/header.jpg?t=1694418240",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 75,
-      "total": 284
+      "total": 284,
+      "pct": 75
      }
     }
    ],
@@ -8971,7 +8971,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5565576
+    "plays": 5573024
    },
    "steam": [],
    "vtt": [],
@@ -9078,8 +9078,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063580/header.jpg?t=1781206045",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 81,
-      "total": 505
+      "total": 504,
+      "pct": 81
      }
     }
    ],
@@ -9136,7 +9136,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 223359
+    "plays": 223384
    },
    "steam": [],
    "vtt": [],
@@ -9207,8 +9207,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669430/5efb05cd759c238d171fee702119573f1c0251ea/header.jpg?t=1781194020",
      "reviews": {
       "desc": "No user reviews",
-      "pct": null,
-      "total": 0
+      "total": 0,
+      "pct": null
      }
     }
    ],
@@ -9347,7 +9347,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 4298
+    "plays": 4468
    },
    "steam": [],
    "vtt": [],
@@ -9401,7 +9401,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87356
+    "plays": 87369
    },
    "steam": [],
    "vtt": [],
@@ -9454,7 +9454,7 @@
    "rank": 160,
    "rating": 7.59,
    "weight": 1.03,
-   "usersrated": 36099,
+   "usersrated": 36102,
    "categories": [
     "Party"
    ],
@@ -9501,7 +9501,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 287358
+    "plays": 287471
    },
    "steam": [],
    "vtt": [],
@@ -9551,13 +9551,53 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 358661,
+   "name": "Andromeda's Edge",
+   "year": 2024,
+   "rank": 163,
+   "rating": 8.23,
+   "weight": 3.74,
+   "usersrated": 6744,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    3
+   ],
+   "player_votes": 203,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "Factions clash on the edge of the galaxy!",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/n3gYugbvd_LHVynDhfoVbw__square200/img/8c-JaoZBfDXioLhVvvPNiU-DWow=/200x200/filters:strip_icc()/pic7334483.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 160,
+   "minplayers": 2,
+   "minplaytime": 80,
+   "themes": [
+    "Fighting",
+    "Science Fiction",
+    "Space Exploration",
+    "Territory Building"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 178900,
    "name": "Codenames",
    "year": 2015,
-   "rank": 162,
+   "rank": 163,
    "rating": 7.52,
    "weight": 1.25,
-   "usersrated": 106085,
+   "usersrated": 106097,
    "categories": [
     "Party"
    ],
@@ -9624,51 +9664,11 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/884670/header.jpg?t=1762966985",
      "reviews": {
       "desc": "No user reviews",
-      "pct": null,
-      "total": 0
+      "total": 0,
+      "pct": null
      }
     }
    ],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 358661,
-   "name": "Andromeda's Edge",
-   "year": 2024,
-   "rank": 163,
-   "rating": 8.23,
-   "weight": 3.74,
-   "usersrated": 6744,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    3
-   ],
-   "player_votes": 203,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "Factions clash on the edge of the galaxy!",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/n3gYugbvd_LHVynDhfoVbw__square200/img/8c-JaoZBfDXioLhVvvPNiU-DWow=/200x200/filters:strip_icc()/pic7334483.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 160,
-   "minplayers": 2,
-   "minplaytime": 80,
-   "themes": [
-    "Fighting",
-    "Science Fiction",
-    "Space Exploration",
-    "Territory Building"
-   ],
-   "bga": null,
-   "steam": [],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -9889,7 +9889,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 398541
+    "plays": 398776
    },
    "steam": [],
    "vtt": [],
@@ -10042,8 +10042,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820780/e18504beae62cbb7dc6798cc077646f6b3319a97/header.jpg?t=1780433625",
      "reviews": {
       "desc": "No user reviews",
-      "pct": null,
-      "total": 0
+      "total": 0,
+      "pct": null
      }
     }
    ],
@@ -10108,7 +10108,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 168246
+    "plays": 168314
    },
    "steam": [],
    "vtt": [],
@@ -10256,8 +10256,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131620/header.jpg?t=1738861920",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 87,
-      "total": 2292
+      "total": 2297,
+      "pct": 87
      }
     }
    ],
@@ -10319,7 +10319,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1569669
+    "plays": 1570517
    },
    "steam": [],
    "vtt": [],
@@ -10379,11 +10379,11 @@
      4,
      5
     ],
-    "avg_minutes": 12,
+    "avg_minutes": 13,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1084170
+    "plays": 1084349
    },
    "steam": [
     {
@@ -10414,8 +10414,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/893840/header.jpg?t=1598362129",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 91,
-      "total": 129
+      "total": 129,
+      "pct": 91
      }
     }
    ],
@@ -10468,7 +10468,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 593075
+    "plays": 593221
    },
    "steam": [],
    "vtt": [],
@@ -10537,8 +10537,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438140/header.jpg?t=1777987522",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 87,
-      "total": 2249
+      "total": 2253,
+      "pct": 87
      }
     }
    ],
@@ -10597,7 +10597,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 9691
+    "plays": 9725
    },
    "steam": [],
    "vtt": [],
@@ -10653,7 +10653,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3344247
+    "plays": 3347558
    },
    "steam": [
     {
@@ -10683,8 +10683,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2477010/8613ba86358d9639f862dec376f22d180901e267/header_alt_assets_10.jpg?t=1792584181",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 70,
-      "total": 1196
+      "total": 1204,
+      "pct": 71
      }
     }
    ],
@@ -10741,7 +10741,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 570560
+    "plays": 571023
    },
    "steam": [],
    "vtt": [],
@@ -10801,7 +10801,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 162459
+    "plays": 162539
    },
    "steam": [],
    "vtt": [],
@@ -10859,7 +10859,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 76699
+    "plays": 76997
    },
    "steam": [],
    "vtt": [],
@@ -10934,7 +10934,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1740962
+    "plays": 1742360
    },
    "steam": [
     {
@@ -10961,8 +10961,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2977360/header.jpg?t=1717622582",
      "reviews": {
       "desc": "Mixed",
-      "pct": 52,
-      "total": 23
+      "total": 23,
+      "pct": 52
      }
     }
    ],
@@ -10977,7 +10977,7 @@
    "rank": 186,
    "rating": 7.76,
    "weight": 2.27,
-   "usersrated": 14616,
+   "usersrated": 14619,
    "categories": [
     "Wargames"
    ],
@@ -11056,7 +11056,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1336660
+    "plays": 1337011
    },
    "steam": [],
    "vtt": [],
@@ -11125,8 +11125,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/509580/header.jpg?t=1780409475",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 1660
+      "total": 1660,
+      "pct": 74
      }
     }
    ],
@@ -11189,7 +11189,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4331891
+    "plays": 4334628
    },
    "steam": [],
    "vtt": [],
@@ -11251,7 +11251,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5967731
+    "plays": 5968951
    },
    "steam": [
     {
@@ -11283,8 +11283,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177570/header.jpg?t=1788436365",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 83,
-      "total": 90
+      "total": 90,
+      "pct": 83
      }
     }
    ],
@@ -11426,7 +11426,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 26625
+    "plays": 26658
    },
    "steam": [],
    "vtt": [],
@@ -11539,8 +11539,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/943410/7a069bc44465384720153e03682f9bb504f83990/header.jpg?t=1772553316",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 92,
-      "total": 280
+      "total": 280,
+      "pct": 92
      }
     }
    ],
@@ -11608,8 +11608,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677980/04e54ddb66380b19e59cffc942c2addc8c74a783/header.jpg?t=1785423348",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 292
+      "total": 294,
+      "pct": 74
      }
     }
    ],
@@ -11668,7 +11668,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 49848
+    "plays": 49876
    },
    "steam": [],
    "vtt": [],
@@ -11937,7 +11937,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2551772
+    "plays": 2555560
    },
    "steam": [],
    "vtt": [],
@@ -11991,7 +11991,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 2997726
+    "plays": 2998290
    },
    "steam": [],
    "vtt": [],
@@ -12060,8 +12060,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065410/header.jpg?t=1560955633",
      "reviews": {
       "desc": "Positive",
-      "pct": 86,
-      "total": 22
+      "total": 22,
+      "pct": 86
      }
     }
    ],
@@ -12157,11 +12157,11 @@
      3,
      4
     ],
-    "avg_minutes": 39,
+    "avg_minutes": 40,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 132475
+    "plays": 132509
    },
    "steam": [],
    "vtt": [],
@@ -12383,7 +12383,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 350394
+    "plays": 350547
    },
    "steam": [
     {
@@ -12413,8 +12413,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438980/header.jpg?t=1767903452",
      "reviews": {
       "desc": "Positive",
-      "pct": 82,
-      "total": 34
+      "total": 34,
+      "pct": 82
      }
     }
    ],
@@ -12570,7 +12570,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 434261
+    "plays": 434476
    },
    "steam": [],
    "vtt": [],
@@ -12636,7 +12636,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 305630
+    "plays": 305906
    },
    "steam": [],
    "vtt": [],
@@ -12785,7 +12785,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3070355
+    "plays": 3071398
    },
    "steam": [],
    "vtt": [],
@@ -12974,7 +12974,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 39590
+    "plays": 40195
    },
    "steam": [],
    "vtt": [],
@@ -13078,8 +13078,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282070/26fb8c9bb7b9e3a17469d8026ee3fa510ee7f8f5/header.jpg?t=1792057984",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 94,
-      "total": 97963
+      "total": 98002,
+      "pct": 94
      }
     }
    ],
@@ -13152,8 +13152,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3239710/header.jpg?t=1789485153",
      "reviews": {
       "desc": "No user reviews",
-      "pct": null,
-      "total": 0
+      "total": 0,
+      "pct": null
      }
     }
    ],
@@ -13168,7 +13168,7 @@
    "rank": 227,
    "rating": 7.53,
    "weight": 2.27,
-   "usersrated": 32231,
+   "usersrated": 32234,
    "categories": [
     "Wargames"
    ],
@@ -13206,7 +13206,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 773772
+    "plays": 774185
    },
    "steam": [],
    "vtt": [],
@@ -13279,8 +13279,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965590/header.jpg?t=1767903067",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 94,
-      "total": 445
+      "total": 446,
+      "pct": 94
      }
     }
    ],
@@ -13464,7 +13464,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4099141
+    "plays": 4101816
    },
    "steam": [],
    "vtt": [],
@@ -13630,7 +13630,39 @@
     "Wargame"
    ],
    "bga": null,
-   "steam": [],
+   "steam": [
+    {
+     "appid": 4352540,
+     "name": "Sekigahara",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/4352540/",
+     "confidence": 0.85,
+     "is_free": false,
+     "price": null,
+     "price_initial": null,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [
+      "crossplay",
+      "online_pvp"
+     ],
+     "developers": [
+      "Lazy Marmot Games"
+     ],
+     "publishers": [
+      "Lazy Marmot Games",
+      "GMT Games"
+     ],
+     "release": "Q1 2027",
+     "coming_soon": true,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4352540/00972711aaf5af1edda492a819308576b7534da2/header.jpg?t=1792617228",
+     "reviews": {
+      "desc": "No user reviews",
+      "total": 0,
+      "pct": null
+     }
+    }
+   ],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -13728,7 +13760,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 83693
+    "plays": 83793
    },
    "steam": [],
    "vtt": [],
@@ -13787,11 +13819,11 @@
     "players": [
      2
     ],
-    "avg_minutes": 34,
+    "avg_minutes": 33,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 93553
+    "plays": 93604
    },
    "steam": [],
    "vtt": [],
@@ -13805,7 +13837,7 @@
    "rank": 240,
    "rating": 7.49,
    "weight": 1.74,
-   "usersrated": 37157,
+   "usersrated": 37162,
    "categories": [
     "Party"
    ],
@@ -13900,7 +13932,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15738323
+    "plays": 15745140
    },
    "steam": [
     {
@@ -13932,8 +13964,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598810/header.jpg?t=1758125330",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 84,
-      "total": 2814
+      "total": 2815,
+      "pct": 84
      }
     }
    ],
@@ -14007,8 +14039,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075190/header.jpg?t=1742483806",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 70,
-      "total": 1975
+      "total": 1975,
+      "pct": 70
      }
     }
    ],
@@ -14074,8 +14106,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2477010/8613ba86358d9639f862dec376f22d180901e267/header_alt_assets_10.jpg?t=1792584181",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 70,
-      "total": 1196
+      "total": 1204,
+      "pct": 71
      }
     }
    ],
@@ -14134,7 +14166,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 11171047
+    "plays": 11177332
    },
    "steam": [
     {
@@ -14166,8 +14198,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/376680/header.jpg?t=1742483733",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 79,
-      "total": 1524
+      "total": 1527,
+      "pct": 79
      }
     }
    ],
@@ -14224,11 +14256,11 @@
      5,
      6
     ],
-    "avg_minutes": 73,
+    "avg_minutes": 71,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 37432
+    "plays": 37440
    },
    "steam": [],
    "vtt": [],
@@ -14285,7 +14317,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 581637
+    "plays": 582052
    },
    "steam": [],
    "vtt": [],
@@ -14545,7 +14577,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4430478
+    "plays": 4434154
    },
    "steam": [],
    "vtt": [],
@@ -14608,7 +14640,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3313351
+    "plays": 3318102
    },
    "steam": [],
    "vtt": [],
@@ -14662,9 +14694,39 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 325899
+    "plays": 326160
    },
    "steam": [
+    {
+     "appid": 5290560,
+     "name": "Tichu",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/5290560/",
+     "confidence": 1.0,
+     "is_free": true,
+     "price": 0,
+     "price_initial": null,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [
+      "online_coop",
+      "online_pvp"
+     ],
+     "developers": [
+      "ARISTOTLE SKARONIS"
+     ],
+     "publishers": [
+      "ARISTOTLE SKARONIS"
+     ],
+     "release": "Coming soon",
+     "coming_soon": true,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5290560/61a34d00af6980e826b0e2c8c6ead0512aa95ac5/header.jpg?t=1792686829",
+     "reviews": {
+      "desc": "No user reviews",
+      "total": 0,
+      "pct": null
+     }
+    },
     {
      "appid": 3747270,
      "name": "Tichu",
@@ -14692,38 +14754,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3747270/569bb89bc7881121e942e4b8a0c7a75e1000ca31/header.jpg?t=1763397953",
      "reviews": {
       "desc": "3 user reviews",
-      "pct": 100,
-      "total": 3
-     }
-    },
-    {
-     "appid": 1421390,
-     "name": "Tichu",
-     "dlc": false,
-     "url": "https://store.steampowered.com/app/1421390/",
-     "confidence": 1.0,
-     "is_free": false,
-     "price": 16.95,
-     "price_initial": 16.95,
-     "discount": 0,
-     "currency": "AUD",
-     "mp": [
-      "online_coop",
-      "online_pvp"
-     ],
-     "developers": [
-      "Wojciech Lewandowski"
-     ],
-     "publishers": [
-      "Wojciech Lewandowski"
-     ],
-     "release": "21 Dec, 2021",
-     "coming_soon": false,
-     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1421390/header.jpg?t=1648934116",
-     "reviews": {
-      "desc": "Positive",
-      "pct": 94,
-      "total": 18
+      "total": 3,
+      "pct": 100
      }
     }
    ],
@@ -14946,7 +14978,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 319131
+    "plays": 319187
    },
    "steam": [],
    "vtt": [],
@@ -14996,7 +15028,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1442774
+    "plays": 1445835
    },
    "steam": [],
    "vtt": [],
@@ -15100,8 +15132,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063580/header.jpg?t=1781206045",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 81,
-      "total": 505
+      "total": 504,
+      "pct": 81
      }
     }
    ],
@@ -15155,7 +15187,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 35129
+    "plays": 35162
    },
    "steam": [],
    "vtt": [],
@@ -15214,7 +15246,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 18041491
+    "plays": 18052183
    },
    "steam": [
     {
@@ -15244,8 +15276,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2477010/8613ba86358d9639f862dec376f22d180901e267/header_alt_assets_10.jpg?t=1792584181",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 70,
-      "total": 1196
+      "total": 1204,
+      "pct": 71
      }
     }
    ],
@@ -15260,7 +15292,7 @@
    "rank": 265,
    "rating": 7.59,
    "weight": 1.12,
-   "usersrated": 12927,
+   "usersrated": 12937,
    "categories": [
     "Party"
    ],
@@ -15300,7 +15332,7 @@
    "rank": 266,
    "rating": 8.07,
    "weight": 3.87,
-   "usersrated": 5757,
+   "usersrated": 5756,
    "categories": [
     "Wargames"
    ],
@@ -15338,7 +15370,7 @@
    "rank": 267,
    "rating": 7.48,
    "weight": 1.73,
-   "usersrated": 35629,
+   "usersrated": 35634,
    "categories": [
     "Party"
    ],
@@ -15438,8 +15470,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438140/header.jpg?t=1777987522",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 87,
-      "total": 2249
+      "total": 2253,
+      "pct": 87
      }
     }
    ],
@@ -15731,11 +15763,11 @@
      3,
      4
     ],
-    "avg_minutes": 48,
+    "avg_minutes": 47,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 68384
+    "plays": 68420
    },
    "steam": [],
    "vtt": [],
@@ -15833,11 +15865,11 @@
      4,
      5
     ],
-    "avg_minutes": 29,
+    "avg_minutes": 30,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 205013
+    "plays": 205206
    },
    "steam": [],
    "vtt": [],
@@ -15913,8 +15945,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1993180/header.jpg?t=1789658122",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 93,
-      "total": 594
+      "total": 596,
+      "pct": 93
      }
     }
    ],
@@ -15986,8 +16018,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/884670/header.jpg?t=1762966985",
      "reviews": {
       "desc": "No user reviews",
-      "pct": null,
-      "total": 0
+      "total": 0,
+      "pct": null
      }
     }
    ],
@@ -16128,7 +16160,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 232350
+    "plays": 232396
    },
    "steam": [],
    "vtt": [],
@@ -16142,7 +16174,7 @@
    "rank": 283,
    "rating": 7.96,
    "weight": 3.26,
-   "usersrated": 6181,
+   "usersrated": 6182,
    "categories": [
     "Wargames"
    ],
@@ -16229,7 +16261,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 427068
+    "plays": 427971
    },
    "steam": [],
    "vtt": [],
@@ -16356,10 +16388,10 @@
    "bgg_id": 446497,
    "name": "Hot Streak",
    "year": 2025,
-   "rank": 288,
+   "rank": 287,
    "rating": 7.77,
    "weight": 1.23,
-   "usersrated": 8274,
+   "usersrated": 8282,
    "categories": [
     "Party"
    ],
@@ -16438,7 +16470,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 220652
+    "plays": 220778
    },
    "steam": [],
    "vtt": [],
@@ -16619,7 +16651,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 388671
+    "plays": 388844
    },
    "steam": [],
    "vtt": [],
@@ -16809,7 +16841,7 @@
    "rank": 298,
    "rating": 7.41,
    "weight": 1.59,
-   "usersrated": 25562,
+   "usersrated": 25565,
    "categories": [
     "Party"
    ],
@@ -16952,8 +16984,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677980/04e54ddb66380b19e59cffc942c2addc8c74a783/header.jpg?t=1785423348",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 292
+      "total": 294,
+      "pct": 74
      }
     }
    ],
@@ -17027,8 +17059,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/873980/header.jpg?t=1741270661",
      "reviews": {
       "desc": "Mixed",
-      "pct": 67,
-      "total": 162
+      "total": 162,
+      "pct": 67
      }
     }
    ],
@@ -17141,8 +17173,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/5700506bb522c60ca89754d3d887833d52debd65/header.jpg?t=1791465786",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 81,
-      "total": 32651
+      "total": 32704,
+      "pct": 81
      }
     }
    ],
@@ -17211,8 +17243,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063580/header.jpg?t=1781206045",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 81,
-      "total": 505
+      "total": 504,
+      "pct": 81
      }
     }
    ],
@@ -17264,7 +17296,7 @@
    "rank": 306,
    "rating": 7.75,
    "weight": 1.09,
-   "usersrated": 8024,
+   "usersrated": 8025,
    "categories": [
     "Party"
    ],
@@ -17357,7 +17389,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 606984
+    "plays": 607330
    },
    "steam": [],
    "vtt": [
@@ -17438,8 +17470,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1939940/header.jpg?t=1731506484",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 91,
-      "total": 193
+      "total": 193,
+      "pct": 91
      }
     }
    ],
@@ -17741,7 +17773,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 930720
+    "plays": 931021
    },
    "steam": [
     {
@@ -17769,8 +17801,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/926520/header.jpg?t=1741270715",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 87,
-      "total": 602
+      "total": 602,
+      "pct": 87
      }
     }
    ],
@@ -17841,8 +17873,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569700/header.jpg?t=1721256037",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 387
+      "total": 390,
+      "pct": 74
      }
     }
    ],
@@ -17901,7 +17933,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 835050
+    "plays": 835217
    },
    "steam": [],
    "vtt": [],
@@ -18010,8 +18042,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438140/header.jpg?t=1777987522",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 87,
-      "total": 2249
+      "total": 2253,
+      "pct": 87
      }
     }
    ],
@@ -18155,7 +18187,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 59819
+    "plays": 59863
    },
    "steam": [],
    "vtt": [],
@@ -18253,11 +18285,11 @@
      3,
      4
     ],
-    "avg_minutes": 64,
+    "avg_minutes": 62,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5602
+    "plays": 5611
    },
    "steam": [],
    "vtt": [],
@@ -18351,11 +18383,11 @@
      4,
      5
     ],
-    "avg_minutes": 98,
+    "avg_minutes": 97,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5188
+    "plays": 5191
    },
    "steam": [],
    "vtt": [],
@@ -18412,11 +18444,11 @@
      5,
      6
     ],
-    "avg_minutes": 41,
+    "avg_minutes": 40,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 495809
+    "plays": 495963
    },
    "steam": [],
    "vtt": [],
@@ -18482,7 +18514,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 840908
+    "plays": 841241
    },
    "steam": [],
    "vtt": [],
@@ -18543,7 +18575,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13296
+    "plays": 13299
    },
    "steam": [],
    "vtt": [],
@@ -18652,8 +18684,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855060/af91463d055e8e3b63c4af54a82f12cbc8f06320/header.jpg?t=1791857357",
      "reviews": {
       "desc": "No user reviews",
-      "pct": null,
-      "total": 0
+      "total": 0,
+      "pct": null
      }
     }
    ],
@@ -18720,8 +18752,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/header.jpg?t=1786951108",
      "reviews": {
       "desc": "Overwhelmingly Positive",
-      "pct": 96,
-      "total": 29692
+      "total": 29703,
+      "pct": 96
      }
     }
    ],
@@ -18825,7 +18857,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 7175393
+    "plays": 7177437
    },
    "steam": [
     {
@@ -18855,8 +18887,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3029180/a0c94dbd46303c0e3fd701045a0ba8a59d3ef123/header.jpg?t=1778840091",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 88,
-      "total": 51
+      "total": 51,
+      "pct": 88
      }
     }
    ],
@@ -19024,7 +19056,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1065840
+    "plays": 1065955
    },
    "steam": [],
    "vtt": [],
@@ -19165,7 +19197,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 77141
+    "plays": 77149
    },
    "steam": [],
    "vtt": [],
@@ -19301,7 +19333,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 320231
+    "plays": 320464
    },
    "steam": [],
    "vtt": [],
@@ -19433,7 +19465,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 19790
+    "plays": 19918
    },
    "steam": [],
    "vtt": [],
@@ -19525,7 +19557,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5352348
+    "plays": 5353900
    },
    "steam": [
     {
@@ -19556,8 +19588,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/520680/header.jpg?t=1526737415",
      "reviews": {
       "desc": "Mostly Negative",
-      "pct": 39,
-      "total": 33
+      "total": 33,
+      "pct": 39
      }
     }
    ],
@@ -19631,8 +19663,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592340/header.jpg?t=1765299579",
      "reviews": {
       "desc": "Mixed",
-      "pct": 58,
-      "total": 52
+      "total": 53,
+      "pct": 58
      }
     }
    ],
@@ -19747,8 +19779,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/595930/header.jpg?t=1753693190",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 79,
-      "total": 121
+      "total": 121,
+      "pct": 79
      }
     }
    ],
@@ -19845,7 +19877,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 196123
+    "plays": 196626
    },
    "steam": [],
    "vtt": [],
@@ -19859,7 +19891,7 @@
    "rank": 355,
    "rating": 7.38,
    "weight": 1.07,
-   "usersrated": 21142,
+   "usersrated": 21144,
    "categories": [
     "Party"
    ],
@@ -20021,7 +20053,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 874207
+    "plays": 874397
    },
    "steam": [],
    "vtt": [],
@@ -20122,7 +20154,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 291117
+    "plays": 291360
    },
    "steam": [],
    "vtt": [],
@@ -20136,7 +20168,7 @@
    "rank": 361,
    "rating": 7.38,
    "weight": 1.16,
-   "usersrated": 23266,
+   "usersrated": 23267,
    "categories": [
     "Party"
    ],
@@ -20248,35 +20280,7 @@
     "Territory Building"
    ],
    "bga": null,
-   "steam": [
-    {
-     "appid": 5371410,
-     "name": "Dead Reckoning",
-     "dlc": false,
-     "url": "https://store.steampowered.com/app/5371410/",
-     "confidence": 1.0,
-     "is_free": false,
-     "price": null,
-     "price_initial": null,
-     "discount": 0,
-     "currency": "AUD",
-     "mp": [],
-     "developers": [
-      "Middle_Aged_Dad"
-     ],
-     "publishers": [
-      "Middle_Aged_Dad"
-     ],
-     "release": "Coming soon",
-     "coming_soon": true,
-     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5371410/6cf302499e8cade28f7b613d034ffab03f5d90f0/header.jpg?t=1792448051",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
-    }
-   ],
+   "steam": [],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -20365,7 +20369,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10494622
+    "plays": 10495948
    },
    "steam": [],
    "vtt": [],
@@ -20424,7 +20428,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 141649
+    "plays": 141797
    },
    "steam": [],
    "vtt": [],
@@ -20518,7 +20522,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 132622
+    "plays": 132673
    },
    "steam": [],
    "vtt": [],
@@ -20651,11 +20655,11 @@
      3,
      4
     ],
-    "avg_minutes": 34,
+    "avg_minutes": 33,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 77505
+    "plays": 77561
    },
    "steam": [],
    "vtt": [],
@@ -20763,8 +20767,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/926520/header.jpg?t=1741270715",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 87,
-      "total": 602
+      "total": 602,
+      "pct": 87
      }
     }
    ],
@@ -20871,8 +20875,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323190/abcd2bf3c275092d637d7dd98e0061dbdd2fd2da/header.jpg?t=1792058205",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 93,
-      "total": 138058
+      "total": 138163,
+      "pct": 93
      }
     }
    ],
@@ -20974,7 +20978,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2118564
+    "plays": 2119326
    },
    "steam": [],
    "vtt": [],
@@ -21115,7 +21119,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 3371
+    "plays": 3455
    },
    "steam": [],
    "vtt": [],
@@ -21175,7 +21179,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 81562
+    "plays": 81619
    },
    "steam": [],
    "vtt": [],
@@ -21312,11 +21316,11 @@
      4,
      5
     ],
-    "avg_minutes": 16,
+    "avg_minutes": 17,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 75049
+    "plays": 75078
    },
    "steam": [],
    "vtt": [],
@@ -21534,11 +21538,11 @@
      3,
      4
     ],
-    "avg_minutes": 64,
+    "avg_minutes": 61,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 20902
+    "plays": 20907
    },
    "steam": [],
    "vtt": [],
@@ -21671,11 +21675,11 @@
      3,
      4
     ],
-    "avg_minutes": 79,
+    "avg_minutes": 80,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15537
+    "plays": 15541
    },
    "steam": [],
    "vtt": [],
@@ -21822,7 +21826,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 420102
+    "plays": 420371
    },
    "steam": [],
    "vtt": [],
@@ -21961,11 +21965,11 @@
      3,
      4
     ],
-    "avg_minutes": 35,
+    "avg_minutes": 36,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17777
+    "plays": 17787
    },
    "steam": [],
    "vtt": [],
@@ -22192,8 +22196,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2069180/header.jpg?t=1677494055",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 73,
-      "total": 141
+      "total": 141,
+      "pct": 73
      }
     }
    ],
@@ -22380,11 +22384,11 @@
      3,
      4
     ],
-    "avg_minutes": 48,
+    "avg_minutes": 49,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 19600
+    "plays": 19614
    },
    "steam": [],
    "vtt": [],
@@ -22498,8 +22502,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/f0b038888943650c397ce1d5a4acbc8c8cdf4cbe/header.jpg?t=1791985618",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 96,
-      "total": 197
+      "total": 206,
+      "pct": 96
      }
     }
    ],
@@ -22616,8 +22620,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958530/77484594ee9fcd9e6524511a0c6f4d45c3bb28b4/header.jpg?t=1760518039",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 263
+      "total": 266,
+      "pct": 74
      }
     }
    ],
@@ -22679,7 +22683,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 146595
+    "plays": 146684
    },
    "steam": [
     {
@@ -22712,8 +22716,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235620/header.jpg?t=1741270770",
      "reviews": {
       "desc": "Mixed",
-      "pct": 68,
-      "total": 1520
+      "total": 1520,
+      "pct": 68
      }
     }
    ],
@@ -22821,7 +22825,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 9146
+    "plays": 9168
    },
    "steam": [],
    "vtt": [],
@@ -23039,11 +23043,11 @@
      3,
      4
     ],
-    "avg_minutes": 19,
+    "avg_minutes": 20,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 772982
+    "plays": 773728
    },
    "steam": [],
    "vtt": [],
@@ -23099,7 +23103,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2567487
+    "plays": 2569153
    },
    "steam": [],
    "vtt": [],
@@ -23158,7 +23162,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 235723
+    "plays": 235992
    },
    "steam": [],
    "vtt": [],
@@ -23311,8 +23315,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2324150/dbabc6d2744c7aacd8a245d6fa1e408bf219b509/header.jpg?t=1789633245",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 71,
-      "total": 104
+      "total": 104,
+      "pct": 71
      }
     }
    ],
@@ -23504,8 +23508,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2351660/a3a103fdfe87f156f782dbe1f4578e9dd4916344/header.jpg?t=1760103844",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 75,
-      "total": 303
+      "total": 303,
+      "pct": 75
      }
     }
    ],
@@ -23569,7 +23573,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 639179
+    "plays": 639488
    },
    "steam": [
     {
@@ -23597,8 +23601,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/705550/header.jpg?t=1675463522",
      "reviews": {
       "desc": "Very Positive",
-      "pct": 82,
-      "total": 56
+      "total": 56,
+      "pct": 82
      }
     }
    ],
@@ -23665,8 +23669,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677980/04e54ddb66380b19e59cffc942c2addc8c74a783/header.jpg?t=1785423348",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 292
+      "total": 294,
+      "pct": 74
      }
     }
    ],
@@ -23802,7 +23806,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 122937
+    "plays": 123016
    },
    "steam": [],
    "vtt": [],
@@ -23857,7 +23861,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 264868
+    "plays": 264968
    },
    "steam": [],
    "vtt": [],
@@ -23871,7 +23875,7 @@
    "rank": 435,
    "rating": 7.18,
    "weight": 1.19,
-   "usersrated": 72365,
+   "usersrated": 72370,
    "categories": [
     "Party"
    ],
@@ -24034,48 +24038,8 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 456428
+    "plays": 457127
    },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 40354,
-   "name": "Maria",
-   "year": 2009,
-   "rank": 439,
-   "rating": 7.99,
-   "weight": 3.58,
-   "usersrated": 4135,
-   "categories": [
-    "Wargames"
-   ],
-   "best_players": [
-    3
-   ],
-   "player_votes": 156,
-   "rec_players": [
-    3
-   ],
-   "blurb": "Maneuver martially and politically in this 3 player War of the Austrian Succession.",
-   "digital": [
-    "Rally the Troops"
-   ],
-   "image": "https://cf.geekdo-images.com/RKnoGhSQwVQo0Z_pXTE19g__square200/img/FbQ9rpT7Adp_aNDLVtqC6Uu3agk=/200x200/filters:strip_icc()/pic524669.jpg",
-   "maxplayers": 3,
-   "maxplaytime": 210,
-   "minplayers": 2,
-   "minplaytime": 210,
-   "themes": [
-    "Age of Reason",
-    "Bluffing",
-    "Negotiation",
-    "Political",
-    "Wargame"
-   ],
-   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -24113,6 +24077,46 @@
     "Card Game",
     "Fantasy",
     "Medieval"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 40354,
+   "name": "Maria",
+   "year": 2009,
+   "rank": 440,
+   "rating": 7.99,
+   "weight": 3.58,
+   "usersrated": 4135,
+   "categories": [
+    "Wargames"
+   ],
+   "best_players": [
+    3
+   ],
+   "player_votes": 156,
+   "rec_players": [
+    3
+   ],
+   "blurb": "Maneuver martially and politically in this 3 player War of the Austrian Succession.",
+   "digital": [
+    "Rally the Troops"
+   ],
+   "image": "https://cf.geekdo-images.com/RKnoGhSQwVQo0Z_pXTE19g__square200/img/FbQ9rpT7Adp_aNDLVtqC6Uu3agk=/200x200/filters:strip_icc()/pic524669.jpg",
+   "maxplayers": 3,
+   "maxplaytime": 210,
+   "minplayers": 2,
+   "minplaytime": 210,
+   "themes": [
+    "Age of Reason",
+    "Bluffing",
+    "Negotiation",
+    "Political",
+    "Wargame"
    ],
    "bga": null,
    "steam": [],
@@ -24244,11 +24248,11 @@
      4,
      5
     ],
-    "avg_minutes": 63,
+    "avg_minutes": 62,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 723
+    "plays": 737
    },
    "steam": [],
    "vtt": [],
@@ -24345,11 +24349,11 @@
      4,
      5
     ],
-    "avg_minutes": 17,
+    "avg_minutes": 16,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 30502
+    "plays": 30519
    },
    "steam": [],
    "vtt": [],
@@ -24407,7 +24411,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 698946
+    "plays": 699390
    },
    "steam": [],
    "vtt": [],
@@ -24463,7 +24467,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 25703
+    "plays": 25726
    },
    "steam": [],
    "vtt": [],
@@ -24604,7 +24608,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2768675
+    "plays": 2769015
    },
    "steam": [],
    "vtt": [],
@@ -24618,7 +24622,7 @@
    "rank": 451,
    "rating": 7.48,
    "weight": 1.34,
-   "usersrated": 9343,
+   "usersrated": 9344,
    "categories": [
     "Party"
    ],
@@ -24709,7 +24713,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 214418
+    "plays": 214453
    },
    "steam": [],
    "vtt": [],
@@ -24930,7 +24934,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10381
+    "plays": 10491
    },
    "steam": [],
    "vtt": [],
@@ -25020,11 +25024,11 @@
     "players": [
      2
     ],
-    "avg_minutes": 60,
+    "avg_minutes": 61,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17733
+    "plays": 17746
    },
    "steam": [],
    "vtt": [],
@@ -25246,9 +25250,9 @@
      "url": "https://store.steampowered.com/app/556180/",
      "confidence": 1.0,
      "is_free": false,
-     "price": 2.15,
+     "price": 10.25,
      "price_initial": 10.25,
-     "discount": 79,
+     "discount": 0,
      "currency": "AUD",
      "mp": [
       "crossplay",
@@ -25267,8 +25271,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/556180/header.jpg?t=1741270717",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 75,
-      "total": 928
+      "total": 929,
+      "pct": 75
      }
     }
    ],
@@ -25336,7 +25340,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1439634
+    "plays": 1440004
    },
    "steam": [],
    "vtt": [],
@@ -25470,7 +25474,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 357765
+    "plays": 358367
    },
    "steam": [],
    "vtt": [],
@@ -25598,9 +25602,9 @@
      "url": "https://store.steampowered.com/app/528180/",
      "confidence": 1.0,
      "is_free": false,
-     "price": 2.05,
+     "price": 10.25,
      "price_initial": 10.25,
-     "discount": 80,
+     "discount": 0,
      "currency": "AUD",
      "mp": [
       "async",
@@ -25619,8 +25623,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/528180/header.jpg?t=1694187976",
      "reviews": {
       "desc": "Mostly Negative",
-      "pct": 39,
-      "total": 133
+      "total": 133,
+      "pct": 39
      }
     }
    ],
@@ -25690,8 +25694,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677980/04e54ddb66380b19e59cffc942c2addc8c74a783/header.jpg?t=1785423348",
      "reviews": {
       "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 292
+      "total": 294,
+      "pct": 74
      }
     }
    ],
@@ -25759,8 +25763,8 @@
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348400/header.jpg?t=1573493862",
      "reviews": {
       "desc": "Mixed",
-      "pct": 66,
-      "total": 122
+      "total": 122,
+      "pct": 66
      }
     }
    ],
@@ -25814,9 +25818,9 @@
    "name": "Hitster",
    "year": 2022,
    "rank": 475,
-   "rating": 7.52,
+   "rating": 7.51,
    "weight": 1.02,
-   "usersrated": 8472,
+   "usersrated": 8479,
    "categories": [
     "Party"
    ],
@@ -25864,7 +25868,7 @@
    "rank": 476,
    "rating": 7.19,
    "weight": 1.59,
-   "usersrated": 42985,
+   "usersrated": 42989,
    "categories": [
     "Party"
    ],
@@ -26234,7 +26238,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 200135
+    "plays": 200272
    },
    "steam": [],
    "vtt": [],
@@ -26368,7 +26372,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 314082
+    "plays": 314257
    },
    "steam": [],
    "vtt": [],
@@ -26541,11 +26545,11 @@
      3,
      4
     ],
-    "avg_minutes": 45,
+    "avg_minutes": 44,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31431
+    "plays": 31447
    },
    "steam": [],
    "vtt": [],
@@ -26722,7 +26726,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 354534
+    "plays": 355081
    },
    "steam": [],
    "vtt": [],
@@ -26953,7 +26957,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 180332
+    "plays": 181017
    },
    "steam": [],
    "vtt": [

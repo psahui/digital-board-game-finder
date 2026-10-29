@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T22:39+00:00",
+ "generated": "2026-10-29T22:56+00:00",
  "country": "au",
  "top_n": 500,
  "games": [
@@ -103,7 +103,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13862592
+    "plays": 13877107
    },
    "steam": [
     {
@@ -130,11 +130,7 @@
      "release": "20 Jun, 2025",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438990/header.jpg?t=1767897183",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 95,
-      "total": 933
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -244,11 +240,7 @@
      "release": "20 Oct, 2021",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/header.jpg?t=1788792171",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 82,
-      "total": 16198
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -316,11 +308,7 @@
      "release": "9 Jun, 2026",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598200/186f696f0a7ccc27463c5f68851287dd0496a7e4/header.jpg?t=1781022072",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 89,
-      "total": 62
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -393,11 +381,7 @@
      "release": "13 Mar, 2024",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689500/header.jpg?t=1781022179",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 94,
-      "total": 4464
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -462,7 +446,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 5276
+    "plays": 5332
    },
    "steam": [
     {
@@ -489,11 +473,7 @@
      "release": "To be announced",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669430/5efb05cd759c238d171fee702119573f1c0251ea/header.jpg?t=1781194020",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -507,7 +487,7 @@
    "rank": 8,
    "rating": 8.55,
    "weight": 4.23,
-   "usersrated": 25705,
+   "usersrated": 25710,
    "categories": [
     "Thematic",
     "Wargames"
@@ -597,7 +577,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5702364
+    "plays": 5709972
    },
    "steam": [
     {
@@ -626,11 +606,7 @@
      "release": "17 Oct, 2018",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/800270/header.jpg?t=1769091240",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 70,
-      "total": 7284
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -644,7 +620,7 @@
    "rank": 10,
    "rating": 8.42,
    "weight": 3.75,
-   "usersrated": 37024,
+   "usersrated": 37029,
    "categories": [
     "Thematic"
    ],
@@ -741,11 +717,7 @@
      "release": "29 Jul, 2020",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1236720/header.jpg?t=1781204150",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 92,
-      "total": 1719
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -817,11 +789,7 @@
      "release": "20 Oct, 2021",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/header.jpg?t=1788792171",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 82,
-      "total": 16198
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -886,7 +854,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 491407
+    "plays": 491756
    },
    "steam": [
     {
@@ -916,11 +884,7 @@
      "release": "31 May, 2021",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1516400/header.jpg?t=1642691527",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 80,
-      "total": 364
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -1026,11 +990,7 @@
      "release": "23 Jan, 2019",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg?t=1774015376",
-     "reviews": {
-      "desc": "Overwhelmingly Positive",
-      "pct": 97,
-      "total": 219640
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -1100,11 +1060,7 @@
      "release": "13 Apr, 2016",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406290/header.jpg?t=1647893895",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 86,
-      "total": 2998
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -1165,7 +1121,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4593067
+    "plays": 4596379
    },
    "steam": [
     {
@@ -1195,11 +1151,7 @@
      "release": "27 Feb, 2019",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903040/header.jpg?t=1704802634",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 81,
-      "total": 282
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -1305,11 +1257,7 @@
      "release": "26 Mar, 2018",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758370/header.jpg?t=1762427088",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 91,
-      "total": 2351
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -1379,11 +1327,7 @@
      "release": "15 Oct, 2026",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347080/c6c09a8eb1a0fac5ac8e0d2ea0a228c8303d8967/header.jpg?t=1792089974",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 70,
-      "total": 1116
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -1482,7 +1426,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 6499
+    "plays": 6903
    },
    "steam": [],
    "vtt": [],
@@ -1556,11 +1500,7 @@
      "release": "25 Nov, 2024",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290350/header.jpg?t=1750831008",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 56,
-      "total": 105
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -1616,7 +1556,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 14421490
+    "plays": 14427971
    },
    "steam": [],
    "vtt": [],
@@ -1629,8 +1569,8 @@
    "year": 2018,
    "rank": 25,
    "rating": 8.24,
-   "weight": 3.49,
-   "usersrated": 38535,
+   "weight": 3.5,
+   "usersrated": 38547,
    "categories": [
     "Thematic"
    ],
@@ -1685,11 +1625,7 @@
      "release": "31 May, 2022",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915550/header.jpg?t=1724323885",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 67,
-      "total": 827
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -1749,7 +1685,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 522098
+    "plays": 522415
    },
    "steam": [],
    "vtt": [],
@@ -1814,7 +1750,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 137778
+    "plays": 137924
    },
    "steam": [
     {
@@ -1842,11 +1778,7 @@
      "release": "5 Sep, 2018",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718560/header.jpg?t=1752320013",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 89,
-      "total": 3824
-     }
+     "reviews": null
     }
    ],
    "vtt": [
@@ -1866,7 +1798,7 @@
    "rank": 28,
    "rating": 8.48,
    "weight": 2.74,
-   "usersrated": 11655,
+   "usersrated": 11656,
    "categories": [
     "Thematic"
    ],
@@ -1951,7 +1883,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 57944
+    "plays": 58036
    },
    "steam": [
     {
@@ -1981,11 +1913,7 @@
      "release": "28 Sep, 2021",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1450330/a192c66f78fcc0247e625af8a4e0672de25fc2cf/header.jpg?t=1773923584",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 82,
-      "total": 188
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -2044,7 +1972,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3428405
+    "plays": 3431162
    },
    "steam": [
     {
@@ -2072,11 +2000,7 @@
      "release": "To be announced",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387300/74ea3bb77923aab6697adb688211857f7834e258/header.jpg?t=1790661771",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -2129,11 +2053,11 @@
      3,
      4
     ],
-    "avg_minutes": 53,
+    "avg_minutes": 52,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 428763
+    "plays": 429009
    },
    "steam": [],
    "vtt": [],
@@ -2147,7 +2071,7 @@
    "rank": 32,
    "rating": 8.11,
    "weight": 2.04,
-   "usersrated": 35493,
+   "usersrated": 35518,
    "categories": [
     "Thematic",
     "Family"
@@ -2186,7 +2110,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1018287
+    "plays": 1019046
    },
    "steam": [],
    "vtt": [],
@@ -2200,7 +2124,7 @@
    "rank": 33,
    "rating": 8.12,
    "weight": 3.57,
-   "usersrated": 48374,
+   "usersrated": 48378,
    "categories": [
     "Thematic",
     "Customizable"
@@ -2302,11 +2226,7 @@
      "release": "24 Sep, 2020",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/header.jpg?t=1767902987",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 90,
-      "total": 5635
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -2364,7 +2284,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 90038
+    "plays": 90122
    },
    "steam": [],
    "vtt": [
@@ -2434,7 +2354,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 907029
+    "plays": 907185
    },
    "steam": [
     {
@@ -2464,11 +2384,7 @@
      "release": "8 Jun, 2017",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628900/header.jpg?t=1611672526",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 62,
-      "total": 270
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -2577,7 +2493,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10665161
+    "plays": 10674979
    },
    "steam": [
     {
@@ -2610,12 +2526,8 @@
      ],
      "release": "17 Sep, 2020",
      "coming_soon": false,
-     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/header.jpg?t=1789657608",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 94,
-      "total": 12116
-     }
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/header.jpg?t=1793267658",
+     "reviews": null
     }
    ],
    "vtt": [
@@ -2678,7 +2590,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 316225
+    "plays": 316375
    },
    "steam": [
     {
@@ -2705,11 +2617,7 @@
      "release": "15 May, 2025",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2879570/header.jpg?t=1772463569",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 81,
-      "total": 102
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -2809,7 +2717,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 28889
+    "plays": 29084
    },
    "steam": [],
    "vtt": [],
@@ -2914,11 +2822,7 @@
      "release": "20 Aug, 2026",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628460/c2c89b28dd0d6cd2a37a9e2d35d6aa99203149e0/header.jpg?t=1788042089",
-     "reviews": {
-      "desc": "5 user reviews",
-      "pct": 100,
-      "total": 5
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -2994,11 +2898,7 @@
      "release": "10 Jul, 2020",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325800/header.jpg?t=1728984183",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 70,
-      "total": 243
-     }
+     "reviews": null
     }
    ],
    "vtt": [
@@ -3064,7 +2964,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 343270
+    "plays": 343414
    },
    "steam": [],
    "vtt": [],
@@ -3133,11 +3033,7 @@
      "release": "21 Oct, 2024",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1722870/ed76a3e3ba468f4f7c3dd8d49b36f905534660c9/header_alt_assets_1.jpg?t=1773855162",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 92,
-      "total": 596
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -3153,8 +3049,7 @@
    "weight": 2.83,
    "usersrated": 70557,
    "categories": [
-    "Strategy",
-    "Family"
+    "Strategy"
    ],
    "best_players": [
     3
@@ -3214,11 +3109,7 @@
      "release": "28 Jul, 2022",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1722840/header.jpg?t=1778777751",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 90,
-      "total": 740
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -3232,7 +3123,7 @@
    "rank": 48,
    "rating": 8.6,
    "weight": 2.56,
-   "usersrated": 7352,
+   "usersrated": 7356,
    "categories": [
     "Family"
    ],
@@ -3270,7 +3161,7 @@
    "rank": 49,
    "rating": 7.99,
    "weight": 2.2,
-   "usersrated": 43879,
+   "usersrated": 43895,
    "categories": [
     "Family"
    ],
@@ -3317,11 +3208,11 @@
      8,
      9
     ],
-    "avg_minutes": 42,
+    "avg_minutes": 41,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 934664
+    "plays": 935389
    },
    "steam": [
     {
@@ -3350,11 +3241,7 @@
      "release": "To be announced",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898550/cb581d6ebfbbe5b56e1eb7e0cd5da24957cc7f94/header.jpg?t=1793012047",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -3408,7 +3295,7 @@
    "rank": 51,
    "rating": 8.04,
    "weight": 2.01,
-   "usersrated": 33926,
+   "usersrated": 33951,
    "categories": [
     "Family",
     "Abstract"
@@ -3455,7 +3342,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3439866
+    "plays": 3445028
    },
    "steam": [],
    "vtt": [],
@@ -3469,7 +3356,7 @@
    "rank": 52,
    "rating": 8.34,
    "weight": 3.11,
-   "usersrated": 12527,
+   "usersrated": 12546,
    "categories": [
     "Thematic"
    ],
@@ -3623,11 +3510,7 @@
      "release": "To be announced",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2182320/header.jpg?t=1779720716",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -3641,7 +3524,7 @@
    "rank": 55,
    "rating": 8.18,
    "weight": 2.49,
-   "usersrated": 17589,
+   "usersrated": 17593,
    "categories": [
     "Thematic"
    ],
@@ -3686,7 +3569,8 @@
    "weight": 3.84,
    "usersrated": 18233,
    "categories": [
-    "Strategy"
+    "Strategy",
+    "Wargames"
    ],
    "best_players": [
     4
@@ -3733,7 +3617,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 93667
+    "plays": 93726
    },
    "steam": [],
    "vtt": [],
@@ -3794,7 +3678,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 250074
+    "plays": 250304
    },
    "steam": [],
    "vtt": [],
@@ -3853,7 +3737,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2921811
+    "plays": 2922348
    },
    "steam": [],
    "vtt": [],
@@ -3951,7 +3835,7 @@
    "rank": 61,
    "rating": 7.88,
    "weight": 1.84,
-   "usersrated": 57788,
+   "usersrated": 57801,
    "categories": [
     "Family",
     "Abstract"
@@ -4011,11 +3895,7 @@
      "release": "19 Feb, 2025",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438970/header.jpg?t=1767897466",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 98,
-      "total": 232
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -4081,7 +3961,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 120058
+    "plays": 120126
    },
    "steam": [
     {
@@ -4111,11 +3991,7 @@
      "release": "28 Apr, 2025",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216750/3b8343bd98f30ee3eed4c83a5a9c9b7f33ea2c8e/header.jpg?t=1745825594",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 76,
-      "total": 25
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -4170,11 +4046,11 @@
      3,
      4
     ],
-    "avg_minutes": 61,
+    "avg_minutes": 59,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 53074
+    "plays": 53093
    },
    "steam": [],
    "vtt": [],
@@ -4234,7 +4110,7 @@
    "rank": 65,
    "rating": 8.74,
    "weight": 3.69,
-   "usersrated": 7119,
+   "usersrated": 7121,
    "categories": [
     "Thematic"
    ],
@@ -4442,7 +4318,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 330016
+    "plays": 330176
    },
    "steam": [],
    "vtt": [],
@@ -4502,7 +4378,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 106515
+    "plays": 106560
    },
    "steam": [
     {
@@ -4529,11 +4405,7 @@
      "release": "27 May, 2020",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015930/header.jpg?t=1760950360",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 56,
-      "total": 841
-     }
+     "reviews": null
     }
    ],
    "vtt": [
@@ -4642,7 +4514,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 651797
+    "plays": 652649
    },
    "steam": [],
    "vtt": [],
@@ -4833,11 +4705,7 @@
      "release": "8 Jul, 2024",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983910/header.jpg?t=1786374417",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 54,
-      "total": 68
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -4896,7 +4764,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 804735
+    "plays": 804865
    },
    "steam": [],
    "vtt": [],
@@ -4910,7 +4778,7 @@
    "rank": 78,
    "rating": 8.07,
    "weight": 3.25,
-   "usersrated": 16487,
+   "usersrated": 16490,
    "categories": [
     "Thematic"
    ],
@@ -4997,7 +4865,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 386145
+    "plays": 386221
    },
    "steam": [],
    "vtt": [],
@@ -5011,7 +4879,7 @@
    "rank": 80,
    "rating": 7.91,
    "weight": 2.69,
-   "usersrated": 40946,
+   "usersrated": 40949,
    "categories": [
     "Thematic"
    ],
@@ -5069,11 +4937,7 @@
      "release": "23 Mar, 2021",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840210/header.jpg?t=1741270543",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 63,
-      "total": 718
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -5087,7 +4951,7 @@
    "rank": 81,
    "rating": 7.8,
    "weight": 1.94,
-   "usersrated": 60565,
+   "usersrated": 60575,
    "categories": [
     "Family"
    ],
@@ -5127,7 +4991,7 @@
    "rank": 82,
    "rating": 8.02,
    "weight": 2.01,
-   "usersrated": 16215,
+   "usersrated": 16233,
    "categories": [
     "Family"
    ],
@@ -5207,7 +5071,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 17593
+    "plays": 17785
    },
    "steam": [],
    "vtt": [],
@@ -5343,11 +5207,11 @@
      3,
      4
     ],
-    "avg_minutes": 52,
+    "avg_minutes": 53,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1922170
+    "plays": 1923314
    },
    "steam": [],
    "vtt": [],
@@ -5401,7 +5265,7 @@
    "rank": 88,
    "rating": 7.95,
    "weight": 3.3,
-   "usersrated": 26191,
+   "usersrated": 26193,
    "categories": [
     "Thematic"
    ],
@@ -5528,7 +5392,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 200169
+    "plays": 200323
    },
    "steam": [],
    "vtt": [],
@@ -5584,11 +5448,11 @@
      3,
      4
     ],
-    "avg_minutes": 55,
+    "avg_minutes": 56,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 97371
+    "plays": 97407
    },
    "steam": [],
    "vtt": [],
@@ -5646,7 +5510,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 86157
+    "plays": 86227
    },
    "steam": [],
    "vtt": [],
@@ -5695,12 +5559,12 @@
   },
   {
    "bgg_id": 277659,
-   "name": "Final Girl",
+   "name": "Final Girl Core Box",
    "year": 2021,
    "rank": 94,
    "rating": 8.2,
    "weight": 2.77,
-   "usersrated": 12166,
+   "usersrated": 12174,
    "categories": [
     "Thematic"
    ],
@@ -5785,7 +5649,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 17048530
+    "plays": 17051833
    },
    "steam": [
     {
@@ -5812,11 +5676,7 @@
      "release": "27 Jun, 2017",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/579940/header.jpg?t=1573172455",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 93,
-      "total": 458
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -5873,7 +5733,7 @@
    "rank": 97,
    "rating": 7.75,
    "weight": 1.97,
-   "usersrated": 49692,
+   "usersrated": 49703,
    "categories": [
     "Family"
    ],
@@ -5918,7 +5778,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 565125
+    "plays": 565226
    },
    "steam": [],
    "vtt": [],
@@ -5974,7 +5834,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 71509
+    "plays": 71538
    },
    "steam": [],
    "vtt": [],
@@ -5988,7 +5848,7 @@
    "rank": 99,
    "rating": 7.71,
    "weight": 1.77,
-   "usersrated": 111676,
+   "usersrated": 111692,
    "categories": [
     "Family",
     "Abstract"
@@ -6031,7 +5891,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 29341464
+    "plays": 29359412
    },
    "steam": [],
    "vtt": [],
@@ -6043,9 +5903,9 @@
    "name": "Arkham Horror: The Card Game (Revised Core Set)",
    "year": 2021,
    "rank": 100,
-   "rating": 8.56,
+   "rating": 8.55,
    "weight": 3.74,
-   "usersrated": 6148,
+   "usersrated": 6155,
    "categories": [
     "Thematic",
     "Customizable"
@@ -6131,7 +5991,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31812
+    "plays": 31816
    },
    "steam": [],
    "vtt": [],
@@ -6192,7 +6052,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 99954
+    "plays": 100081
    },
    "steam": [],
    "vtt": [],
@@ -6341,11 +6201,7 @@
      "release": "21 Oct, 2024",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1722870/ed76a3e3ba468f4f7c3dd8d49b36f905534660c9/header_alt_assets_1.jpg?t=1773855162",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 92,
-      "total": 596
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -6502,11 +6358,7 @@
      "release": "1 Sep, 2017",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/644390/header.jpg?t=1647889655",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 94,
-      "total": 1660
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -6576,11 +6428,7 @@
      "release": "17 Sep, 2019",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063580/header.jpg?t=1781206045",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 81,
-      "total": 504
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -6634,7 +6482,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1140371
+    "plays": 1141479
    },
    "steam": [],
    "vtt": [],
@@ -6648,7 +6496,7 @@
    "rank": 111,
    "rating": 7.77,
    "weight": 1.4,
-   "usersrated": 29961,
+   "usersrated": 29968,
    "categories": [
     "Family"
    ],
@@ -6705,11 +6553,7 @@
      "release": "6 Jul, 2022",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933490/header.jpg?t=1756973037",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 81,
-      "total": 78
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -6800,11 +6644,11 @@
      3,
      4
     ],
-    "avg_minutes": 39,
+    "avg_minutes": 40,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 135659
+    "plays": 135687
    },
    "steam": [
     {
@@ -6828,11 +6672,7 @@
      "release": "13 Mar, 2026",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000450/4692e3dec7eaa1b126103c9548447720b9d5a1b3/header.jpg?t=1773395076",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -6885,11 +6725,11 @@
      3,
      4
     ],
-    "avg_minutes": 37,
+    "avg_minutes": 38,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 245618
+    "plays": 245683
    },
    "steam": [],
    "vtt": [],
@@ -6945,8 +6785,8 @@
    "year": 2018,
    "rank": 116,
    "rating": 7.76,
-   "weight": 1.82,
-   "usersrated": 28336,
+   "weight": 1.83,
+   "usersrated": 28341,
    "categories": [
     "Party"
    ],
@@ -6990,11 +6830,11 @@
      7,
      8
     ],
-    "avg_minutes": 40,
+    "avg_minutes": 39,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 67077
+    "plays": 67125
    },
    "steam": [],
    "vtt": [],
@@ -7060,7 +6900,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 12512103
+    "plays": 12515388
    },
    "steam": [],
    "vtt": [],
@@ -7155,7 +6995,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1224177
+    "plays": 1224560
    },
    "steam": [
     {
@@ -7183,11 +7023,7 @@
      "release": "26 Mar, 2018",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758370/header.jpg?t=1762427088",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 91,
-      "total": 2351
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -7201,7 +7037,7 @@
    "rank": 120,
    "rating": 7.72,
    "weight": 1.94,
-   "usersrated": 33972,
+   "usersrated": 33977,
    "categories": [
     "Family"
    ],
@@ -7329,7 +7165,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 435778
+    "plays": 435958
    },
    "steam": [],
    "vtt": [],
@@ -7401,11 +7237,7 @@
      "release": "Coming soon",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339080/69cf01816994dfceaa78cf9eaaf759d0940c5f43/header.jpg?t=1789635022",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -7497,7 +7329,7 @@
    "rank": 126,
    "rating": 7.98,
    "weight": 1.91,
-   "usersrated": 11864,
+   "usersrated": 11876,
    "categories": [
     "Family"
    ],
@@ -7531,13 +7363,53 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 356080,
+   "name": "The Elder Scrolls: Betrayal of the Second Era",
+   "year": 2025,
+   "rank": 127,
+   "rating": 8.94,
+   "weight": 4.1,
+   "usersrated": 4531,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 204,
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "blurb": "Upgrade your character and gear up to explore the many regions of Tamriel.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/1boSR6Gvi_melhbRhxdAUw__square200/img/yMXkgl7ZiClbRR2Gox5PGpNnBVI=/200x200/filters:strip_icc()/pic8332880.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 240,
+   "minplayers": 1,
+   "minplaytime": 120,
+   "themes": [
+    "Adventure",
+    "Dice",
+    "Exploration",
+    "Fantasy",
+    "Video Game Theme"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 37111,
    "name": "Battlestar Galactica: The Board Game",
    "year": 2008,
-   "rank": 127,
+   "rank": 128,
    "rating": 7.73,
    "weight": 3.25,
-   "usersrated": 37845,
+   "usersrated": 37850,
    "categories": [
     "Thematic"
    ],
@@ -7566,46 +7438,6 @@
     "Negotiation",
     "Science Fiction",
     "Space Exploration"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 356080,
-   "name": "The Elder Scrolls: Betrayal of the Second Era",
-   "year": 2025,
-   "rank": 128,
-   "rating": 8.94,
-   "weight": 4.1,
-   "usersrated": 4529,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 204,
-   "rec_players": [
-    1,
-    2,
-    3
-   ],
-   "blurb": "Upgrade your character and gear up to explore the many regions of Tamriel.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/1boSR6Gvi_melhbRhxdAUw__square200/img/yMXkgl7ZiClbRR2Gox5PGpNnBVI=/200x200/filters:strip_icc()/pic8332880.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 240,
-   "minplayers": 1,
-   "minplaytime": 120,
-   "themes": [
-    "Adventure",
-    "Dice",
-    "Exploration",
-    "Fantasy",
-    "Video Game Theme"
    ],
    "bga": null,
    "steam": [],
@@ -7665,7 +7497,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 29152
+    "plays": 29295
    },
    "steam": [],
    "vtt": [],
@@ -7720,11 +7552,11 @@
      3,
      4
     ],
-    "avg_minutes": 42,
+    "avg_minutes": 41,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 141802
+    "plays": 141838
    },
    "steam": [
     {
@@ -7748,11 +7580,7 @@
      "release": "8 Apr, 2025",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3297500/header.jpg?t=1744191146",
-     "reviews": {
-      "desc": "8 user reviews",
-      "pct": 38,
-      "total": 8
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -7766,7 +7594,7 @@
    "rank": 131,
    "rating": 8.23,
    "weight": 3.91,
-   "usersrated": 8797,
+   "usersrated": 8803,
    "categories": [
     "Thematic"
    ],
@@ -7823,11 +7651,7 @@
      "release": "31 May, 2022",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915550/header.jpg?t=1724323885",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 67,
-      "total": 827
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -7967,7 +7791,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87583
+    "plays": 87604
    },
    "steam": [],
    "vtt": [],
@@ -8024,7 +7848,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 49606
+    "plays": 49638
    },
    "steam": [],
    "vtt": [],
@@ -8092,11 +7916,7 @@
      "release": "1 Feb, 2024",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131620/header.jpg?t=1738861920",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 87,
-      "total": 2297
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -8203,7 +8023,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 83551
+    "plays": 83559
    },
    "steam": [],
    "vtt": [],
@@ -8273,11 +8093,7 @@
      "release": "30 Jul, 2019",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965600/header.jpg?t=1767902947",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 86,
-      "total": 265
-     }
+     "reviews": null
     }
    ],
    "vtt": [
@@ -8297,7 +8113,7 @@
    "rank": 140,
    "rating": 7.74,
    "weight": 3.32,
-   "usersrated": 39481,
+   "usersrated": 39484,
    "categories": [
     "Thematic"
    ],
@@ -8351,11 +8167,7 @@
      "release": "2027",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4089610/262ae63597088078a93cc340bce851c26ba92687/header.jpg?t=1776102309",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -8410,11 +8222,11 @@
      4,
      5
     ],
-    "avg_minutes": 36,
+    "avg_minutes": 35,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 127237
+    "plays": 127253
    },
    "steam": [],
    "vtt": [],
@@ -8481,12 +8293,8 @@
      ],
      "release": "23 May, 2025",
      "coming_soon": false,
-     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/5660590ed7a97a0e2dddf20fd7a83379e23b7231/header.jpg?t=1791896782",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 88,
-      "total": 36330
-     }
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/5660590ed7a97a0e2dddf20fd7a83379e23b7231/header.jpg?t=1793295003",
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -8538,11 +8346,11 @@
      3,
      4
     ],
-    "avg_minutes": 46,
+    "avg_minutes": 45,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 158041
+    "plays": 158056
    },
    "steam": [],
    "vtt": [],
@@ -8600,7 +8408,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 36799
+    "plays": 36846
    },
    "steam": [
     {
@@ -8626,11 +8434,7 @@
      "release": "5 Oct, 2020",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1034540/header.jpg?t=1685018130",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 73,
-      "total": 94
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -8780,11 +8584,7 @@
      "release": "1 Feb, 2024",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131620/header.jpg?t=1738861920",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 87,
-      "total": 2297
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -8835,7 +8635,7 @@
    "rank": 149,
    "rating": 7.58,
    "weight": 1.6,
-   "usersrated": 75339,
+   "usersrated": 75341,
    "categories": [
     "Family",
     "Abstract"
@@ -8877,7 +8677,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3313678
+    "plays": 3315244
    },
    "steam": [
     {
@@ -8907,11 +8707,7 @@
      "release": "6 Dec, 2016",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/528250/header.jpg?t=1694418240",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 75,
-      "total": 284
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -8971,7 +8767,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5616766
+    "plays": 5624304
    },
    "steam": [],
    "vtt": [],
@@ -9076,11 +8872,7 @@
      "release": "17 Sep, 2019",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063580/header.jpg?t=1781206045",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 81,
-      "total": 504
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -9136,7 +8928,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 223479
+    "plays": 223499
    },
    "steam": [],
    "vtt": [],
@@ -9205,11 +8997,7 @@
      "release": "To be announced",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669430/5efb05cd759c238d171fee702119573f1c0251ea/header.jpg?t=1781194020",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -9343,11 +9131,11 @@
      3,
      4
     ],
-    "avg_minutes": 80,
+    "avg_minutes": 81,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 5672
+    "plays": 5924
    },
    "steam": [],
    "vtt": [],
@@ -9440,7 +9228,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87477
+    "plays": 87494
    },
    "steam": [],
    "vtt": [],
@@ -9454,7 +9242,7 @@
    "rank": 160,
    "rating": 7.59,
    "weight": 1.03,
-   "usersrated": 36140,
+   "usersrated": 36147,
    "categories": [
     "Party"
    ],
@@ -9501,7 +9289,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 288278
+    "plays": 288393
    },
    "steam": [],
    "vtt": [],
@@ -9555,7 +9343,7 @@
    "rank": 162,
    "rating": 8.32,
    "weight": 3.67,
-   "usersrated": 7300,
+   "usersrated": 7301,
    "categories": [
     "Thematic"
    ],
@@ -9597,7 +9385,7 @@
    "rank": 163,
    "rating": 7.52,
    "weight": 1.25,
-   "usersrated": 106171,
+   "usersrated": 106180,
    "categories": [
     "Party"
    ],
@@ -9662,11 +9450,7 @@
      "release": "To be announced",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/884670/header.jpg?t=1762966985",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -9889,7 +9673,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 400164
+    "plays": 400432
    },
    "steam": [],
    "vtt": [],
@@ -10040,11 +9824,7 @@
      "release": "Coming soon",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820780/e18504beae62cbb7dc6798cc077646f6b3319a97/header.jpg?t=1792782639",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [
@@ -10064,7 +9844,7 @@
    "rank": 172,
    "rating": 8.15,
    "weight": 2.34,
-   "usersrated": 8194,
+   "usersrated": 8198,
    "categories": [
     "Thematic"
    ],
@@ -10144,11 +9924,11 @@
      5,
      6
     ],
-    "avg_minutes": 26,
+    "avg_minutes": 25,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 168905
+    "plays": 168986
    },
    "steam": [],
    "vtt": [],
@@ -10162,7 +9942,7 @@
    "rank": 174,
    "rating": 7.72,
    "weight": 2.9,
-   "usersrated": 23303,
+   "usersrated": 23306,
    "categories": [
     "Thematic"
    ],
@@ -10254,11 +10034,7 @@
      "release": "1 Feb, 2024",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131620/header.jpg?t=1738861920",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 87,
-      "total": 2297
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -10319,7 +10095,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1575599
+    "plays": 1576488
    },
    "steam": [],
    "vtt": [],
@@ -10383,7 +10159,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1085278
+    "plays": 1085442
    },
    "steam": [
     {
@@ -10412,11 +10188,7 @@
      "release": "25 Aug, 2020",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/893840/header.jpg?t=1598362129",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 91,
-      "total": 129
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -10468,7 +10240,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 594072
+    "plays": 594227
    },
    "steam": [],
    "vtt": [],
@@ -10535,11 +10307,7 @@
      "release": "8 Mar, 2016",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438140/header.jpg?t=1777987522",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 87,
-      "total": 2253
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -10597,7 +10365,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 9924
+    "plays": 9965
    },
    "steam": [],
    "vtt": [],
@@ -10611,7 +10379,7 @@
    "rank": 181,
    "rating": 7.52,
    "weight": 1.92,
-   "usersrated": 86916,
+   "usersrated": 86924,
    "categories": [
     "Family"
    ],
@@ -10653,7 +10421,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3367215
+    "plays": 3370508
    },
    "steam": [
     {
@@ -10681,11 +10449,7 @@
      "release": "14 Nov, 2023",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2477010/8613ba86358d9639f862dec376f22d180901e267/header_alt_assets_10.jpg?t=1792584181",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 71,
-      "total": 1204
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -10699,7 +10463,7 @@
    "rank": 182,
    "rating": 7.82,
    "weight": 2.32,
-   "usersrated": 12884,
+   "usersrated": 12885,
    "categories": [
     "Abstract"
    ],
@@ -10741,7 +10505,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 573701
+    "plays": 574155
    },
    "steam": [],
    "vtt": [],
@@ -10755,7 +10519,7 @@
    "rank": 183,
    "rating": 7.61,
    "weight": 2.13,
-   "usersrated": 31306,
+   "usersrated": 31308,
    "categories": [
     "Family"
    ],
@@ -10801,7 +10565,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 163192
+    "plays": 163303
    },
    "steam": [],
    "vtt": [],
@@ -10859,7 +10623,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 78779
+    "plays": 79054
    },
    "steam": [],
    "vtt": [],
@@ -10873,7 +10637,7 @@
    "rank": 185,
    "rating": 7.55,
    "weight": 1.89,
-   "usersrated": 37216,
+   "usersrated": 37222,
    "categories": [
     "Family"
    ],
@@ -10934,7 +10698,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1751063
+    "plays": 1752487
    },
    "steam": [
     {
@@ -10959,11 +10723,7 @@
      "release": "5 Jun, 2024",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2977360/header.jpg?t=1717622582",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 52,
-      "total": 23
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -10977,7 +10737,7 @@
    "rank": 186,
    "rating": 7.76,
    "weight": 2.27,
-   "usersrated": 14632,
+   "usersrated": 14637,
    "categories": [
     "Wargames"
    ],
@@ -11056,7 +10816,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1339143
+    "plays": 1339506
    },
    "steam": [],
    "vtt": [],
@@ -11123,11 +10883,7 @@
      "release": "29 Aug, 2019",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/509580/header.jpg?t=1780409475",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 1660
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -11189,7 +10945,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4350696
+    "plays": 4353280
    },
    "steam": [],
    "vtt": [],
@@ -11251,7 +11007,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5976688
+    "plays": 5978037
    },
    "steam": [
     {
@@ -11281,11 +11037,7 @@
      "release": "22 Aug, 2023",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177570/header.jpg?t=1788436365",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 83,
-      "total": 90
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -11299,7 +11051,7 @@
    "rank": 191,
    "rating": 7.75,
    "weight": 2.59,
-   "usersrated": 15650,
+   "usersrated": 15652,
    "categories": [
     "Thematic"
    ],
@@ -11426,7 +11178,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 26839
+    "plays": 26867
    },
    "steam": [],
    "vtt": [],
@@ -11537,11 +11289,7 @@
      "release": "18 Oct, 2018",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/943410/7a069bc44465384720153e03682f9bb504f83990/header.jpg?t=1772553316",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 92,
-      "total": 280
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -11606,11 +11354,7 @@
      "release": "28 Feb, 2023",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677980/04e54ddb66380b19e59cffc942c2addc8c74a783/header.jpg?t=1785423348",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 294
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -11664,11 +11408,11 @@
      3,
      4
     ],
-    "avg_minutes": 44,
+    "avg_minutes": 45,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 50059
+    "plays": 50090
    },
    "steam": [],
    "vtt": [],
@@ -11851,7 +11595,7 @@
    "rank": 202,
    "rating": 7.67,
    "weight": 1.74,
-   "usersrated": 16969,
+   "usersrated": 16990,
    "categories": [
     "Family"
    ],
@@ -11896,7 +11640,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2576668
+    "plays": 2580142
    },
    "steam": [],
    "vtt": [],
@@ -11910,7 +11654,7 @@
    "rank": 203,
    "rating": 7.75,
    "weight": 2.71,
-   "usersrated": 13854,
+   "usersrated": 13855,
    "categories": [
     "Thematic"
    ],
@@ -11951,7 +11695,7 @@
    "rank": 204,
    "rating": 7.48,
    "weight": 1.46,
-   "usersrated": 59292,
+   "usersrated": 59304,
    "categories": [
     "Family"
    ],
@@ -11991,7 +11735,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 3001644
+    "plays": 3002231
    },
    "steam": [],
    "vtt": [],
@@ -12005,7 +11749,7 @@
    "rank": 205,
    "rating": 7.55,
    "weight": 1.85,
-   "usersrated": 28595,
+   "usersrated": 28597,
    "categories": [
     "Family"
    ],
@@ -12058,11 +11802,7 @@
      "release": "19 Jun, 2019",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065410/header.jpg?t=1560955633",
-     "reviews": {
-      "desc": "Positive",
-      "pct": 86,
-      "total": 22
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -12161,7 +11901,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 132698
+    "plays": 132740
    },
    "steam": [],
    "vtt": [],
@@ -12256,7 +11996,7 @@
    "rank": 210,
    "rating": 7.6,
    "weight": 2.66,
-   "usersrated": 23029,
+   "usersrated": 23031,
    "categories": [
     "Thematic"
    ],
@@ -12383,7 +12123,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 351536
+    "plays": 351699
    },
    "steam": [
     {
@@ -12411,11 +12151,7 @@
      "release": "26 Mar, 2025",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438980/header.jpg?t=1767903452",
-     "reviews": {
-      "desc": "Positive",
-      "pct": 82,
-      "total": 34
-     }
+     "reviews": null
     }
    ],
    "vtt": [
@@ -12570,7 +12306,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 435825
+    "plays": 436048
    },
    "steam": [],
    "vtt": [],
@@ -12584,7 +12320,7 @@
    "rank": 216,
    "rating": 7.84,
    "weight": 2.46,
-   "usersrated": 9924,
+   "usersrated": 9926,
    "categories": [
     "Thematic",
     "Family"
@@ -12636,7 +12372,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 307697
+    "plays": 308002
    },
    "steam": [],
    "vtt": [],
@@ -12785,7 +12521,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3077732
+    "plays": 3078683
    },
    "steam": [],
    "vtt": [],
@@ -12799,7 +12535,7 @@
    "rank": 220,
    "rating": 8.64,
    "weight": 3.77,
-   "usersrated": 4619,
+   "usersrated": 4624,
    "categories": [
     "Thematic"
    ],
@@ -12848,7 +12584,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 43449
+    "plays": 44006
    },
    "steam": [],
    "vtt": [],
@@ -12905,7 +12641,7 @@
    "rank": 222,
    "rating": 7.87,
    "weight": 1.95,
-   "usersrated": 8946,
+   "usersrated": 8951,
    "categories": [
     "Thematic"
    ],
@@ -13026,7 +12762,7 @@
    "rank": 225,
    "rating": 7.75,
    "weight": 3.34,
-   "usersrated": 14753,
+   "usersrated": 14754,
    "categories": [
     "Thematic"
    ],
@@ -13076,11 +12812,7 @@
      "release": "14 Nov, 2014",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282070/26fb8c9bb7b9e3a17469d8026ee3fa510ee7f8f5/header.jpg?t=1792057984",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 94,
-      "total": 98002
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -13150,11 +12882,7 @@
      "release": "11 Nov, 2026",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3239710/header.jpg?t=1789485153",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -13248,7 +12976,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 776781
+    "plays": 777213
    },
    "steam": [],
    "vtt": [],
@@ -13297,53 +13025,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 256680,
-   "name": "Return to Dark Tower",
-   "year": 2022,
-   "rank": 230,
-   "rating": 8.19,
-   "weight": 2.66,
-   "usersrated": 6142,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 116,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "Cooperative or competitive strategy game pitting heroes against an ominous Tower.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/sd0acHeHj9RE-daXPC7pEg__square200/img/cR97UDcXdnExxbY4CuBqEytqTgc=/200x200/filters:strip_icc()/pic5153383.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 120,
-   "minplayers": 1,
-   "minplaytime": 100,
-   "themes": [
-    "Adventure",
-    "Electronic",
-    "Fantasy",
-    "Fighting"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 199561,
    "name": "Sagrada",
    "year": 2017,
-   "rank": 231,
+   "rank": 230,
    "rating": 7.47,
    "weight": 1.92,
-   "usersrated": 49109,
+   "usersrated": 49115,
    "categories": [
     "Family",
     "Abstract"
@@ -13400,13 +13088,49 @@
      "release": "31 Mar, 2020",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965590/header.jpg?t=1767903067",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 94,
-      "total": 446
-     }
+     "reviews": null
     }
    ],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 256680,
+   "name": "Return to Dark Tower",
+   "year": 2022,
+   "rank": 231,
+   "rating": 8.18,
+   "weight": 2.66,
+   "usersrated": 6144,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 116,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "Cooperative or competitive strategy game pitting heroes against an ominous Tower.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/sd0acHeHj9RE-daXPC7pEg__square200/img/cR97UDcXdnExxbY4CuBqEytqTgc=/200x200/filters:strip_icc()/pic5153383.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 100,
+   "themes": [
+    "Adventure",
+    "Electronic",
+    "Fantasy",
+    "Fighting"
+   ],
+   "bga": null,
+   "steam": [],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -13418,7 +13142,7 @@
    "rank": 232,
    "rating": 7.54,
    "weight": 2.14,
-   "usersrated": 24219,
+   "usersrated": 24222,
    "categories": [
     "Family"
    ],
@@ -13464,7 +13188,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4117500
+    "plays": 4120069
    },
    "steam": [],
    "vtt": [],
@@ -13603,7 +13327,7 @@
    "rank": 236,
    "rating": 7.98,
    "weight": 2.8,
-   "usersrated": 6776,
+   "usersrated": 6777,
    "categories": [
     "Wargames"
    ],
@@ -13656,11 +13380,7 @@
      "release": "Q1 2027",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4352540/00972711aaf5af1edda492a819308576b7534da2/header.jpg?t=1792617228",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -13760,7 +13480,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 84302
+    "plays": 84380
    },
    "steam": [],
    "vtt": [],
@@ -13774,7 +13494,7 @@
    "rank": 239,
    "rating": 7.66,
    "weight": 3.92,
-   "usersrated": 18592,
+   "usersrated": 18593,
    "categories": [
     "Abstract"
    ],
@@ -13823,7 +13543,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 93805
+    "plays": 93833
    },
    "steam": [],
    "vtt": [],
@@ -13837,7 +13557,7 @@
    "rank": 240,
    "rating": 7.49,
    "weight": 1.74,
-   "usersrated": 37174,
+   "usersrated": 37179,
    "categories": [
     "Party"
    ],
@@ -13884,7 +13604,7 @@
    "rank": 241,
    "rating": 7.42,
    "weight": 1.88,
-   "usersrated": 142113,
+   "usersrated": 142124,
    "categories": [
     "Family"
    ],
@@ -13932,7 +13652,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15785635
+    "plays": 15792452
    },
    "steam": [
     {
@@ -13962,11 +13682,7 @@
      "release": "29 Nov, 2017",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598810/header.jpg?t=1758125330",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 84,
-      "total": 2815
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -14037,11 +13753,7 @@
      "release": "6 Oct, 2020",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075190/header.jpg?t=1742483806",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 70,
-      "total": 1975
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -14055,7 +13767,7 @@
    "rank": 243,
    "rating": 7.62,
    "weight": 1.97,
-   "usersrated": 15330,
+   "usersrated": 15332,
    "categories": [
     "Family"
    ],
@@ -14104,11 +13816,7 @@
      "release": "14 Nov, 2023",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2477010/8613ba86358d9639f862dec376f22d180901e267/header_alt_assets_10.jpg?t=1792584181",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 71,
-      "total": 1204
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -14122,7 +13830,7 @@
    "rank": 244,
    "rating": 7.42,
    "weight": 1.77,
-   "usersrated": 92011,
+   "usersrated": 92016,
    "categories": [
     "Family"
    ],
@@ -14166,7 +13874,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 11215962
+    "plays": 11222305
    },
    "steam": [
     {
@@ -14196,11 +13904,7 @@
      "release": "17 Sep, 2015",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/376680/header.jpg?t=1742483733",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 79,
-      "total": 1527
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -14256,11 +13960,11 @@
      5,
      6
     ],
-    "avg_minutes": 69,
+    "avg_minutes": 68,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 37490
+    "plays": 37496
    },
    "steam": [],
    "vtt": [],
@@ -14274,7 +13978,7 @@
    "rank": 246,
    "rating": 7.56,
    "weight": 2.08,
-   "usersrated": 19906,
+   "usersrated": 19909,
    "categories": [
     "Family",
     "Abstract"
@@ -14317,7 +14021,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 584611
+    "plays": 585013
    },
    "steam": [],
    "vtt": [],
@@ -14331,7 +14035,7 @@
    "rank": 247,
    "rating": 7.58,
    "weight": 2.02,
-   "usersrated": 20503,
+   "usersrated": 20507,
    "categories": [
     "Thematic",
     "Family"
@@ -14413,7 +14117,7 @@
    "rank": 249,
    "rating": 7.49,
    "weight": 2.21,
-   "usersrated": 24249,
+   "usersrated": 24250,
    "categories": [
     "Thematic",
     "Party"
@@ -14536,7 +14240,7 @@
    "rank": 252,
    "rating": 7.54,
    "weight": 1.95,
-   "usersrated": 20101,
+   "usersrated": 20114,
    "categories": [
     "Family"
    ],
@@ -14585,7 +14289,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3345945
+    "plays": 3350455
    },
    "steam": [],
    "vtt": [],
@@ -14598,8 +14302,8 @@
    "year": 2022,
    "rank": 253,
    "rating": 7.51,
-   "weight": 1.5,
-   "usersrated": 24958,
+   "weight": 1.49,
+   "usersrated": 24969,
    "categories": [
     "Family"
    ],
@@ -14640,7 +14344,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4455838
+    "plays": 4459452
    },
    "steam": [],
    "vtt": [],
@@ -14694,7 +14398,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 327620
+    "plays": 327870
    },
    "steam": [
     {
@@ -14721,11 +14425,7 @@
      "release": "Coming soon",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5290560/61a34d00af6980e826b0e2c8c6ead0512aa95ac5/header.jpg?t=1792686829",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     },
     {
      "appid": 3747270,
@@ -14752,11 +14452,7 @@
      "release": "17 Nov, 2025",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3747270/569bb89bc7881121e942e4b8a0c7a75e1000ca31/header.jpg?t=1763397953",
-     "reviews": {
-      "desc": "3 user reviews",
-      "pct": 100,
-      "total": 3
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -14811,7 +14507,7 @@
    "rank": 256,
    "rating": 7.84,
    "weight": 1.48,
-   "usersrated": 8438,
+   "usersrated": 8454,
    "categories": [
     "Family"
    ],
@@ -14847,7 +14543,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1462704
+    "plays": 1465615
    },
    "steam": [],
    "vtt": [],
@@ -14861,7 +14557,7 @@
    "rank": 257,
    "rating": 7.44,
    "weight": 3.01,
-   "usersrated": 49215,
+   "usersrated": 49213,
    "categories": [
     "Thematic"
    ],
@@ -15028,7 +14724,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 319579
+    "plays": 319644
    },
    "steam": [],
    "vtt": [],
@@ -15042,7 +14738,7 @@
    "rank": 261,
    "rating": 7.62,
    "weight": 1.05,
-   "usersrated": 12613,
+   "usersrated": 12615,
    "categories": [
     "Family",
     "Party"
@@ -15130,11 +14826,7 @@
      "release": "17 Sep, 2019",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063580/header.jpg?t=1781206045",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 81,
-      "total": 504
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -15148,7 +14840,7 @@
    "rank": 263,
    "rating": 7.7,
    "weight": 2.62,
-   "usersrated": 10184,
+   "usersrated": 10185,
    "categories": [
     "Abstract"
    ],
@@ -15187,7 +14879,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 35338
+    "plays": 35375
    },
    "steam": [],
    "vtt": [],
@@ -15201,7 +14893,7 @@
    "rank": 264,
    "rating": 7.38,
    "weight": 1.82,
-   "usersrated": 99869,
+   "usersrated": 99885,
    "categories": [
     "Family"
    ],
@@ -15246,7 +14938,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 18117718
+    "plays": 18128500
    },
    "steam": [
     {
@@ -15274,11 +14966,7 @@
      "release": "14 Nov, 2023",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2477010/8613ba86358d9639f862dec376f22d180901e267/header_alt_assets_10.jpg?t=1792584181",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 71,
-      "total": 1204
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -15292,7 +14980,7 @@
    "rank": 265,
    "rating": 7.59,
    "weight": 1.12,
-   "usersrated": 12965,
+   "usersrated": 12969,
    "categories": [
     "Party"
    ],
@@ -15332,7 +15020,7 @@
    "rank": 266,
    "rating": 8.07,
    "weight": 3.87,
-   "usersrated": 5758,
+   "usersrated": 5759,
    "categories": [
     "Wargames"
    ],
@@ -15370,7 +15058,7 @@
    "rank": 267,
    "rating": 7.48,
    "weight": 1.73,
-   "usersrated": 35675,
+   "usersrated": 35682,
    "categories": [
     "Party"
    ],
@@ -15468,11 +15156,7 @@
      "release": "8 Mar, 2016",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438140/header.jpg?t=1777987522",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 87,
-      "total": 2253
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -15558,7 +15242,7 @@
    "rank": 271,
    "rating": 7.53,
    "weight": 1.51,
-   "usersrated": 18734,
+   "usersrated": 18740,
    "categories": [
     "Family",
     "Party"
@@ -15638,52 +15322,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 223040,
-   "name": "Fantasy Realms",
-   "year": 2017,
-   "rank": 273,
-   "rating": 7.5,
-   "weight": 1.82,
-   "usersrated": 18895,
-   "categories": [
-    "Family"
-   ],
-   "best_players": [
-    2,
-    3
-   ],
-   "player_votes": 394,
-   "rec_players": [
-    2,
-    3,
-    4,
-    5
-   ],
-   "blurb": "Build the greatest fantasy kingdom by constructing the best hand.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__square200/img/hMh4hAblhjYpmpVsYRxf_eJsObM=/200x200/filters:strip_icc()/pic6177962.jpg",
-   "maxplayers": 6,
-   "maxplaytime": 20,
-   "minplayers": 2,
-   "minplaytime": 20,
-   "themes": [
-    "Card Game",
-    "Fantasy"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 454103,
    "name": "Magical Athlete",
    "year": 2025,
-   "rank": 274,
+   "rank": 273,
    "rating": 7.74,
-   "weight": 1.19,
-   "usersrated": 10354,
+   "weight": 1.18,
+   "usersrated": 10391,
    "categories": [
     "Family",
     "Party"
@@ -15712,6 +15357,45 @@
     "Humor",
     "Party Game",
     "Racing"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 223040,
+   "name": "Fantasy Realms",
+   "year": 2017,
+   "rank": 274,
+   "rating": 7.5,
+   "weight": 1.82,
+   "usersrated": 18897,
+   "categories": [
+    "Family"
+   ],
+   "best_players": [
+    2,
+    3
+   ],
+   "player_votes": 394,
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "blurb": "Build the greatest fantasy kingdom by constructing the best hand.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__square200/img/hMh4hAblhjYpmpVsYRxf_eJsObM=/200x200/filters:strip_icc()/pic6177962.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 20,
+   "minplayers": 2,
+   "minplaytime": 20,
+   "themes": [
+    "Card Game",
+    "Fantasy"
    ],
    "bga": null,
    "steam": [],
@@ -15767,7 +15451,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 68593
+    "plays": 68614
    },
    "steam": [],
    "vtt": [],
@@ -15869,7 +15553,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 206272
+    "plays": 206446
    },
    "steam": [],
    "vtt": [],
@@ -15883,7 +15567,7 @@
    "rank": 278,
    "rating": 7.47,
    "weight": 2.2,
-   "usersrated": 24209,
+   "usersrated": 24214,
    "categories": [
     "Family",
     "Abstract"
@@ -15943,11 +15627,7 @@
      "release": "5 Mar, 2024",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1993180/header.jpg?t=1789658122",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 93,
-      "total": 596
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -16000,7 +15680,7 @@
    "rank": 280,
    "rating": 7.4,
    "weight": 1.36,
-   "usersrated": 27332,
+   "usersrated": 27333,
    "categories": [
     "Family",
     "Party"
@@ -16055,11 +15735,7 @@
      "release": "To be announced",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/884670/header.jpg?t=1762966985",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -16160,7 +15836,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 232657
+    "plays": 232696
    },
    "steam": [],
    "vtt": [],
@@ -16211,7 +15887,7 @@
    "rank": 284,
    "rating": 7.76,
    "weight": 1.23,
-   "usersrated": 8354,
+   "usersrated": 8362,
    "categories": [
     "Party"
    ],
@@ -16253,7 +15929,7 @@
    "rank": 285,
    "rating": 7.53,
    "weight": 1.73,
-   "usersrated": 16584,
+   "usersrated": 16588,
    "categories": [
     "Family"
    ],
@@ -16303,7 +15979,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 433512
+    "plays": 434414
    },
    "steam": [],
    "vtt": [],
@@ -16354,7 +16030,7 @@
    "rank": 287,
    "rating": 7.63,
    "weight": 2.9,
-   "usersrated": 11285,
+   "usersrated": 11286,
    "categories": [
     "Thematic"
    ],
@@ -16514,7 +16190,7 @@
    "rank": 291,
    "rating": 7.45,
    "weight": 1.67,
-   "usersrated": 21862,
+   "usersrated": 21865,
    "categories": [
     "Family"
    ],
@@ -16551,7 +16227,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 221466
+    "plays": 221587
    },
    "steam": [],
    "vtt": [],
@@ -16604,7 +16280,7 @@
    "rank": 293,
    "rating": 7.59,
    "weight": 2.85,
-   "usersrated": 13324,
+   "usersrated": 13327,
    "categories": [
     "Thematic"
    ],
@@ -16641,7 +16317,7 @@
    "rank": 294,
    "rating": 7.37,
    "weight": 1.33,
-   "usersrated": 41102,
+   "usersrated": 41111,
    "categories": [
     "Family"
    ],
@@ -16691,7 +16367,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 389750
+    "plays": 389891
    },
    "steam": [],
    "vtt": [],
@@ -16705,7 +16381,7 @@
    "rank": 295,
    "rating": 7.47,
    "weight": 1.71,
-   "usersrated": 20145,
+   "usersrated": 20146,
    "categories": [
     "Family"
    ],
@@ -16790,7 +16466,7 @@
    "rank": 297,
    "rating": 7.6,
    "weight": 2.47,
-   "usersrated": 17578,
+   "usersrated": 17579,
    "categories": [
     "Thematic"
    ],
@@ -16883,7 +16559,7 @@
    "rank": 299,
    "rating": 7.41,
    "weight": 1.59,
-   "usersrated": 25581,
+   "usersrated": 25584,
    "categories": [
     "Party"
    ],
@@ -16986,11 +16662,7 @@
      "release": "26 Jul, 2018",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/873980/header.jpg?t=1741270661",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 67,
-      "total": 162
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -17098,11 +16770,7 @@
      "release": "28 Feb, 2023",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677980/04e54ddb66380b19e59cffc942c2addc8c74a783/header.jpg?t=1785423348",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 294
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -17171,11 +16839,7 @@
      "release": "16 Apr, 2019",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/5700506bb522c60ca89754d3d887833d52debd65/header.jpg?t=1791465786",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 81,
-      "total": 32704
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -17241,11 +16905,7 @@
      "release": "17 Sep, 2019",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063580/header.jpg?t=1781206045",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 81,
-      "total": 504
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -17259,7 +16919,7 @@
    "rank": 305,
    "rating": 7.44,
    "weight": 1.11,
-   "usersrated": 20379,
+   "usersrated": 20383,
    "categories": [
     "Family"
    ],
@@ -17389,7 +17049,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 609376
+    "plays": 609711
    },
    "steam": [],
    "vtt": [
@@ -17468,11 +17128,7 @@
      "release": "20 Apr, 2023",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1939940/header.jpg?t=1731506484",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 91,
-      "total": 193
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -17726,7 +17382,7 @@
    "rank": 315,
    "rating": 7.5,
    "weight": 1.13,
-   "usersrated": 17039,
+   "usersrated": 17045,
    "categories": [
     "Family",
     "Party"
@@ -17773,7 +17429,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 932694
+    "plays": 932932
    },
    "steam": [
     {
@@ -17799,11 +17455,7 @@
      "release": "24 Oct, 2018",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/926520/header.jpg?t=1741270715",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 87,
-      "total": 602
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -17871,11 +17523,7 @@
      "release": "6 Jun, 2022",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569700/header.jpg?t=1721256037",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 390
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -17929,7 +17577,7 @@
    "rank": 318,
    "rating": 7.33,
    "weight": 1.72,
-   "usersrated": 42798,
+   "usersrated": 42799,
    "categories": [
     "Abstract"
    ],
@@ -17973,7 +17621,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 836486
+    "plays": 836648
    },
    "steam": [],
    "vtt": [],
@@ -18122,11 +17770,7 @@
      "release": "8 Mar, 2016",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438140/header.jpg?t=1777987522",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 87,
-      "total": 2253
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -18187,7 +17831,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 60122
+    "plays": 60171
    },
    "steam": [],
    "vtt": [],
@@ -18244,7 +17888,7 @@
    "rank": 324,
    "rating": 7.32,
    "weight": 2.33,
-   "usersrated": 36020,
+   "usersrated": 36026,
    "categories": [
     "Thematic"
    ],
@@ -18328,7 +17972,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5212
+    "plays": 5214
    },
    "steam": [],
    "vtt": [],
@@ -18389,7 +18033,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 496999
+    "plays": 497183
    },
    "steam": [],
    "vtt": [],
@@ -18455,7 +18099,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 843070
+    "plays": 843421
    },
    "steam": [],
    "vtt": [],
@@ -18514,7 +18158,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5648
+    "plays": 5656
    },
    "steam": [],
    "vtt": [],
@@ -18612,11 +18256,11 @@
      4,
      5
     ],
-    "avg_minutes": 26,
+    "avg_minutes": 27,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13358
+    "plays": 13367
    },
    "steam": [],
    "vtt": [],
@@ -18682,11 +18326,7 @@
      "release": "To be announced",
      "coming_soon": true,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855060/af91463d055e8e3b63c4af54a82f12cbc8f06320/header.jpg?t=1793037164",
-     "reviews": {
-      "desc": "No user reviews",
-      "pct": null,
-      "total": 0
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -18700,7 +18340,7 @@
    "rank": 332,
    "rating": 7.87,
    "weight": 2.88,
-   "usersrated": 9394,
+   "usersrated": 9396,
    "categories": [
     "Thematic"
    ],
@@ -18742,7 +18382,7 @@
    "rank": 333,
    "rating": 7.58,
    "weight": 1.63,
-   "usersrated": 12015,
+   "usersrated": 12020,
    "categories": [
     "Family"
    ],
@@ -18792,11 +18432,7 @@
      "release": "28 Apr, 2022",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/header.jpg?t=1786951108",
-     "reviews": {
-      "desc": "Overwhelmingly Positive",
-      "pct": 96,
-      "total": 29703
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -18848,7 +18484,7 @@
    "rank": 335,
    "rating": 7.29,
    "weight": 1.24,
-   "usersrated": 53956,
+   "usersrated": 53964,
    "categories": [
     "Family"
    ],
@@ -18895,7 +18531,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 7189282
+    "plays": 7191391
    },
    "steam": [
     {
@@ -18923,11 +18559,7 @@
      "release": "20 Nov, 2025",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3029180/a0c94dbd46303c0e3fd701045a0ba8a59d3ef123/header.jpg?t=1778840091",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 88,
-      "total": 51
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -18967,7 +18599,31 @@
     "Civilization"
    ],
    "bga": null,
-   "steam": [],
+   "steam": [
+    {
+     "appid": 4806180,
+     "name": "Imperium",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/4806180/",
+     "confidence": 0.85,
+     "is_free": false,
+     "price": null,
+     "price_initial": null,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [],
+     "developers": [
+      "Petroff Games"
+     ],
+     "publishers": [
+      "Petroff Games"
+     ],
+     "release": "2 Nov, 2026",
+     "coming_soon": true,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806180/0448a4067e96ed9ec9e78684e5bd2c96947c62ca/header.jpg?t=1793094135",
+     "reviews": null
+    }
+   ],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -19016,7 +18672,7 @@
    "rank": 338,
    "rating": 7.31,
    "weight": 2.31,
-   "usersrated": 40930,
+   "usersrated": 40929,
    "categories": [
     "Abstract"
    ],
@@ -19052,11 +18708,11 @@
     "players": [
      2
     ],
-    "avg_minutes": 15,
+    "avg_minutes": 14,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1066630
+    "plays": 1066763
    },
    "steam": [],
    "vtt": [],
@@ -19195,7 +18851,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 321972
+    "plays": 322200
    },
    "steam": [],
    "vtt": [],
@@ -19256,7 +18912,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 77217
+    "plays": 77223
    },
    "steam": [],
    "vtt": [],
@@ -19465,7 +19121,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 20745
+    "plays": 20862
    },
    "steam": [],
    "vtt": [],
@@ -19515,9 +19171,9 @@
    "name": "Keep the Heroes Out!",
    "year": 2022,
    "rank": 349,
-   "rating": 7.89,
+   "rating": 7.88,
    "weight": 2.5,
-   "usersrated": 6704,
+   "usersrated": 6708,
    "categories": [
     "Thematic"
    ],
@@ -19574,11 +19230,7 @@
      "release": "9 Dec, 2025",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592340/header.jpg?t=1765299579",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 58,
-      "total": 53
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -19592,7 +19244,7 @@
    "rank": 350,
    "rating": 7.26,
    "weight": 1.47,
-   "usersrated": 51722,
+   "usersrated": 51729,
    "categories": [
     "Family"
    ],
@@ -19632,7 +19284,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5362883
+    "plays": 5364434
    },
    "steam": [
     {
@@ -19661,11 +19313,7 @@
      "release": "19 May, 2018",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/520680/header.jpg?t=1526737415",
-     "reviews": {
-      "desc": "Mostly Negative",
-      "pct": 39,
-      "total": 33
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -19777,11 +19425,7 @@
      "release": "25 Mar, 2017",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/595930/header.jpg?t=1753693190",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 79,
-      "total": 121
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -19795,7 +19439,7 @@
    "rank": 353,
    "rating": 7.54,
    "weight": 1.57,
-   "usersrated": 10975,
+   "usersrated": 10990,
    "categories": [
     "Family"
    ],
@@ -19837,7 +19481,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 199705
+    "plays": 200235
    },
    "steam": [],
    "vtt": [],
@@ -19885,46 +19529,6 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 46213,
-   "name": "Telestrations",
-   "year": 2009,
-   "rank": 355,
-   "rating": 7.38,
-   "weight": 1.07,
-   "usersrated": 21155,
-   "categories": [
-    "Party"
-   ],
-   "best_players": [
-    8
-   ],
-   "player_votes": 244,
-   "rec_players": [
-    5,
-    6,
-    7,
-    8,
-    9
-   ],
-   "blurb": "Guess what they drew, then draw what they guessed, and see how funny the changes get.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/Dd94J37Oi1tgL7HAAaOfAQ__square200/img/z6PWzfyL5OwuzlNYuJpcDLJVfkU=/200x200/filters:strip_icc()/pic8855812.jpg",
-   "maxplayers": 8,
-   "maxplaytime": 30,
-   "minplayers": 4,
-   "minplaytime": 30,
-   "themes": [
-    "Humor",
-    "Party Game",
-    "Real-time"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 408180,
    "name": "Shackleton Base: A Journey to the Moon",
    "year": 2024,
@@ -19964,13 +19568,53 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 46213,
+   "name": "Telestrations",
+   "year": 2009,
+   "rank": 356,
+   "rating": 7.38,
+   "weight": 1.07,
+   "usersrated": 21157,
+   "categories": [
+    "Party"
+   ],
+   "best_players": [
+    8
+   ],
+   "player_votes": 244,
+   "rec_players": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "blurb": "Guess what they drew, then draw what they guessed, and see how funny the changes get.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/Dd94J37Oi1tgL7HAAaOfAQ__square200/img/z6PWzfyL5OwuzlNYuJpcDLJVfkU=/200x200/filters:strip_icc()/pic8855812.jpg",
+   "maxplayers": 8,
+   "maxplaytime": 30,
+   "minplayers": 4,
+   "minplaytime": 30,
+   "themes": [
+    "Humor",
+    "Party Game",
+    "Real-time"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 257499,
    "name": "Arkham Horror (Third Edition)",
    "year": 2018,
    "rank": 357,
    "rating": 7.68,
    "weight": 3.37,
-   "usersrated": 11298,
+   "usersrated": 11299,
    "categories": [
     "Thematic"
    ],
@@ -20010,7 +19654,7 @@
    "rank": 358,
    "rating": 7.27,
    "weight": 1.25,
-   "usersrated": 34930,
+   "usersrated": 34936,
    "categories": [
     "Family"
    ],
@@ -20053,7 +19697,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 875553
+    "plays": 875719
    },
    "steam": [],
    "vtt": [],
@@ -20196,52 +19840,8 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 292742
+    "plays": 293014
    },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 92828,
-   "name": "Dixit: Odyssey",
-   "year": 2011,
-   "rank": 362,
-   "rating": 7.38,
-   "weight": 1.16,
-   "usersrated": 23275,
-   "categories": [
-    "Party"
-   ],
-   "best_players": [
-    6
-   ],
-   "player_votes": 251,
-   "rec_players": [
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
-   ],
-   "blurb": "Don’t be too vague or precise when describing beautifully surreal art.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/7b75ZZJQ4EEbDsKLi6kYSw__square200/img/ChlbUDq68me-2sdZIJHJH517gq0=/200x200/filters:strip_icc()/pic918568.jpg",
-   "maxplayers": 12,
-   "maxplaytime": 30,
-   "minplayers": 3,
-   "minplaytime": 30,
-   "themes": [
-    "Card Game",
-    "Humor",
-    "Party Game"
-   ],
-   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -20285,13 +19885,57 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 92828,
+   "name": "Dixit: Odyssey",
+   "year": 2011,
+   "rank": 363,
+   "rating": 7.38,
+   "weight": 1.16,
+   "usersrated": 23276,
+   "categories": [
+    "Party"
+   ],
+   "best_players": [
+    6
+   ],
+   "player_votes": 251,
+   "rec_players": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "blurb": "Don’t be too vague or precise when describing beautifully surreal art.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/7b75ZZJQ4EEbDsKLi6kYSw__square200/img/ChlbUDq68me-2sdZIJHJH517gq0=/200x200/filters:strip_icc()/pic918568.jpg",
+   "maxplayers": 12,
+   "maxplaytime": 30,
+   "minplayers": 3,
+   "minplaytime": 30,
+   "themes": [
+    "Card Game",
+    "Humor",
+    "Party Game"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 239188,
    "name": "Chronicles of Crime",
    "year": 2018,
    "rank": 364,
    "rating": 7.52,
    "weight": 2.06,
-   "usersrated": 25250,
+   "usersrated": 25249,
    "categories": [
     "Thematic"
    ],
@@ -20369,7 +20013,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10503914
+    "plays": 10505264
    },
    "steam": [],
    "vtt": [],
@@ -20428,7 +20072,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 142583
+    "plays": 142692
    },
    "steam": [],
    "vtt": [],
@@ -20522,7 +20166,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 133133
+    "plays": 133212
    },
    "steam": [],
    "vtt": [],
@@ -20536,7 +20180,7 @@
    "rank": 369,
    "rating": 7.34,
    "weight": 2.58,
-   "usersrated": 28942,
+   "usersrated": 28944,
    "categories": [
     "Thematic"
    ],
@@ -20659,7 +20303,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 77909
+    "plays": 77964
    },
    "steam": [],
    "vtt": [],
@@ -20711,7 +20355,7 @@
    "rank": 373,
    "rating": 7.23,
    "weight": 1.18,
-   "usersrated": 72530,
+   "usersrated": 72532,
    "categories": [
     "Family"
    ],
@@ -20765,11 +20409,7 @@
      "release": "24 Oct, 2018",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/926520/header.jpg?t=1741270715",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 87,
-      "total": 602
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -20873,11 +20513,7 @@
      "release": "24 Apr, 2018",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323190/abcd2bf3c275092d637d7dd98e0061dbdd2fd2da/header.jpg?t=1792058205",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 93,
-      "total": 138163
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -20981,7 +20617,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 3851
+    "plays": 3910
    },
    "steam": [],
    "vtt": [],
@@ -21041,7 +20677,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 81927
+    "plays": 81978
    },
    "steam": [],
    "vtt": [],
@@ -21096,7 +20732,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2123639
+    "plays": 2124364
    },
    "steam": [],
    "vtt": [],
@@ -21278,7 +20914,7 @@
    "rank": 384,
    "rating": 7.42,
    "weight": 2.05,
-   "usersrated": 13462,
+   "usersrated": 13465,
    "categories": [
     "Family"
    ],
@@ -21316,11 +20952,11 @@
      4,
      5
     ],
-    "avg_minutes": 17,
+    "avg_minutes": 18,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 75298
+    "plays": 75321
    },
    "steam": [],
    "vtt": [],
@@ -21500,7 +21136,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 20927
+    "plays": 20932
    },
    "steam": [],
    "vtt": [],
@@ -21511,10 +21147,10 @@
    "bgg_id": 260180,
    "name": "Project L",
    "year": 2020,
-   "rank": 389,
+   "rank": 388,
    "rating": 7.44,
    "weight": 1.56,
-   "usersrated": 13745,
+   "usersrated": 13748,
    "categories": [
     "Family",
     "Abstract"
@@ -21596,7 +21232,7 @@
    "rank": 391,
    "rating": 7.3,
    "weight": 1.7,
-   "usersrated": 28183,
+   "usersrated": 28185,
    "categories": [
     "Family"
    ],
@@ -21636,7 +21272,7 @@
    "rank": 392,
    "rating": 7.77,
    "weight": 2.17,
-   "usersrated": 6992,
+   "usersrated": 6998,
    "categories": [
     "Thematic",
     "Party"
@@ -21723,11 +21359,11 @@
      3,
      4
     ],
-    "avg_minutes": 83,
+    "avg_minutes": 82,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15592
+    "plays": 15599
    },
    "steam": [],
    "vtt": [],
@@ -21826,7 +21462,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 422097
+    "plays": 422381
    },
    "steam": [],
    "vtt": [],
@@ -21840,7 +21476,7 @@
    "rank": 396,
    "rating": 7.29,
    "weight": 1.8,
-   "usersrated": 28063,
+   "usersrated": 28061,
    "categories": [
     "Family"
    ],
@@ -21969,7 +21605,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17830
+    "plays": 17837
    },
    "steam": [],
    "vtt": [],
@@ -22186,7 +21822,7 @@
    "rank": 404,
    "rating": 7.67,
    "weight": 2.26,
-   "usersrated": 7373,
+   "usersrated": 7375,
    "categories": [
     "Thematic"
    ],
@@ -22237,11 +21873,7 @@
      "release": "30 Jan, 2023",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2069180/header.jpg?t=1677494055",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 73,
-      "total": 141
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -22388,7 +22020,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 19686
+    "plays": 19702
    },
    "steam": [],
    "vtt": [],
@@ -22402,7 +22034,7 @@
    "rank": 408,
    "rating": 7.96,
    "weight": 2.01,
-   "usersrated": 4889,
+   "usersrated": 4890,
    "categories": [
     "Family"
    ],
@@ -22499,12 +22131,8 @@
      ],
      "release": "17 Sep, 2026",
      "coming_soon": false,
-     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/f0b038888943650c397ce1d5a4acbc8c8cdf4cbe/header.jpg?t=1791985618",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 96,
-      "total": 206
-     }
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/f0b038888943650c397ce1d5a4acbc8c8cdf4cbe/header.jpg?t=1793267903",
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -22618,11 +22246,7 @@
      "release": "12 Nov, 2020",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958530/77484594ee9fcd9e6524511a0c6f4d45c3bb28b4/header.jpg?t=1760518039",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 266
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -22683,7 +22307,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 147247
+    "plays": 147338
    },
    "steam": [
     {
@@ -22714,11 +22338,7 @@
      "release": "11 Dec, 2013",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235620/header.jpg?t=1741270770",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 68,
-      "total": 1520
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -22866,7 +22486,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 9305
+    "plays": 9312
    },
    "steam": [],
    "vtt": [],
@@ -22918,7 +22538,7 @@
    "rank": 417,
    "rating": 7.78,
    "weight": 3.3,
-   "usersrated": 5881,
+   "usersrated": 5882,
    "categories": [
     "Thematic",
     "Wargames"
@@ -22961,7 +22581,7 @@
    "rank": 418,
    "rating": 7.56,
    "weight": 2.26,
-   "usersrated": 8303,
+   "usersrated": 8308,
    "categories": [
     "Family"
    ],
@@ -23002,11 +22622,11 @@
      4,
      5
     ],
-    "avg_minutes": 15,
+    "avg_minutes": 16,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 237375
+    "plays": 237594
    },
    "steam": [],
    "vtt": [],
@@ -23066,7 +22686,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 778110
+    "plays": 778865
    },
    "steam": [],
    "vtt": [],
@@ -23080,7 +22700,7 @@
    "rank": 420,
    "rating": 7.64,
    "weight": 1.92,
-   "usersrated": 10280,
+   "usersrated": 10281,
    "categories": [
     "Thematic"
    ],
@@ -23162,7 +22782,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2579536
+    "plays": 2581367
    },
    "steam": [],
    "vtt": [],
@@ -23352,11 +22972,7 @@
      "release": "2 Jun, 2025",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2324150/dbabc6d2744c7aacd8a245d6fa1e408bf219b509/header.jpg?t=1789633245",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 71,
-      "total": 104
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -23501,11 +23117,7 @@
      "release": "28 Feb, 2023",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677980/04e54ddb66380b19e59cffc942c2addc8c74a783/header.jpg?t=1785423348",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 294
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -23613,11 +23225,7 @@
      "release": "13 Nov, 2024",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2351660/a3a103fdfe87f156f782dbe1f4578e9dd4916344/header.jpg?t=1760103844",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 75,
-      "total": 303
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -23631,7 +23239,7 @@
    "rank": 431,
    "rating": 7.4,
    "weight": 2.31,
-   "usersrated": 12836,
+   "usersrated": 12837,
    "categories": [
     "Thematic",
     "Family"
@@ -23680,7 +23288,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 641762
+    "plays": 642147
    },
    "steam": [
     {
@@ -23706,11 +23314,7 @@
      "release": "29 Nov, 2017",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/705550/header.jpg?t=1675463522",
-     "reviews": {
-      "desc": "Very Positive",
-      "pct": 82,
-      "total": 56
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -23845,7 +23449,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 123509
+    "plays": 123599
    },
    "steam": [],
    "vtt": [],
@@ -23900,7 +23504,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 265652
+    "plays": 265764
    },
    "steam": [],
    "vtt": [],
@@ -23914,7 +23518,7 @@
    "rank": 436,
    "rating": 7.18,
    "weight": 1.19,
-   "usersrated": 72422,
+   "usersrated": 72434,
    "categories": [
     "Party"
    ],
@@ -23957,7 +23561,7 @@
    "rank": 437,
    "rating": 7.5,
    "weight": 3.33,
-   "usersrated": 10677,
+   "usersrated": 10680,
    "categories": [
     "Thematic"
    ],
@@ -23992,10 +23596,53 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 342900,
+   "name": "Earthborne Rangers",
+   "year": 2023,
+   "rank": 438,
+   "rating": 8.03,
+   "weight": 3.49,
+   "usersrated": 4661,
+   "categories": [
+    "Thematic",
+    "Customizable"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 190,
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "blurb": "Explore the wilderness of the far future as rangers of a wondrous mountain valley.",
+   "digital": [
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/EVfMwPiHmxDUvY32BbghBg__square200/img/BzfEEBzbXRa1lHm-5dc3ls6wuHU=/200x200/filters:strip_icc()/pic7378384.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 240,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "themes": [
+    "Adventure",
+    "Card Game",
+    "Environmental",
+    "Exploration",
+    "Science Fiction"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 372,
    "name": "Schotten Totten",
    "year": 1999,
-   "rank": 438,
+   "rank": 439,
    "rating": 7.35,
    "weight": 1.67,
    "usersrated": 14681,
@@ -24034,48 +23681,8 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 460893
+    "plays": 461509
    },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 40354,
-   "name": "Maria",
-   "year": 2009,
-   "rank": 439,
-   "rating": 7.99,
-   "weight": 3.58,
-   "usersrated": 4139,
-   "categories": [
-    "Wargames"
-   ],
-   "best_players": [
-    3
-   ],
-   "player_votes": 156,
-   "rec_players": [
-    3
-   ],
-   "blurb": "Maneuver martially and politically in this 3 player War of the Austrian Succession.",
-   "digital": [
-    "Rally the Troops"
-   ],
-   "image": "https://cf.geekdo-images.com/RKnoGhSQwVQo0Z_pXTE19g__square200/img/FbQ9rpT7Adp_aNDLVtqC6Uu3agk=/200x200/filters:strip_icc()/pic524669.jpg",
-   "maxplayers": 3,
-   "maxplaytime": 210,
-   "minplayers": 2,
-   "minplaytime": 210,
-   "themes": [
-    "Age of Reason",
-    "Bluffing",
-    "Negotiation",
-    "Political",
-    "Wargame"
-   ],
-   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -24125,41 +23732,38 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 342900,
-   "name": "Earthborne Rangers",
-   "year": 2023,
-   "rank": 441,
-   "rating": 8.03,
-   "weight": 3.49,
-   "usersrated": 4659,
+   "bgg_id": 40354,
+   "name": "Maria",
+   "year": 2009,
+   "rank": 440,
+   "rating": 7.99,
+   "weight": 3.58,
+   "usersrated": 4139,
    "categories": [
-    "Thematic",
-    "Customizable"
+    "Wargames"
    ],
    "best_players": [
-    2
-   ],
-   "player_votes": 190,
-   "rec_players": [
-    1,
-    2,
     3
    ],
-   "blurb": "Explore the wilderness of the far future as rangers of a wondrous mountain valley.",
-   "digital": [
-    "TableTop Simulator Mod (TTS)"
+   "player_votes": 156,
+   "rec_players": [
+    3
    ],
-   "image": "https://cf.geekdo-images.com/EVfMwPiHmxDUvY32BbghBg__square200/img/BzfEEBzbXRa1lHm-5dc3ls6wuHU=/200x200/filters:strip_icc()/pic7378384.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 240,
-   "minplayers": 1,
-   "minplaytime": 60,
+   "blurb": "Maneuver martially and politically in this 3 player War of the Austrian Succession.",
+   "digital": [
+    "Rally the Troops"
+   ],
+   "image": "https://cf.geekdo-images.com/RKnoGhSQwVQo0Z_pXTE19g__square200/img/FbQ9rpT7Adp_aNDLVtqC6Uu3agk=/200x200/filters:strip_icc()/pic524669.jpg",
+   "maxplayers": 3,
+   "maxplaytime": 210,
+   "minplayers": 2,
+   "minplaytime": 210,
    "themes": [
-    "Adventure",
-    "Card Game",
-    "Environmental",
-    "Exploration",
-    "Science Fiction"
+    "Age of Reason",
+    "Bluffing",
+    "Negotiation",
+    "Political",
+    "Wargame"
    ],
    "bga": null,
    "steam": [],
@@ -24211,11 +23815,11 @@
      4,
      5
     ],
-    "avg_minutes": 69,
+    "avg_minutes": 71,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 782
+    "plays": 792
    },
    "steam": [],
    "vtt": [],
@@ -24349,11 +23953,11 @@
      4,
      5
     ],
-    "avg_minutes": 15,
+    "avg_minutes": 14,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 30587
+    "plays": 30600
    },
    "steam": [],
    "vtt": [],
@@ -24367,7 +23971,7 @@
    "rank": 446,
    "rating": 7.45,
    "weight": 1.82,
-   "usersrated": 10948,
+   "usersrated": 10953,
    "categories": [
     "Family"
    ],
@@ -24411,7 +24015,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 701797
+    "plays": 702188
    },
    "steam": [],
    "vtt": [],
@@ -24504,11 +24108,11 @@
      3,
      4
     ],
-    "avg_minutes": 83,
+    "avg_minutes": 84,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 11778
+    "plays": 11997
    },
    "steam": [],
    "vtt": [],
@@ -24522,7 +24126,7 @@
    "rank": 449,
    "rating": 7.24,
    "weight": 2.11,
-   "usersrated": 24293,
+   "usersrated": 24294,
    "categories": [
     "Family"
    ],
@@ -24564,7 +24168,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 25823
+    "plays": 25830
    },
    "steam": [],
    "vtt": [],
@@ -24620,7 +24224,7 @@
    "rank": 451,
    "rating": 7.2,
    "weight": 1.97,
-   "usersrated": 48618,
+   "usersrated": 48623,
    "categories": [
     "Family"
    ],
@@ -24666,7 +24270,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2771104
+    "plays": 2771396
    },
    "steam": [],
    "vtt": [],
@@ -24680,7 +24284,7 @@
    "rank": 452,
    "rating": 7.48,
    "weight": 1.34,
-   "usersrated": 9352,
+   "usersrated": 9354,
    "categories": [
     "Party"
    ],
@@ -24771,7 +24375,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 214729
+    "plays": 214761
    },
    "steam": [],
    "vtt": [],
@@ -24936,7 +24540,31 @@
     "Civilization"
    ],
    "bga": null,
-   "steam": [],
+   "steam": [
+    {
+     "appid": 4806180,
+     "name": "Imperium",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/4806180/",
+     "confidence": 0.85,
+     "is_free": false,
+     "price": null,
+     "price_initial": null,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [],
+     "developers": [
+      "Petroff Games"
+     ],
+     "publishers": [
+      "Petroff Games"
+     ],
+     "release": "2 Nov, 2026",
+     "coming_soon": true,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806180/0448a4067e96ed9ec9e78684e5bd2c96947c62ca/header.jpg?t=1793094135",
+     "reviews": null
+    }
+   ],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -25077,7 +24705,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17804
+    "plays": 17813
    },
    "steam": [],
    "vtt": [],
@@ -25248,7 +24876,7 @@
    "rank": 465,
    "rating": 7.19,
    "weight": 1.89,
-   "usersrated": 50010,
+   "usersrated": 50015,
    "categories": [
     "Thematic",
     "Family"
@@ -25308,11 +24936,7 @@
      "release": "12 Jan, 2017",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/556180/header.jpg?t=1741270717",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 75,
-      "total": 929
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -25366,7 +24990,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 362194
+    "plays": 362755
    },
    "steam": [],
    "vtt": [],
@@ -25377,10 +25001,10 @@
    "bgg_id": 171,
    "name": "Chess",
    "year": 1475,
-   "rank": 467,
+   "rank": 468,
    "rating": 7.24,
    "weight": 3.64,
-   "usersrated": 41207,
+   "usersrated": 41210,
    "categories": [
     "Abstract"
    ],
@@ -25433,49 +25057,8 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1441869
+    "plays": 1442162
    },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 199042,
-   "name": "Harry Potter: Hogwarts Battle",
-   "year": 2016,
-   "rank": 468,
-   "rating": 7.33,
-   "weight": 2.08,
-   "usersrated": 22441,
-   "categories": [
-    "Thematic",
-    "Family"
-   ],
-   "best_players": [
-    2,
-    4
-   ],
-   "player_votes": 399,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Battle for the fate of the Wizarding World over your 7 years at Hogwarts.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/ugYBvYxyWyx8_BqaFKZlGw__square200/img/1EMU8brKYpsRNF-Tr_f6ha1CZUA=/200x200/filters:strip_icc()/pic3518231.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 60,
-   "minplayers": 2,
-   "minplaytime": 30,
-   "themes": [
-    "Card Game",
-    "Fantasy",
-    "Movies / TV / Radio theme",
-    "Novel-based"
-   ],
-   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -25515,6 +25098,47 @@
     "Card Game",
     "Mythology",
     "Puzzle"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 199042,
+   "name": "Harry Potter: Hogwarts Battle",
+   "year": 2016,
+   "rank": 469,
+   "rating": 7.33,
+   "weight": 2.08,
+   "usersrated": 22441,
+   "categories": [
+    "Thematic",
+    "Family"
+   ],
+   "best_players": [
+    2,
+    4
+   ],
+   "player_votes": 399,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Battle for the fate of the Wizarding World over your 7 years at Hogwarts.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/ugYBvYxyWyx8_BqaFKZlGw__square200/img/1EMU8brKYpsRNF-Tr_f6ha1CZUA=/200x200/filters:strip_icc()/pic3518231.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "themes": [
+    "Card Game",
+    "Fantasy",
+    "Movies / TV / Radio theme",
+    "Novel-based"
    ],
    "bga": null,
    "steam": [],
@@ -25662,11 +25286,7 @@
      "release": "14 Feb, 2017",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/528180/header.jpg?t=1694187976",
-     "reviews": {
-      "desc": "Mostly Negative",
-      "pct": 39,
-      "total": 133
-     }
+     "reviews": null
     }
    ],
    "vtt": [],
@@ -25733,13 +25353,50 @@
      "release": "28 Feb, 2023",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677980/04e54ddb66380b19e59cffc942c2addc8c74a783/header.jpg?t=1785423348",
-     "reviews": {
-      "desc": "Mostly Positive",
-      "pct": 74,
-      "total": 294
-     }
+     "reviews": null
     }
    ],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 404431,
+   "name": "Men-Nefer",
+   "year": 2024,
+   "rank": 475,
+   "rating": 8.15,
+   "weight": 3.69,
+   "usersrated": 3568,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    3
+   ],
+   "player_votes": 139,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "blurb": "Travel to the capital of ancient Egypt & take part in the development of its culture.",
+   "digital": [
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/hMkpLfORIUsMe4dHuuHPyg__square200/img/4jAmqhJhUWDpdVpZ1b8DQ12-8Vc=/200x200/filters:strip_icc()/pic7984201.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 1,
+   "minplaytime": 60,
+   "themes": [
+    "Ancient",
+    "Civilization",
+    "Industry / Manufacturing"
+   ],
+   "bga": null,
+   "steam": [],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -25748,7 +25405,7 @@
    "bgg_id": 146439,
    "name": "BattleLore: Second Edition",
    "year": 2013,
-   "rank": 474,
+   "rank": 475,
    "rating": 7.67,
    "weight": 2.74,
    "usersrated": 6629,
@@ -25802,54 +25459,9 @@
      "release": "31 Mar, 2015",
      "coming_soon": false,
      "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348400/header.jpg?t=1573493862",
-     "reviews": {
-      "desc": "Mixed",
-      "pct": 66,
-      "total": 122
-     }
+     "reviews": null
     }
    ],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 404431,
-   "name": "Men-Nefer",
-   "year": 2024,
-   "rank": 475,
-   "rating": 8.15,
-   "weight": 3.69,
-   "usersrated": 3568,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    3
-   ],
-   "player_votes": 139,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "blurb": "Travel to the capital of ancient Egypt & take part in the development of its culture.",
-   "digital": [
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/hMkpLfORIUsMe4dHuuHPyg__square200/img/4jAmqhJhUWDpdVpZ1b8DQ12-8Vc=/200x200/filters:strip_icc()/pic7984201.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 120,
-   "minplayers": 1,
-   "minplaytime": 60,
-   "themes": [
-    "Ancient",
-    "Civilization",
-    "Industry / Manufacturing"
-   ],
-   "bga": null,
-   "steam": [],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -25902,7 +25514,7 @@
    "rank": 477,
    "rating": 7.51,
    "weight": 1.02,
-   "usersrated": 8517,
+   "usersrated": 8523,
    "categories": [
     "Party"
    ],
@@ -26074,8 +25686,8 @@
    "year": 2021,
    "rank": 481,
    "rating": 8.04,
-   "weight": 3.29,
-   "usersrated": 4019,
+   "weight": 3.28,
+   "usersrated": 4021,
    "categories": [
     "Thematic"
    ],
@@ -26234,7 +25846,7 @@
    "rank": 485,
    "rating": 7.47,
    "weight": 1.92,
-   "usersrated": 8921,
+   "usersrated": 8926,
    "categories": [
     "Family"
    ],
@@ -26274,7 +25886,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 315393
+    "plays": 315574
    },
    "steam": [],
    "vtt": [],
@@ -26327,7 +25939,7 @@
    "rank": 487,
    "rating": 7.38,
    "weight": 1.07,
-   "usersrated": 12844,
+   "usersrated": 12848,
    "categories": [
     "Family"
    ],
@@ -26372,7 +25984,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 201123
+    "plays": 201249
    },
    "steam": [],
    "vtt": [],
@@ -26549,7 +26161,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31538
+    "plays": 31556
    },
    "steam": [],
    "vtt": [],
@@ -26601,7 +26213,7 @@
    "rank": 493,
    "rating": 7.81,
    "weight": 3.16,
-   "usersrated": 5749,
+   "usersrated": 5750,
    "categories": [
     "Thematic",
     "Wargames"
@@ -26635,57 +26247,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 15987,
-   "name": "Arkham Horror",
-   "year": 2005,
-   "rank": 494,
-   "rating": 7.24,
-   "weight": 3.59,
-   "usersrated": 40581,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 1138,
-   "rec_players": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6
-   ],
-   "blurb": "Work as a team to save the town of Arkham from monsters and a Great Old One.",
-   "digital": [
-    "VASSAL"
-   ],
-   "image": "https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__square200/img/cepht7NWPHktzYctwFXTMgJo4BA=/200x200/filters:strip_icc()/pic175966.jpg",
-   "maxplayers": 8,
-   "maxplaytime": 240,
-   "minplayers": 1,
-   "minplaytime": 120,
-   "themes": [
-    "Adventure",
-    "Fighting",
-    "Horror",
-    "Novel-based"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 422732,
    "name": "Agent Avenue",
    "year": 2024,
-   "rank": 495,
+   "rank": 494,
    "rating": 7.51,
    "weight": 1.2,
-   "usersrated": 8020,
+   "usersrated": 8025,
    "categories": [
     "Family"
    ],
@@ -26726,8 +26294,52 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 358133
+    "plays": 358628
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 15987,
+   "name": "Arkham Horror",
+   "year": 2005,
+   "rank": 495,
+   "rating": 7.24,
+   "weight": 3.59,
+   "usersrated": 40584,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 1138,
+   "rec_players": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "blurb": "Work as a team to save the town of Arkham from monsters and a Great Old One.",
+   "digital": [
+    "VASSAL"
+   ],
+   "image": "https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__square200/img/cepht7NWPHktzYctwFXTMgJo4BA=/200x200/filters:strip_icc()/pic175966.jpg",
+   "maxplayers": 8,
+   "maxplaytime": 240,
+   "minplayers": 1,
+   "minplaytime": 120,
+   "themes": [
+    "Adventure",
+    "Fighting",
+    "Horror",
+    "Novel-based"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -26907,7 +26519,7 @@
    "rank": 500,
    "rating": 7.88,
    "weight": 2.37,
-   "usersrated": 5808,
+   "usersrated": 5809,
    "categories": [
     "Thematic"
    ],
@@ -26957,7 +26569,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 185089
+    "plays": 185699
    },
    "steam": [],
    "vtt": [

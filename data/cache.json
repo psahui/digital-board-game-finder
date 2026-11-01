@@ -13336,6 +13336,29 @@
    ],
    "videogames": []
   },
+  "456440": {
+   "_fetched": 1793570656.169951,
+   "alternatenames": [
+    "Aventuras en Villa Pegatina",
+    "Naklejkowo",
+    "\u0421\u0442\u0456\u043a\u0435\u0440\u0432\u0456\u043b\u044c",
+    "\u0423\u044e\u0442\u043d\u044b\u0439 \u0421\u0442\u0438\u043a\u0435\u0440\u0432\u0438\u043b\u044c",
+    "\ucf54\uc9c0 \uc2a4\ud2f0\ucee4\ube4c"
+   ],
+   "blurb": "Build your village with over 800 stickers! ",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/tQn8UU3A_zsi730zNQyNzA__square200/img/-fQ_FjODDSGtydZDZT5lhjX_hz8=/200x200/filters:strip_icc()/pic9171780.png",
+   "maxplayers": 6,
+   "maxplaytime": 30,
+   "minplayers": 1,
+   "minplaytime": 30,
+   "themes": [
+    "Adventure",
+    "City Building",
+    "Exploration"
+   ],
+   "videogames": []
+  },
   "46213": {
    "_fetched": 1791442396.9982948,
    "alternatenames": [
@@ -20475,6 +20498,18 @@
     6
    ]
   },
+  "456440": {
+   "_fetched": 1793570656.8102002,
+   "best_players": [
+    2
+   ],
+   "player_votes": 114,
+   "rec_players": [
+    1,
+    2,
+    3
+   ]
+  },
   "46213": {
    "_fetched": 1791450530.4429185,
    "best_players": [
@@ -21036,7 +21071,7 @@
    "type": "game"
   },
   "1015930": {
-   "_fetched": 1793482723.9761481,
+   "_fetched": 1793570706.2613456,
    "about": "Ragnar\u00f6k is coming! The sky is falling and the end is upon you\u2026 In Blood Rage, the digital adaptation of the hit strategy board game, you lead a proud Viking clan in their final fight for glory.",
    "coming_soon": false,
    "developers": [
@@ -21052,11 +21087,11 @@
    "name": "Blood Rage: Digital Edition",
    "price": {
     "currency": "AUD",
-    "discount_percent": 0,
-    "final": 2950,
-    "final_formatted": "A$ 29.50",
+    "discount_percent": 75,
+    "final": 737,
+    "final_formatted": "A$ 7.37",
     "initial": 2950,
-    "initial_formatted": ""
+    "initial_formatted": "A$ 29.50"
    },
    "publishers": [
     "Twin Sails Interactive"
@@ -21065,7 +21100,7 @@
    "type": "game"
   },
   "1032410": {
-   "_fetched": 1793482847.0266259,
+   "_fetched": 1793570818.1060705,
    "about": "This standalone expansion contains 45 new cards. Use these cards in online play, versus the AI or a friend, or in the 17th and 18th chapters of the campaign.",
    "coming_soon": false,
    "developers": [
@@ -21093,7 +21128,7 @@
    "type": "dlc"
   },
   "1034540": {
-   "_fetched": 1793482778.7805536,
+   "_fetched": 1793570747.198474,
    "about": "Florence, the cradle of Italian Renaissance. The city is experiencing an unprecedented economic and cultural flourishing: will your family prevail and control the city?",
    "coming_soon": false,
    "developers": [
@@ -21121,7 +21156,7 @@
    "type": "game"
   },
   "1054490": {
-   "_fetched": 1793482711.621603,
+   "_fetched": 1793570687.3786585,
    "about": "Wingspan is a relaxing, award-winning strategy card game about birds for 1 to 5 players. Each bird you play extends a chain of powerful combinations in one of your three habitats. Your goal is to discover and attract the best birds to your network of wildlife preserves.",
    "coming_soon": false,
    "developers": [
@@ -21157,7 +21192,7 @@
    "type": "game"
   },
   "1063580": {
-   "_fetched": 1793482764.4726472,
+   "_fetched": 1793570731.3885922,
    "about": "Deck building with a twist! Lead a team of mages against the Nameless in this magic-based card battle game and save the city of Gravehold!",
    "coming_soon": false,
    "developers": [
@@ -21186,7 +21221,7 @@
    "type": "game"
   },
   "1065410": {
-   "_fetched": 1793482800.1256504,
+   "_fetched": 1793570764.3961353,
    "about": "Chose clever, score better! The clever dice game where you try to beat the community in weekly challenges for the highscore.",
    "coming_soon": false,
    "developers": [
@@ -21244,7 +21279,7 @@
    "type": "game"
   },
   "1075190": {
-   "_fetched": 1793482825.4496105,
+   "_fetched": 1793570803.6485069,
    "about": "A Game of Thrones: The Board Game \u2013 Digital Edition is the digital adaptation of the top-selling strategy board game from Fantasy Flight Games.",
    "coming_soon": false,
    "developers": [
@@ -21259,11 +21294,11 @@
    "name": "A Game of Thrones: The Board Game - Digital Edition",
    "price": {
     "currency": "AUD",
-    "discount_percent": 0,
-    "final": 2950,
-    "final_formatted": "A$ 29.50",
+    "discount_percent": 50,
+    "final": 1475,
+    "final_formatted": "A$ 14.75",
     "initial": 2950,
-    "initial_formatted": ""
+    "initial_formatted": "A$ 29.50"
    },
    "publishers": [
     "Twin Sails Interactive"
@@ -21336,7 +21371,7 @@
    "type": "game"
   },
   "1131620": {
-   "_fetched": 1793482773.556102,
+   "_fetched": 1793570740.500096,
    "about": "Expand a small kingdom to a mighty Dominion! Play the Spiel des Jahres winning boardgame beloved by millions around the world. Discover the game that defined a genre, Dominion was first to popularize deck-building and remains a staple of tabletop. This is the officially licensed implementation.",
    "coming_soon": false,
    "developers": [
@@ -21392,7 +21427,7 @@
    "type": "game"
   },
   "1236720": {
-   "_fetched": 1793482694.716834,
+   "_fetched": 1793570667.587046,
    "about": "Become the spirits of the land, and defend the island from colonizing Invaders spreading blight and destruction! Your spirits work with the native islanders to increase your power and drive the invading colonists from your island in this strategic area-control game.",
    "coming_soon": false,
    "developers": [
@@ -21480,7 +21515,7 @@
    "type": "game"
   },
   "1325800": {
-   "_fetched": 1793482715.540333,
+   "_fetched": 1793570692.4922123,
    "about": "This is the official digital adaption of the boardgame Viticulture by Jamey Stegmaier &amp; Alan Stone.",
    "coming_soon": false,
    "developers": [
@@ -21572,7 +21607,7 @@
    "type": "game"
   },
   "1450330": {
-   "_fetched": 1793482706.7618246,
+   "_fetched": 1793570681.8425817,
    "about": "Concordia is a strategic, Euro-style board game. \ud83c\udffa Players take the roles of powerful Roman merchants and follow the Roman expansion with their trade routes, franchises, and production houses. \ud83c\udfdb\ufe0f",
    "coming_soon": false,
    "developers": [
@@ -21604,7 +21639,7 @@
    "type": "game"
   },
   "1455840": {
-   "_fetched": 1793482849.685597,
+   "_fetched": 1793570819.6131468,
    "about": "Dorfromantik is a peaceful building strategy and puzzle game where you create a beautiful and ever-growing village landscape by placing tiles.\u00a0Explore a variety of colorful biomes, discover and unlock new tiles and complete quests to fill your world with life!",
    "coming_soon": false,
    "developers": [
@@ -21617,11 +21652,11 @@
    "name": "Dorfromantik",
    "price": {
     "currency": "AUD",
-    "discount_percent": 0,
-    "final": 1995,
-    "final_formatted": "A$ 19.95",
+    "discount_percent": 35,
+    "final": 1296,
+    "final_formatted": "A$ 12.96",
     "initial": 1995,
-    "initial_formatted": ""
+    "initial_formatted": "A$ 19.95"
    },
    "publishers": [
     "Toukana Interactive"
@@ -21630,7 +21665,7 @@
    "type": "game"
   },
   "1466060": {
-   "_fetched": 1793482777.173418,
+   "_fetched": 1793570745.2419684,
    "about": "Step into a dark reimagination of Arthurian legends in this first person, open world RPG. Explore a world stuck in everlasting autumn, witness falling legends and make meaningful choices woven into a complex, branching storyline.",
    "coming_soon": false,
    "developers": [
@@ -21656,7 +21691,7 @@
    "type": "game"
   },
   "1516400": {
-   "_fetched": 1793482695.7798946,
+   "_fetched": 1793570668.8110483,
    "about": "Gaia Project is the digital adaptation of the boardgame Gaia Project created by Helge Ostertag and Jens Dr\u00f6gem\u00fcller and published by &quot;Feuerland Verlag&quot;. It is a 1-4 player strategy game. It plays in the same universe as Terra Mystica and continues the adventure in the far future.",
    "coming_soon": false,
    "developers": [
@@ -21688,7 +21723,7 @@
    "type": "game"
   },
   "1569700": {
-   "_fetched": 1793482845.9177887,
+   "_fetched": 1793570816.719944,
    "about": "From the makers of the award-winning Star Realms Deckbuilding Game \u00ae, Hero Realms combines the fun of deckbuilding games with the interactivity of trading card game-style combat.",
    "coming_soon": false,
    "developers": [
@@ -21710,7 +21745,7 @@
    "type": "game"
   },
   "1581510": {
-   "_fetched": 1793482772.3235338,
+   "_fetched": 1793570739.2367928,
    "about": "The first expansion is one of the simplest, and the most like just &quot;more Dominion.&quot; It pushes decisions, with &quot;choose one&quot; cards, and has Victory cards with abilities. Also includes some extra-vicious attacks.",
    "coming_soon": false,
    "developers": [
@@ -21797,7 +21832,7 @@
    "type": "game"
   },
   "1677980": {
-   "_fetched": 1793482798.6432402,
+   "_fetched": 1793570763.1806374,
    "about": "Unmatched: Digital Edition is a fast-paced tactical dueling game where legendary heroes face off in battles across the ages. Each player controls a hero, their sidekick(s), and a unique deck of cards built around that character\u2019s fighting style and abilities.",
    "coming_soon": false,
    "developers": [
@@ -21825,7 +21860,7 @@
    "type": "game"
   },
   "1689500": {
-   "_fetched": 1793482690.7498355,
+   "_fetched": 1793570663.6256673,
    "about": "The award-winning board game of strategy and intrigue in the iconic universe of Dune. The Spice must flow.",
    "coming_soon": false,
    "developers": [
@@ -21854,7 +21889,7 @@
    "type": "game"
   },
   "1707532": {
-   "_fetched": 1793482760.3202841,
+   "_fetched": 1793570728.1911888,
    "about": "An official DLC to Concordia: Digital Edition adding two new maps - Ionium and Hellas - and a new two-player team mode - all of which will add variety and new challenges to your games!",
    "coming_soon": false,
    "developers": [
@@ -21885,7 +21920,7 @@
    "type": "dlc"
   },
   "1722840": {
-   "_fetched": 1793482717.8105092,
+   "_fetched": 1793570695.19344,
    "about": "Harvest resources to build a village of woodland critters in this adaptation of the award-winning tabletop board game!",
    "coming_soon": false,
    "developers": [
@@ -21916,7 +21951,7 @@
    "type": "game"
   },
   "1722870": {
-   "_fetched": 1793482716.6895556,
+   "_fetched": 1793570693.6644297,
    "about": "Burgle your way to adventure in the award-winning board game!",
    "coming_soon": false,
    "developers": [
@@ -22016,7 +22051,7 @@
    "type": "dlc"
   },
   "1915550": {
-   "_fetched": 1793482704.3227375,
+   "_fetched": 1793570678.3666766,
    "about": "In Nemesis: Lockdown, you're part of a team exploring an alien-infested space base. Craft, hide and fight to make it out of its dark, threat-filled corridors. Fulfill your objective even if it means betraying your allies, but remember - this time, you are not the hunter. You are the PREY.",
    "coming_soon": false,
    "developers": [
@@ -22045,7 +22080,7 @@
    "type": "game"
   },
   "1933490": {
-   "_fetched": 1793482765.932815,
+   "_fetched": 1793570732.7600245,
    "about": "Selling over 1,000,000 copies worldwide, the continually growing game maker, Oink Games, has brought their works to Steam! Play 7 popular board games in a variety of situations. With family, with friends, or even by yourself.",
    "coming_soon": false,
    "developers": [
@@ -22078,7 +22113,7 @@
    "type": "game"
   },
   "1939940": {
-   "_fetched": 1793482843.0018675,
+   "_fetched": 1793570814.0409226,
    "about": "Create the ultimate Fantasy character by rolling dice, building attributes, purchasing weapons, gaining skills, and discovering character traits in Roll Player, a digital adaptation of a popular board game of dice manipulation and strategy!",
    "coming_soon": false,
    "developers": [
@@ -22141,7 +22176,7 @@
    "type": "game"
   },
   "1993180": {
-   "_fetched": 1793482838.9145174,
+   "_fetched": 1793570810.2069025,
    "about": "Quilts and Cats of Calico is a wholesome, award-winning complex puzzle game for 1 to 4 players. Meet adorable cats and sew the coziest quilts. Compete with other players in multiplayer mode, play solo, or delve into the story of a quilter sewing their way through the city of cats.",
    "coming_soon": false,
    "developers": [
@@ -22173,7 +22208,7 @@
    "type": "game"
   },
   "2069180": {
-   "_fetched": 1793482859.8099382,
+   "_fetched": 1793570830.1829414,
    "about": "Lead the King\u2019s Council for generations as the consequences of your decisions decide the kingdom\u2019s resources and political standing. Form alliances, solve dilemmas, and prepare for the final uprising that was foretold by an ancient prophecy",
    "coming_soon": false,
    "developers": [
@@ -22199,7 +22234,7 @@
    "type": "game"
   },
   "2177570": {
-   "_fetched": 1793482793.6436403,
+   "_fetched": 1793570758.959282,
    "about": "Discover Stone Age, the digital adaptation of the classic worker-placement board game. Roll dice, place Meeples wisely, and use tools to influence your luck. Compete for resources and outsmart your opponents in a race to become the most prosperous leader of the age!",
    "coming_soon": false,
    "developers": [
@@ -22231,7 +22266,7 @@
    "type": "game"
   },
   "2182320": {
-   "_fetched": 1793482720.1757576,
+   "_fetched": 1793570699.187493,
    "about": "The official digital port of the tabletop game which won 2019 Diamant d\u2019Or \u2013 top expert strategy game. This digital version adds online multiplayer and AI opponents.",
    "coming_soon": true,
    "developers": [
@@ -22312,7 +22347,7 @@
    "type": "game"
   },
   "2324150": {
-   "_fetched": 1793482866.5049913,
+   "_fetched": 1793570835.282791,
    "about": "Neuroshima Hex is a post-apocalyptic tactical game from the designers of Neuroshima, the board game. It is all about strategy and tactics on one hexagonal battlefield. The game offers many different units, technologies and special abilities that can be used for an effective strategy.",
    "coming_soon": false,
    "developers": [
@@ -22341,7 +22376,7 @@
    "type": "game"
   },
   "2347080": {
-   "_fetched": 1793482701.490378,
+   "_fetched": 1793570675.7387702,
    "about": "From the creative mind of Isaac Childres, the highly acclaimed board game moves to the digital realm in the video game adaptation of FROSTHAVEN! The dark fantasy tactical RPG features deep mechanics and challenging yet satisfying gameplay both in Single Player and Co-Op Online Multiplayer.",
    "coming_soon": false,
    "developers": [
@@ -22369,7 +22404,7 @@
    "type": "game"
   },
   "2351660": {
-   "_fetched": 1793482884.7135217,
+   "_fetched": 1793570868.6840675,
    "about": "Mindbug redefines the card-battler genre, focusing on pure strategy and fast-paced excitement from the very first turn. Outsmart opponents with the groundbreaking Mindbug mechanic and rise through the new roguelike mode, discovering fresh powers, creatures, and combos each run.",
    "coming_soon": false,
    "developers": [
@@ -22391,7 +22426,7 @@
    "type": "game"
   },
   "235620": {
-   "_fetched": 1793482865.2719703,
+   "_fetched": 1793570834.0436606,
    "about": "CONTROL FANTASY RACES, SET OFF TO CONQUER NEW LANDS, OVERTHROW YOUR ENEMIES AND CLAIM THE VICTORY! In this digital adaptation of the legendary board game, dive into a world inhabited by whimsical fantasy races.",
    "coming_soon": false,
    "developers": [
@@ -22410,11 +22445,11 @@
    "name": "Small World",
    "price": {
     "currency": "AUD",
-    "discount_percent": 0,
-    "final": 1450,
-    "final_formatted": "A$ 14.50",
+    "discount_percent": 80,
+    "final": 290,
+    "final_formatted": "A$ 2.90",
     "initial": 1450,
-    "initial_formatted": ""
+    "initial_formatted": "A$ 14.50"
    },
    "publishers": [
     "Days of Wonder",
@@ -22456,7 +22491,7 @@
    "type": "game"
   },
   "2438970": {
-   "_fetched": 1793482721.5093203,
+   "_fetched": 1793570701.691696,
    "about": "Compete to create the most perfect ecosystem in the award-winning board game journey!",
    "coming_soon": false,
    "developers": [
@@ -22486,7 +22521,7 @@
    "type": "game"
   },
   "2438980": {
-   "_fetched": 1793482801.4957435,
+   "_fetched": 1793570765.511824,
    "about": "Rescue colorful cats to fill your boat in a new digital adaptation of the beloved board game.",
    "coming_soon": false,
    "developers": [
@@ -22516,7 +22551,7 @@
    "type": "game"
   },
   "2438990": {
-   "_fetched": 1793482687.1342719,
+   "_fetched": 1793570659.6377788,
    "about": "Plan and build a modern, scientifically managed zoo to support conservation projects in an acclaimed strategy board game.",
    "coming_soon": false,
    "developers": [
@@ -22577,7 +22612,7 @@
    "type": "game"
   },
   "2477010": {
-   "_fetched": 1793482789.64678,
+   "_fetched": 1793570755.1663086,
    "about": "Discover a fresh adaptation of the iconic, multi-award-winning board game. Play against fellow fans around the world, or take on state-of-the-art AI opponents. Build a railway empire, claim routes and dominate your competitors on the leaderboards in this fan-favourite modern classic!",
    "coming_soon": false,
    "developers": [
@@ -22657,7 +22692,7 @@
    "type": "game"
   },
   "2592340": {
-   "_fetched": 1793482853.9905722,
+   "_fetched": 1793570824.816419,
    "about": "An asymmetric, cooperative dungeon defense game for 1-4 players where you play as the monsters protecting their hard earned treasures against invading hordes of looters (so-called heroes) trying to steal it.",
    "coming_soon": false,
    "developers": [
@@ -22851,7 +22886,7 @@
    "type": "game"
   },
   "282070": {
-   "_fetched": 1793482818.773313,
+   "_fetched": 1793570797.4821668,
    "about": "In This War Of Mine you do not play as an elite soldier, rather a group of civilians trying to survive in a besieged city; struggling with lack of food, medicine and constant danger from snipers and hostile scavengers. The game provides an experience of war seen from an entirely new angle.",
    "coming_soon": false,
    "developers": [
@@ -22877,7 +22912,7 @@
    "type": "game"
   },
   "2820780": {
-   "_fetched": 1793482784.4397101,
+   "_fetched": 1793570751.16134,
    "about": "Champions of Midgard blends strategic planning and dice-driven combat. Recruit warriors, acquire powerful runes, and journey across the sea to battle legendary beasts. Outwit your rivals and prove yourself worthy to be heralded as a Champion of Midgard!",
    "coming_soon": true,
    "developers": [
@@ -22899,7 +22934,7 @@
    "type": "game"
   },
   "2879570": {
-   "_fetched": 1793482713.0069873,
+   "_fetched": 1793570689.0324094,
    "about": "Embrace the technological evolution and build up your hydroelectric empire in Barrage, a turn-based strategy game where players compete to build majestic dams, exploit the power of running water, and bring their faction to victory!",
    "coming_soon": false,
    "developers": [
@@ -23046,7 +23081,7 @@
    "type": "game"
   },
   "2977360": {
-   "_fetched": 1793482791.36448,
+   "_fetched": 1793570756.3346038,
    "about": "Flip &amp; Write game from the Roll Player universe. Expert Game of the Year nominee",
    "coming_soon": false,
    "developers": [
@@ -23073,7 +23108,7 @@
    "type": "game"
   },
   "2983910": {
-   "_fetched": 1793482756.4066455,
+   "_fetched": 1793570723.6509337,
    "about": "Dive into the world of the energy industry with the Power Grid app, designed by award-winning author Friedemann Friese.",
    "coming_soon": false,
    "developers": [
@@ -23159,7 +23194,7 @@
    "type": "game"
   },
   "3029180": {
-   "_fetched": 1793482851.3186162,
+   "_fetched": 1793570822.2564585,
    "about": "Kingdomino is a cosy 1-4 player tile-laying strategy game of kingdom building. Place colorful dominoes, match terrains, and crown your lands to create the most prosperous realm. Simple to learn yet deeply strategic game perfect for quick sessions, solo challenges, or competitive multiplayer.",
    "coming_soon": false,
    "developers": [
@@ -23214,7 +23249,7 @@
    "type": "game"
   },
   "3201730": {
-   "_fetched": 1793482861.6126142,
+   "_fetched": 1793570831.3771644,
    "about": "Flamecraft is a 1-5 player cozy strategy game filled with magic. Become a Flamekeeper and help adorable dragon artisans find the perfect home. Enchant the town\u2019s stores and fill them with dragon cards as you watch the whimsical shopping district come to life.",
    "coming_soon": false,
    "developers": [
@@ -23246,7 +23281,7 @@
    "type": "game"
   },
   "3216750": {
-   "_fetched": 1793482722.8359022,
+   "_fetched": 1793570703.5258193,
    "about": "Caverna is the digital adaptation of the board game of the same name created by Uwe Rosenberg developed by &quot;Lookout Games&quot;. It can be played with 1-7 players.",
    "coming_soon": false,
    "developers": [
@@ -23278,7 +23313,7 @@
    "type": "game"
   },
   "323190": {
-   "_fetched": 1793482857.8143985,
+   "_fetched": 1793570828.8507435,
    "about": "Frostpunk is the first society survival game. As the ruler of the last city on Earth, it is your duty to manage both its citizens and infrastructure. What decisions will you make to ensure your society's survival? What will you do when pushed to breaking point? Who will you become in the process?",
    "coming_soon": false,
    "developers": [
@@ -23304,7 +23339,7 @@
    "type": "game"
   },
   "3239710": {
-   "_fetched": 1793482820.050872,
+   "_fetched": 1793570798.671307,
    "about": "The Red Cathedral is a fun turn-based strategy game for 1 to 4 players. Manage your resources well to build the cathedral better than anyone else and thus win the Tsar's favor.",
    "coming_soon": true,
    "developers": [
@@ -23385,7 +23420,7 @@
    "type": "game"
   },
   "3290350": {
-   "_fetched": 1793482702.626621,
+   "_fetched": 1793570676.9306412,
    "about": "The galaxy, once peaceful after the Terran-Hegemony War, now faces rising tensions. The Galactic Council's efforts to maintain peace are failing as alliances shatter and secret treaties form. A confrontation looms\u2014who will emerge victorious and rule the galaxy? Lead your people to victory!",
    "coming_soon": false,
    "developers": [
@@ -23415,7 +23450,7 @@
    "type": "game"
   },
   "3297500": {
-   "_fetched": 1793482770.9065304,
+   "_fetched": 1793570737.8611705,
    "about": "In Carnegie, players will recruit employees and expand their businesses by investing in real estate, producing goods, developing transport technology, and creating transport chains across the United States.",
    "coming_soon": false,
    "developers": [
@@ -23441,7 +23476,7 @@
    "type": "game"
   },
   "3339080": {
-   "_fetched": 1793482768.6962361,
+   "_fetched": 1793570736.1826222,
    "about": "Wyrmspan is an engine-building, card-driven strategy game for 1 to 5 players. Play as an amateur dracologist discovering a world of dragons. Excavate caves and explore your sanctuary. Entice dragons and chain their abilities to create powerful combos.",
    "coming_soon": true,
    "developers": [
@@ -23467,7 +23502,7 @@
    "type": "game"
   },
   "3387300": {
-   "_fetched": 1793482708.1350558,
+   "_fetched": 1793570683.1982384,
    "about": "Uncover mysteries on an epic journey to the heart of the uncharted island of Arnak in this captivating blend of deck-building and worker placement. Become the leader of an expedition and dive deep into uncharted territory. But you\u2019re not alone\u2014and fame and glory await only the most successful team.",
    "coming_soon": true,
    "developers": [
@@ -23541,7 +23576,7 @@
    "type": "game"
   },
   "348400": {
-   "_fetched": 1793482890.0040798,
+   "_fetched": 1793570873.575094,
    "about": "BattleLore: Command is based on the board game BattleLore Second Edition from Fantasy Flight Games. Lead the noble Daqan army in a campaign against the demon-blooded Uthuk Y\u2019llan or battle head-to-head against a friend or AI opponent in Multiplayer!",
    "coming_soon": false,
    "developers": [
@@ -23629,7 +23664,7 @@
    "type": "game"
   },
   "3669430": {
-   "_fetched": 1793482691.9413319,
+   "_fetched": 1793570664.923959,
    "about": "Dominate the galaxy in the legendary strategy board game, now available digitally. Choose your faction and fight to claim the Imperial Throne!",
    "coming_soon": true,
    "developers": [
@@ -23712,7 +23747,7 @@
    "type": "game"
   },
   "3747270": {
-   "_fetched": 1793482832.6441956,
+   "_fetched": 1793570807.5474055,
    "about": "Strategy and luck are required as you attempt to be the first team to shed all your cards and earn points in this popular partnership card game.",
    "coming_soon": false,
    "developers": [
@@ -23742,7 +23777,7 @@
    "type": "game"
   },
   "376680": {
-   "_fetched": 1793482829.2589214,
+   "_fetched": 1793570804.791044,
    "about": "The OFFICIAL digital adaptation of the best-selling board game. ** ONLINE MULTIPLAYER NOW AVAILABLE !!! **",
    "coming_soon": false,
    "developers": [
@@ -23760,11 +23795,11 @@
    "name": "Splendor",
    "price": {
     "currency": "AUD",
-    "discount_percent": 0,
-    "final": 1450,
-    "final_formatted": "A$ 14.50",
+    "discount_percent": 80,
+    "final": 290,
+    "final_formatted": "A$ 2.90",
     "initial": 1450,
-    "initial_formatted": ""
+    "initial_formatted": "A$ 14.50"
    },
    "publishers": [
     "Twin Sails Interactive",
@@ -23801,7 +23836,7 @@
    "type": "game"
   },
   "3855060": {
-   "_fetched": 1793482848.4963095,
+   "_fetched": 1793570821.0737612,
    "about": "The official digital adaptation of the hit board game, Dice Throne. Dice Throne Digital is a tactical 1v1 hero battler, where dice meet strategy. Roll for powerful abilities, play cards to bend your luck, and outplay your opponent.",
    "coming_soon": true,
    "developers": [
@@ -23823,7 +23858,7 @@
    "type": "game"
   },
   "4000450": {
-   "_fetched": 1793482767.3156116,
+   "_fetched": 1793570734.9145436,
    "about": "In Teotihuacan: City of Gods, players lead worker dice through a modular board to build the Pyramid of the Sun, develop tech, and gain favor from the gods. Over three eras, strategic moves and resource management determine who earns the most fame to win.",
    "coming_soon": false,
    "developers": [
@@ -23849,7 +23884,7 @@
    "type": "game"
   },
   "406290": {
-   "_fetched": 1793482698.0031416,
+   "_fetched": 1793570671.1340525,
    "about": "Twilight Struggle is a two-player game where players play as either the US or USSR during the Cold War. Using actual events from history, players must plan out their strategies in order to obtain world dominance. Play Twilight Struggle and change the course of history.",
    "coming_soon": false,
    "developers": [
@@ -23915,7 +23950,7 @@
    "type": "game"
   },
   "4089610": {
-   "_fetched": 1793482775.9449196,
+   "_fetched": 1793570743.5590563,
    "about": "Uncover ancient cults, battle horrific monsters and thwart the rise of unfathomable Ancient Ones in a 1920s-themed adventure. In this faithful adaptation of the classic board game, you must race against time to save humanity from ancient powers and dark secrets before all is lost.",
    "coming_soon": true,
    "developers": [
@@ -24019,7 +24054,7 @@
    "type": "game"
   },
   "4352540": {
-   "_fetched": 1793482822.545881,
+   "_fetched": 1793570801.1406543,
    "about": "The fate of Japan is in your hands! Sekigahara is a digital adaptation of the acclaimed two-player strategy board game set in 1600, during the epic campaign that unified Japan. Command hidden armies, manage loyalties, and outmaneuver your rival across a divided nation.",
    "coming_soon": true,
    "developers": [
@@ -24067,7 +24102,7 @@
    "type": "game"
   },
   "438140": {
-   "_fetched": 1793482788.108599,
+   "_fetched": 1793570754.0080755,
    "about": "Star Realms is a hugely popular space combat deckbuilding game. Download and play today (note: base set is required to play online) to find out why Star Realms is the winner of SXSW 2014 Board Game of the Year, 7 Golden Geek Awards from BoardGameGeek, and 2 Dice Tower awards!",
    "coming_soon": false,
    "developers": [
@@ -24167,7 +24202,7 @@
    "type": "game"
   },
   "4598200": {
-   "_fetched": 1793482689.4346387,
+   "_fetched": 1793570662.2045972,
    "about": "Summon mighty sandworms in the new expansion!",
    "coming_soon": false,
    "developers": [
@@ -24194,7 +24229,7 @@
    "type": "dlc"
   },
   "4628460": {
-   "_fetched": 1793482714.2486022,
+   "_fetched": 1793570690.2342656,
    "about": "Boardcraft: Crokinole brings the classic tabletop game to a digital format where you can play with your friends, wherever they are. With precise physics, online competition, and deep board customization, you can experience Crokinole in a whole new way.",
    "coming_soon": false,
    "developers": [
@@ -24311,13 +24346,13 @@
    "type": "game"
   },
   "4806180": {
-   "_fetched": 1793482852.4396555,
+   "_fetched": 1793570823.6037724,
    "about": "Imperium is a single-player 4X space strategy game. Colonize alien worlds, design your own spaceships, research exotic technologies, and outmaneuver rival empires through diplomacy or open war. Build a galactic empire and rule it your way.",
    "coming_soon": true,
    "developers": [
     "Petroff Games"
    ],
-   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806180/0448a4067e96ed9ec9e78684e5bd2c96947c62ca/header.jpg?t=1793479946",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806180/0448a4067e96ed9ec9e78684e5bd2c96947c62ca/header.jpg?t=1793568479",
    "is_free": false,
    "mp": [],
    "multiplayer": false,
@@ -24357,7 +24392,7 @@
    "type": "game"
   },
   "4898550": {
-   "_fetched": 1793482718.9233503,
+   "_fetched": 1793570697.5128756,
    "about": "Play your cards strategically and push your engine to the limit in Heat: Pedal to the Metal, the official digital adaptation of the award-winning board game. Manage your speed, master every corner and race through the golden age of 1960s motorsport against friends, Legends and players worldwide.",
    "coming_soon": true,
    "developers": [
@@ -24381,7 +24416,7 @@
    "type": "game"
   },
   "4900910": {
-   "_fetched": 1793482796.935594,
+   "_fetched": 1793570761.8954594,
    "about": "Cobble &amp; Fog pits brilliant minds and monstrous legends against one another in the shadows of London.",
    "coming_soon": false,
    "developers": [
@@ -24409,7 +24444,7 @@
    "type": "dlc"
   },
   "4900920": {
-   "_fetched": 1793482883.366982,
+   "_fetched": 1793570867.5011308,
    "about": "Deep in the forest, two legends clash.",
    "coming_soon": false,
    "developers": [
@@ -24503,7 +24538,7 @@
    "type": "game"
   },
   "509580": {
-   "_fetched": 1793482792.4233987,
+   "_fetched": 1793570757.707146,
    "about": "Build a deck of iconic heroes and challenge the forces of Sauron in this thrilling tactical card game. Travel through famous locations, complete story-driven quests and forge a new legend of Middle-earth on your own or with a friend in cooperative mode.",
    "coming_soon": false,
    "developers": [],
@@ -24517,11 +24552,11 @@
    "name": "The Lord of the Rings: Adventure Card Game - Definitive Edition",
    "price": {
     "currency": "AUD",
-    "discount_percent": 0,
-    "final": 2950,
-    "final_formatted": "A$ 29.50",
+    "discount_percent": 75,
+    "final": 737,
+    "final_formatted": "A$ 7.37",
     "initial": 2950,
-    "initial_formatted": ""
+    "initial_formatted": "A$ 29.50"
    },
    "publishers": [
     "Twin Sails Interactive"
@@ -24567,7 +24602,7 @@
    "type": "game"
   },
   "520680": {
-   "_fetched": 1793482855.200252,
+   "_fetched": 1793570826.0156488,
    "about": "Officially licensed version of the award winning Lost Cities by Reiner Knizia. Plan your expeditions wisely to outpace your rival's pursuits! After 3 rounds of adventuring, the player that had the most successful expeditions is the winner!",
    "coming_soon": false,
    "developers": [
@@ -24591,7 +24626,7 @@
    "type": "game"
   },
   "528180": {
-   "_fetched": 1793482888.683725,
+   "_fetched": 1793570872.4797647,
    "about": "Agricola: All Creatures Big &amp; Small is a digital adaptation of Uwe Rosenberg's award-winning two-player board game featuring farming and livestock breeding.",
    "coming_soon": false,
    "developers": [
@@ -24622,7 +24657,7 @@
    "type": "game"
   },
   "528250": {
-   "_fetched": 1793482780.5840645,
+   "_fetched": 1793570748.382046,
    "about": "In the long-awaited digital adaptation of Uwe Rosenberg's Patchwork, players patch their way to victory using fabric pieces of assorted sizes, colors, and buttons.",
    "coming_soon": false,
    "developers": [
@@ -24654,7 +24689,7 @@
    "type": "game"
   },
   "5290560": {
-   "_fetched": 1793482830.4366639,
+   "_fetched": 1793570806.268954,
    "about": "Play Tichu in a polished digital adaptation of the 2v2 partnership card game. Compete in Ranked or Unranked online matches, challenge AI opponents across three difficulties, master special cards, and track your progress through stats, leaderboards and achievements.",
    "coming_soon": true,
    "developers": [
@@ -24701,7 +24736,7 @@
    "type": "game"
   },
   "556180": {
-   "_fetched": 1793482887.442073,
+   "_fetched": 1793570871.1246765,
    "about": "Mysterium is a cooperative deduction game set in the 1920s in which a ghost guides a group of psychics to uncover a murderer, as well as the weapon and location of the murder, using only visual clues.",
    "coming_soon": false,
    "developers": [
@@ -24732,7 +24767,7 @@
    "type": "game"
   },
   "579940": {
-   "_fetched": 1793482759.0201209,
+   "_fetched": 1793570726.7618275,
    "about": "Explore, Settle, Develop, Trade, Consume, or Produce? Which do you need most? Which of Earth's former colonies will be most successful at settling the galaxy, now that JumpDrive exists? Who will discover the secrets of the mysteriously vanished Alien Overlords? Your goal: to build the most prosperou",
    "coming_soon": false,
    "developers": [
@@ -24761,7 +24796,7 @@
    "type": "game"
   },
   "595930": {
-   "_fetched": 1793482856.4764514,
+   "_fetched": 1793570827.332293,
    "about": "The official version of one of the best board games - Steam: Rails to Riches. Take control of a railway company, issue shares, build railroads, deliver goods along a network of tracks and stations and make profit to expand.",
    "coming_soon": false,
    "developers": [
@@ -24792,7 +24827,7 @@
    "type": "game"
   },
   "598810": {
-   "_fetched": 1793482823.6473062,
+   "_fetched": 1793570802.3942614,
    "about": "The official adaptation of the famous board game Carcassonne! A modern classic tile-placement game based on the award winning game in which the players draw and place a tile with a piece of southern French landscape on it. The player can then decide to place one of his followers, called Meeples.",
    "coming_soon": false,
    "developers": [
@@ -24811,11 +24846,11 @@
    "name": "Carcassonne - Tiles & Tactics",
    "price": {
     "currency": "AUD",
-    "discount_percent": 0,
-    "final": 1450,
-    "final_formatted": "A$ 14.50",
+    "discount_percent": 70,
+    "final": 435,
+    "final_formatted": "A$ 4.35",
     "initial": 1450,
-    "initial_formatted": ""
+    "initial_formatted": "A$ 14.50"
    },
    "publishers": [
     "Twin Sails Interactive"
@@ -24824,7 +24859,7 @@
    "type": "game"
   },
   "616500": {
-   "_fetched": 1793482836.3919742,
+   "_fetched": 1793570808.908436,
    "about": "This standalone expansion contains 120 new cards (43 unique). Use these cards in online play, versus the AI or a friend, or in the 9th and 10th chapter of the campaign.",
    "coming_soon": false,
    "developers": [
@@ -24889,7 +24924,7 @@
    "type": "game"
   },
   "628900": {
-   "_fetched": 1793482710.5312755,
+   "_fetched": 1793570685.8484907,
    "about": "In a world of fantasy, called Terra Mystica, 14 races are fighting together or individually against their opponents to gain power and territory. Using their resources smartly and terraforming wisely to gain supremacy and lead their own settlers to victory.",
    "coming_soon": false,
    "developers": [
@@ -24946,7 +24981,7 @@
    "type": "game"
   },
   "644390": {
-   "_fetched": 1793482761.4546843,
+   "_fetched": 1793570730.016469,
    "about": "Lords of Waterdeep is an award winning strategy board game, set in the Dungeons &amp; Dragons world of Waterdeep. Play as one of the masked Lords of the City of Splendor. Intrigue abounds as you recruit adventurers, via your agents, to quest on your behalf and spread your influence.",
    "coming_soon": false,
    "developers": [
@@ -24976,7 +25011,7 @@
    "type": "game"
   },
   "646570": {
-   "_fetched": 1793482696.8882322,
+   "_fetched": 1793570669.8620794,
    "about": "We fused card games and roguelikes together to make the best single player deckbuilder we could. Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and Slay the Spire!",
    "coming_soon": false,
    "developers": [
@@ -25059,7 +25094,7 @@
    "type": "game"
   },
   "705550": {
-   "_fetched": 1793482886.0931277,
+   "_fetched": 1793570869.9071379,
    "about": "Burgle Bros. blends high-tension teamwork, stealth and brain-twisting puzzles.",
    "coming_soon": false,
    "developers": [
@@ -25087,7 +25122,7 @@
    "type": "game"
   },
   "718560": {
-   "_fetched": 1793482705.4575448,
+   "_fetched": 1793570680.6608953,
    "about": "Scythe transports you to an alternate reality in 1920s Europa, one ravaged by the First World War. Take up the role of leader by assuming command of one of 5 factions, and set out to conquer the coveted &quot;Factory&quot;. Lead your mechs to war and your people to victory!",
    "coming_soon": false,
    "developers": [
@@ -25117,7 +25152,7 @@
    "type": "game"
   },
   "758370": {
-   "_fetched": 1793482700.2662518,
+   "_fetched": 1793570674.3168144,
    "about": "Legendary board game classic from award winning designer Vlaada Chv\u00e1til",
    "coming_soon": false,
    "developers": [
@@ -25147,7 +25182,7 @@
    "type": "game"
   },
   "780290": {
-   "_fetched": 1793482688.2798307,
+   "_fetched": 1793570660.8599782,
    "about": "Lead your band of mercenaries in the land of Gloomhaven, work with unsavoury individuals, shape the fate of the region, fight your way through horrific places and get rich or die trying in this ruthless Tactical-RPG.",
    "coming_soon": false,
    "developers": [
@@ -25176,7 +25211,7 @@
    "type": "game"
   },
   "800270": {
-   "_fetched": 1793482693.5800998,
+   "_fetched": 1793570666.1917143,
    "about": "The taming of the Red Planet has begun! Corporations are competing to transform Mars into a habitable planet by spending vast resources and using innovative technology to raise temperature, create a breathable atmosphere, and make oceans of water.",
    "coming_soon": false,
    "developers": [
@@ -25194,11 +25229,11 @@
    "name": "Terraforming Mars",
    "price": {
     "currency": "AUD",
-    "discount_percent": 0,
-    "final": 2950,
-    "final_formatted": "A$ 29.50",
+    "discount_percent": 70,
+    "final": 885,
+    "final_formatted": "A$ 8.85",
     "initial": 2950,
-    "initial_formatted": ""
+    "initial_formatted": "A$ 29.50"
    },
    "publishers": [
     "Twin Sails Interactive"
@@ -25239,7 +25274,7 @@
    "type": "game"
   },
   "840210": {
-   "_fetched": 1793482757.5429437,
+   "_fetched": 1793570725.2741127,
    "about": "Inspired by the award-winning board game franchise, Arkham Horror: Mother\u2019s Embrace is an\u00a0investigation game served with turn-based combat, set in the cult universe of H.P. Lovecraft.",
    "coming_soon": false,
    "developers": [
@@ -25265,7 +25300,7 @@
    "type": "game"
   },
   "873980": {
-   "_fetched": 1793482840.5155885,
+   "_fetched": 1793570811.4642997,
    "about": "Five clans are fighting to rule over the Isle of Skye. Only the chieftain who develops the best clan territory and trades wisely will be king!",
    "coming_soon": false,
    "developers": [
@@ -25295,7 +25330,7 @@
    "type": "game"
   },
   "884670": {
-   "_fetched": 1793482782.318678,
+   "_fetched": 1793570749.921585,
    "about": "Codenames is a clever word game of deduction, teamwork, and strategy, inspired by the popular board game loved worldwide. Give one-word clues, link multiple words, and read your teammates\u2019 minds to win before the other team does.",
    "coming_soon": true,
    "developers": [
@@ -25321,7 +25356,7 @@
    "type": "game"
   },
   "893840": {
-   "_fetched": 1793482786.1923287,
+   "_fetched": 1793570752.8497317,
    "about": "Roll for the Galaxy is a dice game of building space empires for 2-5 players. Your dice represent your populace, whom you direct to develop new technologies, settle worlds, and ship goods. The player who best manages their workers and builds the most prosperous empire wins!",
    "coming_soon": false,
    "developers": [
@@ -25352,7 +25387,7 @@
    "type": "game"
   },
   "903040": {
-   "_fetched": 1793482699.192946,
+   "_fetched": 1793570672.6437778,
    "about": "Stefan Feld's highly decorated board game &quot;The Castles Of Burgundy&quot; by Ravensburger is getting its digital version on Steam! Enjoy against the challenging AI or friends a beautiful digital version of the classic board game!",
    "coming_soon": false,
    "developers": [
@@ -25384,7 +25419,7 @@
    "type": "game"
   },
   "916440": {
-   "_fetched": 1793482841.77329,
+   "_fetched": 1793570812.6711612,
    "about": "Forge your empire in an award-winning builder game set at the dawn of the Industrial Age. Lead your society strategically and master complex production chains with innovation, diplomacy, and economic mastery.",
    "coming_soon": false,
    "developers": [
@@ -25413,7 +25448,7 @@
    "type": "game"
   },
   "926520": {
-   "_fetched": 1793482844.3439713,
+   "_fetched": 1793570815.3989327,
    "about": "The princess has several suitors... but which of them will manage to charm her? Choose a strategy, be it through bluffing or power of deduction, to win your beloved's heart. The official adaptation of the renowned card game.",
    "coming_soon": false,
    "developers": [
@@ -25428,11 +25463,11 @@
    "name": "Love Letter",
    "price": {
     "currency": "AUD",
-    "discount_percent": 0,
-    "final": 1025,
-    "final_formatted": "A$ 10.25",
+    "discount_percent": 80,
+    "final": 205,
+    "final_formatted": "A$ 2.05",
     "initial": 1025,
-    "initial_formatted": ""
+    "initial_formatted": "A$ 10.25"
    },
    "publishers": [
     "Twin Sails Interactive"
@@ -25478,7 +25513,7 @@
    "type": "game"
   },
   "943410": {
-   "_fetched": 1793482795.0878148,
+   "_fetched": 1793570760.6258411,
    "about": "Collect and trade goods! Plan ahead! Earn rubies and win the race to fortune! Become the best merchant in Istanbul! This faithful adaptation of one of the best board games of all time will turn you into a merchant on a journey from rags to riches. \ud83d\udd4c\ud83d\udce6\ud83d\udc73",
    "coming_soon": false,
    "developers": [
@@ -25509,7 +25544,7 @@
    "type": "game"
   },
   "958530": {
-   "_fetched": 1793482863.856061,
+   "_fetched": 1793570832.768322,
    "about": "Dracula is ready to take over Europe and only four iconic vampire hunters can stop him, in this digital adaptation of the classic board game of deduction and gothic horror. Play locally with friends or with up to five players online. Will you be the hunter or the hunted?",
    "coming_soon": false,
    "developers": [
@@ -25540,7 +25575,7 @@
    "type": "game"
   },
   "965580": {
-   "_fetched": 1793482709.2628088,
+   "_fetched": 1793570684.434786,
    "about": "Might makes right in the wild wood! The award-winning board game of asymmetrical woodland warfare comes to cross-platform digital play! Combine subtle strategy and bold daring to guide your forest faction to victory!",
    "coming_soon": false,
    "developers": [
@@ -25571,7 +25606,7 @@
    "type": "game"
   },
   "965590": {
-   "_fetched": 1793482821.3937058,
+   "_fetched": 1793570799.849887,
    "about": "A game of dice drafting and window crafting.",
    "coming_soon": false,
    "developers": [
@@ -25599,7 +25634,7 @@
    "type": "game"
   },
   "965600": {
-   "_fetched": 1793482774.7104828,
+   "_fetched": 1793570742.0379071,
    "about": "It's Raiding Season! Plunder your way to Viking adventure in the digital adaptation of the award-winning worker-placement board game!",
    "coming_soon": false,
    "developers": [
@@ -26586,6 +26621,10 @@
    "results": {
     "405130": "Tabletop Simulator - Cosmic Encounter Connector"
    }
+  },
+  "cozy stickerville": {
+   "_fetched": 1793570874.7246857,
+   "results": {}
   },
   "crew mission deep sea": {
    "_fetched": 1791440862.512415,

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T23:40+00:00",
+ "generated": "2026-11-14T22:31+00:00",
  "country": "au",
  "top_n": 500,
  "games": [
@@ -102,7 +102,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 14089954
+    "plays": 14104006
    },
    "steam": [
     {
@@ -441,11 +441,11 @@
      5,
      6
     ],
-    "avg_minutes": 225,
+    "avg_minutes": 224,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 6168
+    "plays": 6222
    },
    "steam": [
     {
@@ -576,7 +576,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5823823
+    "plays": 5831325
    },
    "steam": [
     {
@@ -853,7 +853,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 496727
+    "plays": 497021
    },
    "steam": [
     {
@@ -1120,7 +1120,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4646839
+    "plays": 4650065
    },
    "steam": [
     {
@@ -1426,7 +1426,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 13369
+    "plays": 13777
    },
    "steam": [],
    "vtt": [],
@@ -1556,7 +1556,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 14525532
+    "plays": 14531868
    },
    "steam": [],
    "vtt": [],
@@ -1685,7 +1685,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 526871
+    "plays": 527192
    },
    "steam": [],
    "vtt": [],
@@ -1750,7 +1750,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 140384
+    "plays": 140544
    },
    "steam": [
     {
@@ -1883,7 +1883,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 59341
+    "plays": 59443
    },
    "steam": [
     {
@@ -1893,9 +1893,9 @@
      "url": "https://store.steampowered.com/app/1450330/",
      "confidence": 1.0,
      "is_free": false,
-     "price": 29.5,
+     "price": 14.75,
      "price_initial": 29.5,
-     "discount": 0,
+     "discount": 50,
      "currency": "AUD",
      "mp": [
       "async",
@@ -1972,7 +1972,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3470694
+    "plays": 3473315
    },
    "steam": [
     {
@@ -2057,7 +2057,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 432382
+    "plays": 432574
    },
    "steam": [],
    "vtt": [],
@@ -2110,7 +2110,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1030309
+    "plays": 1031006
    },
    "steam": [],
    "vtt": [],
@@ -2284,7 +2284,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 91298
+    "plays": 91380
    },
    "steam": [],
    "vtt": [
@@ -2354,7 +2354,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 909635
+    "plays": 909825
    },
    "steam": [
     {
@@ -2493,7 +2493,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10820852
+    "plays": 10830426
    },
    "steam": [
     {
@@ -2631,7 +2631,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 318777
+    "plays": 318931
    },
    "steam": [
     {
@@ -2717,7 +2717,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31524
+    "plays": 31672
    },
    "steam": [
     {
@@ -2740,7 +2740,7 @@
      ],
      "release": "28 Feb, 2027",
      "coming_soon": true,
-     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5531750/7f72a25930b7d4533e25592ca773a02e672b72dc/header.jpg?t=1794570626",
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5531750/7f72a25930b7d4533e25592ca773a02e672b72dc/header.jpg?t=1794672195",
      "reviews": null
     }
    ],
@@ -2795,7 +2795,7 @@
    "rank": 43,
    "rating": 8.07,
    "weight": 1.23,
-   "usersrated": 21701,
+   "usersrated": 21706,
    "categories": [
     "Family"
    ],
@@ -3057,7 +3057,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 345469
+    "plays": 345582
    },
    "steam": [],
    "vtt": [],
@@ -3071,7 +3071,7 @@
    "rank": 47,
    "rating": 8.6,
    "weight": 2.56,
-   "usersrated": 7413,
+   "usersrated": 7418,
    "categories": [
     "Family"
    ],
@@ -3186,7 +3186,7 @@
    "rank": 49,
    "rating": 7.99,
    "weight": 2.2,
-   "usersrated": 44173,
+   "usersrated": 44190,
    "categories": [
     "Family"
    ],
@@ -3237,7 +3237,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 945908
+    "plays": 946599
    },
    "steam": [
     {
@@ -3376,7 +3376,7 @@
    "rank": 52,
    "rating": 8.04,
    "weight": 2.01,
-   "usersrated": 34377,
+   "usersrated": 34440,
    "categories": [
     "Family",
     "Abstract"
@@ -3424,7 +3424,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3525386
+    "plays": 3530646
    },
    "steam": [],
    "vtt": [],
@@ -3639,11 +3639,11 @@
      4,
      5
     ],
-    "avg_minutes": 49,
+    "avg_minutes": 48,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 94634
+    "plays": 94707
    },
    "steam": [],
    "vtt": [],
@@ -3700,11 +3700,11 @@
      4,
      5
     ],
-    "avg_minutes": 54,
+    "avg_minutes": 55,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 254385
+    "plays": 254632
    },
    "steam": [],
    "vtt": [],
@@ -3763,7 +3763,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2930287
+    "plays": 2930840
    },
    "steam": [],
    "vtt": [],
@@ -3907,7 +3907,7 @@
    "rank": 62,
    "rating": 7.88,
    "weight": 1.84,
-   "usersrated": 58043,
+   "usersrated": 58074,
    "categories": [
     "Family",
     "Abstract"
@@ -4029,11 +4029,11 @@
      6,
      7
     ],
-    "avg_minutes": 54,
+    "avg_minutes": 53,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 120756
+    "plays": 120796
    },
    "steam": [
     {
@@ -4122,7 +4122,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 53349
+    "plays": 53371
    },
    "steam": [],
    "vtt": [],
@@ -4136,7 +4136,7 @@
    "rank": 65,
    "rating": 8.21,
    "weight": 2.93,
-   "usersrated": 12228,
+   "usersrated": 12243,
    "categories": [
     "Strategy"
    ],
@@ -4221,7 +4221,7 @@
    "rank": 67,
    "rating": 7.85,
    "weight": 3.64,
-   "usersrated": 77489,
+   "usersrated": 77492,
    "categories": [
     "Strategy"
    ],
@@ -4265,7 +4265,7 @@
    "rank": 68,
    "rating": 7.96,
    "weight": 3.19,
-   "usersrated": 25889,
+   "usersrated": 25895,
    "categories": [
     "Strategy"
    ],
@@ -4302,7 +4302,7 @@
    "rank": 69,
    "rating": 8.06,
    "weight": 3.12,
-   "usersrated": 19109,
+   "usersrated": 19122,
    "categories": [
     "Strategy",
     "Thematic"
@@ -4340,11 +4340,11 @@
      3,
      4
     ],
-    "avg_minutes": 38,
+    "avg_minutes": 37,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 332391
+    "plays": 332542
    },
    "steam": [],
    "vtt": [],
@@ -4358,7 +4358,7 @@
    "rank": 70,
    "rating": 7.89,
    "weight": 2.88,
-   "usersrated": 52654,
+   "usersrated": 52667,
    "categories": [
     "Strategy"
    ],
@@ -4404,7 +4404,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 107339
+    "plays": 107385
    },
    "steam": [
     {
@@ -4451,7 +4451,7 @@
    "rank": 71,
    "rating": 8.16,
    "weight": 4.56,
-   "usersrated": 13234,
+   "usersrated": 13235,
    "categories": [
     "Strategy"
    ],
@@ -4494,7 +4494,7 @@
    "rank": 72,
    "rating": 7.98,
    "weight": 3.08,
-   "usersrated": 25064,
+   "usersrated": 25080,
    "categories": [
     "Strategy"
    ],
@@ -4540,7 +4540,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 665448
+    "plays": 666291
    },
    "steam": [],
    "vtt": [],
@@ -4554,7 +4554,7 @@
    "rank": 73,
    "rating": 8.43,
    "weight": 4.0,
-   "usersrated": 7585,
+   "usersrated": 7592,
    "categories": [
     "Strategy"
    ],
@@ -4592,7 +4592,7 @@
    "rank": 74,
    "rating": 8.01,
    "weight": 3.25,
-   "usersrated": 18551,
+   "usersrated": 18550,
    "categories": [
     "Strategy",
     "Thematic"
@@ -4675,7 +4675,7 @@
    "rank": 76,
    "rating": 7.8,
    "weight": 3.24,
-   "usersrated": 70340,
+   "usersrated": 70345,
    "categories": [
     "Strategy"
    ],
@@ -4746,7 +4746,7 @@
    "rank": 77,
    "rating": 7.84,
    "weight": 3.66,
-   "usersrated": 43055,
+   "usersrated": 43058,
    "categories": [
     "Strategy"
    ],
@@ -4791,7 +4791,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 806568
+    "plays": 806675
    },
    "steam": [],
    "vtt": [],
@@ -4846,7 +4846,7 @@
    "rank": 79,
    "rating": 7.94,
    "weight": 3.47,
-   "usersrated": 23368,
+   "usersrated": 23373,
    "categories": [
     "Strategy"
    ],
@@ -4892,7 +4892,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 387609
+    "plays": 387692
    },
    "steam": [],
    "vtt": [],
@@ -4972,13 +4972,51 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 413246,
+   "name": "Bomb Busters",
+   "year": 2024,
+   "rank": 81,
+   "rating": 8.02,
+   "weight": 2.01,
+   "usersrated": 16558,
+   "categories": [
+    "Family"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 453,
+   "rec_players": [
+    3,
+    4,
+    5
+   ],
+   "blurb": "Players defuse bombs by deducing and cutting unseen wires of different values.",
+   "digital": [
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__square200/img/Vc2P4ULKQq1zNLkpRZR3wYb0Bmc=/200x200/filters:strip_icc()/pic8303080.png",
+   "maxplayers": 5,
+   "maxplaytime": 30,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "themes": [
+    "Deduction"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 244521,
    "name": "Quacks",
    "year": 2018,
-   "rank": 81,
+   "rank": 82,
    "rating": 7.8,
    "weight": 1.94,
-   "usersrated": 60699,
+   "usersrated": 60719,
    "categories": [
     "Family"
    ],
@@ -5011,51 +5049,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 413246,
-   "name": "Bomb Busters",
-   "year": 2024,
-   "rank": 82,
-   "rating": 8.02,
-   "weight": 2.01,
-   "usersrated": 16517,
-   "categories": [
-    "Family"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 453,
-   "rec_players": [
-    3,
-    4,
-    5
-   ],
-   "blurb": "Players defuse bombs by deducing and cutting unseen wires of different values.",
-   "digital": [
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__square200/img/Vc2P4ULKQq1zNLkpRZR3wYb0Bmc=/200x200/filters:strip_icc()/pic8303080.png",
-   "maxplayers": 5,
-   "maxplaytime": 30,
-   "minplayers": 2,
-   "minplaytime": 30,
-   "themes": [
-    "Deduction"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 266810,
    "name": "Paladins of the West Kingdom",
    "year": 2019,
    "rank": 83,
    "rating": 7.95,
    "weight": 3.7,
-   "usersrated": 21139,
+   "usersrated": 21146,
    "categories": [
     "Strategy"
    ],
@@ -5097,7 +5097,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 22288
+    "plays": 22896
    },
    "steam": [],
    "vtt": [],
@@ -5111,7 +5111,7 @@
    "rank": 84,
    "rating": 7.83,
    "weight": 3.7,
-   "usersrated": 34253,
+   "usersrated": 34252,
    "categories": [
     "Strategy"
    ],
@@ -5192,7 +5192,7 @@
    "rank": 86,
    "rating": 7.95,
    "weight": 3.45,
-   "usersrated": 21911,
+   "usersrated": 21919,
    "categories": [
     "Strategy"
    ],
@@ -5237,7 +5237,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1940103
+    "plays": 1941174
    },
    "steam": [],
    "vtt": [],
@@ -5251,7 +5251,7 @@
    "rank": 87,
    "rating": 8.0,
    "weight": 4.21,
-   "usersrated": 16838,
+   "usersrated": 16840,
    "categories": [
     "Strategy"
    ],
@@ -5335,7 +5335,7 @@
    "rank": 89,
    "rating": 8.2,
    "weight": 2.63,
-   "usersrated": 10818,
+   "usersrated": 10823,
    "categories": [
     "Strategy"
    ],
@@ -5374,7 +5374,7 @@
    "rank": 90,
    "rating": 8.08,
    "weight": 3.91,
-   "usersrated": 13070,
+   "usersrated": 13080,
    "categories": [
     "Strategy"
    ],
@@ -5414,11 +5414,11 @@
      3,
      4
     ],
-    "avg_minutes": 49,
+    "avg_minutes": 50,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 202407
+    "plays": 202552
    },
    "steam": [],
    "vtt": [],
@@ -5432,7 +5432,7 @@
    "rank": 91,
    "rating": 7.93,
    "weight": 3.92,
-   "usersrated": 19066,
+   "usersrated": 19068,
    "categories": [
     "Strategy"
    ],
@@ -5478,7 +5478,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 98180
+    "plays": 98228
    },
    "steam": [],
    "vtt": [],
@@ -5492,7 +5492,7 @@
    "rank": 92,
    "rating": 8.04,
    "weight": 3.47,
-   "usersrated": 13603,
+   "usersrated": 13612,
    "categories": [
     "Strategy"
    ],
@@ -5536,7 +5536,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87505
+    "plays": 87579
    },
    "steam": [],
    "vtt": [],
@@ -5586,7 +5586,7 @@
    "rank": 94,
    "rating": 7.94,
    "weight": 2.45,
-   "usersrated": 18582,
+   "usersrated": 18585,
    "categories": [
     "Strategy",
     "Thematic"
@@ -5626,7 +5626,7 @@
    "rank": 95,
    "rating": 7.74,
    "weight": 2.99,
-   "usersrated": 59629,
+   "usersrated": 59633,
    "categories": [
     "Strategy"
    ],
@@ -5675,7 +5675,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 17097219
+    "plays": 17100348
    },
    "steam": [
     {
@@ -5759,7 +5759,7 @@
    "rank": 97,
    "rating": 7.75,
    "weight": 1.97,
-   "usersrated": 49782,
+   "usersrated": 49792,
    "categories": [
     "Family"
    ],
@@ -5804,7 +5804,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 566771
+    "plays": 566857
    },
    "steam": [],
    "vtt": [],
@@ -5818,7 +5818,7 @@
    "rank": 98,
    "rating": 7.76,
    "weight": 2.84,
-   "usersrated": 45903,
+   "usersrated": 45912,
    "categories": [
     "Strategy"
    ],
@@ -5860,7 +5860,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 72134
+    "plays": 72184
    },
    "steam": [],
    "vtt": [],
@@ -5874,7 +5874,7 @@
    "rank": 99,
    "rating": 8.28,
    "weight": 3.98,
-   "usersrated": 8463,
+   "usersrated": 8474,
    "categories": [
     "Strategy"
    ],
@@ -5921,7 +5921,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 101947
+    "plays": 102054
    },
    "steam": [],
    "vtt": [],
@@ -5935,7 +5935,7 @@
    "rank": 100,
    "rating": 7.71,
    "weight": 1.77,
-   "usersrated": 111964,
+   "usersrated": 112001,
    "categories": [
     "Family",
     "Abstract"
@@ -5978,7 +5978,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 29628682
+    "plays": 29646643
    },
    "steam": [],
    "vtt": [],
@@ -6036,7 +6036,7 @@
    "rank": 102,
    "rating": 7.77,
    "weight": 2.93,
-   "usersrated": 33854,
+   "usersrated": 33861,
    "categories": [
     "Strategy"
    ],
@@ -6078,7 +6078,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31991
+    "plays": 32003
    },
    "steam": [],
    "vtt": [],
@@ -6092,7 +6092,7 @@
    "rank": 103,
    "rating": 8.25,
    "weight": 3.01,
-   "usersrated": 7889,
+   "usersrated": 7891,
    "categories": [
     "Strategy"
    ],
@@ -6125,50 +6125,10 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 359871,
-   "name": "Arcs",
-   "year": 2024,
-   "rank": 104,
-   "rating": 7.97,
-   "weight": 3.46,
-   "usersrated": 19273,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    3,
-    4
-   ],
-   "player_votes": 610,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Rule the galaxy with your court, fleet, and cities.",
-   "digital": [
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__square200/img/zXO9E8jCgpkdRq2PVHUlI7xy8Zc=/200x200/filters:strip_icc()/pic8145530.png",
-   "maxplayers": 4,
-   "maxplaytime": 120,
-   "minplayers": 2,
-   "minplaytime": 60,
-   "themes": [
-    "Science Fiction",
-    "Space Exploration"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 159675,
    "name": "Fields of Arle",
    "year": 2014,
-   "rank": 105,
+   "rank": 104,
    "rating": 8.02,
    "weight": 3.85,
    "usersrated": 12701,
@@ -6204,13 +6164,53 @@
    "steam_delisted": false
   },
   {
+   "bgg_id": 359871,
+   "name": "Arcs",
+   "year": 2024,
+   "rank": 105,
+   "rating": 7.97,
+   "weight": 3.46,
+   "usersrated": 19288,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    3,
+    4
+   ],
+   "player_votes": 610,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Rule the galaxy with your court, fleet, and cities.",
+   "digital": [
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__square200/img/zXO9E8jCgpkdRq2PVHUlI7xy8Zc=/200x200/filters:strip_icc()/pic8145530.png",
+   "maxplayers": 4,
+   "maxplaytime": 120,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "themes": [
+    "Science Fiction",
+    "Space Exploration"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
    "bgg_id": 201808,
    "name": "Clank!: A Deck-Building Adventure",
    "year": 2016,
    "rank": 106,
    "rating": 7.76,
    "weight": 2.23,
-   "usersrated": 48332,
+   "usersrated": 48337,
    "categories": [
     "Strategy",
     "Family"
@@ -6327,7 +6327,7 @@
    "rank": 108,
    "rating": 7.73,
    "weight": 2.45,
-   "usersrated": 59826,
+   "usersrated": 59833,
    "categories": [
     "Strategy"
    ],
@@ -6398,7 +6398,7 @@
    "rank": 109,
    "rating": 7.88,
    "weight": 2.05,
-   "usersrated": 21010,
+   "usersrated": 21029,
    "categories": [
     "Strategy",
     "Family"
@@ -6438,7 +6438,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1159319
+    "plays": 1160466
    },
    "steam": [],
    "vtt": [],
@@ -6452,7 +6452,7 @@
    "rank": 110,
    "rating": 7.86,
    "weight": 2.81,
-   "usersrated": 24552,
+   "usersrated": 24558,
    "categories": [
     "Strategy"
    ],
@@ -6522,7 +6522,7 @@
    "rank": 111,
    "rating": 7.77,
    "weight": 1.4,
-   "usersrated": 30124,
+   "usersrated": 30135,
    "categories": [
     "Family"
    ],
@@ -6593,7 +6593,7 @@
    "rank": 112,
    "rating": 7.73,
    "weight": 2.3,
-   "usersrated": 33341,
+   "usersrated": 33351,
    "categories": [
     "Strategy"
    ],
@@ -6631,7 +6631,7 @@
    "rank": 113,
    "rating": 7.83,
    "weight": 3.78,
-   "usersrated": 22420,
+   "usersrated": 22425,
    "categories": [
     "Strategy"
    ],
@@ -6670,11 +6670,11 @@
      3,
      4
     ],
-    "avg_minutes": 40,
+    "avg_minutes": 41,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 136028
+    "plays": 136053
    },
    "steam": [
     {
@@ -6712,7 +6712,7 @@
    "rank": 114,
    "rating": 7.86,
    "weight": 3.15,
-   "usersrated": 18052,
+   "usersrated": 18058,
    "categories": [
     "Strategy"
    ],
@@ -6751,11 +6751,11 @@
      3,
      4
     ],
-    "avg_minutes": 38,
+    "avg_minutes": 39,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 246711
+    "plays": 246771
    },
    "steam": [],
    "vtt": [],
@@ -6809,7 +6809,7 @@
    "rank": 116,
    "rating": 7.8,
    "weight": 4.04,
-   "usersrated": 22637,
+   "usersrated": 22638,
    "categories": [
     "Strategy"
    ],
@@ -6900,7 +6900,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 67690
+    "plays": 67724
    },
    "steam": [],
    "vtt": [],
@@ -6914,7 +6914,7 @@
    "rank": 118,
    "rating": 7.66,
    "weight": 2.31,
-   "usersrated": 114221,
+   "usersrated": 114237,
    "categories": [
     "Strategy",
     "Family"
@@ -6966,7 +6966,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 12562594
+    "plays": 12565822
    },
    "steam": [],
    "vtt": [],
@@ -6980,7 +6980,7 @@
    "rank": 119,
    "rating": 7.72,
    "weight": 1.94,
-   "usersrated": 34070,
+   "usersrated": 34090,
    "categories": [
     "Family"
    ],
@@ -7018,7 +7018,7 @@
    "rank": 120,
    "rating": 7.88,
    "weight": 2.43,
-   "usersrated": 16253,
+   "usersrated": 16259,
    "categories": [
     "Strategy"
    ],
@@ -7099,7 +7099,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1230089
+    "plays": 1230461
    },
    "steam": [
     {
@@ -7185,7 +7185,7 @@
    "rank": 123,
    "rating": 7.76,
    "weight": 3.18,
-   "usersrated": 26536,
+   "usersrated": 26539,
    "categories": [
     "Strategy"
    ],
@@ -7230,7 +7230,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 438481
+    "plays": 438685
    },
    "steam": [],
    "vtt": [],
@@ -7244,7 +7244,7 @@
    "rank": 124,
    "rating": 7.94,
    "weight": 2.83,
-   "usersrated": 17496,
+   "usersrated": 17507,
    "categories": [
     "Strategy"
    ],
@@ -7316,7 +7316,7 @@
    "rank": 125,
    "rating": 7.98,
    "weight": 1.92,
-   "usersrated": 12052,
+   "usersrated": 12081,
    "categories": [
     "Family"
    ],
@@ -7356,7 +7356,7 @@
    "rank": 126,
    "rating": 7.96,
    "weight": 4.27,
-   "usersrated": 13002,
+   "usersrated": 13003,
    "categories": [
     "Strategy"
    ],
@@ -7394,7 +7394,7 @@
    "rank": 127,
    "rating": 7.82,
    "weight": 2.95,
-   "usersrated": 23727,
+   "usersrated": 23733,
    "categories": [
     "Strategy"
    ],
@@ -7477,7 +7477,7 @@
    "rank": 129,
    "rating": 8.11,
    "weight": 4.19,
-   "usersrated": 9229,
+   "usersrated": 9235,
    "categories": [
     "Strategy"
    ],
@@ -7522,7 +7522,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 30991
+    "plays": 31097
    },
    "steam": [],
    "vtt": [],
@@ -7534,9 +7534,9 @@
    "name": "Carnegie",
    "year": 2022,
    "rank": 130,
-   "rating": 7.94,
+   "rating": 7.95,
    "weight": 3.81,
-   "usersrated": 12388,
+   "usersrated": 12396,
    "categories": [
     "Strategy"
    ],
@@ -7581,7 +7581,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 142302
+    "plays": 142327
    },
    "steam": [
     {
@@ -7690,7 +7690,7 @@
    "rank": 132,
    "rating": 8.09,
    "weight": 3.24,
-   "usersrated": 9811,
+   "usersrated": 9812,
    "categories": [
     "Strategy"
    ],
@@ -7732,7 +7732,7 @@
    "rank": 133,
    "rating": 8.03,
    "weight": 3.05,
-   "usersrated": 11159,
+   "usersrated": 11164,
    "categories": [
     "Strategy"
    ],
@@ -7769,7 +7769,7 @@
    "rank": 134,
    "rating": 7.7,
    "weight": 2.76,
-   "usersrated": 33183,
+   "usersrated": 33188,
    "categories": [
     "Strategy"
    ],
@@ -7816,7 +7816,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 88155
+    "plays": 88199
    },
    "steam": [],
    "vtt": [],
@@ -7873,7 +7873,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 50017
+    "plays": 50033
    },
    "steam": [],
    "vtt": [],
@@ -8119,11 +8119,11 @@
      5,
      6
     ],
-    "avg_minutes": 32,
+    "avg_minutes": 71,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 83634
+    "plays": 83638
    },
    "steam": [],
    "vtt": [],
@@ -8250,7 +8250,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 127454
+    "plays": 127465
    },
    "steam": [],
    "vtt": [],
@@ -8306,7 +8306,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 158321
+    "plays": 158332
    },
    "steam": [],
    "vtt": [],
@@ -8428,11 +8428,11 @@
      3,
      4
     ],
-    "avg_minutes": 36,
+    "avg_minutes": 35,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 37517
+    "plays": 37552
    },
    "steam": [
     {
@@ -8659,7 +8659,7 @@
    "rank": 149,
    "rating": 7.57,
    "weight": 1.6,
-   "usersrated": 75440,
+   "usersrated": 75450,
    "categories": [
     "Family",
     "Abstract"
@@ -8701,7 +8701,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3337833
+    "plays": 3339305
    },
    "steam": [
     {
@@ -8791,7 +8791,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5735043
+    "plays": 5742311
    },
    "steam": [],
    "vtt": [],
@@ -8952,7 +8952,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 223785
+    "plays": 223806
    },
    "steam": [],
    "vtt": [],
@@ -9081,7 +9081,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 9348
+    "plays": 9597
    },
    "steam": [],
    "vtt": [],
@@ -9249,11 +9249,11 @@
      3,
      4
     ],
-    "avg_minutes": 66,
+    "avg_minutes": 67,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87741
+    "plays": 87758
    },
    "steam": [],
    "vtt": [],
@@ -9314,7 +9314,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 290484
+    "plays": 290610
    },
    "steam": [],
    "vtt": [],
@@ -9367,11 +9367,11 @@
      4,
      5
     ],
-    "avg_minutes": 60,
+    "avg_minutes": 83,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 4501
+    "plays": 4514
    },
    "steam": [],
    "vtt": [],
@@ -9676,7 +9676,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 404488
+    "plays": 404747
    },
    "steam": [],
    "vtt": [],
@@ -9971,7 +9971,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 170332
+    "plays": 170415
    },
    "steam": [],
    "vtt": [],
@@ -10138,7 +10138,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1589429
+    "plays": 1590350
    },
    "steam": [],
    "vtt": [],
@@ -10190,7 +10190,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 596294
+    "plays": 596407
    },
    "steam": [],
    "vtt": [],
@@ -10254,7 +10254,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1087779
+    "plays": 1087931
    },
    "steam": [
     {
@@ -10341,7 +10341,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 82845
+    "plays": 83089
    },
    "steam": [],
    "vtt": [],
@@ -10462,11 +10462,11 @@
      3,
      4
     ],
-    "avg_minutes": 44,
+    "avg_minutes": 45,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10408
+    "plays": 10449
    },
    "steam": [],
    "vtt": [],
@@ -10477,10 +10477,10 @@
    "bgg_id": 14996,
    "name": "Ticket to Ride: Europe",
    "year": 2005,
-   "rank": 182,
+   "rank": 181,
    "rating": 7.52,
    "weight": 1.92,
-   "usersrated": 87070,
+   "usersrated": 87090,
    "categories": [
     "Family"
    ],
@@ -10522,7 +10522,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3417068
+    "plays": 3420134
    },
    "steam": [
     {
@@ -10606,7 +10606,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 579840
+    "plays": 580178
    },
    "steam": [],
    "vtt": [],
@@ -10618,9 +10618,9 @@
    "name": "Parks",
    "year": 2019,
    "rank": 184,
-   "rating": 7.61,
+   "rating": 7.6,
    "weight": 2.13,
-   "usersrated": 31369,
+   "usersrated": 31376,
    "categories": [
     "Family"
    ],
@@ -10666,7 +10666,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 164973
+    "plays": 165102
    },
    "steam": [],
    "vtt": [],
@@ -10678,9 +10678,9 @@
    "name": "Cartographers",
    "year": 2019,
    "rank": 185,
-   "rating": 7.55,
+   "rating": 7.54,
    "weight": 1.89,
-   "usersrated": 37317,
+   "usersrated": 37333,
    "categories": [
     "Family"
    ],
@@ -10741,7 +10741,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1774732
+    "plays": 1776124
    },
    "steam": [
     {
@@ -10931,7 +10931,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4394574
+    "plays": 4397453
    },
    "steam": [],
    "vtt": [],
@@ -10987,7 +10987,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1345029
+    "plays": 1345354
    },
    "steam": [],
    "vtt": [],
@@ -11089,7 +11089,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5997896
+    "plays": 5999209
    },
    "steam": [
     {
@@ -11099,9 +11099,9 @@
      "url": "https://store.steampowered.com/app/2177570/",
      "confidence": 0.95,
      "is_free": false,
-     "price": 22.95,
+     "price": 15.14,
      "price_initial": 22.95,
-     "discount": 0,
+     "discount": 34,
      "currency": "AUD",
      "mp": [
       "crossplay",
@@ -11260,7 +11260,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 27285
+    "plays": 27311
    },
    "steam": [],
    "vtt": [],
@@ -11351,9 +11351,9 @@
      "url": "https://store.steampowered.com/app/943410/",
      "confidence": 0.95,
      "is_free": false,
-     "price": 18.95,
+     "price": 9.47,
      "price_initial": 18.95,
-     "discount": 0,
+     "discount": 50,
      "currency": "AUD",
      "mp": [
       "crossplay",
@@ -11446,10 +11446,10 @@
    "bgg_id": 416851,
    "name": "Castle Combo",
    "year": 2024,
-   "rank": 198,
-   "rating": 7.67,
+   "rank": 197,
+   "rating": 7.68,
    "weight": 1.74,
-   "usersrated": 17248,
+   "usersrated": 17288,
    "categories": [
     "Family"
    ],
@@ -11495,7 +11495,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2633042
+    "plays": 2636407
    },
    "steam": [],
    "vtt": [],
@@ -11553,7 +11553,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 50504
+    "plays": 50523
    },
    "steam": [],
    "vtt": [],
@@ -11737,7 +11737,7 @@
    "rank": 204,
    "rating": 7.48,
    "weight": 1.46,
-   "usersrated": 59396,
+   "usersrated": 59402,
    "categories": [
     "Family"
    ],
@@ -11777,7 +11777,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 3010483
+    "plays": 3010981
    },
    "steam": [],
    "vtt": [],
@@ -11836,11 +11836,11 @@
      4,
      5
     ],
-    "avg_minutes": 62,
+    "avg_minutes": 63,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 50198
+    "plays": 50586
    },
    "steam": [],
    "vtt": [],
@@ -11854,7 +11854,7 @@
    "rank": 206,
    "rating": 7.55,
    "weight": 1.85,
-   "usersrated": 28647,
+   "usersrated": 28653,
    "categories": [
     "Family"
    ],
@@ -12006,7 +12006,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 133240
+    "plays": 133272
    },
    "steam": [],
    "vtt": [],
@@ -12273,7 +12273,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 354076
+    "plays": 354237
    },
    "steam": [
     {
@@ -12370,7 +12370,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 439676
+    "plays": 439922
    },
    "steam": [],
    "vtt": [],
@@ -12519,7 +12519,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 312398
+    "plays": 312651
    },
    "steam": [],
    "vtt": [],
@@ -12533,7 +12533,7 @@
    "rank": 219,
    "rating": 7.5,
    "weight": 1.84,
-   "usersrated": 35436,
+   "usersrated": 35441,
    "categories": [
     "Family"
    ],
@@ -12590,7 +12590,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3094468
+    "plays": 3095535
    },
    "steam": [],
    "vtt": [],
@@ -12882,9 +12882,9 @@
      "url": "https://store.steampowered.com/app/282070/",
      "confidence": 1.0,
      "is_free": false,
-     "price": 2.95,
+     "price": 29.5,
      "price_initial": 29.5,
-     "discount": 90,
+     "discount": 0,
      "currency": "AUD",
      "mp": [],
      "developers": [
@@ -13099,7 +13099,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 783533
+    "plays": 783904
    },
    "steam": [],
    "vtt": [],
@@ -13113,7 +13113,7 @@
    "rank": 231,
    "rating": 7.47,
    "weight": 1.92,
-   "usersrated": 49216,
+   "usersrated": 49223,
    "categories": [
     "Family",
     "Abstract"
@@ -13184,7 +13184,7 @@
    "rank": 232,
    "rating": 7.54,
    "weight": 2.14,
-   "usersrated": 24282,
+   "usersrated": 24295,
    "categories": [
     "Family"
    ],
@@ -13230,7 +13230,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4157953
+    "plays": 4160332
    },
    "steam": [],
    "vtt": [],
@@ -13480,7 +13480,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 85637
+    "plays": 85706
    },
    "steam": [],
    "vtt": [],
@@ -13583,11 +13583,11 @@
     "players": [
      2
     ],
-    "avg_minutes": 31,
+    "avg_minutes": 32,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 94229
+    "plays": 94255
    },
    "steam": [],
    "vtt": [],
@@ -13601,7 +13601,7 @@
    "rank": 240,
    "rating": 7.42,
    "weight": 1.88,
-   "usersrated": 142344,
+   "usersrated": 142367,
    "categories": [
     "Family"
    ],
@@ -13649,7 +13649,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15894884
+    "plays": 15901633
    },
    "steam": [
     {
@@ -13811,7 +13811,7 @@
    "rank": 243,
    "rating": 7.62,
    "weight": 1.97,
-   "usersrated": 15353,
+   "usersrated": 15354,
    "categories": [
     "Family"
    ],
@@ -13874,7 +13874,7 @@
    "rank": 244,
    "rating": 7.42,
    "weight": 1.77,
-   "usersrated": 92185,
+   "usersrated": 92205,
    "categories": [
     "Family"
    ],
@@ -13918,7 +13918,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 11314659
+    "plays": 11320639
    },
    "steam": [
     {
@@ -14004,11 +14004,11 @@
      5,
      6
     ],
-    "avg_minutes": 70,
+    "avg_minutes": 71,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 37655
+    "plays": 37660
    },
    "steam": [],
    "vtt": [],
@@ -14062,7 +14062,7 @@
    "rank": 247,
    "rating": 7.56,
    "weight": 2.08,
-   "usersrated": 19946,
+   "usersrated": 19952,
    "categories": [
     "Family",
     "Abstract"
@@ -14105,7 +14105,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 591164
+    "plays": 591566
    },
    "steam": [],
    "vtt": [],
@@ -14199,10 +14199,10 @@
    "bgg_id": 434654,
    "name": "Toy Battle",
    "year": 2025,
-   "rank": 250,
+   "rank": 249,
    "rating": 7.84,
-   "weight": 1.49,
-   "usersrated": 8692,
+   "weight": 1.5,
+   "usersrated": 8719,
    "categories": [
     "Family"
    ],
@@ -14234,11 +14234,11 @@
     "players": [
      2
     ],
-    "avg_minutes": 4,
+    "avg_minutes": 5,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1507280
+    "plays": 1510005
    },
    "steam": [],
    "vtt": [],
@@ -14334,7 +14334,7 @@
    "rank": 253,
    "rating": 7.51,
    "weight": 1.5,
-   "usersrated": 25166,
+   "usersrated": 25195,
    "categories": [
     "Family"
    ],
@@ -14375,7 +14375,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4511830
+    "plays": 4515366
    },
    "steam": [],
    "vtt": [],
@@ -14389,7 +14389,7 @@
    "rank": 254,
    "rating": 7.54,
    "weight": 1.95,
-   "usersrated": 20292,
+   "usersrated": 20326,
    "categories": [
     "Family"
    ],
@@ -14438,7 +14438,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3416573
+    "plays": 3421143
    },
    "steam": [
     {
@@ -14516,7 +14516,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 331270
+    "plays": 331473
    },
    "steam": [
     {
@@ -14542,7 +14542,7 @@
      ],
      "release": "Coming soon",
      "coming_soon": true,
-     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5290560/61a34d00af6980e826b0e2c8c6ead0512aa95ac5/header.jpg?t=1792686829",
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5290560/61a34d00af6980e826b0e2c8c6ead0512aa95ac5/header.jpg?t=1794626475",
      "reviews": null
     },
     {
@@ -14793,7 +14793,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 320436
+    "plays": 320483
    },
    "steam": [],
    "vtt": [],
@@ -14807,7 +14807,7 @@
    "rank": 261,
    "rating": 7.62,
    "weight": 1.05,
-   "usersrated": 12639,
+   "usersrated": 12640,
    "categories": [
     "Family",
     "Party"
@@ -14909,7 +14909,7 @@
    "rank": 263,
    "rating": 7.38,
    "weight": 1.82,
-   "usersrated": 100019,
+   "usersrated": 100029,
    "categories": [
     "Family"
    ],
@@ -14954,7 +14954,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 18289847
+    "plays": 18300449
    },
    "steam": [
     {
@@ -15035,7 +15035,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 35848
+    "plays": 35872
    },
    "steam": [],
    "vtt": [],
@@ -15088,8 +15088,8 @@
    "year": 2025,
    "rank": 266,
    "rating": 7.73,
-   "weight": 1.17,
-   "usersrated": 10986,
+   "weight": 1.18,
+   "usersrated": 11045,
    "categories": [
     "Family",
     "Party"
@@ -15218,7 +15218,7 @@
    "rank": 269,
    "rating": 7.53,
    "weight": 1.51,
-   "usersrated": 18802,
+   "usersrated": 18811,
    "categories": [
     "Family",
     "Party"
@@ -15520,7 +15520,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 68991
+    "plays": 69014
    },
    "steam": [],
    "vtt": [],
@@ -15622,7 +15622,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 208954
+    "plays": 209114
    },
    "steam": [],
    "vtt": [],
@@ -15986,7 +15986,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 233332
+    "plays": 233369
    },
    "steam": [],
    "vtt": [],
@@ -16050,7 +16050,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 447883
+    "plays": 448817
    },
    "steam": [],
    "vtt": [],
@@ -16295,7 +16295,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 223647
+    "plays": 223770
    },
    "steam": [],
    "vtt": [],
@@ -16483,7 +16483,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 391818
+    "plays": 391974
    },
    "steam": [
     {
@@ -17184,7 +17184,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 614653
+    "plays": 614992
    },
    "steam": [],
    "vtt": [
@@ -17525,7 +17525,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 936974
+    "plays": 937300
    },
    "steam": [
     {
@@ -17716,7 +17716,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 839517
+    "plays": 839693
    },
    "steam": [],
    "vtt": [],
@@ -17965,11 +17965,11 @@
      4,
      5
     ],
-    "avg_minutes": 66,
+    "avg_minutes": 67,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 60882
+    "plays": 60920
    },
    "steam": [],
    "vtt": [],
@@ -18076,7 +18076,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 848183
+    "plays": 848472
    },
    "steam": [],
    "vtt": [],
@@ -18133,7 +18133,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5247
+    "plays": 5248
    },
    "steam": [],
    "vtt": [],
@@ -18194,7 +18194,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 499651
+    "plays": 499834
    },
    "steam": [],
    "vtt": [],
@@ -18354,11 +18354,11 @@
      3,
      4
     ],
-    "avg_minutes": 67,
+    "avg_minutes": 65,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5735
+    "plays": 5739
    },
    "steam": [],
    "vtt": [],
@@ -18457,11 +18457,11 @@
      4,
      5
     ],
-    "avg_minutes": 35,
+    "avg_minutes": 36,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13491
+    "plays": 13500
    },
    "steam": [],
    "vtt": [],
@@ -18688,7 +18688,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 7221919
+    "plays": 7224028
    },
    "steam": [
     {
@@ -18775,7 +18775,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 325808
+    "plays": 326087
    },
    "steam": [],
    "vtt": [],
@@ -18866,7 +18866,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1068567
+    "plays": 1068690
    },
    "steam": [],
    "vtt": [],
@@ -19041,11 +19041,11 @@
      4,
      5
     ],
-    "avg_minutes": 36,
+    "avg_minutes": 38,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 77357
+    "plays": 77364
    },
    "steam": [],
    "vtt": [],
@@ -19287,7 +19287,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 22490
+    "plays": 22589
    },
    "steam": [],
    "vtt": [],
@@ -19379,7 +19379,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5386802
+    "plays": 5388248
    },
    "steam": [
     {
@@ -19464,7 +19464,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 207698
+    "plays": 208152
    },
    "steam": [],
    "vtt": [],
@@ -19596,9 +19596,9 @@
      "url": "https://store.steampowered.com/app/595930/",
      "confidence": 0.85,
      "is_free": false,
-     "price": 14.5,
+     "price": 6.52,
      "price_initial": 14.5,
-     "discount": 0,
+     "discount": 55,
      "currency": "AUD",
      "mp": [
       "crossplay",
@@ -19792,7 +19792,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 878399
+    "plays": 878604
    },
    "steam": [],
    "vtt": [],
@@ -19894,7 +19894,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 296911
+    "plays": 297186
    },
    "steam": [],
    "vtt": [],
@@ -20075,7 +20075,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 144640
+    "plays": 144785
    },
    "steam": [],
    "vtt": [],
@@ -20129,7 +20129,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10525160
+    "plays": 10526500
    },
    "steam": [],
    "vtt": [],
@@ -20261,7 +20261,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 133973
+    "plays": 134005
    },
    "steam": [],
    "vtt": [],
@@ -20319,7 +20319,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 78595
+    "plays": 78640
    },
    "steam": [],
    "vtt": [],
@@ -20489,9 +20489,9 @@
      "url": "https://store.steampowered.com/app/323190/",
      "confidence": 1.0,
      "is_free": false,
-     "price": 4.39,
+     "price": 43.95,
      "price_initial": 43.95,
-     "discount": 90,
+     "discount": 0,
      "currency": "AUD",
      "mp": [],
      "developers": [
@@ -20563,7 +20563,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 82822
+    "plays": 82891
    },
    "steam": [],
    "vtt": [],
@@ -20686,7 +20686,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2135519
+    "plays": 2136290
    },
    "steam": [],
    "vtt": [],
@@ -20744,7 +20744,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 4891
+    "plays": 4949
    },
    "steam": [],
    "vtt": [],
@@ -21052,7 +21052,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 75768
+    "plays": 75796
    },
    "steam": [],
    "vtt": [],
@@ -21240,7 +21240,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 20989
+    "plays": 20991
    },
    "steam": [],
    "vtt": [],
@@ -21455,11 +21455,11 @@
      3,
      4
     ],
-    "avg_minutes": 84,
+    "avg_minutes": 78,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15717
+    "plays": 15729
    },
    "steam": [],
    "vtt": [],
@@ -21597,7 +21597,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 426311
+    "plays": 426593
    },
    "steam": [],
    "vtt": [],
@@ -21782,7 +21782,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17933
+    "plays": 17938
    },
    "steam": [],
    "vtt": [],
@@ -22195,7 +22195,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 19900
+    "plays": 19911
    },
    "steam": [],
    "vtt": [],
@@ -22482,7 +22482,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 148671
+    "plays": 148769
    },
    "steam": [
     {
@@ -22576,27 +22576,27 @@
    "best_players": [
     4
    ],
+   "player_votes": 105,
    "rec_players": [
     1,
     2,
     3,
     4
    ],
-   "player_votes": 105,
+   "blurb": "Can you solve each stage before your deck runs out?",
+   "digital": [
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/Bo6QYIQWzRRcn7KyO3AIPg__square200/img/lMisyX6fUky0XQ6hWnHroY4L0Uk=/200x200/filters:strip_icc()/pic8512516.png",
+   "maxplayers": 4,
+   "maxplaytime": 40,
+   "minplayers": 1,
+   "minplaytime": 30,
    "themes": [
     "Card Game",
     "Mythology",
     "Puzzle"
    ],
-   "digital": [
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "minplayers": 1,
-   "maxplayers": 4,
-   "minplaytime": 30,
-   "maxplaytime": 40,
-   "blurb": "Can you solve each stage before your deck runs out?",
-   "image": "https://cf.geekdo-images.com/Bo6QYIQWzRRcn7KyO3AIPg__square200/img/lMisyX6fUky0XQ6hWnHroY4L0Uk=/200x200/filters:strip_icc()/pic8512516.png",
    "bga": null,
    "steam": [],
    "vtt": [],
@@ -22656,7 +22656,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 790128
+    "plays": 790865
    },
    "steam": [],
    "vtt": [],
@@ -22715,7 +22715,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 240302
+    "plays": 240451
    },
    "steam": [],
    "vtt": [],
@@ -22809,7 +22809,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2607477
+    "plays": 2609336
    },
    "steam": [],
    "vtt": [],
@@ -22874,7 +22874,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 13910
+    "plays": 14034
    },
    "steam": [],
    "vtt": [],
@@ -23243,11 +23243,11 @@
      3,
      4
     ],
-    "avg_minutes": 84,
+    "avg_minutes": 85,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15023
+    "plays": 15180
    },
    "steam": [],
    "vtt": [],
@@ -23413,7 +23413,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 647571
+    "plays": 647899
    },
    "steam": [
     {
@@ -23643,11 +23643,11 @@
     "players": [
      1
     ],
-    "avg_minutes": 25,
+    "avg_minutes": 24,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 124625
+    "plays": 124684
    },
    "steam": [],
    "vtt": [],
@@ -23742,7 +23742,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 267381
+    "plays": 267484
    },
    "steam": [],
    "vtt": [],
@@ -23792,7 +23792,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 470986
+    "plays": 471630
    },
    "steam": [],
    "vtt": [],
@@ -23967,11 +23967,11 @@
      4,
      5
     ],
-    "avg_minutes": 70,
+    "avg_minutes": 69,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 898
+    "plays": 902
    },
    "steam": [],
    "vtt": [],
@@ -24149,7 +24149,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 708371
+    "plays": 708775
    },
    "steam": [],
    "vtt": [],
@@ -24250,7 +24250,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 30745
+    "plays": 30751
    },
    "steam": [],
    "vtt": [],
@@ -24304,7 +24304,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 372048
+    "plays": 372605
    },
    "steam": [],
    "vtt": [],
@@ -24402,7 +24402,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 26056
+    "plays": 26079
    },
    "steam": [],
    "vtt": [],
@@ -24462,7 +24462,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2776183
+    "plays": 2776447
    },
    "steam": [],
    "vtt": [],
@@ -24516,11 +24516,11 @@
      4,
      5
     ],
-    "avg_minutes": 21,
+    "avg_minutes": 20,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 215246
+    "plays": 215290
    },
    "steam": [],
    "vtt": [],
@@ -24659,11 +24659,11 @@
     "players": [
      2
     ],
-    "avg_minutes": 70,
+    "avg_minutes": 71,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17990
+    "plays": 18001
    },
    "steam": [],
    "vtt": [],
@@ -25122,7 +25122,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1447312
+    "plays": 1447670
    },
    "steam": [],
    "vtt": [],
@@ -25901,7 +25901,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 318179
+    "plays": 318337
    },
    "steam": [],
    "vtt": [],
@@ -26038,7 +26038,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 203339
+    "plays": 203505
    },
    "steam": [],
    "vtt": [],
@@ -26296,7 +26296,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 365989
+    "plays": 366578
    },
    "steam": [],
    "vtt": [],
@@ -26388,7 +26388,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 13561
+    "plays": 13766
    },
    "steam": [],
    "vtt": [],
@@ -26443,11 +26443,11 @@
      3,
      4
     ],
-    "avg_minutes": 41,
+    "avg_minutes": 39,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31823
+    "plays": 31855
    },
    "steam": [],
    "vtt": [],
@@ -26675,7 +26675,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 194820
+    "plays": 195380
    },
    "steam": [],
    "vtt": [

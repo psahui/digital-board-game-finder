@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T00:28+00:00",
+ "generated": "2026-11-20T00:47+00:00",
  "country": "au",
  "top_n": 500,
  "games": [
@@ -102,7 +102,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 14159135
+    "plays": 14172768
    },
    "steam": [
     {
@@ -441,11 +441,11 @@
      5,
      6
     ],
-    "avg_minutes": 221,
+    "avg_minutes": 222,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 6435
+    "plays": 6492
    },
    "steam": [
     {
@@ -486,7 +486,7 @@
    "rank": 8,
    "rating": 8.55,
    "weight": 4.23,
-   "usersrated": 25799,
+   "usersrated": 25804,
    "categories": [
     "Thematic",
     "Wargames"
@@ -576,7 +576,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5861125
+    "plays": 5868381
    },
    "steam": [
     {
@@ -619,7 +619,7 @@
    "rank": 10,
    "rating": 8.42,
    "weight": 3.75,
-   "usersrated": 37102,
+   "usersrated": 37109,
    "categories": [
     "Thematic"
    ],
@@ -853,7 +853,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 498317
+    "plays": 498622
    },
    "steam": [
     {
@@ -1120,7 +1120,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4663660
+    "plays": 4667116
    },
    "steam": [
     {
@@ -1426,7 +1426,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 15339
+    "plays": 15704
    },
    "steam": [],
    "vtt": [],
@@ -1556,7 +1556,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 14557431
+    "plays": 14564050
    },
    "steam": [],
    "vtt": [],
@@ -1570,7 +1570,7 @@
    "rank": 25,
    "rating": 8.24,
    "weight": 3.49,
-   "usersrated": 38701,
+   "usersrated": 38713,
    "categories": [
     "Thematic"
    ],
@@ -1685,7 +1685,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 528571
+    "plays": 528883
    },
    "steam": [],
    "vtt": [],
@@ -1750,7 +1750,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 141139
+    "plays": 141290
    },
    "steam": [
     {
@@ -1798,7 +1798,7 @@
    "rank": 28,
    "rating": 8.48,
    "weight": 2.74,
-   "usersrated": 11702,
+   "usersrated": 11705,
    "categories": [
     "Thematic"
    ],
@@ -1879,11 +1879,11 @@
      4,
      5
     ],
-    "avg_minutes": 47,
+    "avg_minutes": 46,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 59757
+    "plays": 59862
    },
    "steam": [
     {
@@ -1972,7 +1972,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3483920
+    "plays": 3486783
    },
    "steam": [
     {
@@ -2057,7 +2057,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 433402
+    "plays": 433603
    },
    "steam": [],
    "vtt": [],
@@ -2071,7 +2071,7 @@
    "rank": 32,
    "rating": 8.11,
    "weight": 2.04,
-   "usersrated": 35936,
+   "usersrated": 35975,
    "categories": [
     "Thematic",
     "Family"
@@ -2110,7 +2110,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1033947
+    "plays": 1034703
    },
    "steam": [],
    "vtt": [],
@@ -2124,7 +2124,7 @@
    "rank": 33,
    "rating": 8.12,
    "weight": 3.57,
-   "usersrated": 48447,
+   "usersrated": 48454,
    "categories": [
     "Thematic",
     "Customizable"
@@ -2280,11 +2280,11 @@
      4,
      5
     ],
-    "avg_minutes": 74,
+    "avg_minutes": 75,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 91683
+    "plays": 91761
    },
    "steam": [],
    "vtt": [
@@ -2354,7 +2354,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 910500
+    "plays": 910666
    },
    "steam": [
     {
@@ -2493,7 +2493,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10869775
+    "plays": 10879483
    },
    "steam": [
     {
@@ -2631,7 +2631,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 319513
+    "plays": 319656
    },
    "steam": [
     {
@@ -2717,7 +2717,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 32178
+    "plays": 32294
    },
    "steam": [
     {
@@ -2795,7 +2795,7 @@
    "rank": 43,
    "rating": 8.07,
    "weight": 1.23,
-   "usersrated": 21716,
+   "usersrated": 21722,
    "categories": [
     "Family"
    ],
@@ -3011,7 +3011,7 @@
    "rank": 46,
    "rating": 8.6,
    "weight": 2.56,
-   "usersrated": 7433,
+   "usersrated": 7443,
    "categories": [
     "Family"
    ],
@@ -3049,7 +3049,7 @@
    "rank": 47,
    "rating": 8.03,
    "weight": 2.06,
-   "usersrated": 27127,
+   "usersrated": 27141,
    "categories": [
     "Family"
    ],
@@ -3094,7 +3094,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 346061
+    "plays": 346202
    },
    "steam": [],
    "vtt": [],
@@ -3185,7 +3185,7 @@
    "rank": 49,
    "rating": 7.99,
    "weight": 2.2,
-   "usersrated": 44259,
+   "usersrated": 44297,
    "categories": [
     "Family"
    ],
@@ -3236,7 +3236,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 949159
+    "plays": 949778
    },
    "steam": [
     {
@@ -3279,7 +3279,7 @@
    "rank": 50,
    "rating": 8.34,
    "weight": 3.11,
-   "usersrated": 12958,
+   "usersrated": 13005,
    "categories": [
     "Thematic"
    ],
@@ -3375,7 +3375,7 @@
    "rank": 52,
    "rating": 8.04,
    "weight": 2.01,
-   "usersrated": 34542,
+   "usersrated": 34611,
    "categories": [
     "Family",
     "Abstract"
@@ -3423,7 +3423,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3552679
+    "plays": 3558062
    },
    "steam": [],
    "vtt": [],
@@ -3549,7 +3549,7 @@
    "rank": 55,
    "rating": 8.17,
    "weight": 2.49,
-   "usersrated": 17677,
+   "usersrated": 17683,
    "categories": [
     "Thematic"
    ],
@@ -3642,7 +3642,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 94964
+    "plays": 95029
    },
    "steam": [],
    "vtt": [],
@@ -3703,7 +3703,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 255819
+    "plays": 256184
    },
    "steam": [],
    "vtt": [],
@@ -3762,7 +3762,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2933039
+    "plays": 2933598
    },
    "steam": [],
    "vtt": [],
@@ -3906,7 +3906,7 @@
    "rank": 62,
    "rating": 7.88,
    "weight": 1.84,
-   "usersrated": 58149,
+   "usersrated": 58178,
    "categories": [
     "Family",
     "Abstract"
@@ -4028,11 +4028,11 @@
      6,
      7
     ],
-    "avg_minutes": 53,
+    "avg_minutes": 54,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 120963
+    "plays": 120986
    },
    "steam": [
     {
@@ -4117,11 +4117,11 @@
      3,
      4
     ],
-    "avg_minutes": 66,
+    "avg_minutes": 67,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 53454
+    "plays": 53480
    },
    "steam": [],
    "vtt": [],
@@ -4174,7 +4174,7 @@
    "rank": 66,
    "rating": 8.73,
    "weight": 3.7,
-   "usersrated": 7154,
+   "usersrated": 7160,
    "categories": [
     "Thematic"
    ],
@@ -4343,7 +4343,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 333143
+    "plays": 333284
    },
    "steam": [],
    "vtt": [],
@@ -4399,11 +4399,11 @@
      4,
      5
     ],
-    "avg_minutes": 47,
+    "avg_minutes": 48,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 107560
+    "plays": 107607
    },
    "steam": [
     {
@@ -4539,7 +4539,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 669721
+    "plays": 670658
    },
    "steam": [],
    "vtt": [],
@@ -4790,7 +4790,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 807111
+    "plays": 807233
    },
    "steam": [],
    "vtt": [],
@@ -4804,7 +4804,7 @@
    "rank": 78,
    "rating": 8.07,
    "weight": 3.25,
-   "usersrated": 16548,
+   "usersrated": 16555,
    "categories": [
     "Thematic"
    ],
@@ -4891,7 +4891,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 388003
+    "plays": 388072
    },
    "steam": [],
    "vtt": [],
@@ -4905,7 +4905,7 @@
    "rank": 80,
    "rating": 7.91,
    "weight": 2.69,
-   "usersrated": 41042,
+   "usersrated": 41052,
    "categories": [
     "Thematic"
    ],
@@ -4977,7 +4977,7 @@
    "rank": 81,
    "rating": 8.02,
    "weight": 2.01,
-   "usersrated": 16636,
+   "usersrated": 16663,
    "categories": [
     "Family"
    ],
@@ -5015,7 +5015,7 @@
    "rank": 82,
    "rating": 7.8,
    "weight": 1.94,
-   "usersrated": 60754,
+   "usersrated": 60776,
    "categories": [
     "Family"
    ],
@@ -5096,7 +5096,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 25313
+    "plays": 25879
    },
    "steam": [],
    "vtt": [],
@@ -5276,7 +5276,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1945471
+    "plays": 1946541
    },
    "steam": [],
    "vtt": [],
@@ -5290,7 +5290,7 @@
    "rank": 88,
    "rating": 7.95,
    "weight": 3.3,
-   "usersrated": 26221,
+   "usersrated": 26228,
    "categories": [
     "Thematic"
    ],
@@ -5417,7 +5417,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 203132
+    "plays": 203275
    },
    "steam": [],
    "vtt": [],
@@ -5477,7 +5477,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 98412
+    "plays": 98454
    },
    "steam": [],
    "vtt": [],
@@ -5535,7 +5535,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87880
+    "plays": 87953
    },
    "steam": [],
    "vtt": [],
@@ -5549,7 +5549,7 @@
    "rank": 93,
    "rating": 8.2,
    "weight": 2.77,
-   "usersrated": 12283,
+   "usersrated": 12293,
    "categories": [
     "Thematic"
    ],
@@ -5674,7 +5674,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 17112224
+    "plays": 17115223
    },
    "steam": [
     {
@@ -5715,7 +5715,7 @@
    "rank": 96,
    "rating": 8.47,
    "weight": 4.28,
-   "usersrated": 10554,
+   "usersrated": 10555,
    "categories": [
     "Thematic"
    ],
@@ -5758,7 +5758,7 @@
    "rank": 97,
    "rating": 7.75,
    "weight": 1.97,
-   "usersrated": 49809,
+   "usersrated": 49825,
    "categories": [
     "Family"
    ],
@@ -5803,7 +5803,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 567183
+    "plays": 567259
    },
    "steam": [],
    "vtt": [],
@@ -5859,7 +5859,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 72358
+    "plays": 72403
    },
    "steam": [],
    "vtt": [],
@@ -5920,7 +5920,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 102475
+    "plays": 102608
    },
    "steam": [],
    "vtt": [],
@@ -5934,7 +5934,7 @@
    "rank": 100,
    "rating": 7.71,
    "weight": 1.77,
-   "usersrated": 112094,
+   "usersrated": 112136,
    "categories": [
     "Family",
     "Abstract"
@@ -5977,7 +5977,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 29718882
+    "plays": 29736540
    },
    "steam": [],
    "vtt": [],
@@ -5991,7 +5991,7 @@
    "rank": 101,
    "rating": 8.55,
    "weight": 3.74,
-   "usersrated": 6211,
+   "usersrated": 6213,
    "categories": [
     "Thematic",
     "Customizable"
@@ -6073,11 +6073,11 @@
      4,
      5
     ],
-    "avg_minutes": 55,
+    "avg_minutes": 57,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 32041
+    "plays": 32052
    },
    "steam": [],
    "vtt": [],
@@ -6437,7 +6437,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1165287
+    "plays": 1166498
    },
    "steam": [],
    "vtt": [],
@@ -6521,7 +6521,7 @@
    "rank": 111,
    "rating": 7.77,
    "weight": 1.4,
-   "usersrated": 30171,
+   "usersrated": 30193,
    "categories": [
     "Family"
    ],
@@ -6673,7 +6673,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 136135
+    "plays": 136158
    },
    "steam": [
     {
@@ -6708,10 +6708,10 @@
    "bgg_id": 356080,
    "name": "The Elder Scrolls: Betrayal of the Second Era",
    "year": 2025,
-   "rank": 114,
+   "rank": 113,
    "rating": 8.94,
    "weight": 4.11,
-   "usersrated": 4677,
+   "usersrated": 4688,
    "categories": [
     "Thematic"
    ],
@@ -6794,7 +6794,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 247027
+    "plays": 247081
    },
    "steam": [],
    "vtt": [],
@@ -6899,7 +6899,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 67861
+    "plays": 67894
    },
    "steam": [],
    "vtt": [],
@@ -6965,7 +6965,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 12578581
+    "plays": 12581849
    },
    "steam": [],
    "vtt": [],
@@ -6979,7 +6979,7 @@
    "rank": 119,
    "rating": 7.72,
    "weight": 1.94,
-   "usersrated": 34111,
+   "usersrated": 34128,
    "categories": [
     "Family"
    ],
@@ -7098,7 +7098,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1231948
+    "plays": 1232333
    },
    "steam": [
     {
@@ -7140,7 +7140,7 @@
    "rank": 122,
    "rating": 7.72,
    "weight": 3.83,
-   "usersrated": 47321,
+   "usersrated": 47332,
    "categories": [
     "Thematic"
    ],
@@ -7229,7 +7229,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 439418
+    "plays": 439566
    },
    "steam": [],
    "vtt": [],
@@ -7243,7 +7243,7 @@
    "rank": 124,
    "rating": 7.98,
    "weight": 1.92,
-   "usersrated": 12131,
+   "usersrated": 12152,
    "categories": [
     "Family"
    ],
@@ -7433,7 +7433,7 @@
    "rank": 128,
    "rating": 7.73,
    "weight": 3.25,
-   "usersrated": 37869,
+   "usersrated": 37875,
    "categories": [
     "Thematic"
    ],
@@ -7521,7 +7521,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31509
+    "plays": 31608
    },
    "steam": [],
    "vtt": [],
@@ -7580,7 +7580,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 142414
+    "plays": 142436
    },
    "steam": [
     {
@@ -7616,9 +7616,9 @@
    "name": "Nemesis: Lockdown",
    "year": 2022,
    "rank": 131,
-   "rating": 8.23,
+   "rating": 8.22,
    "weight": 3.91,
-   "usersrated": 8848,
+   "usersrated": 8850,
    "categories": [
     "Thematic"
    ],
@@ -7811,11 +7811,11 @@
      4,
      5
     ],
-    "avg_minutes": 34,
+    "avg_minutes": 33,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 88329
+    "plays": 88361
    },
    "steam": [],
    "vtt": [],
@@ -7872,7 +7872,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 50110
+    "plays": 50126
    },
    "steam": [],
    "vtt": [],
@@ -8043,11 +8043,11 @@
      5,
      6
     ],
-    "avg_minutes": 80,
+    "avg_minutes": 82,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 83654
+    "plays": 83660
    },
    "steam": [],
    "vtt": [],
@@ -8136,7 +8136,7 @@
    "rank": 140,
    "rating": 7.74,
    "weight": 3.32,
-   "usersrated": 39537,
+   "usersrated": 39540,
    "categories": [
     "Thematic"
    ],
@@ -8249,7 +8249,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 127533
+    "plays": 127544
    },
    "steam": [],
    "vtt": [],
@@ -8305,7 +8305,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 158375
+    "plays": 158393
    },
    "steam": [],
    "vtt": [],
@@ -8318,8 +8318,8 @@
    "year": 2019,
    "rank": 143,
    "rating": 8.02,
-   "weight": 3.37,
-   "usersrated": 14345,
+   "weight": 3.38,
+   "usersrated": 14347,
    "categories": [
     "Thematic"
    ],
@@ -8431,7 +8431,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 37712
+    "plays": 37754
    },
    "steam": [
     {
@@ -8471,7 +8471,7 @@
    "rank": 145,
    "rating": 7.89,
    "weight": 2.7,
-   "usersrated": 18817,
+   "usersrated": 18818,
    "categories": [
     "Thematic"
    ],
@@ -8658,7 +8658,7 @@
    "rank": 149,
    "rating": 7.57,
    "weight": 1.6,
-   "usersrated": 75472,
+   "usersrated": 75487,
    "categories": [
     "Family",
     "Abstract"
@@ -8700,7 +8700,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3345422
+    "plays": 3346915
    },
    "steam": [
     {
@@ -8790,7 +8790,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5771798
+    "plays": 5779191
    },
    "steam": [],
    "vtt": [],
@@ -8951,7 +8951,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 223904
+    "plays": 223922
    },
    "steam": [],
    "vtt": [],
@@ -9076,11 +9076,11 @@
      3,
      4
     ],
-    "avg_minutes": 82,
+    "avg_minutes": 81,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 10522
+    "plays": 10725
    },
    "steam": [],
    "vtt": [],
@@ -9214,7 +9214,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 87831
+    "plays": 87847
    },
    "steam": [],
    "vtt": [],
@@ -9313,7 +9313,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 291124
+    "plays": 291231
    },
    "steam": [],
    "vtt": [],
@@ -9366,11 +9366,11 @@
      4,
      5
     ],
-    "avg_minutes": 96,
+    "avg_minutes": 97,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 4668
+    "plays": 4725
    },
    "steam": [],
    "vtt": [],
@@ -9463,7 +9463,7 @@
    "rank": 163,
    "rating": 8.31,
    "weight": 3.67,
-   "usersrated": 7337,
+   "usersrated": 7341,
    "categories": [
     "Thematic"
    ],
@@ -9675,7 +9675,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 405844
+    "plays": 406095
    },
    "steam": [],
    "vtt": [],
@@ -9722,46 +9722,6 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 420033,
-   "name": "Vantage",
-   "year": 2025,
-   "rank": 169,
-   "rating": 8.14,
-   "weight": 2.35,
-   "usersrated": 8390,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    1,
-    2
-   ],
-   "player_votes": 464,
-   "rec_players": [
-    1,
-    2,
-    3
-   ],
-   "blurb": "Explore an entire planet's open world from a first-person perspective.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/M0e9l-SHH2H4RMSAcnsDgg__square200/img/AFfSFufAeHUbnKONFYGAZO7VIMs=/200x200/filters:strip_icc()/pic8658546.jpg",
-   "maxplayers": 6,
-   "maxplaytime": 180,
-   "minplayers": 1,
-   "minplaytime": 120,
-   "themes": [
-    "Adventure",
-    "Exploration",
-    "Fantasy",
-    "Science Fiction"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 235802,
    "name": "Too Many Bones: Undertow",
    "year": 2018,
@@ -9794,6 +9754,46 @@
     "Dice",
     "Fantasy",
     "Fighting"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 420033,
+   "name": "Vantage",
+   "year": 2025,
+   "rank": 170,
+   "rating": 8.14,
+   "weight": 2.35,
+   "usersrated": 8405,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    1,
+    2
+   ],
+   "player_votes": 464,
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "blurb": "Explore an entire planet's open world from a first-person perspective.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/M0e9l-SHH2H4RMSAcnsDgg__square200/img/AFfSFufAeHUbnKONFYGAZO7VIMs=/200x200/filters:strip_icc()/pic8658546.jpg",
+   "maxplayers": 6,
+   "maxplaytime": 180,
+   "minplayers": 1,
+   "minplaytime": 120,
+   "themes": [
+    "Adventure",
+    "Exploration",
+    "Fantasy",
+    "Science Fiction"
    ],
    "bga": null,
    "steam": [],
@@ -9966,11 +9966,11 @@
      5,
      6
     ],
-    "avg_minutes": 26,
+    "avg_minutes": 25,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 170739
+    "plays": 170844
    },
    "steam": [],
    "vtt": [],
@@ -10051,7 +10051,7 @@
    "rank": 175,
    "rating": 7.71,
    "weight": 2.9,
-   "usersrated": 23326,
+   "usersrated": 23327,
    "categories": [
     "Thematic"
    ],
@@ -10137,7 +10137,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1593529
+    "plays": 1594386
    },
    "steam": [],
    "vtt": [],
@@ -10189,7 +10189,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 597009
+    "plays": 597159
    },
    "steam": [],
    "vtt": [],
@@ -10253,7 +10253,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1088517
+    "plays": 1088673
    },
    "steam": [
     {
@@ -10340,7 +10340,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 84079
+    "plays": 84324
    },
    "steam": [],
    "vtt": [],
@@ -10465,7 +10465,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10613
+    "plays": 10654
    },
    "steam": [],
    "vtt": [],
@@ -10479,7 +10479,7 @@
    "rank": 182,
    "rating": 7.52,
    "weight": 1.92,
-   "usersrated": 87126,
+   "usersrated": 87146,
    "categories": [
     "Family"
    ],
@@ -10521,7 +10521,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3432601
+    "plays": 3435693
    },
    "steam": [
     {
@@ -10563,7 +10563,7 @@
    "rank": 183,
    "rating": 7.82,
    "weight": 2.32,
-   "usersrated": 12931,
+   "usersrated": 12936,
    "categories": [
     "Abstract"
    ],
@@ -10605,7 +10605,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 581602
+    "plays": 581969
    },
    "steam": [],
    "vtt": [],
@@ -10619,7 +10619,7 @@
    "rank": 184,
    "rating": 7.6,
    "weight": 2.13,
-   "usersrated": 31391,
+   "usersrated": 31405,
    "categories": [
     "Family"
    ],
@@ -10665,7 +10665,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 165601
+    "plays": 165724
    },
    "steam": [],
    "vtt": [],
@@ -10679,7 +10679,7 @@
    "rank": 185,
    "rating": 7.54,
    "weight": 1.89,
-   "usersrated": 37354,
+   "usersrated": 37365,
    "categories": [
     "Family"
    ],
@@ -10740,7 +10740,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1781706
+    "plays": 1783132
    },
    "steam": [
     {
@@ -10779,7 +10779,7 @@
    "rank": 186,
    "rating": 7.76,
    "weight": 2.27,
-   "usersrated": 14685,
+   "usersrated": 14691,
    "categories": [
     "Wargames"
    ],
@@ -10862,7 +10862,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4408327
+    "plays": 4411199
    },
    "steam": [],
    "vtt": [],
@@ -10986,7 +10986,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1346833
+    "plays": 1347178
    },
    "steam": [],
    "vtt": [],
@@ -11088,7 +11088,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 6004669
+    "plays": 6005942
    },
    "steam": [
     {
@@ -11132,7 +11132,7 @@
    "rank": 192,
    "rating": 7.75,
    "weight": 2.59,
-   "usersrated": 15695,
+   "usersrated": 15704,
    "categories": [
     "Thematic"
    ],
@@ -11259,7 +11259,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 27405
+    "plays": 27432
    },
    "steam": [],
    "vtt": [],
@@ -11448,7 +11448,7 @@
    "rank": 198,
    "rating": 7.68,
    "weight": 1.74,
-   "usersrated": 17339,
+   "usersrated": 17364,
    "categories": [
     "Family"
    ],
@@ -11494,7 +11494,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2649460
+    "plays": 2652729
    },
    "steam": [],
    "vtt": [],
@@ -11548,11 +11548,11 @@
      3,
      4
     ],
-    "avg_minutes": 44,
+    "avg_minutes": 43,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 50623
+    "plays": 50657
    },
    "steam": [],
    "vtt": [],
@@ -11603,7 +11603,7 @@
    "rank": 201,
    "rating": 7.75,
    "weight": 2.71,
-   "usersrated": 13869,
+   "usersrated": 13871,
    "categories": [
     "Thematic"
    ],
@@ -11730,67 +11730,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 54043,
-   "name": "Jaipur",
-   "year": 2009,
-   "rank": 204,
-   "rating": 7.48,
-   "weight": 1.46,
-   "usersrated": 59418,
-   "categories": [
-    "Family"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 536,
-   "rec_players": [
-    2
-   ],
-   "blurb": "Trade and sell goods to become the most wealthy merchant in this short game for two.",
-   "digital": [
-    "Apple App Store",
-    "Board Game Arena",
-    "Google Play",
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__square200/img/5zNKM4zOwFGtw3i8flDJBPaW13k=/200x200/filters:strip_icc()/pic5100947.jpg",
-   "maxplayers": 2,
-   "maxplaytime": 30,
-   "minplayers": 2,
-   "minplaytime": 30,
-   "themes": [
-    "Card Game",
-    "Economic"
-   ],
-   "bga": {
-    "slug": "jaipur",
-    "name": "Jaipur",
-    "url": "https://boardgamearena.com/gamepanel?game=jaipur",
-    "premium": true,
-    "status": "public",
-    "players": [
-     2
-    ],
-    "avg_minutes": 11,
-    "realtime": true,
-    "turnbased": false,
-    "tutorial": true,
-    "plays": 3013254
-   },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 381248,
    "name": "Nemesis: Retaliation",
    "year": 2025,
-   "rank": 205,
+   "rank": 203,
    "rating": 8.62,
    "weight": 3.77,
-   "usersrated": 4768,
+   "usersrated": 4783,
    "categories": [
     "Thematic"
    ],
@@ -11839,7 +11785,61 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 52076
+    "plays": 52449
+   },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 54043,
+   "name": "Jaipur",
+   "year": 2009,
+   "rank": 205,
+   "rating": 7.48,
+   "weight": 1.46,
+   "usersrated": 59431,
+   "categories": [
+    "Family"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 536,
+   "rec_players": [
+    2
+   ],
+   "blurb": "Trade and sell goods to become the most wealthy merchant in this short game for two.",
+   "digital": [
+    "Apple App Store",
+    "Board Game Arena",
+    "Google Play",
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__square200/img/5zNKM4zOwFGtw3i8flDJBPaW13k=/200x200/filters:strip_icc()/pic5100947.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 30,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "themes": [
+    "Card Game",
+    "Economic"
+   ],
+   "bga": {
+    "slug": "jaipur",
+    "name": "Jaipur",
+    "url": "https://boardgamearena.com/gamepanel?game=jaipur",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2
+    ],
+    "avg_minutes": 11,
+    "realtime": true,
+    "turnbased": false,
+    "tutorial": true,
+    "plays": 3013835
    },
    "steam": [],
    "vtt": [],
@@ -11898,7 +11898,7 @@
    "rank": 207,
    "rating": 7.55,
    "weight": 1.85,
-   "usersrated": 28674,
+   "usersrated": 28678,
    "categories": [
     "Family"
    ],
@@ -12008,7 +12008,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 133417
+    "plays": 133450
    },
    "steam": [],
    "vtt": [],
@@ -12059,7 +12059,7 @@
    "rank": 210,
    "rating": 7.62,
    "weight": 2.49,
-   "usersrated": 25618,
+   "usersrated": 25617,
    "categories": [
     "Wargames",
     "Customizable"
@@ -12182,7 +12182,7 @@
    "rank": 213,
    "rating": 7.6,
    "weight": 2.66,
-   "usersrated": 23066,
+   "usersrated": 23072,
    "categories": [
     "Thematic"
    ],
@@ -12272,7 +12272,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 354858
+    "plays": 354980
    },
    "steam": [
     {
@@ -12369,7 +12369,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 440893
+    "plays": 441104
    },
    "steam": [],
    "vtt": [],
@@ -12424,7 +12424,7 @@
    "rank": 217,
    "rating": 7.84,
    "weight": 2.46,
-   "usersrated": 9978,
+   "usersrated": 9984,
    "categories": [
     "Thematic",
     "Family"
@@ -12476,7 +12476,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 313747
+    "plays": 313985
    },
    "steam": [],
    "vtt": [],
@@ -12532,7 +12532,7 @@
    "rank": 219,
    "rating": 7.5,
    "weight": 1.84,
-   "usersrated": 35449,
+   "usersrated": 35452,
    "categories": [
     "Family"
    ],
@@ -12589,7 +12589,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3099755
+    "plays": 3100840
    },
    "steam": [],
    "vtt": [],
@@ -12682,7 +12682,7 @@
    "rank": 222,
    "rating": 7.87,
    "weight": 1.95,
-   "usersrated": 9038,
+   "usersrated": 9050,
    "categories": [
     "Thematic"
    ],
@@ -12723,7 +12723,7 @@
    "rank": 223,
    "rating": 8.48,
    "weight": 3.65,
-   "usersrated": 4580,
+   "usersrated": 4582,
    "categories": [
     "Thematic",
     "Wargames"
@@ -12845,7 +12845,7 @@
    "rank": 226,
    "rating": 7.75,
    "weight": 3.34,
-   "usersrated": 14778,
+   "usersrated": 14782,
    "categories": [
     "Thematic"
    ],
@@ -13060,7 +13060,7 @@
    "rank": 230,
    "rating": 7.53,
    "weight": 2.27,
-   "usersrated": 32288,
+   "usersrated": 32294,
    "categories": [
     "Wargames"
    ],
@@ -13098,7 +13098,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 785414
+    "plays": 785824
    },
    "steam": [],
    "vtt": [],
@@ -13112,7 +13112,7 @@
    "rank": 231,
    "rating": 7.47,
    "weight": 1.92,
-   "usersrated": 49246,
+   "usersrated": 49255,
    "categories": [
     "Family",
     "Abstract"
@@ -13183,7 +13183,7 @@
    "rank": 232,
    "rating": 7.54,
    "weight": 2.14,
-   "usersrated": 24310,
+   "usersrated": 24318,
    "categories": [
     "Family"
    ],
@@ -13229,7 +13229,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4169965
+    "plays": 4172366
    },
    "steam": [],
    "vtt": [],
@@ -13284,7 +13284,7 @@
    "rank": 234,
    "rating": 7.6,
    "weight": 3.22,
-   "usersrated": 26153,
+   "usersrated": 26155,
    "categories": [
     "Thematic"
    ],
@@ -13368,7 +13368,7 @@
    "rank": 236,
    "rating": 7.98,
    "weight": 2.8,
-   "usersrated": 6788,
+   "usersrated": 6790,
    "categories": [
     "Wargames"
    ],
@@ -13420,7 +13420,7 @@
      ],
      "release": "Q1 2027",
      "coming_soon": true,
-     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4352540/00972711aaf5af1edda492a819308576b7534da2/header.jpg?t=1792617228",
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4352540/00972711aaf5af1edda492a819308576b7534da2/header.jpg?t=1795111700",
      "reviews": null
     }
    ],
@@ -13479,7 +13479,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 86051
+    "plays": 86124
    },
    "steam": [],
    "vtt": [],
@@ -13536,7 +13536,7 @@
    "rank": 239,
    "rating": 7.66,
    "weight": 3.92,
-   "usersrated": 18603,
+   "usersrated": 18604,
    "categories": [
     "Abstract"
    ],
@@ -13582,11 +13582,11 @@
     "players": [
      2
     ],
-    "avg_minutes": 33,
+    "avg_minutes": 32,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 94352
+    "plays": 94378
    },
    "steam": [],
    "vtt": [],
@@ -13600,7 +13600,7 @@
    "rank": 240,
    "rating": 7.42,
    "weight": 1.88,
-   "usersrated": 142432,
+   "usersrated": 142472,
    "categories": [
     "Family"
    ],
@@ -13648,7 +13648,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15928277
+    "plays": 15935088
    },
    "steam": [
     {
@@ -13810,7 +13810,7 @@
    "rank": 243,
    "rating": 7.62,
    "weight": 1.97,
-   "usersrated": 15356,
+   "usersrated": 15359,
    "categories": [
     "Family"
    ],
@@ -13873,7 +13873,7 @@
    "rank": 244,
    "rating": 7.42,
    "weight": 1.77,
-   "usersrated": 92249,
+   "usersrated": 92274,
    "categories": [
     "Family"
    ],
@@ -13917,7 +13917,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 11345763
+    "plays": 11351913
    },
    "steam": [
     {
@@ -14007,7 +14007,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 37698
+    "plays": 37705
    },
    "steam": [],
    "vtt": [],
@@ -14061,7 +14061,7 @@
    "rank": 247,
    "rating": 7.56,
    "weight": 2.08,
-   "usersrated": 19961,
+   "usersrated": 19966,
    "categories": [
     "Family",
     "Abstract"
@@ -14104,7 +14104,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 593293
+    "plays": 593697
    },
    "steam": [],
    "vtt": [],
@@ -14157,10 +14157,10 @@
    "bgg_id": 434654,
    "name": "Toy Battle",
    "year": 2025,
-   "rank": 249,
+   "rank": 248,
    "rating": 7.84,
    "weight": 1.5,
-   "usersrated": 8769,
+   "usersrated": 8789,
    "categories": [
     "Family"
    ],
@@ -14196,7 +14196,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1520748
+    "plays": 1523655
    },
    "steam": [],
    "vtt": [],
@@ -14210,7 +14210,7 @@
    "rank": 250,
    "rating": 7.49,
    "weight": 2.21,
-   "usersrated": 24313,
+   "usersrated": 24317,
    "categories": [
     "Thematic",
     "Party"
@@ -14293,7 +14293,7 @@
    "rank": 252,
    "rating": 7.51,
    "weight": 1.5,
-   "usersrated": 25240,
+   "usersrated": 25263,
    "categories": [
     "Family"
    ],
@@ -14334,7 +14334,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 4529116
+    "plays": 4532552
    },
    "steam": [],
    "vtt": [],
@@ -14386,9 +14386,9 @@
    "name": "Faraway",
    "year": 2023,
    "rank": 254,
-   "rating": 7.54,
+   "rating": 7.53,
    "weight": 1.95,
-   "usersrated": 20357,
+   "usersrated": 20376,
    "categories": [
     "Family"
    ],
@@ -14437,7 +14437,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 3439592
+    "plays": 3444236
    },
    "steam": [
     {
@@ -14447,9 +14447,9 @@
      "url": "https://store.steampowered.com/app/2831000/",
      "confidence": 1.0,
      "is_free": false,
-     "price": 11.96,
+     "price": 14.95,
      "price_initial": 14.95,
-     "discount": 20,
+     "discount": 0,
      "currency": "AUD",
      "mp": [],
      "developers": [
@@ -14515,7 +14515,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 332311
+    "plays": 332483
    },
    "steam": [
     {
@@ -14619,48 +14619,6 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 150376,
-   "name": "Dead of Winter: A Crossroads Game",
-   "year": 2014,
-   "rank": 257,
-   "rating": 7.43,
-   "weight": 3.01,
-   "usersrated": 49263,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 769,
-   "rec_players": [
-    3,
-    4,
-    5
-   ],
-   "blurb": "As you struggle to keep survivors alive, how will you value group vs. personal needs?",
-   "digital": [
-    "VASSAL"
-   ],
-   "image": "https://cf.geekdo-images.com/g4mV4BH-ZrhMUVgil-yV1A__square200/img/K7PkQIrnyEdi65QU6kFJnNqwWPQ=/200x200/filters:strip_icc()/pic3016500.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 120,
-   "minplayers": 2,
-   "minplaytime": 60,
-   "themes": [
-    "Bluffing",
-    "Deduction",
-    "Horror",
-    "Science Fiction",
-    "Zombies"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 285967,
    "name": "Ankh: Gods of Egypt",
    "year": 2021,
@@ -14703,35 +14661,40 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 14105,
-   "name": "Commands & Colors: Ancients",
-   "year": 2006,
-   "rank": 259,
-   "rating": 7.77,
-   "weight": 2.69,
-   "usersrated": 9167,
+   "bgg_id": 150376,
+   "name": "Dead of Winter: A Crossroads Game",
+   "year": 2014,
+   "rank": 258,
+   "rating": 7.43,
+   "weight": 3.01,
+   "usersrated": 49265,
    "categories": [
-    "Wargames"
+    "Thematic"
    ],
    "best_players": [
-    2
+    4
    ],
-   "player_votes": 172,
+   "player_votes": 769,
    "rec_players": [
-    2
+    3,
+    4,
+    5
    ],
-   "blurb": "Accessible tactical wargame from the dawn of history to the opening of the Dark Age.",
+   "blurb": "As you struggle to keep survivors alive, how will you value group vs. personal needs?",
    "digital": [
     "VASSAL"
    ],
-   "image": "https://cf.geekdo-images.com/qcASDsV-0eNBVipfPhxs7A__square200/img/x_HbERCiexfG0sB_hDw1P2-qMBs=/200x200/filters:strip_icc()/pic132447.jpg",
-   "maxplayers": 2,
-   "maxplaytime": 60,
+   "image": "https://cf.geekdo-images.com/g4mV4BH-ZrhMUVgil-yV1A__square200/img/K7PkQIrnyEdi65QU6kFJnNqwWPQ=/200x200/filters:strip_icc()/pic3016500.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 120,
    "minplayers": 2,
    "minplaytime": 60,
    "themes": [
-    "Ancient",
-    "Wargame"
+    "Bluffing",
+    "Deduction",
+    "Horror",
+    "Science Fiction",
+    "Zombies"
    ],
    "bga": null,
    "steam": [],
@@ -14792,8 +14755,45 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 320699
+    "plays": 320754
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 14105,
+   "name": "Commands & Colors: Ancients",
+   "year": 2006,
+   "rank": 260,
+   "rating": 7.77,
+   "weight": 2.69,
+   "usersrated": 9169,
+   "categories": [
+    "Wargames"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 172,
+   "rec_players": [
+    2
+   ],
+   "blurb": "Accessible tactical wargame from the dawn of history to the opening of the Dark Age.",
+   "digital": [
+    "VASSAL"
+   ],
+   "image": "https://cf.geekdo-images.com/qcASDsV-0eNBVipfPhxs7A__square200/img/x_HbERCiexfG0sB_hDw1P2-qMBs=/200x200/filters:strip_icc()/pic132447.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 60,
+   "minplayers": 2,
+   "minplaytime": 60,
+   "themes": [
+    "Ancient",
+    "Wargame"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -14806,7 +14806,7 @@
    "rank": 261,
    "rating": 7.62,
    "weight": 1.05,
-   "usersrated": 12648,
+   "usersrated": 12654,
    "categories": [
     "Family",
     "Party"
@@ -14908,7 +14908,7 @@
    "rank": 263,
    "rating": 7.38,
    "weight": 1.82,
-   "usersrated": 100061,
+   "usersrated": 100083,
    "categories": [
     "Family"
    ],
@@ -14953,7 +14953,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 18344344
+    "plays": 18355015
    },
    "steam": [
     {
@@ -14995,7 +14995,7 @@
    "rank": 264,
    "rating": 7.7,
    "weight": 2.62,
-   "usersrated": 10196,
+   "usersrated": 10199,
    "categories": [
     "Abstract"
    ],
@@ -15034,7 +15034,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 35990
+    "plays": 36009
    },
    "steam": [],
    "vtt": [],
@@ -15047,8 +15047,8 @@
    "year": 2025,
    "rank": 265,
    "rating": 7.72,
-   "weight": 1.18,
-   "usersrated": 11211,
+   "weight": 1.17,
+   "usersrated": 11286,
    "categories": [
     "Family",
     "Party"
@@ -15131,7 +15131,7 @@
    "rank": 267,
    "rating": 8.07,
    "weight": 3.87,
-   "usersrated": 5764,
+   "usersrated": 5765,
    "categories": [
     "Wargames"
    ],
@@ -15155,6 +15155,50 @@
    "themes": [
     "Wargame",
     "World War I"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 260605,
+   "name": "Camel Up (Second Edition)",
+   "year": 2018,
+   "rank": 268,
+   "rating": 7.53,
+   "weight": 1.51,
+   "usersrated": 18841,
+   "categories": [
+    "Family",
+    "Party"
+   ],
+   "best_players": [
+    5,
+    6
+   ],
+   "player_votes": 254,
+   "rec_players": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "blurb": "Place your bets and bend the odds in this crazy camel-stacking race!",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/qnR2V3YsW963_JaVznBjsw__square200/img/ZVprjLeqEVe3XCSV1qItMnvp1Ls=/200x200/filters:strip_icc()/pic8584959.jpg",
+   "maxplayers": 8,
+   "maxplaytime": 45,
+   "minplayers": 3,
+   "minplaytime": 30,
+   "themes": [
+    "Animals",
+    "Arabian",
+    "Dice",
+    "Racing"
    ],
    "bga": null,
    "steam": [],
@@ -15203,50 +15247,6 @@
     "Political",
     "Print & Play",
     "Spies / Secret Agents"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 260605,
-   "name": "Camel Up (Second Edition)",
-   "year": 2018,
-   "rank": 269,
-   "rating": 7.53,
-   "weight": 1.51,
-   "usersrated": 18830,
-   "categories": [
-    "Family",
-    "Party"
-   ],
-   "best_players": [
-    5,
-    6
-   ],
-   "player_votes": 254,
-   "rec_players": [
-    3,
-    4,
-    5,
-    6,
-    7,
-    8
-   ],
-   "blurb": "Place your bets and bend the odds in this crazy camel-stacking race!",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/qnR2V3YsW963_JaVznBjsw__square200/img/ZVprjLeqEVe3XCSV1qItMnvp1Ls=/200x200/filters:strip_icc()/pic8584959.jpg",
-   "maxplayers": 8,
-   "maxplaytime": 45,
-   "minplayers": 3,
-   "minplaytime": 30,
-   "themes": [
-    "Animals",
-    "Arabian",
-    "Dice",
-    "Racing"
    ],
    "bga": null,
    "steam": [],
@@ -15397,7 +15397,7 @@
    "rank": 273,
    "rating": 7.5,
    "weight": 1.82,
-   "usersrated": 18966,
+   "usersrated": 18969,
    "categories": [
     "Family"
    ],
@@ -15515,11 +15515,11 @@
      3,
      4
     ],
-    "avg_minutes": 46,
+    "avg_minutes": 45,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 69099
+    "plays": 69125
    },
    "steam": [],
    "vtt": [],
@@ -15580,7 +15580,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 209712
+    "plays": 209854
    },
    "steam": [],
    "vtt": [],
@@ -15635,7 +15635,7 @@
    "rank": 278,
    "rating": 7.47,
    "weight": 2.2,
-   "usersrated": 24293,
+   "usersrated": 24297,
    "categories": [
     "Family",
     "Abstract"
@@ -15709,7 +15709,7 @@
    "rank": 279,
    "rating": 7.4,
    "weight": 1.36,
-   "usersrated": 27403,
+   "usersrated": 27409,
    "categories": [
     "Family",
     "Party"
@@ -15985,7 +15985,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 233527
+    "plays": 233576
    },
    "steam": [],
    "vtt": [],
@@ -15999,7 +15999,7 @@
    "rank": 285,
    "rating": 7.53,
    "weight": 1.73,
-   "usersrated": 16722,
+   "usersrated": 16727,
    "categories": [
     "Family"
    ],
@@ -16049,7 +16049,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 452460
+    "plays": 453354
    },
    "steam": [],
    "vtt": [],
@@ -16178,7 +16178,7 @@
    "rank": 290,
    "rating": 7.52,
    "weight": 2.44,
-   "usersrated": 23519,
+   "usersrated": 23521,
    "categories": [
     "Thematic"
    ],
@@ -16297,7 +16297,7 @@
    "rank": 292,
    "rating": 7.45,
    "weight": 1.67,
-   "usersrated": 21943,
+   "usersrated": 21945,
    "categories": [
     "Family"
    ],
@@ -16334,7 +16334,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 224265
+    "plays": 224366
    },
    "steam": [],
    "vtt": [],
@@ -16435,7 +16435,7 @@
    "rank": 295,
    "rating": 7.59,
    "weight": 2.85,
-   "usersrated": 13357,
+   "usersrated": 13359,
    "categories": [
     "Thematic"
    ],
@@ -16472,7 +16472,7 @@
    "rank": 296,
    "rating": 7.37,
    "weight": 1.33,
-   "usersrated": 41235,
+   "usersrated": 41238,
    "categories": [
     "Family"
    ],
@@ -16522,7 +16522,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 392519
+    "plays": 392647
    },
    "steam": [
     {
@@ -16564,7 +16564,7 @@
    "rank": 297,
    "rating": 7.47,
    "weight": 1.71,
-   "usersrated": 20189,
+   "usersrated": 20192,
    "categories": [
     "Family"
    ],
@@ -16601,7 +16601,7 @@
    "rank": 298,
    "rating": 7.6,
    "weight": 2.47,
-   "usersrated": 17600,
+   "usersrated": 17601,
    "categories": [
     "Thematic"
    ],
@@ -17101,7 +17101,7 @@
    "rank": 307,
    "rating": 7.43,
    "weight": 1.11,
-   "usersrated": 20475,
+   "usersrated": 20479,
    "categories": [
     "Family"
    ],
@@ -17224,7 +17224,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 616268
+    "plays": 616555
    },
    "steam": [],
    "vtt": [
@@ -17477,7 +17477,7 @@
    "rank": 315,
    "rating": 7.5,
    "weight": 1.13,
-   "usersrated": 17169,
+   "usersrated": 17177,
    "categories": [
     "Family",
     "Party"
@@ -17524,7 +17524,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 938511
+    "plays": 938778
    },
    "steam": [
     {
@@ -17671,7 +17671,7 @@
    "rank": 318,
    "rating": 7.33,
    "weight": 1.72,
-   "usersrated": 42872,
+   "usersrated": 42881,
    "categories": [
     "Abstract"
    ],
@@ -17715,7 +17715,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 840393
+    "plays": 840579
    },
    "steam": [],
    "vtt": [],
@@ -17968,7 +17968,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 61130
+    "plays": 61173
    },
    "steam": [],
    "vtt": [],
@@ -18029,7 +18029,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 500535
+    "plays": 500702
    },
    "steam": [],
    "vtt": [],
@@ -18040,10 +18040,10 @@
    "bgg_id": 31481,
    "name": "Galaxy Trucker",
    "year": 2007,
-   "rank": 325,
+   "rank": 324,
    "rating": 7.32,
    "weight": 2.33,
-   "usersrated": 36052,
+   "usersrated": 36053,
    "categories": [
     "Thematic"
    ],
@@ -18123,11 +18123,11 @@
      4,
      5
     ],
-    "avg_minutes": 88,
+    "avg_minutes": 85,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5266
+    "plays": 5269
    },
    "steam": [],
    "vtt": [],
@@ -18193,7 +18193,7 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 849596
+    "plays": 849933
    },
    "steam": [],
    "vtt": [],
@@ -18207,7 +18207,7 @@
    "rank": 328,
    "rating": 7.58,
    "weight": 1.64,
-   "usersrated": 12161,
+   "usersrated": 12165,
    "categories": [
     "Family"
    ],
@@ -18357,7 +18357,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 5754
+    "plays": 5761
    },
    "steam": [],
    "vtt": [],
@@ -18414,11 +18414,11 @@
      4,
      5
     ],
-    "avg_minutes": 37,
+    "avg_minutes": 36,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 13526
+    "plays": 13536
    },
    "steam": [],
    "vtt": [],
@@ -18432,7 +18432,7 @@
    "rank": 332,
    "rating": 7.87,
    "weight": 2.88,
-   "usersrated": 9455,
+   "usersrated": 9456,
    "categories": [
     "Thematic"
    ],
@@ -18474,7 +18474,7 @@
    "rank": 333,
    "rating": 8.02,
    "weight": 2.16,
-   "usersrated": 5625,
+   "usersrated": 5626,
    "categories": [
     "Family"
    ],
@@ -18640,7 +18640,7 @@
    "rank": 336,
    "rating": 7.29,
    "weight": 1.24,
-   "usersrated": 54104,
+   "usersrated": 54112,
    "categories": [
     "Family"
    ],
@@ -18687,7 +18687,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 7232228
+    "plays": 7234171
    },
    "steam": [
     {
@@ -18774,7 +18774,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 327067
+    "plays": 327345
    },
    "steam": [],
    "vtt": [],
@@ -18825,7 +18825,7 @@
    "rank": 339,
    "rating": 7.31,
    "weight": 2.31,
-   "usersrated": 40984,
+   "usersrated": 40993,
    "categories": [
     "Abstract"
    ],
@@ -18865,7 +18865,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1069171
+    "plays": 1069276
    },
    "steam": [],
    "vtt": [],
@@ -19040,11 +19040,11 @@
      4,
      5
     ],
-    "avg_minutes": 44,
+    "avg_minutes": 43,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 77410
+    "plays": 77422
    },
    "steam": [],
    "vtt": [],
@@ -19171,7 +19171,7 @@
    "rank": 347,
    "rating": 7.88,
    "weight": 2.5,
-   "usersrated": 6781,
+   "usersrated": 6785,
    "categories": [
     "Thematic"
    ],
@@ -19286,7 +19286,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 22941
+    "plays": 23041
    },
    "steam": [],
    "vtt": [],
@@ -19371,96 +19371,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 50,
-   "name": "Lost Cities",
-   "year": 1999,
-   "rank": 351,
-   "rating": 7.26,
-   "weight": 1.47,
-   "usersrated": 51832,
-   "categories": [
-    "Family"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 484,
-   "rec_players": [
-    2
-   ],
-   "blurb": "Set out on expeditions, but will your findings outweigh the cost of each adventure?",
-   "digital": [
-    "Board Game Arena",
-    "Steam",
-    "Triqqy"
-   ],
-   "image": "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__square200/img/WkHgWqO6fAcurYI8HO1QxlqLp1A=/200x200/filters:strip_icc()/pic4597095.jpg",
-   "maxplayers": 2,
-   "maxplaytime": 30,
-   "minplayers": 2,
-   "minplaytime": 30,
-   "themes": [
-    "Card Game",
-    "Exploration",
-    "Number"
-   ],
-   "bga": {
-    "slug": "lostcities",
-    "name": "Lost Cities",
-    "url": "https://boardgamearena.com/gamepanel?game=lostcities",
-    "premium": true,
-    "status": "public",
-    "players": [
-     2
-    ],
-    "avg_minutes": 11,
-    "realtime": true,
-    "turnbased": true,
-    "tutorial": true,
-    "plays": 5394299
-   },
-   "steam": [
-    {
-     "appid": 520680,
-     "name": "Lost Cities",
-     "dlc": false,
-     "url": "https://store.steampowered.com/app/520680/",
-     "confidence": 1.0,
-     "is_free": false,
-     "price": null,
-     "price_initial": null,
-     "discount": 0,
-     "currency": "AUD",
-     "mp": [
-      "async",
-      "local_pvp",
-      "online_pvp",
-      "remote_play"
-     ],
-     "developers": [
-      "BlueLine Games"
-     ],
-     "publishers": [
-      "BlueLine Games"
-     ],
-     "release": "19 May, 2018",
-     "coming_soon": false,
-     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/520680/header.jpg?t=1526737415",
-     "reviews": null
-    }
-   ],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 411567,
    "name": "The Gang",
    "year": 2024,
-   "rank": 352,
+   "rank": 351,
    "rating": 7.54,
    "weight": 1.58,
-   "usersrated": 11218,
+   "usersrated": 11229,
    "categories": [
     "Family"
    ],
@@ -19502,9 +19419,92 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 210053
+    "plays": 210531
    },
    "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 50,
+   "name": "Lost Cities",
+   "year": 1999,
+   "rank": 352,
+   "rating": 7.26,
+   "weight": 1.47,
+   "usersrated": 51836,
+   "categories": [
+    "Family"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 484,
+   "rec_players": [
+    2
+   ],
+   "blurb": "Set out on expeditions, but will your findings outweigh the cost of each adventure?",
+   "digital": [
+    "Board Game Arena",
+    "Steam",
+    "Triqqy"
+   ],
+   "image": "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__square200/img/WkHgWqO6fAcurYI8HO1QxlqLp1A=/200x200/filters:strip_icc()/pic4597095.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 30,
+   "minplayers": 2,
+   "minplaytime": 30,
+   "themes": [
+    "Card Game",
+    "Exploration",
+    "Number"
+   ],
+   "bga": {
+    "slug": "lostcities",
+    "name": "Lost Cities",
+    "url": "https://boardgamearena.com/gamepanel?game=lostcities",
+    "premium": true,
+    "status": "public",
+    "players": [
+     2
+    ],
+    "avg_minutes": 11,
+    "realtime": true,
+    "turnbased": true,
+    "tutorial": true,
+    "plays": 5395766
+   },
+   "steam": [
+    {
+     "appid": 520680,
+     "name": "Lost Cities",
+     "dlc": false,
+     "url": "https://store.steampowered.com/app/520680/",
+     "confidence": 1.0,
+     "is_free": false,
+     "price": null,
+     "price_initial": null,
+     "discount": 0,
+     "currency": "AUD",
+     "mp": [
+      "async",
+      "local_pvp",
+      "online_pvp",
+      "remote_play"
+     ],
+     "developers": [
+      "BlueLine Games"
+     ],
+     "publishers": [
+      "BlueLine Games"
+     ],
+     "release": "19 May, 2018",
+     "coming_soon": false,
+     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/520680/header.jpg?t=1526737415",
+     "reviews": null
+    }
+   ],
    "vtt": [],
    "note": null,
    "steam_delisted": false
@@ -19628,7 +19628,7 @@
    "rank": 355,
    "rating": 7.59,
    "weight": 2.74,
-   "usersrated": 11614,
+   "usersrated": 11615,
    "categories": [
     "Thematic"
    ],
@@ -19708,7 +19708,7 @@
    "rank": 357,
    "rating": 7.68,
    "weight": 3.37,
-   "usersrated": 11347,
+   "usersrated": 11348,
    "categories": [
     "Thematic"
    ],
@@ -19748,7 +19748,7 @@
    "rank": 358,
    "rating": 7.27,
    "weight": 1.25,
-   "usersrated": 34990,
+   "usersrated": 34996,
    "categories": [
     "Family"
    ],
@@ -19791,7 +19791,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 879428
+    "plays": 879613
    },
    "steam": [],
    "vtt": [],
@@ -19893,7 +19893,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 298199
+    "plays": 298428
    },
    "steam": [],
    "vtt": [],
@@ -19952,7 +19952,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 145339
+    "plays": 145476
    },
    "steam": [],
    "vtt": [],
@@ -20128,7 +20128,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 10531580
+    "plays": 10532836
    },
    "steam": [],
    "vtt": [],
@@ -20139,7 +20139,7 @@
    "bgg_id": 239188,
    "name": "Chronicles of Crime",
    "year": 2018,
-   "rank": 366,
+   "rank": 365,
    "rating": 7.52,
    "weight": 2.06,
    "usersrated": 25297,
@@ -20223,7 +20223,7 @@
    "rank": 368,
    "rating": 7.33,
    "weight": 1.66,
-   "usersrated": 25438,
+   "usersrated": 25446,
    "categories": [
     "Abstract"
    ],
@@ -20260,7 +20260,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 134147
+    "plays": 134186
    },
    "steam": [],
    "vtt": [],
@@ -20314,50 +20314,12 @@
      3,
      4
     ],
-    "avg_minutes": 30,
+    "avg_minutes": 31,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 78811
+    "plays": 78851
    },
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 146508,
-   "name": "T.I.M.E Stories",
-   "year": 2015,
-   "rank": 370,
-   "rating": 7.33,
-   "weight": 2.58,
-   "usersrated": 28953,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 396,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Protect the world from paradoxes with your team of time-traveling agents.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/XmwCsjQ3C1Ul53ZN2o8Q-Q__square200/img/C4n5V1Oth_9wqPr2h1775bYE6gY=/200x200/filters:strip_icc()/pic2617634.png",
-   "maxplayers": 4,
-   "maxplaytime": 90,
-   "minplayers": 2,
-   "minplaytime": 90,
-   "themes": [
-    "Adventure",
-    "Puzzle",
-    "Science Fiction"
-   ],
-   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -20398,6 +20360,44 @@
    "themes": [
     "Economic",
     "Territory Building"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 146508,
+   "name": "T.I.M.E Stories",
+   "year": 2015,
+   "rank": 371,
+   "rating": 7.33,
+   "weight": 2.58,
+   "usersrated": 28957,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 396,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Protect the world from paradoxes with your team of time-traveling agents.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/XmwCsjQ3C1Ul53ZN2o8Q-Q__square200/img/C4n5V1Oth_9wqPr2h1775bYE6gY=/200x200/filters:strip_icc()/pic2617634.png",
+   "maxplayers": 4,
+   "maxplaytime": 90,
+   "minplayers": 2,
+   "minplaytime": 90,
+   "themes": [
+    "Adventure",
+    "Puzzle",
+    "Science Fiction"
    ],
    "bga": null,
    "steam": [],
@@ -20562,7 +20562,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 83169
+    "plays": 83244
    },
    "steam": [],
    "vtt": [],
@@ -20685,7 +20685,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2139171
+    "plays": 2139922
    },
    "steam": [],
    "vtt": [],
@@ -20739,11 +20739,11 @@
      4,
      5
     ],
-    "avg_minutes": 68,
+    "avg_minutes": 70,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 5209
+    "plays": 5259
    },
    "steam": [],
    "vtt": [],
@@ -20795,7 +20795,7 @@
    "rank": 379,
    "rating": 7.5,
    "weight": 1.95,
-   "usersrated": 10915,
+   "usersrated": 10916,
    "categories": [
     "Family"
    ],
@@ -20841,7 +20841,7 @@
    "rank": 380,
    "rating": 7.58,
    "weight": 2.53,
-   "usersrated": 10859,
+   "usersrated": 10860,
    "categories": [
     "Thematic"
    ],
@@ -20966,7 +20966,7 @@
    "rank": 383,
    "rating": 7.71,
    "weight": 2.12,
-   "usersrated": 7242,
+   "usersrated": 7243,
    "categories": [
     "Thematic"
    ],
@@ -21009,7 +21009,7 @@
    "rank": 384,
    "rating": 7.42,
    "weight": 2.05,
-   "usersrated": 13540,
+   "usersrated": 13543,
    "categories": [
     "Family"
    ],
@@ -21051,7 +21051,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 75945
+    "plays": 75966
    },
    "steam": [],
    "vtt": [],
@@ -21146,7 +21146,7 @@
    "rank": 387,
    "rating": 7.77,
    "weight": 2.16,
-   "usersrated": 7084,
+   "usersrated": 7086,
    "categories": [
     "Thematic",
     "Party"
@@ -21318,7 +21318,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 20998
+    "plays": 21000
    },
    "steam": [],
    "vtt": [],
@@ -21332,7 +21332,7 @@
    "rank": 391,
    "rating": 7.44,
    "weight": 1.56,
-   "usersrated": 13800,
+   "usersrated": 13802,
    "categories": [
     "Family",
     "Abstract"
@@ -21414,7 +21414,7 @@
    "rank": 393,
    "rating": 7.3,
    "weight": 1.7,
-   "usersrated": 28211,
+   "usersrated": 28215,
    "categories": [
     "Family"
    ],
@@ -21497,7 +21497,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15763
+    "plays": 15771
    },
    "steam": [],
    "vtt": [],
@@ -21596,7 +21596,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 427573
+    "plays": 427830
    },
    "steam": [],
    "vtt": [],
@@ -21610,7 +21610,7 @@
    "rank": 397,
    "rating": 7.29,
    "weight": 1.8,
-   "usersrated": 28100,
+   "usersrated": 28103,
    "categories": [
     "Family"
    ],
@@ -21819,11 +21819,11 @@
      3,
      4
     ],
-    "avg_minutes": 37,
+    "avg_minutes": 38,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 17959
+    "plays": 17964
    },
    "steam": [],
    "vtt": [],
@@ -22194,7 +22194,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 19953
+    "plays": 19966
    },
    "steam": [],
    "vtt": [],
@@ -22445,11 +22445,11 @@
      4,
      5
     ],
-    "avg_minutes": 28,
+    "avg_minutes": 29,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 149072
+    "plays": 149173
    },
    "steam": [
     {
@@ -22494,7 +22494,7 @@
    "rank": 414,
    "rating": 7.39,
    "weight": 3.29,
-   "usersrated": 15735,
+   "usersrated": 15736,
    "categories": [
     "Thematic"
    ],
@@ -22609,11 +22609,11 @@
      3,
      4
     ],
-    "avg_minutes": 19,
+    "avg_minutes": 20,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 793720
+    "plays": 794441
    },
    "steam": [],
    "vtt": [],
@@ -22669,7 +22669,7 @@
    "rank": 418,
    "rating": 7.56,
    "weight": 2.26,
-   "usersrated": 8390,
+   "usersrated": 8391,
    "categories": [
     "Family"
    ],
@@ -22714,7 +22714,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 241150
+    "plays": 241350
    },
    "steam": [],
    "vtt": [],
@@ -22817,7 +22817,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 14669
+    "plays": 14780
    },
    "steam": [],
    "vtt": [],
@@ -22873,7 +22873,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2616646
+    "plays": 2618570
    },
    "steam": [],
    "vtt": [],
@@ -23016,51 +23016,11 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 15879
+    "plays": 16056
    },
    "steam": [],
    "vtt": [],
    "note": null,
-   "steam_delisted": false
-  },
-  {
-   "bgg_id": 285192,
-   "name": "Destinies",
-   "year": 2021,
-   "rank": 425,
-   "rating": 7.63,
-   "weight": 1.92,
-   "usersrated": 10320,
-   "categories": [
-    "Thematic"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 242,
-   "rec_players": [
-    1,
-    2,
-    3
-   ],
-   "blurb": "Characters explore a medieval-fantasy land as they race to fulfill their destiny.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/oaD1ZQ3yGj6lacLdtqgdnQ__square200/img/4AD1SXkHWSgMg_ArfUmau6Qw-UM=/200x200/filters:strip_icc()/pic5558118.png",
-   "maxplayers": 3,
-   "maxplaytime": 150,
-   "minplayers": 1,
-   "minplaytime": 90,
-   "themes": [
-    "Adventure",
-    "Exploration",
-    "Fantasy",
-    "Fighting",
-    "Medieval"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": "Steam has only a free companion app that runs alongside the physical game.",
    "steam_delisted": false
   },
   {
@@ -23100,6 +23060,46 @@
    "steam": [],
    "vtt": [],
    "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 285192,
+   "name": "Destinies",
+   "year": 2021,
+   "rank": 426,
+   "rating": 7.63,
+   "weight": 1.92,
+   "usersrated": 10322,
+   "categories": [
+    "Thematic"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 242,
+   "rec_players": [
+    1,
+    2,
+    3
+   ],
+   "blurb": "Characters explore a medieval-fantasy land as they race to fulfill their destiny.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/oaD1ZQ3yGj6lacLdtqgdnQ__square200/img/4AD1SXkHWSgMg_ArfUmau6Qw-UM=/200x200/filters:strip_icc()/pic5558118.png",
+   "maxplayers": 3,
+   "maxplaytime": 150,
+   "minplayers": 1,
+   "minplaytime": 90,
+   "themes": [
+    "Adventure",
+    "Exploration",
+    "Fantasy",
+    "Fighting",
+    "Medieval"
+   ],
+   "bga": null,
+   "steam": [],
+   "vtt": [],
+   "note": "Steam has only a free companion app that runs alongside the physical game.",
    "steam_delisted": false
   },
   {
@@ -23403,7 +23403,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 124889
+    "plays": 124941
    },
    "steam": [],
    "vtt": [],
@@ -23417,7 +23417,7 @@
    "rank": 433,
    "rating": 7.4,
    "weight": 2.31,
-   "usersrated": 12857,
+   "usersrated": 12858,
    "categories": [
     "Thematic",
     "Family"
@@ -23466,7 +23466,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 649246
+    "plays": 649567
    },
    "steam": [
     {
@@ -23505,7 +23505,7 @@
    "year": 2023,
    "rank": 434,
    "rating": 8.02,
-   "weight": 3.49,
+   "weight": 3.48,
    "usersrated": 4738,
    "categories": [
     "Thematic",
@@ -23739,7 +23739,7 @@
    "rank": 438,
    "rating": 7.27,
    "weight": 1.66,
-   "usersrated": 21322,
+   "usersrated": 21323,
    "categories": [
     "Family"
    ],
@@ -23780,7 +23780,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 267895
+    "plays": 268001
    },
    "steam": [],
    "vtt": [],
@@ -23794,7 +23794,7 @@
    "rank": 440,
    "rating": 7.35,
    "weight": 1.67,
-   "usersrated": 14721,
+   "usersrated": 14723,
    "categories": [
     "Family"
    ],
@@ -23830,7 +23830,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 473964
+    "plays": 474523
    },
    "steam": [],
    "vtt": [],
@@ -23966,11 +23966,11 @@
      4,
      5
     ],
-    "avg_minutes": 65,
+    "avg_minutes": 47,
     "realtime": true,
     "turnbased": true,
     "tutorial": false,
-    "plays": 993
+    "plays": 1000
    },
    "steam": [],
    "vtt": [],
@@ -24067,7 +24067,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 375010
+    "plays": 375616
    },
    "steam": [],
    "vtt": [],
@@ -24152,53 +24152,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 77130,
-   "name": "Sid Meier's Civilization: The Board Game",
-   "year": 2010,
-   "rank": 449,
-   "rating": 7.37,
-   "weight": 3.9,
-   "usersrated": 16435,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    4
-   ],
-   "player_votes": 375,
-   "rec_players": [
-    2,
-    3,
-    4
-   ],
-   "blurb": "Lead your civilization to greatness in military, arts, science or economy.",
-   "digital": [],
-   "image": "https://cf.geekdo-images.com/1WAfWHPi4Vvm1UCMtQaeaA__square200/img/LcIwnDKp8HG2XF83GbHOu6xdox4=/200x200/filters:strip_icc()/pic798666.jpg",
-   "maxplayers": 4,
-   "maxplaytime": 240,
-   "minplayers": 2,
-   "minplaytime": 120,
-   "themes": [
-    "City Building",
-    "Civilization",
-    "Exploration",
-    "Negotiation",
-    "Video Game Theme"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 357563,
    "name": "Akropolis",
    "year": 2022,
-   "rank": 449,
-   "rating": 7.44,
+   "rank": 448,
+   "rating": 7.45,
    "weight": 1.82,
-   "usersrated": 11030,
+   "usersrated": 11034,
    "categories": [
     "Family"
    ],
@@ -24242,8 +24202,48 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 710452
+    "plays": 710873
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 77130,
+   "name": "Sid Meier's Civilization: The Board Game",
+   "year": 2010,
+   "rank": 449,
+   "rating": 7.37,
+   "weight": 3.9,
+   "usersrated": 16435,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    4
+   ],
+   "player_votes": 375,
+   "rec_players": [
+    2,
+    3,
+    4
+   ],
+   "blurb": "Lead your civilization to greatness in military, arts, science or economy.",
+   "digital": [],
+   "image": "https://cf.geekdo-images.com/1WAfWHPi4Vvm1UCMtQaeaA__square200/img/LcIwnDKp8HG2XF83GbHOu6xdox4=/200x200/filters:strip_icc()/pic798666.jpg",
+   "maxplayers": 4,
+   "maxplaytime": 240,
+   "minplayers": 2,
+   "minplaytime": 120,
+   "themes": [
+    "City Building",
+    "Civilization",
+    "Exploration",
+    "Negotiation",
+    "Video Game Theme"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -24303,7 +24303,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 30796
+    "plays": 30814
    },
    "steam": [],
    "vtt": [],
@@ -24359,7 +24359,7 @@
    "rank": 452,
    "rating": 7.24,
    "weight": 2.11,
-   "usersrated": 24349,
+   "usersrated": 24351,
    "categories": [
     "Family"
    ],
@@ -24401,7 +24401,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 26123
+    "plays": 26138
    },
    "steam": [],
    "vtt": [],
@@ -24415,7 +24415,7 @@
    "rank": 453,
    "rating": 7.19,
    "weight": 1.97,
-   "usersrated": 48689,
+   "usersrated": 48693,
    "categories": [
     "Family"
    ],
@@ -24461,7 +24461,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 2777746
+    "plays": 2778050
    },
    "steam": [],
    "vtt": [],
@@ -24519,7 +24519,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 215432
+    "plays": 215476
    },
    "steam": [],
    "vtt": [],
@@ -24843,11 +24843,11 @@
     "players": [
      2
     ],
-    "avg_minutes": 71,
+    "avg_minutes": 69,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 18044
+    "plays": 18056
    },
    "steam": [],
    "vtt": [],
@@ -25027,7 +25027,7 @@
    "rank": 466,
    "rating": 7.4,
    "weight": 2.35,
-   "usersrated": 11896,
+   "usersrated": 11897,
    "categories": [
     "Thematic"
    ],
@@ -25109,7 +25109,7 @@
    "rank": 468,
    "rating": 7.25,
    "weight": 3.64,
-   "usersrated": 41289,
+   "usersrated": 41299,
    "categories": [
     "Abstract"
    ],
@@ -25162,7 +25162,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 1449285
+    "plays": 1449723
    },
    "steam": [],
    "vtt": [],
@@ -25176,7 +25176,7 @@
    "rank": 469,
    "rating": 7.19,
    "weight": 1.89,
-   "usersrated": 50150,
+   "usersrated": 50157,
    "categories": [
     "Thematic",
     "Family"
@@ -25290,7 +25290,7 @@
    "rank": 472,
    "rating": 7.33,
    "weight": 2.08,
-   "usersrated": 22483,
+   "usersrated": 22485,
    "categories": [
     "Thematic",
     "Family"
@@ -25588,10 +25588,10 @@
    "bgg_id": 456440,
    "name": "Cozy Stickerville",
    "year": 2026,
-   "rank": 477,
+   "rank": 476,
    "rating": 8.17,
    "weight": 1.21,
-   "usersrated": 3514,
+   "usersrated": 3519,
    "categories": [
     "Thematic",
     "Family"
@@ -25666,10 +25666,10 @@
    "bgg_id": 146439,
    "name": "BattleLore: Second Edition",
    "year": 2013,
-   "rank": 479,
+   "rank": 478,
    "rating": 7.67,
    "weight": 2.74,
-   "usersrated": 6635,
+   "usersrated": 6636,
    "categories": [
     "Wargames"
    ],
@@ -25861,7 +25861,7 @@
    "rank": 483,
    "rating": 8.04,
    "weight": 3.28,
-   "usersrated": 4046,
+   "usersrated": 4047,
    "categories": [
     "Thematic"
    ],
@@ -25899,7 +25899,7 @@
    "rank": 484,
    "rating": 7.47,
    "weight": 1.91,
-   "usersrated": 9025,
+   "usersrated": 9026,
    "categories": [
     "Family"
    ],
@@ -25939,7 +25939,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 319035
+    "plays": 319198
    },
    "steam": [],
    "vtt": [],
@@ -25986,53 +25986,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 206480,
-   "name": "Imperial Struggle",
-   "year": 2020,
-   "rank": 487,
-   "rating": 8.21,
-   "weight": 4.08,
-   "usersrated": 3504,
-   "categories": [
-    "Strategy",
-    "Wargames"
-   ],
-   "best_players": [
-    2
-   ],
-   "player_votes": 71,
-   "rec_players": [
-    2
-   ],
-   "blurb": "France and Britain clash globally over trade, influence and territory in the 1700s.",
-   "digital": [
-    "Rally the Troops",
-    "TableTop Simulator Mod (TTS)"
-   ],
-   "image": "https://cf.geekdo-images.com/FTE7dxVd4jQaIwwRcCQcRw__square200/img/IJj1cZpfIc0n6Ac6ylaPsod1uUM=/200x200/filters:strip_icc()/pic5291148.jpg",
-   "maxplayers": 2,
-   "maxplaytime": 240,
-   "minplayers": 2,
-   "minplaytime": 120,
-   "themes": [
-    "Age of Reason",
-    "American Revolutionary War",
-    "Wargame"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 352515,
    "name": "Trio",
    "year": 2021,
-   "rank": 487,
+   "rank": 486,
    "rating": 7.38,
    "weight": 1.07,
-   "usersrated": 12996,
+   "usersrated": 13002,
    "categories": [
     "Family"
    ],
@@ -26077,8 +26037,48 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 204018
+    "plays": 204153
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 206480,
+   "name": "Imperial Struggle",
+   "year": 2020,
+   "rank": 487,
+   "rating": 8.21,
+   "weight": 4.08,
+   "usersrated": 3504,
+   "categories": [
+    "Strategy",
+    "Wargames"
+   ],
+   "best_players": [
+    2
+   ],
+   "player_votes": 71,
+   "rec_players": [
+    2
+   ],
+   "blurb": "France and Britain clash globally over trade, influence and territory in the 1700s.",
+   "digital": [
+    "Rally the Troops",
+    "TableTop Simulator Mod (TTS)"
+   ],
+   "image": "https://cf.geekdo-images.com/FTE7dxVd4jQaIwwRcCQcRw__square200/img/IJj1cZpfIc0n6Ac6ylaPsod1uUM=/200x200/filters:strip_icc()/pic5291148.jpg",
+   "maxplayers": 2,
+   "maxplaytime": 240,
+   "minplayers": 2,
+   "minplaytime": 120,
+   "themes": [
+    "Age of Reason",
+    "American Revolutionary War",
+    "Wargame"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -26166,54 +26166,13 @@
    "steam_delisted": false
   },
   {
-   "bgg_id": 25554,
-   "name": "Notre Dame",
-   "year": 2007,
-   "rank": 490,
-   "rating": 7.31,
-   "weight": 2.74,
-   "usersrated": 13905,
-   "categories": [
-    "Strategy"
-   ],
-   "best_players": [
-    3,
-    4
-   ],
-   "player_votes": 271,
-   "rec_players": [
-    2,
-    3,
-    4,
-    5
-   ],
-   "blurb": "Improve the area around Notre Dame Cathedral to earn prestige for your family.",
-   "digital": [
-    "BrettspielWelt"
-   ],
-   "image": "https://cf.geekdo-images.com/d1g8Yh14XHf63H3VOC93AA__square200/img/BAmARxv9xJxDWgh-5I8WW3Kra3Y=/200x200/filters:strip_icc()/pic199316.jpg",
-   "maxplayers": 5,
-   "maxplaytime": 75,
-   "minplayers": 2,
-   "minplaytime": 45,
-   "themes": [
-    "Economic",
-    "Renaissance"
-   ],
-   "bga": null,
-   "steam": [],
-   "vtt": [],
-   "note": null,
-   "steam_delisted": false
-  },
-  {
    "bgg_id": 440540,
    "name": "Take Time",
    "year": 2025,
-   "rank": 491,
+   "rank": 489,
    "rating": 7.72,
    "weight": 1.78,
-   "usersrated": 5717,
+   "usersrated": 5729,
    "categories": [
     "Family"
    ],
@@ -26255,8 +26214,49 @@
     "realtime": true,
     "turnbased": false,
     "tutorial": true,
-    "plays": 14580
+    "plays": 14733
    },
+   "steam": [],
+   "vtt": [],
+   "note": null,
+   "steam_delisted": false
+  },
+  {
+   "bgg_id": 25554,
+   "name": "Notre Dame",
+   "year": 2007,
+   "rank": 490,
+   "rating": 7.31,
+   "weight": 2.74,
+   "usersrated": 13905,
+   "categories": [
+    "Strategy"
+   ],
+   "best_players": [
+    3,
+    4
+   ],
+   "player_votes": 271,
+   "rec_players": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "blurb": "Improve the area around Notre Dame Cathedral to earn prestige for your family.",
+   "digital": [
+    "BrettspielWelt"
+   ],
+   "image": "https://cf.geekdo-images.com/d1g8Yh14XHf63H3VOC93AA__square200/img/BAmARxv9xJxDWgh-5I8WW3Kra3Y=/200x200/filters:strip_icc()/pic199316.jpg",
+   "maxplayers": 5,
+   "maxplaytime": 75,
+   "minplayers": 2,
+   "minplaytime": 45,
+   "themes": [
+    "Economic",
+    "Renaissance"
+   ],
+   "bga": null,
    "steam": [],
    "vtt": [],
    "note": null,
@@ -26310,7 +26310,7 @@
    "rank": 493,
    "rating": 7.5,
    "weight": 1.23,
-   "usersrated": 8283,
+   "usersrated": 8296,
    "categories": [
     "Family"
    ],
@@ -26351,7 +26351,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 368508
+    "plays": 368934
    },
    "steam": [],
    "vtt": [],
@@ -26406,11 +26406,11 @@
      3,
      4
     ],
-    "avg_minutes": 35,
+    "avg_minutes": 33,
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 31969
+    "plays": 31992
    },
    "steam": [],
    "vtt": [],
@@ -26540,7 +26540,7 @@
    "rank": 498,
    "rating": 7.24,
    "weight": 3.59,
-   "usersrated": 40607,
+   "usersrated": 40608,
    "categories": [
     "Thematic"
    ],
@@ -26624,7 +26624,7 @@
    "rank": 500,
    "rating": 7.88,
    "weight": 2.37,
-   "usersrated": 5873,
+   "usersrated": 5877,
    "categories": [
     "Thematic"
    ],
@@ -26674,7 +26674,7 @@
     "realtime": true,
     "turnbased": true,
     "tutorial": true,
-    "plays": 197418
+    "plays": 197936
    },
    "steam": [],
    "vtt": [
